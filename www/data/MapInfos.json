@@ -1,0 +1,1450 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "プロローグ",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "オフィス（イベント用）",
+        "order": 144,
+        "parentId": 229,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "駅ホーム（イベント用）",
+        "order": 135,
+        "parentId": 33,
+        "scrollX": 720.8888888888889,
+        "scrollY": 461.77777777777777
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "α-1",
+        "order": 36,
+        "parentId": 5,
+        "scrollX": 720.8888888888889,
+        "scrollY": 545.7777777777778
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "α",
+        "order": 35,
+        "parentId": 11,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "ミリタリー",
+        "order": 145,
+        "parentId": 21,
+        "scrollX": 980.4444444444445,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "β-1",
+        "order": 40,
+        "parentId": 10,
+        "scrollX": 767.1111111111111,
+        "scrollY": 552.8888888888889
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "β-2(PASS-B解)",
+        "order": 41,
+        "parentId": 10,
+        "scrollX": 720.8888888888889,
+        "scrollY": 552.8888888888889
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "β-3　（物理キーB）",
+        "order": 42,
+        "parentId": 10,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "β",
+        "order": 39,
+        "parentId": 11,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "CocoStage",
+        "order": 33,
+        "parentId": 24,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "Γ-1",
+        "order": 44,
+        "parentId": 15,
+        "scrollX": 720.8888888888889,
+        "scrollY": 641.7777777777778
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "Γ-2　(スイッチA・PASS-A解)",
+        "order": 45,
+        "parentId": 15,
+        "scrollX": 720.8888888888889,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "Γ-3 (物理キーB解)",
+        "order": 46,
+        "parentId": 15,
+        "scrollX": 720.8888888888889,
+        "scrollY": 545.7777777777778
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "Γ",
+        "order": 43,
+        "parentId": 11,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "オープニング(イベント用)",
+        "order": 143,
+        "parentId": 229,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "共通マップ",
+        "order": 126,
+        "parentId": 0,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "休憩ポイント1",
+        "order": 127,
+        "parentId": 18,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "①　通路",
+        "order": 146,
+        "parentId": 6,
+        "scrollX": 813.3333333333334,
+        "scrollY": 1060
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "技術検証",
+        "order": 130,
+        "parentId": 0,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "TRP_Skitプラグイン",
+        "order": 131,
+        "parentId": 21,
+        "scrollX": 655.2,
+        "scrollY": 372.8
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "シャドウフェーズ検証",
+        "order": 132,
+        "parentId": 21,
+        "scrollX": 655.2,
+        "scrollY": 372.8
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "PLEフェーズ",
+        "order": 18,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 559.1999999999999
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "マップテスト",
+        "order": 133,
+        "parentId": 21,
+        "scrollX": 982.8,
+        "scrollY": 559.1999999999999
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "リゾート",
+        "order": 134,
+        "parentId": 33,
+        "scrollX": 720.8888888888889,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "ココBOSS",
+        "order": 47,
+        "parentId": 11,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "お邪魔部屋",
+        "order": 148,
+        "parentId": 6,
+        "scrollX": 861,
+        "scrollY": 458
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "改造ガード用マップ",
+        "order": 128,
+        "parentId": 18,
+        "scrollX": 983.1111111111111,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "2F B （開通後）旧訓覇組事務所",
+        "order": 96,
+        "parentId": 192,
+        "scrollX": 1648.888888888889,
+        "scrollY": 582.2222222222222
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "改札…？修正",
+        "order": 105,
+        "parentId": 181,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "①　ホーム＿初回イベント用",
+        "order": 13,
+        "parentId": 239,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "②　改札＿調整",
+        "order": 136,
+        "parentId": 33,
+        "scrollX": 719.1111111111111,
+        "scrollY": 454.6666666666667
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "休憩ポイント1",
+        "order": 14,
+        "parentId": 40,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "1F A　噴水広場",
+        "order": 91,
+        "parentId": 186,
+        "scrollX": 720.8888888888889,
+        "scrollY": 552
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "start(イベント)",
+        "order": 34,
+        "parentId": 11,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "α-2",
+        "order": 37,
+        "parentId": 5,
+        "scrollX": 720.8888888888889,
+        "scrollY": 466.6666666666667
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "α-3　(PASS-A)",
+        "order": 38,
+        "parentId": 5,
+        "scrollX": 720.8888888888889,
+        "scrollY": 497.77777777777777
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "②　ココの部屋　BOSS",
+        "order": 147,
+        "parentId": 6,
+        "scrollX": 726.2222222222222,
+        "scrollY": 409.3333333333333
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "E2",
+        "order": 109,
+        "parentId": 199,
+        "scrollX": 655.2,
+        "scrollY": 372.8
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "E3",
+        "order": 110,
+        "parentId": 199,
+        "scrollX": 817,
+        "scrollY": 460
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "B1",
+        "order": 111,
+        "parentId": 199,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "BOSS ゲームセンター",
+        "order": 101,
+        "parentId": 194,
+        "scrollX": 720.8888888888889,
+        "scrollY": 745.7777777777778
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "廃ビルの入口（夜）",
+        "order": 113,
+        "parentId": 207,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    },
+    {
+        "id": 53,
+        "expanded": false,
+        "name": "駅のホーム",
+        "order": 115,
+        "parentId": 207,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "中間ポイント",
+        "order": 129,
+        "parentId": 18,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    null,
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "忘却防止メモ",
+        "order": 138,
+        "parentId": 21,
+        "scrollX": 726.2222222222222,
+        "scrollY": 409.3333333333333
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "地下へ続く通路",
+        "order": 116,
+        "parentId": 207,
+        "scrollX": 720.8888888888889,
+        "scrollY": 833.7777777777778
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "？？？（コンデンサの通路）",
+        "order": 122,
+        "parentId": 86,
+        "scrollX": 720.8888888888889,
+        "scrollY": 1136.888888888889
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "コンデンサ収容室（影ボス）",
+        "order": 123,
+        "parentId": 86,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "商店街（夜）",
+        "order": 114,
+        "parentId": 207,
+        "scrollX": 720.8888888888889,
+        "scrollY": 420.44444444444446
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "影BOSS",
+        "order": 121,
+        "parentId": 207,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "病院１",
+        "order": 118,
+        "parentId": 218,
+        "scrollX": 720.8888888888889,
+        "scrollY": 840.8888888888889
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "研究所：稼働中",
+        "order": 137,
+        "parentId": 33,
+        "scrollX": 973.1999999999999,
+        "scrollY": 880.8
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "病院２",
+        "order": 119,
+        "parentId": 218,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "手術室（中ボス）",
+        "order": 120,
+        "parentId": 218,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "ED1_駅改札",
+        "order": 124,
+        "parentId": 207,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 92,
+        "expanded": true,
+        "name": "ED2＿駅ホーム",
+        "order": 125,
+        "parentId": 207,
+        "scrollX": 952,
+        "scrollY": 407.1111111111111
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "ミリタリー",
+        "order": 149,
+        "parentId": 6,
+        "scrollX": 3334.7999999999997,
+        "scrollY": 563.4
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "戦闘テスト",
+        "order": 139,
+        "parentId": 21,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "システム検証",
+        "order": 140,
+        "parentId": 120,
+        "scrollX": 893.4545454545455,
+        "scrollY": 508.3636363636364
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "ステージ移動検証",
+        "order": 141,
+        "parentId": 121,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "OP１＿駅ホーム",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 818.6666666666666,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "OP２＿駅改札",
+        "order": 4,
+        "parentId": 123,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "駅周辺",
+        "order": 5,
+        "parentId": 124,
+        "scrollX": 810.6666666666666,
+        "scrollY": 504.8888888888889
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "通勤路",
+        "order": 6,
+        "parentId": 125,
+        "scrollX": 810.6666666666666,
+        "scrollY": 1042.6666666666667
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "old_OP２＿自動イベント用",
+        "order": 15,
+        "parentId": 1,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "生徒指導室",
+        "order": 16,
+        "parentId": 127,
+        "scrollX": 1146,
+        "scrollY": 1007.25
+    },
+    {
+        "id": 129,
+        "expanded": true,
+        "name": "通勤路（夕）",
+        "order": 17,
+        "parentId": 128,
+        "scrollX": 1146,
+        "scrollY": 1007.25
+    },
+    {
+        "id": 130,
+        "expanded": true,
+        "name": "AriaStage",
+        "order": 19,
+        "parentId": 24,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 131,
+        "expanded": true,
+        "name": "A 大部屋",
+        "order": 20,
+        "parentId": 130,
+        "scrollX": 2067.5555555555557,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 132,
+        "expanded": true,
+        "name": "B　図書室",
+        "order": 21,
+        "parentId": 131,
+        "scrollX": 1048,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "C　女子トイレ",
+        "order": 22,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 134,
+        "expanded": false,
+        "name": "D　食堂",
+        "order": 23,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 497.77777777777777
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "E　渡り廊下",
+        "order": 24,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 494.22222222222223
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "F　教室 1ー１",
+        "order": 25,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 497.77777777777777
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "G　美術室",
+        "order": 26,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 497.77777777777777
+    },
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "H　大教室",
+        "order": 27,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 785.7777777777778
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "I　教室 １－２",
+        "order": 28,
+        "parentId": 130,
+        "scrollX": 720.8888888888889,
+        "scrollY": 497.77777777777777
+    },
+    {
+        "id": 140,
+        "expanded": true,
+        "name": "J　廊下",
+        "order": 29,
+        "parentId": 130,
+        "scrollX": 1096,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 141,
+        "expanded": false,
+        "name": "K　生徒の隠し部屋",
+        "order": 30,
+        "parentId": 130,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 142,
+        "expanded": false,
+        "name": "BOSS　少女の放課後",
+        "order": 31,
+        "parentId": 130,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "回想ルーム",
+        "order": 150,
+        "parentId": 0,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "MiyakoStage",
+        "order": 48,
+        "parentId": 24,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "通常時",
+        "order": 49,
+        "parentId": 144,
+        "scrollX": 980.4,
+        "scrollY": 552.6
+    },
+    {
+        "id": 146,
+        "expanded": false,
+        "name": "A1 物置部屋",
+        "order": 50,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 147,
+        "expanded": true,
+        "name": "A2　書斎",
+        "order": 51,
+        "parentId": 145,
+        "scrollX": 720.8888888888889,
+        "scrollY": 494.22222222222223
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "A3　応接室（鍵のありか）",
+        "order": 52,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 149,
+        "expanded": true,
+        "name": "A4　廊下",
+        "order": 53,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "A5　エントランス",
+        "order": 54,
+        "parentId": 145,
+        "scrollX": 1391.111111111111,
+        "scrollY": 1512.888888888889
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "A6　リビング（鍵のありか）",
+        "order": 55,
+        "parentId": 145,
+        "scrollX": 720.8888888888889,
+        "scrollY": 689.7777777777778
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "A7 浴室",
+        "order": 56,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 153,
+        "expanded": false,
+        "name": "A8　サンルーム",
+        "order": 57,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "A9　バルコニー",
+        "order": 58,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 155,
+        "expanded": false,
+        "name": "バルコニー　２",
+        "order": 59,
+        "parentId": 154,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "A10　２階通路",
+        "order": 60,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 157,
+        "expanded": false,
+        "name": "A11　子供部屋（鍵のありか）",
+        "order": 61,
+        "parentId": 145,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "不安定",
+        "order": 62,
+        "parentId": 144,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "１（Start）",
+        "order": 63,
+        "parentId": 158,
+        "scrollX": 817,
+        "scrollY": 460
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "２",
+        "order": 64,
+        "parentId": 159,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "３",
+        "order": 65,
+        "parentId": 159,
+        "scrollX": 720.8888888888889,
+        "scrollY": 465.77777777777777
+    },
+    {
+        "id": 162,
+        "expanded": false,
+        "name": "４",
+        "order": 66,
+        "parentId": 159,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 163,
+        "expanded": false,
+        "name": "５(BOSS部屋のカギ)",
+        "order": 67,
+        "parentId": 159,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 164,
+        "expanded": false,
+        "name": "６",
+        "order": 68,
+        "parentId": 159,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "７",
+        "order": 69,
+        "parentId": 159,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "８(BOSS部屋手前)",
+        "order": 70,
+        "parentId": 159,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 167,
+        "expanded": false,
+        "name": "９",
+        "order": 71,
+        "parentId": 159,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 168,
+        "expanded": false,
+        "name": "A1 物置部屋",
+        "order": 72,
+        "parentId": 158,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "A2　書斎",
+        "order": 73,
+        "parentId": 158,
+        "scrollX": 811,
+        "scrollY": 494
+    },
+    {
+        "id": 170,
+        "expanded": false,
+        "name": "A3　応接室",
+        "order": 74,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "A4　廊下",
+        "order": 75,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "A5　エントランス",
+        "order": 76,
+        "parentId": 158,
+        "scrollX": 811,
+        "scrollY": 510
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "A6　リビング",
+        "order": 77,
+        "parentId": 158,
+        "scrollX": 811,
+        "scrollY": 466
+    },
+    {
+        "id": 174,
+        "expanded": false,
+        "name": "A7 浴室",
+        "order": 78,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "A8　サンルーム",
+        "order": 79,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "A9　バルコニー　×",
+        "order": 80,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "バルコニー　２",
+        "order": 81,
+        "parentId": 176,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "A11　子供部屋",
+        "order": 82,
+        "parentId": 158,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "A10　２階通路",
+        "order": 83,
+        "parentId": 158,
+        "scrollX": 819,
+        "scrollY": 466
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "BOSS あなたと一緒に",
+        "order": 84,
+        "parentId": 158,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "TriplesStage",
+        "order": 85,
+        "parentId": 24,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "ホーム…？",
+        "order": 86,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "【没】改札…？",
+        "order": 87,
+        "parentId": 181,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    },
+    {
+        "id": 184,
+        "expanded": false,
+        "name": "商店街",
+        "order": 88,
+        "parentId": 181,
+        "scrollX": 808.8888888888889,
+        "scrollY": 452.44444444444446
+    },
+    {
+        "id": 185,
+        "expanded": false,
+        "name": "廃ビルの入口",
+        "order": 89,
+        "parentId": 181,
+        "scrollX": 720.8888888888889,
+        "scrollY": 452.44444444444446
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "1F",
+        "order": 90,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    {
+        "id": 188,
+        "expanded": true,
+        "name": "1F B　廃墟の繁華街",
+        "order": 92,
+        "parentId": 186,
+        "scrollX": 1635.5555555555557,
+        "scrollY": 1080.888888888889
+    },
+    null,
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "2F",
+        "order": 93,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 191,
+        "expanded": false,
+        "name": "2F A　事務所前　",
+        "order": 94,
+        "parentId": 190,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "2F B 旧訓覇組事務所",
+        "order": 95,
+        "parentId": 190,
+        "scrollX": 970.6666666666666,
+        "scrollY": 542.2222222222222
+    },
+    {
+        "id": 193,
+        "expanded": true,
+        "name": "内階段",
+        "order": 106,
+        "parentId": 181,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "3F",
+        "order": 97,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "3F A　喫煙所",
+        "order": 98,
+        "parentId": 194,
+        "scrollX": 720.8888888888889,
+        "scrollY": 545.7777777777778
+    },
+    {
+        "id": 196,
+        "expanded": true,
+        "name": "3F B　アーケード街",
+        "order": 99,
+        "parentId": 194,
+        "scrollX": 720.8888888888889,
+        "scrollY": 407.1111111111111
+    },
+    {
+        "id": 197,
+        "expanded": true,
+        "name": "地下",
+        "order": 102,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "B1 地下室",
+        "order": 103,
+        "parentId": 197,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 199,
+        "expanded": true,
+        "name": "エレベーターHL",
+        "order": 107,
+        "parentId": 181,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "E1",
+        "order": 108,
+        "parentId": 199,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    null,
+    null,
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "配電室",
+        "order": 100,
+        "parentId": 194,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "非常階段",
+        "order": 104,
+        "parentId": 181,
+        "scrollX": 720.8888888888889,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    {
+        "id": 207,
+        "expanded": true,
+        "name": "LunaStage",
+        "order": 112,
+        "parentId": 24,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "病院",
+        "order": 117,
+        "parentId": 207,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 227,
+        "expanded": false,
+        "name": "【没】アリアシャドウ部屋",
+        "order": 32,
+        "parentId": 130,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 228,
+        "expanded": false,
+        "name": "通勤路２",
+        "order": 7,
+        "parentId": 126,
+        "scrollX": 810.6666666666666,
+        "scrollY": 888.8888888888889
+    },
+    {
+        "id": 229,
+        "expanded": false,
+        "name": "旧データ",
+        "order": 142,
+        "parentId": 21,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "オープニングムービー用",
+        "order": 151,
+        "parentId": 0,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "ルナの視線",
+        "order": 3,
+        "parentId": 123,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 232,
+        "expanded": false,
+        "name": "通勤路３（行き止まり）",
+        "order": 8,
+        "parentId": 126,
+        "scrollX": 728,
+        "scrollY": 414.22222222222223
+    },
+    {
+        "id": 233,
+        "expanded": true,
+        "name": "通勤路４（行き止まり）",
+        "order": 9,
+        "parentId": 126,
+        "scrollX": 720.8888888888889,
+        "scrollY": 465.77777777777777
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "通勤路（夕闇）",
+        "order": 10,
+        "parentId": 126,
+        "scrollX": 810.6666666666666,
+        "scrollY": 879.1111111111111
+    },
+    null,
+    null,
+    null,
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "駅周辺",
+        "order": 11,
+        "parentId": 234,
+        "scrollX": 810.6666666666666,
+        "scrollY": 456.8888888888889
+    },
+    {
+        "id": 239,
+        "expanded": true,
+        "name": "OP２＿駅改札",
+        "order": 12,
+        "parentId": 238,
+        "scrollX": 720.8888888888889,
+        "scrollY": 449.77777777777777
+    }
+]
