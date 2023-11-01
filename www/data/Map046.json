@@ -4516,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hm...? It seems like something is stuck in the\ndoor..."
+                                "\\n<\\N[3]>Hm...? It seems like something is stuck in the\ndoor..."
                             ]
                         },
                         {
@@ -11031,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wow... What a messy room. It's like there's no\norganization at all..."
+                                "\\n<\\N[3]>Wow... What a messy room. It's like there's no\norganization at all..."
                             ]
                         },
                         {
@@ -11055,7 +11055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>Wow, it's so messy! It's rude to say that! This is\na perfect layout! Ordinary people wouldn't\nunderstand, though lol"
+                                "\\n<sine:ω>ω: Wow, it's so messy! It's rude to say that! This\nis a perfect layout! Ordinary people wouldn't\nunderstand, though lol"
                             ]
                         },
                         {
@@ -11086,7 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's also a time limit... If I have to\ninvestigate everything, it's going to be quite\nchallenging."
+                                "\\n<\\N[3]>There's also a time limit... If I have to\ninvestigate everything, it's going to be quite\nchallenging."
                             ]
                         },
                         {
@@ -11110,7 +11110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: My perfect plan can't possibly fail♪ After all,\nI am the strongest, sine:ω-sama☆"
+                                "\\n<sine:ω>ω: ω: My perfect plan can't possibly fail♪ After\nall, I am the strongest, sine:ω-sama☆"
                             ]
                         },
                         {
@@ -11141,7 +11141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]It's not easy to search with this number\nof items, you know?... Ah! Don't get close to the\n\\C[2]locker\\C[24]!"
+                                "\\n<sine:ω>ω: ω: \\C[24]It's not easy to search with this\nnumber of items, you know?... Ah! Don't get close\nto the \\C[2]locker\\C[24]!"
                             ]
                         },
                         {
@@ -11165,7 +11165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]I have important things and clothes, you\nknow! If you go snooping around my underwear or\nanything, I'll expose you as a genuine pervert on\nthe internet! LOL"
+                                "\\n<sine:ω>ω: ω: \\C[24]I have important things and clothes,\nyou know! If you go snooping around my underwear\nor anything, I'll expose you as a genuine pervert\non the internet! LOL"
                             ]
                         },
                         {
@@ -11203,7 +11203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no interest in children's underwear. If\nit comes to this, I'll investigate everything one\nby one! Don't underestimate the police's sense of\nsmell!"
+                                "\\n<\\N[3]>...I have no interest in children's underwear. If\nit comes to this, I'll investigate everything one\nby one! Don't underestimate the police's sense of\nsmell!"
                             ]
                         },
                         {
@@ -11234,7 +11234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(By the way, there's a spot where the drone is\nfreezing up for some reason... Let me investigate\nit a bit.)"
+                                "\\n<\\N[3]>(By the way, there's a spot where the drone is\nfreezing up for some reason... Let me investigate\nit a bit.)"
                             ]
                         },
                         {
@@ -12942,7 +12942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(If there's a hint to the locked door from\nearlier...)"
+                                "\\n<\\N[3]>(If there's a hint to the locked door from\nearlier...)"
                             ]
                         },
                         {
@@ -12966,7 +12966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(Since entering this room, that girl's reaction\nhas been suspicious. \\c[2]There must be something\n\\c[0]around here.)"
+                                "\\n<\\N[3]>(Since entering this room, that girl's reaction\nhas been suspicious. \\c[2]There must be something\n\\c[0]around here.)"
                             ]
                         },
                         {
@@ -12997,7 +12997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(...Come to think of it, she seemed reluctant to\n\\C[2]search the lockers\\C[0] earlier...? Let's\n\\C[2]investigate them once\\C[0].)"
+                                "\\n<\\N[3]>(...Come to think of it, she seemed reluctant to\n\\C[2]search the lockers\\C[0] earlier...? Let's\n\\C[2]investigate them once\\C[0].)"
                             ]
                         },
                         {
@@ -13552,7 +13552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The answer is irrational number, but that dumb\nguy will definitely not understand, so should I\nset it as a quiz?"
+                                "The answer is irrational number, but that dumb guy\nwill definitely not understand, so should I set it\nas a quiz?"
                             ]
                         },
                         {
@@ -13583,7 +13583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...."
+                                "\\n<\\N[3]>...."
                             ]
                         },
                         {
@@ -13697,7 +13697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The answer is irrational number, but that dumb\nguy will definitely not understand, so should I\nset it as a quiz?"
+                                "The answer is irrational number, but that dumb guy\nwill definitely not understand, so should I set it\nas a quiz?"
                             ]
                         },
                         {
@@ -13728,7 +13728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...."
+                                "\\n<\\N[3]>...."
                             ]
                         },
                         {

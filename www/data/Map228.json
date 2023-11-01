@@ -10144,7 +10144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Good work. I heard that a severe madman was\nfound in this park..."
+                                "\\n<\\N[3]>Good work. I heard that a severe madman was found\nin this park..."
                             ]
                         },
                         {
@@ -10175,7 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, Detective. It was really tough..."
+                                "\\n<\\N[3]>Ah, \\N[3]. It was really tough..."
                             ]
                         },
                         {
@@ -10199,7 +10199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Even though it's daytime, these madmen were...\nengaging in an orgy. Right in the middle of the\npark."
+                                "\\n<\\N[3]>Even though it's daytime, these madmen were...\nengaging in an orgy. Right in the middle of the\npark."
                             ]
                         },
                         {
@@ -10230,7 +10230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What? Orgy...?"
+                                "\\n<\\N[3]>...What? Orgy...?"
                             ]
                         },
                         {
@@ -10254,38 +10254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>And it was between men. I don't have any intention\nof judging people's sexual preferences, but it's a\ncrime in a public place, you know."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>We restrained and apprehended them with the help\nof a report when they were about to attack a\npassing woman..."
+                                "\\n<\\N[3]>And it was between men. I don't have any intention\nof judging people's sexual preferences, but it's a\ncrime in a public place, you know."
                             ]
                         },
                         {
@@ -10316,7 +10285,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Their strength was incredible... We even\nconsidered mobilizing the riot police at one\npoint. They were truly madmen."
+                                "\\n<\\N[3]>We restrained and apprehended them with the help\nof a report when they were about to attack a\npassing woman..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<\\N[3]>Their strength was incredible... We even\nconsidered mobilizing the riot police at one\npoint. They were truly madmen."
                             ]
                         },
                         {
@@ -10347,7 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It's hard to believe that it was simply a\nmatter of losing control over their sexual\nimpulses without any underlying reason."
+                                "\\n<\\N[3]>...It's hard to believe that it was simply a\nmatter of losing control over their sexual\nimpulses without any underlying reason."
                             ]
                         },
                         {
@@ -10378,7 +10378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Regardless of the cause, if we don't resolve this\nquickly, it seems that this town will soon become\na ghost town."
+                                "\\n<\\N[3]>Regardless of the cause, if we don't resolve this\nquickly, it seems that this town will soon become\na ghost town."
                             ]
                         },
                         {
@@ -10468,7 +10468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Even though it's daytime in this park, these\nlunatics were engaging in group sex... right in\nthe middle of the park, between men."
+                                "\\n<\\N[3]>Even though it's daytime in this park, these\nlunatics were engaging in group sex... right in\nthe middle of the park, between men."
                             ]
                         },
                         {
@@ -10499,7 +10499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Whatever the cause may be, if we don't resolve it\nquickly, this town will soon become a ghost town."
+                                "\\n<\\N[3]>Whatever the cause may be, if we don't resolve it\nquickly, this town will soon become a ghost town."
                             ]
                         },
                         {
@@ -11261,7 +11261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is this about an online game...?)"
+                                "\\n<\\N[3]>(Is this about an online game...?)"
                             ]
                         },
                         {
@@ -11537,7 +11537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is this about an online game...?)"
+                                "\\n<\\N[3]>(Is this about an online game...?)"
                             ]
                         },
                         {
@@ -12880,7 +12880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -12971,7 +12971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -13062,7 +13062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -13153,7 +13153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -13244,7 +13244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -13335,7 +13335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
+                                "\\n<\\N[3]>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
@@ -13426,7 +13426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
+                                "\\n<\\N[3]>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
@@ -13510,7 +13510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
+                                "\\n<\\N[3]>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
@@ -13594,7 +13594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
+                                "\\n<\\N[3]>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
@@ -13678,7 +13678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
+                                "\\n<\\N[3]>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
@@ -13762,7 +13762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
@@ -13846,7 +13846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
@@ -13930,7 +13930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
@@ -14014,7 +14014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
@@ -14098,7 +14098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
@@ -14182,7 +14182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
+                                "\\n<\\N[3]>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {

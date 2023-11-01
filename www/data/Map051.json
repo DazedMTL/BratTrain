@@ -4645,7 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this place... It's more like a casino than\na game center."
+                                "\\n<\\N[3]>What is this place... It's more like a casino than\na game center."
                             ]
                         },
                         {
@@ -4676,7 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Anyway, I need to talk to those girls."
+                                "\\n<\\N[3]>...Anyway, I need to talk to those girls."
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
+                                "\\n<\\N[3]>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
                             ]
                         },
                         {
@@ -5074,7 +5074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
+                                "\\n<\\N[3]>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
                             ]
                         },
                         {
@@ -5136,7 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
+                                "\\n<\\N[3]>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
                             ]
                         },
                         {
@@ -5284,7 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ugh! I have no choice but to take on all three\nof them...!"
+                                "\\n<\\N[3]>...Ugh! I have no choice but to take on all three\nof them...!"
                             ]
                         },
                         {
@@ -5452,7 +5452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Haa...! Haa...! If that's the case, I can't hold\nback anymore..."
+                                "\\n<\\N[3]>Haa...! Haa...! If that's the case, I can't hold\nback anymore..."
                             ]
                         },
                         {
@@ -6067,7 +6067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wait a minute! I won't allow that!"
+                                "\\n<\\N[3]>Wait a minute! I won't allow that!"
                             ]
                         },
                         {
@@ -6181,7 +6181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! Geez, what a dangerous girl..."
+                                "\\n<\\N[3]>Stop it! Geez, what a dangerous girl..."
                             ]
                         },
                         {
@@ -6205,7 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
+                                "\\n<\\N[3]>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
                             ]
                         },
                         {
@@ -6288,7 +6288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's no way you're here... What on earth do you\nthink I am to you..."
+                                "\\n<\\N[3]>There's no way you're here... What on earth do you\nthink I am to you..."
                             ]
                         },
                         {
@@ -6419,7 +6419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
+                                "\\n<\\N[3]>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
                             ]
                         },
                         {
@@ -6478,7 +6478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…姐さんはある日、オレらの前に突然現れた。まるで\\c[2]霞のように、唐突に\\c[0]\\n<???>Da."
+                                "イチル\\SE[default]\\n<???>...Onee-san suddenly appeared before us one day.\nIt was as if she appeared out of nowhere, just\nlike a mist, and then..."
                             ]
                         },
                         {
@@ -6502,7 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…だが、うちのクソ親父とあの事業のお偉いさんか誰かが話していた会話の中に…\\c[2]ルナ\\c[0]\\n<???>I have heard Onee-san's name before."
+                                "イチル\\SE[default]\\n<???>...However, I have heard Onee-san's name before in\na conversation between my shitty old man and\nsomeone important involved in that project...\n\\c[2]Luna\\c[0]."
                             ]
                         },
                         {
@@ -6533,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…そいつはこう呼んでた。\\!\\c[2]緋皇(ヒスベ) ルナ\\c[0]\\n<???>Luna nee-san didn't introduce herself with her\nlast name in front of us, but it's not a common\nname. It's probably her full name."
+                                "イチル\\SE[default]\\n<???>...She was called like this. \\c[2]Hisube\nLuna\\c[0]. Luna nee-san didn't introduce herself\nwith her last name in front of us, but it's not a\ncommon name. It's probably her full name."
                             ]
                         },
                         {
@@ -6597,7 +6597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
+                                "\\n<\\N[3]>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
                             ]
                         },
                         {
@@ -6825,7 +6825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
+                                "\\n<\\N[3]>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
                             ]
                         },
                         {
@@ -6922,7 +6922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems like there's a misunderstanding, but I\ndon't want to arrest her specifically. I just want\nto stop the phenomenon."
+                                "\\n<\\N[3]>It seems like there's a misunderstanding, but I\ndon't want to arrest her specifically. I just want\nto stop the phenomenon."
                             ]
                         },
                         {
@@ -6953,7 +6953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If she can help resolve and counteract the\nphenomenon, I want her to cooperate. That's really\nall there is to it. And I understand that it's not\nsomething a young girl can do alone."
+                                "\\n<\\N[3]>If she can help resolve and counteract the\nphenomenon, I want her to cooperate. That's really\nall there is to it. And I understand that it's not\nsomething a young girl can do alone."
                             ]
                         },
                         {
@@ -6991,7 +6991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. It will\nundoubtedly be a backlash that a young girl alone\ncannot possibly contend with."
+                                "\\n<\\N[3]>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. It will\nundoubtedly be a backlash that a young girl alone\ncannot possibly contend with."
                             ]
                         },
                         {
@@ -7270,7 +7270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...That girl is... she's at the next station,\nright?"
+                                "\\n<\\N[3]>...That girl is... she's at the next station,\nright?"
                             ]
                         },
                         {
@@ -7301,7 +7301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Understood, it's a promise. I will stop her and\nmake sure nothing bad happens. I will help her."
+                                "\\n<\\N[3]>...Understood, it's a promise. I will stop her and\nmake sure nothing bad happens. I will help her."
                             ]
                         },
                         {
@@ -7503,7 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ah, thank you all three of you."
+                                "\\n<\\N[3]>...Ah, thank you all three of you."
                             ]
                         },
                         {
@@ -8749,7 +8749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -8842,7 +8842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -9246,7 +9246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
+                                "\\n<\\N[3]>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
                             ]
                         },
                         {
@@ -9308,7 +9308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
+                                "\\n<\\N[3]>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
                             ]
                         },
                         {
@@ -9370,7 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
+                                "\\n<\\N[3]>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
                             ]
                         },
                         {
@@ -9518,7 +9518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ugh! I have no choice but to take on all three\nof them...!"
+                                "\\n<\\N[3]>...Ugh! I have no choice but to take on all three\nof them...!"
                             ]
                         },
                         {
@@ -9686,7 +9686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Haa...! Haa...! In that case, I won't hold back\nanymore..."
+                                "\\n<\\N[3]>Haa...! Haa...! In that case, I won't hold back\nanymore..."
                             ]
                         },
                         {
@@ -10301,7 +10301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wait a minute! I won't allow such a thing!"
+                                "\\n<\\N[3]>Wait a minute! I won't allow such a thing!"
                             ]
                         },
                         {
@@ -10415,7 +10415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! My goodness, what a dangerous girl..."
+                                "\\n<\\N[3]>Stop it! My goodness, what a dangerous girl..."
                             ]
                         },
                         {
@@ -10439,7 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
+                                "\\n<\\N[3]>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
                             ]
                         },
                         {
@@ -10522,7 +10522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's no way you're here... What on earth do you\nthink I am to you..."
+                                "\\n<\\N[3]>There's no way you're here... What on earth do you\nthink I am to you..."
                             ]
                         },
                         {
@@ -10653,7 +10653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
+                                "\\n<\\N[3]>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
                             ]
                         },
                         {
@@ -10712,7 +10712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…姐さんはある日、オレらの前に突然現れた。まるで\\c[2]霞のように、唐突に\\c[0]\\n<???>Da."
+                                "イチル\\SE[default]\\n<???>...Onee-san suddenly appeared before us one day.\nIt was as if she appeared out of nowhere, just\nlike a mist, and then..."
                             ]
                         },
                         {
@@ -10736,7 +10736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…だが、うちのクソ親父とあの事業のお偉いさんか誰かが話していた会話の中に…\\c[2]ルナ\\c[0]\\n<???>I have heard Onee-san's name before."
+                                "イチル\\SE[default]\\n<???>...However, I have heard Onee-san's name before in\na conversation between my shitty old man and\nsomeone important involved in that project...\n\\c[2]Luna\\c[0]."
                             ]
                         },
                         {
@@ -10767,7 +10767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…そいつはこう呼んでた。\\!\\c[2]緋皇(ヒスベ) ルナ\\c[0]\\n<???>Luna nee-san didn't introduce herself with her\nlast name in front of us, but it's not a common\nname. It's probably her full name."
+                                "イチル\\SE[default]\\n<???>...They called her like this. \\c[2]Hisube\nLuna\\c[0]. Luna nee-san didn't introduce herself\nwith her last name in front of us, but it's not a\ncommon name. It's probably her full name."
                             ]
                         },
                         {
@@ -10831,7 +10831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
+                                "\\n<\\N[3]>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
                             ]
                         },
                         {
@@ -11059,7 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
+                                "\\n<\\N[3]>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
                             ]
                         },
                         {
@@ -11156,7 +11156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems like you're misunderstanding something,\nbut I don't necessarily want to arrest her. I just\nwant to stop the phenomenon."
+                                "\\n<\\N[3]>It seems like you're misunderstanding something,\nbut I don't necessarily want to arrest her. I just\nwant to stop the phenomenon."
                             ]
                         },
                         {
@@ -11187,7 +11187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If she can help resolve and counteract the\nphenomenon, I want her cooperation. That's really\nall. Besides, I understand that it's not something\na young girl can do alone."
+                                "\\n<\\N[3]>If she can help resolve and counteract the\nphenomenon, I want her cooperation. That's really\nall. Besides, I understand that it's not something\na young girl can do alone."
                             ]
                         },
                         {
@@ -11225,7 +11225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. In that\ncase, a young girl alone would face a backlash\nthat she couldn't possibly contend with."
+                                "\\n<\\N[3]>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. In that\ncase, a young girl alone would face a backlash\nthat she couldn't possibly contend with."
                             ]
                         },
                         {
@@ -11504,7 +11504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...That child is... at the next station, right?"
+                                "\\n<\\N[3]>...That child is... at the next station, right?"
                             ]
                         },
                         {
@@ -11535,7 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Understood, it's a promise. I will stop her and\nmake sure nothing bad happens. I will help her."
+                                "\\n<\\N[3]>...Understood, it's a promise. I will stop her and\nmake sure nothing bad happens. I will help her."
                             ]
                         },
                         {
@@ -11737,7 +11737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ah, thank you all three."
+                                "\\n<\\N[3]>...Ah, thank you all three."
                             ]
                         },
                         {
@@ -12089,7 +12089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
+                                "\\n<\\N[3]>That's not it. In order to stop the phenomenon of\nmadness, I need to talk to her once."
                             ]
                         },
                         {
@@ -12151,7 +12151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
+                                "\\n<\\N[3]>If we don't stop it, there will be casualties. Are\nyou willing to accept that, Ichiru Kurube?"
                             ]
                         },
                         {
@@ -12213,7 +12213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
+                                "\\n<\\N[3]>In that case, aren't those guys from the\norganization the same? They can come up with all\nsorts of justifications and excuses."
                             ]
                         },
                         {
@@ -12361,7 +12361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ugh! I have no choice but to take on all three\nof them...!"
+                                "\\n<\\N[3]>...Ugh! I have no choice but to take on all three\nof them...!"
                             ]
                         },
                         {
@@ -12529,7 +12529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Haa...! Haa...! If that's the case, I can't hold\nback anymore..."
+                                "\\n<\\N[3]>Haa...! Haa...! If that's the case, I can't hold\nback anymore..."
                             ]
                         },
                         {
@@ -13144,7 +13144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wait a minute! I won't allow that!"
+                                "\\n<\\N[3]>Wait a minute! I won't allow that!"
                             ]
                         },
                         {
@@ -13258,7 +13258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! Geez, what a dangerous girl..."
+                                "\\n<\\N[3]>Stop it! Geez, what a dangerous girl..."
                             ]
                         },
                         {
@@ -13282,7 +13282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
+                                "\\n<\\N[3]>No, that's not it. Just like our initial\nagreement, I just want to ask that girl, Luna,\nabout something."
                             ]
                         },
                         {
@@ -13365,7 +13365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's no way you're here... What on earth do you\nthink of me..."
+                                "\\n<\\N[3]>There's no way you're here... What on earth do you\nthink of me..."
                             ]
                         },
                         {
@@ -13496,7 +13496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
+                                "\\n<\\N[3]>Who is she... \\c[2]Luna\\c[0]? What is her\nconnection to the phenomenon of madness, the urban\ndevelopment project in Sakutsuki City?"
                             ]
                         },
                         {
@@ -13555,7 +13555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…姐さんはある日、オレらの前に突然現れた。まるで\\c[2]霞のように、唐突に\\c[0]\\n<???>Da."
+                                "イチル\\SE[default]\\n<???>...Onee-san suddenly appeared before us one day.\nIt was as if she appeared out of nowhere, just\nlike a mist, da."
                             ]
                         },
                         {
@@ -13579,7 +13579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…だが、うちのクソ親父とあの事業のお偉いさんか誰かが話していた会話の中に…\\c[2]ルナ\\c[0]\\n<???>I have heard Onee-san's name before."
+                                "イチル\\SE[default]\\n<???>...However, I have heard Onee-san's name before in\na conversation between my shitty old man and\nsomeone important involved in that project...\n\\c[2]Luna\\c[0]."
                             ]
                         },
                         {
@@ -13610,7 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イチル\\SE[default]…そいつはこう呼んでた。\\!\\c[2]緋皇(ヒスベ) ルナ\\c[0]\\n<???>Luna nee-san didn't introduce herself with her\nlast name in front of us, but it's not a common\nname. It's probably her full name."
+                                "イチル\\SE[default]\\n<???>...They called her by this name. \\c[2]Luna\nHisube\\c[0]. Luna nee-san didn't introduce herself\nwith her last name in front of us, but it's not a\ncommon name. It's probably her full name."
                             ]
                         },
                         {
@@ -13674,7 +13674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
+                                "\\n<\\N[3]>\\c[2]Luna\\c[0]...! Her name was also mentioned in\nthat document... a huge corporation... but if I\nremember correctly, the Hikou Group withdrew from\nurban development projects..."
                             ]
                         },
                         {
@@ -13802,7 +13802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイ\\SE[default]\\n<???>...I asked Luna nee-san about it once. How did\nyou do that?"
+                                "アイ\\SE[default]\\n<???>...I asked Luna nee-san about it once. How did you\ndo that?"
                             ]
                         },
                         {
@@ -13902,7 +13902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
+                                "\\n<\\N[3]>Just by touching...? But if that's the case,\nthere's no doubt that she is the cause..."
                             ]
                         },
                         {
@@ -13999,7 +13999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems like there's a misunderstanding, but I\ndon't necessarily want to arrest her. I just want\nto stop the phenomenon."
+                                "\\n<\\N[3]>It seems like there's a misunderstanding, but I\ndon't necessarily want to arrest her. I just want\nto stop the phenomenon."
                             ]
                         },
                         {
@@ -14030,7 +14030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If she can help resolve the phenomenon and come up\nwith a solution, I want her to cooperate. That's\nreally all there is to it. Besides, I understand\nthat it's not something a young girl can handle\nalone."
+                                "\\n<\\N[3]>If she can help resolve the phenomenon and come up\nwith a solution, I want her to cooperate. That's\nreally all there is to it. Besides, I understand\nthat it's not something a young girl can handle\nalone."
                             ]
                         },
                         {
@@ -14068,7 +14068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. In that\ncase, a young girl alone would face an opposition\nthat she couldn't possibly overcome."
+                                "\\n<\\N[3]>However, if the damage worsens from here on... it\nwill surpass the level that I can handle. In that\ncase, a young girl alone would face an opposition\nthat she couldn't possibly overcome."
                             ]
                         },
                         {
@@ -14347,7 +14347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...That child is... at the next station, right?"
+                                "\\n<\\N[3]>...That child is... at the next station, right?"
                             ]
                         },
                         {
@@ -14378,7 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Understood, it's a promise. I will stop her,\nbut I won't do anything bad. I will help her."
+                                "\\n<\\N[3]>...Understood, it's a promise. I will stop her,\nbut I won't do anything bad. I will help her."
                             ]
                         },
                         {
@@ -14580,7 +14580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ah, thank you all three."
+                                "\\n<\\N[3]>...Ah, thank you all three."
                             ]
                         },
                         {

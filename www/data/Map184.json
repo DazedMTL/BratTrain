@@ -11597,7 +11597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no more business at the station...)"
+                                "\\n<\\N[3]>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12233,7 +12233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no more business at the station...)"
+                                "\\n<\\N[3]>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12341,7 +12341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no more business at the station...)"
+                                "\\n<\\N[3]>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12660,7 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That girl..."
+                                "\\n<\\N[3]>That girl..."
                             ]
                         },
                         {
@@ -12828,7 +12828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
+                                "\\n<\\N[3]>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
                             ]
                         },
                         {
@@ -12876,7 +12876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I am a police officer, and I'm looking for a\ncertain girl."
+                                "\\n<\\N[3]>I am a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
@@ -12900,7 +12900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
+                                "\\n<\\N[3]>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
@@ -12955,7 +12955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ichiru...? Do you know her!?"
+                                "\\n<\\N[3]>Ichiru...? Do you know her!?"
                             ]
                         },
                         {
@@ -13003,7 +13003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
+                                "\\n<\\N[3]>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
@@ -13051,7 +13051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah!"
+                                "\\n<\\N[3]>Ah!"
                             ]
                         },
                         {
@@ -13190,7 +13190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
+                                "\\n<\\N[3]>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
@@ -14745,7 +14745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That girl..."
+                                "\\n<\\N[3]>That girl..."
                             ]
                         },
                         {
@@ -14913,7 +14913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
+                                "\\n<\\N[3]>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
                             ]
                         },
                         {
@@ -14961,7 +14961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I am a police officer, and I'm looking for a\ncertain girl."
+                                "\\n<\\N[3]>I am a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
@@ -14985,7 +14985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
+                                "\\n<\\N[3]>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
@@ -15040,7 +15040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ichiru...? Do you know her!?"
+                                "\\n<\\N[3]>Ichiru...? Do you know her!?"
                             ]
                         },
                         {
@@ -15088,7 +15088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
+                                "\\n<\\N[3]>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
@@ -15136,7 +15136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah!"
+                                "\\n<\\N[3]>Ah!"
                             ]
                         },
                         {
@@ -15275,7 +15275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
+                                "\\n<\\N[3]>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
@@ -15459,7 +15459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That child..."
+                                "\\n<\\N[3]>That child..."
                             ]
                         },
                         {
@@ -15627,7 +15627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask, is that alright?"
+                                "\\n<\\N[3]>...! I'm sorry for startling you... There's\nsomething I want to ask, is that alright?"
                             ]
                         },
                         {
@@ -15675,7 +15675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I'm a police officer, and I'm looking for a\ncertain girl."
+                                "\\n<\\N[3]>I'm a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
@@ -15699,7 +15699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
+                                "\\n<\\N[3]>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
@@ -15754,7 +15754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ichiru...? Do you know something!?"
+                                "\\n<\\N[3]>Ichiru...? Do you know something!?"
                             ]
                         },
                         {
@@ -15802,7 +15802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
+                                "\\n<\\N[3]>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
@@ -15850,7 +15850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah!"
+                                "\\n<\\N[3]>Ah!"
                             ]
                         },
                         {
@@ -15989,7 +15989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>That girl... seems to know something. It could be\na valuable clue. I'll pursue her."
+                                "\\n<\\N[3]>That girl... seems to know something. It could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
@@ -16287,7 +16287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did you lose sight of them..."
+                                "\\n<\\N[3]>Did you lose sight of them..."
                             ]
                         },
                         {
@@ -16519,7 +16519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I was surprised... You are..."
+                                "\\n<\\N[3]>I was surprised... You are..."
                             ]
                         },
                         {
@@ -16560,7 +16560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Um... Can I ask you something?"
+                                "\\n<\\N[3]>Um... Can I ask you something?"
                             ]
                         },
                         {
@@ -16601,7 +16601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(What's with this kid... always playing with their\nsmartphone... seriously...)"
+                                "\\n<\\N[3]>(What's with this kid... always playing with their\nsmartphone... seriously...)"
                             ]
                         },
                         {
@@ -16649,7 +16649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!... Do you know about that girl?"
+                                "\\n<\\N[3]>!... Do you know about that girl?"
                             ]
                         },
                         {
@@ -16697,7 +16697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah... ah."
+                                "\\n<\\N[3]>Ah... ah."
                             ]
                         },
                         {
@@ -17025,7 +17025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Anyway, let's follow her."
+                                "\\n<\\N[3]>Anyway, let's follow her."
                             ]
                         },
                         {
@@ -17256,7 +17256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did you lose sight of them..."
+                                "\\n<\\N[3]>Did you lose sight of them..."
                             ]
                         },
                         {
@@ -17488,7 +17488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I was surprised... You are..."
+                                "\\n<\\N[3]>I was surprised... You are..."
                             ]
                         },
                         {
@@ -17529,7 +17529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Um... Can I ask you something?"
+                                "\\n<\\N[3]>Um... Can I ask you something?"
                             ]
                         },
                         {
@@ -17570,7 +17570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(What's with this kid... always playing with their\nsmartphone... seriously...)"
+                                "\\n<\\N[3]>(What's with this kid... always playing with their\nsmartphone... seriously...)"
                             ]
                         },
                         {
@@ -17618,7 +17618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!... Do you know about that girl?"
+                                "\\n<\\N[3]>!... Do you know about that girl?"
                             ]
                         },
                         {
@@ -17666,7 +17666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah... ah."
+                                "\\n<\\N[3]>Ah... ah."
                             ]
                         },
                         {
@@ -17994,7 +17994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Anyway, let's follow her."
+                                "\\n<\\N[3]>Anyway, let's follow her."
                             ]
                         },
                         {
@@ -18348,7 +18348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -18642,7 +18642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {

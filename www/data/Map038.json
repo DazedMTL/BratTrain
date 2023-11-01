@@ -20738,7 +20738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Phew... Looks like I can cross here."
+                                "\\n<\\N[3]>Phew... Looks like I can cross here."
                             ]
                         },
                         {
@@ -20798,7 +20798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's not like I did it for you guys. Now, where\nshould I go next?"
+                                "\\n<\\N[3]>It's not like I did it for you guys. Now, where\nshould I go next?"
                             ]
                         },
                         {
@@ -21122,7 +21122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hmmm... \\c[2]The elevator on this floor,\n\\c[0]huh... It seems like it's not working, but\nlet's check it once."
+                                "\\n<\\N[3]>Hmmm... \\c[2]The elevator on this floor,\n\\c[0]huh... It seems like it's not working, but\nlet's check it once."
                             ]
                         },
                         {

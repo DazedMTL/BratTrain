@@ -1651,7 +1651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>*sigh* With this, the report is finished... Now I\njust have to convey the matters to the Board of\nEducation..."
+                                "\\n<\\N[3]>*sigh* With this, the report is finished... Now I\njust have to convey the matters to the Board of\nEducation..."
                             ]
                         },
                         {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Huh...?"
+                                "\\n<\\N[3]>Huh...?"
                             ]
                         },
                         {
@@ -1754,7 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Birthday...!...I forgot.......sigh...."
+                                "\\n<\\N[3]>Birthday...!...I forgot.......sigh...."
                             ]
                         },
                         {
@@ -1892,7 +1892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...Curry again today..."
+                                "\\n<\\N[3]>...Curry again today..."
                             ]
                         },
                         {
@@ -1921,7 +1921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...So, the paving of the school route is the\nresponsibility of the administration, not the\nschool..."
+                                "\\n<\\N[3]>...So, the paving of the school route is the\nresponsibility of the administration, not the\nschool..."
                             ]
                         },
                         {
@@ -2058,7 +2058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...Regarding the response of the guardian who came\nthis morning, as a general rule, the handling of\nthe guardian of the assigned student..."
+                                "\\n<\\N[3]>...Regarding the response of the guardian who came\nthis morning, as a general rule, the handling of\nthe guardian of the assigned student..."
                             ]
                         },
                         {
@@ -2106,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Well, however..."
+                                "\\n<\\N[3]>Well, however..."
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>I'm sorry..."
+                                "\\n<\\N[3]>I'm sorry..."
                             ]
                         },
                         {
@@ -2239,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Sigh... What on earth am I supposed to do... Hm?"
+                                "\\n<\\N[3]>Sigh... What on earth am I supposed to do... Hm?"
                             ]
                         },
                         {
@@ -2352,7 +2352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -2391,7 +2391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>(An unreasonable guardian who doesn't listen to\nwhat I say, teachers who use harassment as an\nexcuse to slack off, and a principal who shifts\nthe blame onto others.)"
+                                "\\n<\\N[3]>(An unreasonable guardian who doesn't listen to\nwhat I say, teachers who use harassment as an\nexcuse to slack off, and a principal who shifts\nthe blame onto others.)"
                             ]
                         },
                         {
@@ -2422,7 +2422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>(To top it all off, I'm even disliked by my wife\nand daughter... I haven't had a proper\nconversation with my daughter in years.)"
+                                "\\n<\\N[3]>(To top it all off, I'm even disliked by my wife\nand daughter... I haven't had a proper\nconversation with my daughter in years.)"
                             ]
                         },
                         {
@@ -2446,7 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...I wonder how it all came to this..."
+                                "\\n<\\N[3]>...I wonder how it all came to this..."
                             ]
                         },
                         {
@@ -2470,7 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Sigh... Let's just finish this for now..."
+                                "\\n<\\N[3]>Sigh... Let's just finish this for now..."
                             ]
                         },
                         {
@@ -2535,7 +2535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Well... this is the end... Oh no! I missed the\nlast train!!"
+                                "\\n<\\N[3]>Well... this is the end... Oh no! I missed the\nlast train!!"
                             ]
                         },
                         {

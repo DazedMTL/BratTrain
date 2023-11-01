@@ -2146,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>With this, even places that are not electrified\nwill move."
+                                "\\n<\\N[3]>With this, even places that are not electrified\nwill move."
                             ]
                         },
                         {
@@ -2268,7 +2268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It looks like some kind of distribution panel...\nbut for some reason, the door is open."
+                                "\\n<\\N[3]>It looks like some kind of distribution panel...\nbut for some reason, the door is open."
                             ]
                         },
                         {
@@ -2292,7 +2292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]Fuses\\C[0] are installed here, but if you\nremove them, it should stop supplying power."
+                                "\\n<\\N[3]>\\C[2]Fuses\\C[0] are installed here, but if you\nremove them, it should stop supplying power."
                             ]
                         },
                         {
@@ -2378,7 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......"
+                                "\\n<\\N[3]>......"
                             ]
                         },
                         {
@@ -2395,7 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>For some reason, I just can't stop thinking about\nthis \\C[2]fuse\\C[0]..."
+                                "\\n<\\N[3]>For some reason, I just can't stop thinking about\nthis \\C[2]fuse\\C[0]..."
                             ]
                         },
                         {
@@ -2419,7 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Should I give it a try...?"
+                                "\\n<\\N[3]>...Should I give it a try...?"
                             ]
                         },
                         {
@@ -2495,7 +2495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -2548,7 +2548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...I'll trust my detective's intuition."
+                                "\\n<\\N[3]>...I'll trust my detective's intuition."
                             ]
                         },
                         {
@@ -2586,7 +2586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...No, what am I thinking. Let's stop."
+                                "\\n<\\N[3]>...No, what am I thinking. Let's stop."
                             ]
                         },
                         {

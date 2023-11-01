@@ -4305,7 +4305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Here too... It seems to be a \\C[2]7-digit\npassword\\C[0], just like earlier..."
+                                "\\n<\\N[3]>Here too... It seems to be a \\C[2]7-digit\npassword\\C[0], just like earlier..."
                             ]
                         },
                         {
@@ -4363,7 +4363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...! It's the passcode I found earlier. The code\nis... \\C[2]1001011\\C[0]."
+                                "\\n<\\N[3]>...! It's the passcode I found earlier. The code\nis... \\C[2]1001011\\C[0]."
                             ]
                         },
                         {
@@ -4625,7 +4625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(I wonder if there's another hint hidden\nsomewhere...)"
+                                "\\n<\\N[3]>(I wonder if there's another hint hidden\nsomewhere...)"
                             ]
                         },
                         {
@@ -4649,7 +4649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(However, even at this stage, there are already\nsuspicious parts...)"
+                                "\\n<\\N[3]>(However, even at this stage, there are already\nsuspicious parts...)"
                             ]
                         },
                         {
@@ -4673,7 +4673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(Could it be... somewhere in this room? Let's\nsearch.)"
+                                "\\n<\\N[3]>(Could it be... somewhere in this room? Let's\nsearch.)"
                             ]
                         },
                         {

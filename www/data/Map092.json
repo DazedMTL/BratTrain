@@ -5072,7 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Well, today I'm going to the foster care facility\nto introduce Miyako-chan to her father..."
+                                "\\n<\\N[3]>Well, today I'm going to the foster care facility\nto introduce Miyako-chan to her father..."
                             ]
                         },
                         {
@@ -5096,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>After that, I'll be visiting the orphanage and the\nschool. It's going to be busy, but well, a promise\nis a promise."
+                                "\\n<\\N[3]>After that, I'll be visiting the orphanage and the\nschool. It's going to be busy, but well, a promise\nis a promise."
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...A prank call from \\c[2]Cocoa\\c[0], huh. Heh...\nThat guy sure knows how to cause trouble."
+                                "\\n<\\N[3]>...A prank call from \\c[2]Cocoa\\c[0], huh. Heh...\nThat guy sure knows how to cause trouble."
                             ]
                         },
                         {
@@ -5265,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Well, let's go."
+                                "\\n<\\N[3]>...Well, let's go."
                             ]
                         },
                         {

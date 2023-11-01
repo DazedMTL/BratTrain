@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I have to chase after those girls..."
+                                "\\n<\\N[3]>I have to chase after those girls..."
                             ]
                         },
                         {
@@ -3859,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I have to chase after those girls..."
+                                "\\n<\\N[3]>I have to chase after those girls..."
                             ]
                         },
                         {
@@ -5358,7 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, the girl from earlier."
+                                "\\n<\\N[3]>Ah, the girl from earlier."
                             ]
                         },
                         {
@@ -5883,7 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>H...Hello."
+                                "\\n<\\N[3]>H...Hello."
                             ]
                         },
                         {
@@ -5992,7 +5992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah... well, like I heard earlier, it's about\nthat... Ichiru girl..."
+                                "\\n<\\N[3]>Ah... well, like I heard earlier, it's about\nthat... Ichiru girl..."
                             ]
                         },
                         {
@@ -6054,7 +6054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wait a minute, as a police officer, I need to talk\nto you for a moment..."
+                                "\\n<\\N[3]>Wait a minute, as a police officer, I need to talk\nto you for a moment..."
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, no, it's not that... I want to talk to you\nabout the incident for a moment..."
+                                "\\n<\\N[3]>No, no, it's not that... I want to talk to you\nabout the incident for a moment..."
                             ]
                         },
                         {
@@ -6164,7 +6164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, please calm down and listen to what I have to\nsay..."
+                                "\\n<\\N[3]>No, please calm down and listen to what I have to\nsay..."
                             ]
                         },
                         {
@@ -6549,7 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What speed... but now is not the time to be\nimpressed. For now, I need to chase after them."
+                                "\\n<\\N[3]>...What speed... but now is not the time to be\nimpressed. For now, I need to chase after them."
                             ]
                         },
                         {
@@ -7184,7 +7184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Could it be... you..."
+                                "\\n<\\N[3]>Could it be... you..."
                             ]
                         },
                         {
@@ -7281,7 +7281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Ichiru...!? So, it must be this child after\nall...)"
+                                "\\n<\\N[3]>(Ichiru...!? So, it must be this child after\nall...)"
                             ]
                         },
                         {
@@ -7374,7 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, that's not it. It's not that I want to ask\nabout that..."
+                                "\\n<\\N[3]>No, that's not it. It's not that I want to ask\nabout that..."
                             ]
                         },
                         {
@@ -7398,7 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I'm investigating the \\c[2]phenomenon of people\ngoing insane\\c[0] that's happening in Sakuhai\nCity, and the \\c[2]suspects\\c[0] who are suspected\nto be involved."
+                                "\\n<\\N[3]>I'm investigating the \\c[2]phenomenon of people\ngoing insane\\c[0] that's happening in Sakuhai\nCity, and the \\c[2]suspects\\c[0] who are suspected\nto be involved."
                             ]
                         },
                         {
@@ -7453,7 +7453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, if you happen to know anything about that..."
+                                "\\n<\\N[3]>Ah, if you happen to know anything about that..."
                             ]
                         },
                         {
@@ -7508,7 +7508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Then, what about the girl named \\c[2]Luna\\c[0]?"
+                                "\\n<\\N[3]>...Then, what about the girl named \\c[2]Luna\\c[0]?"
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Onee-san...? Could it be you guys..."
+                                "\\n<\\N[3]>Onee-san...? Could it be you guys..."
                             ]
                         },
                         {
@@ -7597,7 +7597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! Then, if she... isn't stopped, the city will\nbe overrun with lunatics! As a detective..."
+                                "\\n<\\N[3]>...! Then, if she... isn't stopped, the city will\nbe overrun with lunatics! As a detective..."
                             ]
                         },
                         {
@@ -7916,7 +7916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wait! I'm not planning on resorting to violent\nmeasures! I just need to find a way to stop this\nphenomenon...!"
+                                "\\n<\\N[3]>Wait! I'm not planning on resorting to violent\nmeasures! I just need to find a way to stop this\nphenomenon...!"
                             ]
                         },
                         {
@@ -8135,7 +8135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Damn it!...Where am I...an abandoned building?\nAnyway, I have no choice but to keep chasing."
+                                "\\n<\\N[3]>...Damn it!...Where am I...an abandoned building?\nAnyway, I have no choice but to keep chasing."
                             ]
                         },
                         {

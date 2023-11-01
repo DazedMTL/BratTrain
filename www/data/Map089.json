@@ -2979,7 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The door won't open."
+                                "\\n<\\N[3]>...The door won't open."
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The door won't open."
+                                "\\n<\\N[3]>...The door won't open."
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The atmosphere is even more tense than\nbefore... My vision is also slightly blurred..."
+                                "\\n<\\N[3]>...The atmosphere is even more tense than\nbefore... My vision is also slightly blurred..."
                             ]
                         },
                         {
@@ -3583,7 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Beyond that door... I feel some kind of\npressure..."
+                                "\\n<\\N[3]>...Beyond that door... I feel some kind of\npressure..."
                             ]
                         },
                         {
@@ -3607,7 +3607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It must be that girl... Let's go meet her."
+                                "\\n<\\N[3]>...It must be that girl... Let's go meet her."
                             ]
                         },
                         {

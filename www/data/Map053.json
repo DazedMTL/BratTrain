@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -3836,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4129,7 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4206,7 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4283,7 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4360,7 +4360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -4451,7 +4451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -4542,7 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -4633,7 +4633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {
@@ -4717,7 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment, but...)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment, but...)"
                             ]
                         },
                         {
@@ -4801,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's too dark ahead, I can't proceed..."
+                                "\\n<\\N[3]>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's too dark ahead, I can't proceed..."
+                                "\\n<\\N[3]>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5017,7 +5017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's too dark ahead, I can't proceed..."
+                                "\\n<\\N[3]>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5125,7 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's too dark ahead, I can't proceed..."
+                                "\\n<\\N[3]>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I'm curious about the stairs leading to the\nbasement..."
+                                "\\n<\\N[3]>...I'm curious about the stairs leading to the\nbasement..."
                             ]
                         },
                         {
@@ -5350,7 +5350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...I'm curious about the stairs leading to the\nbasement..."
+                                "\\n<\\N[3]>...I'm curious about the stairs leading to the\nbasement..."
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Let's try searching elsewhere."
+                                "\\n<\\N[3]>...Let's try searching elsewhere."
                             ]
                         },
                         {
@@ -5526,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The inside of the station is\nnormal...no...there's something off about it..."
+                                "\\n<\\N[3]>...The inside of the station is\nnormal...no...there's something off about it..."
                             ]
                         },
                         {
@@ -5550,7 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Let's investigate."
+                                "\\n<\\N[3]>...Let's investigate."
                             ]
                         },
                         {
@@ -5686,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's no need to go back."
+                                "\\n<\\N[3]>There's no need to go back."
                             ]
                         },
                         {
@@ -5794,7 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's no need to go back."
+                                "\\n<\\N[3]>There's no need to go back."
                             ]
                         },
                         {
@@ -5902,7 +5902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -6071,7 +6071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -6095,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -6398,7 +6398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -6422,7 +6422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -6446,7 +6446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {
@@ -6590,7 +6590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -6763,7 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -6787,7 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -6811,7 +6811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {
@@ -6955,7 +6955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -7114,7 +7114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -7138,7 +7138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -7162,7 +7162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {
@@ -7306,7 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -7479,7 +7479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -7503,7 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -7527,7 +7527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {
@@ -7671,7 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this..."
+                                "\\n<\\N[3]>...!? What is this..."
                             ]
                         },
                         {
@@ -7858,7 +7858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
+                                "\\n<\\N[3]>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
@@ -7882,7 +7882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                                "\\n<\\N[3]>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
                             ]
                         },
                         {
@@ -7906,7 +7906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                                "\\n<\\N[3]>...There's definitely something here. Let's go and\ncheck it out."
                             ]
                         },
                         {

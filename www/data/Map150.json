@@ -12161,7 +12161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The door is locked...)"
+                                "\\n<\\N[3]>(The door is locked...)"
                             ]
                         },
                         {
@@ -12250,7 +12250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The door is locked...)"
+                                "\\n<\\N[3]>(The door is locked...)"
                             ]
                         },
                         {
@@ -12518,7 +12518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Quite spacious, isn't it... Are you on the second\nfloor?"
+                                "\\n<\\N[3]>Quite spacious, isn't it... Are you on the second\nfloor?"
                             ]
                         },
                         {

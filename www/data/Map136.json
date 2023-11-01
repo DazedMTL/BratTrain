@@ -3140,7 +3140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
+                                "\\n<\\N[3]>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
+                                "\\n<\\N[3]>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
@@ -4103,7 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
+                                "\\n<\\N[3]>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {

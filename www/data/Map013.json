@@ -4521,7 +4521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Passcode... There are seven slots, so it seems to\nbe a seven-digit password..."
+                                "\\n<\\N[3]>Passcode... There are seven slots, so it seems to\nbe a seven-digit password..."
                             ]
                         },
                         {
@@ -4572,7 +4572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...! It's the passcode I found earlier. The code\nis... \\C[2]1000011\\C[0]."
+                                "\\n<\\N[3]>...! It's the passcode I found earlier. The code\nis... \\C[2]1000011\\C[0]."
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...If she's a game lover, \\C[2]maybe she hid a\nhint somewhere?"
+                                "\\n<\\N[3]>...If she's a game lover, \\C[2]maybe she hid a\nhint somewhere?"
                             ]
                         },
                         {
@@ -7375,7 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ugh! Cough! This is... gas...!"
+                                "\\n<\\N[3]>Ugh! Cough! This is... gas...!"
                             ]
                         },
                         {
@@ -7399,7 +7399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Kishi shi, w? Wazurashii ka? Sono furoa\nni wa shinkei gasu ga juuman shite iru zo!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Kishi shi, w? Wazurashii ka? Sono\nfuroa ni wa shinkei gasu ga juuman shite iru zo!"
                             ]
                         },
                         {
@@ -7423,7 +7423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Whether we move forward or turn back\ndepends on the old man, but I wonder how long he\ncan keep up that composure~? w"
+                                "\\n<sine:ω>ω: ω: \\C[24]Whether we move forward or turn back\ndepends on the old man, but I wonder how long he\ncan keep up that composure~? w"
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like patience won't work here. I guess\nthere's no choice but to force our way through.)"
+                                "\\n<\\N[3]>(It seems like patience won't work here. I guess\nthere's no choice but to force our way through.)"
                             ]
                         },
                         {
@@ -8628,7 +8628,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>So, this means that the lock on the switch-\noperated door has been released. Let's head\ntowards Room \\C[2]α-1\\C[0]."
+                                "\\n<\\N[3]>So, this means that the lock on the switch-\noperated door has been released. Let's head\ntowards Room \\C[2]α-1\\C[0]."
                             ]
                         },
                         {
@@ -11804,7 +11804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In general, it is known as D-Day or the Normandy\nlandings, but its codename was Operation\nOverlord."
+                                "In general, it is known as D-Day or the Normandy\nlandings, but its codename was Operation Overlord."
                             ]
                         },
                         {
@@ -11835,7 +11835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Is this some kind of hint...? I'll remember\n\\c[2]just in case\\c[0]."
+                                "\\n<\\N[3]>...Is this some kind of hint...? I'll remember\n\\c[2]just in case\\c[0]."
                             ]
                         },
                         {
@@ -11949,7 +11949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In general, it is known as D-Day or the Normandy\nlandings, but its codename was Operation\nOverlord."
+                                "In general, it is known as D-Day or the Normandy\nlandings, but its codename was Operation Overlord."
                             ]
                         },
                         {
@@ -11980,7 +11980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Is this some kind of hint...? I'll remember\n\\c[2]just in case\\c[0]."
+                                "\\n<\\N[3]>...Is this some kind of hint...? I'll remember\n\\c[2]just in case\\c[0]."
                             ]
                         },
                         {

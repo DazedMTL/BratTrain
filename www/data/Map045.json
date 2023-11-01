@@ -4697,7 +4697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -4721,7 +4721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
@@ -4764,7 +4764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
+                                "\\n<\\N[3]>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
@@ -4882,7 +4882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -4906,7 +4906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
@@ -4949,7 +4949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
+                                "\\n<\\N[3]>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
@@ -5067,7 +5067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -5091,7 +5091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
+                                "\\n<\\N[3]>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
@@ -5405,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Well, I need to quickly find the next clue."
+                                "\\n<\\N[3]>Well, I need to quickly find the next clue."
                             ]
                         },
                         {
@@ -5429,7 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Mugu... How dare you underestimate me,\nSine:ω-sama..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Mugu... How dare you underestimate me,\nSine:ω-sama..."
                             ]
                         },
                         {
@@ -5453,7 +5453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]B-But this is my territory! I have\ncomplete control over the situation!"
+                                "\\n<sine:ω>ω: ω: \\C[24]B-But this is my territory! I have\ncomplete control over the situation!"
                             ]
                         },
                         {
@@ -5477,7 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Hmph!... It's pitiful that you can't even\nunderstand the situation you're in, you old man♡"
+                                "\\n<sine:ω>ω: ω: \\C[24]Hmph!... It's pitiful that you can't\neven understand the situation you're in, you old\nman♡"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]First, I'll thoroughly instill the fear\nof sine:ω-sama into you!! Kishi... Kyahaha!!"
+                                "\\n<sine:ω>ω: ω: \\C[24]First, I'll thoroughly instill the\nfear of sine:ω-sama into you!! Kishi... Kyahaha!!"
                             ]
                         },
                         {
@@ -6137,7 +6137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this poorly designed robot with such a\nstrange hobby!"
+                                "\\n<\\N[3]>What is this poorly designed robot with such a\nstrange hobby!"
                             ]
                         },
                         {
@@ -6250,7 +6250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The door is locked... Damn... This is bad."
+                                "\\n<\\N[3]>The door is locked... Damn... This is bad."
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There are so many of these robots... It seems\ndifficult to fight them alone. I need something\nthat can be used as a weapon...!"
+                                "\\n<\\N[3]>There are so many of these robots... It seems\ndifficult to fight them alone. I need something\nthat can be used as a weapon...!"
                             ]
                         },
                         {
@@ -6456,7 +6456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! This is..."
+                                "\\n<\\N[3]>...! This is..."
                             ]
                         },
                         {
@@ -6489,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Now, step forward!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Now, step forward!"
                             ]
                         },
                         {
@@ -6949,7 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]I may have fallen for your strategy\nearlier, but it won't work next time!"
+                                "\\n<sine:ω>ω: ω: \\C[24]I may have fallen for your strategy\nearlier, but it won't work next time!"
                             ]
                         },
                         {
@@ -7148,7 +7148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Look, look♪ The drones are getting\ncloser♪ There's no escape now~? lol"
+                                "\\n<sine:ω>ω: ω: \\C[24]Look, look♪ The drones are getting\ncloser♪ There's no escape now~? lol"
                             ]
                         },
                         {
@@ -7179,7 +7179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Strategy... You were just panicking, weren't\nyou...!"
+                                "\\n<\\N[3]>Strategy... You were just panicking, weren't\nyou...!"
                             ]
                         },
                         {
@@ -7203,7 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Shit... This number is really bad...! Is this\nthing I picked up earlier... a smoke grenade?)"
+                                "\\n<\\N[3]>(Shit... This number is really bad...! Is this\nthing I picked up earlier... a smoke grenade?)"
                             ]
                         },
                         {
@@ -7227,7 +7227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a gamble...! It should have enough of an\neffect to divert their attention...!)"
+                                "\\n<\\N[3]>(It's a gamble...! It should have enough of an\neffect to divert their attention...!)"
                             ]
                         },
                         {
@@ -7300,7 +7300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Damn it!? It's blowing out on its own...!"
+                                "\\n<\\N[3]>Damn it!? It's blowing out on its own...!"
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? Shit...! This is...!"
+                                "\\n<\\N[3]>...!? Shit...! This is...!"
                             ]
                         },
                         {
@@ -7388,7 +7388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Dangerous! Attack command! Hurry and..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Dangerous! Attack command! Hurry\nand..."
                             ]
                         },
                         {
@@ -7412,7 +7412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hmph!!!"
+                                "\\n<\\N[3]>Hmph!!!"
                             ]
                         },
                         {
@@ -7617,7 +7617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Why are Cocoa's drones...! How can they\nbe exposed to the madness gas and still remain\nsane!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Why are Cocoa's drones...! How can\nthey be exposed to the madness gas and still\nremain sane!"
                             ]
                         },
                         {
@@ -7648,7 +7648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Ordinary people should quickly become\ninsane and turn into invalids...!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Ordinary people should quickly become\ninsane and turn into invalids...!"
                             ]
                         },
                         {
@@ -7672,7 +7672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Madness...Madness gas...Invalids...You seem to\nknow something, don't you?"
+                                "\\n<\\N[3]>Madness...Madness gas...Invalids...You seem to\nknow something, don't you?"
                             ]
                         },
                         {
@@ -7696,7 +7696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Ah...!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Ah...!"
                             ]
                         },
                         {
@@ -7713,7 +7713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's wrong to treat people like toys, both you and\nthat girl..."
+                                "\\n<\\N[3]>It's wrong to treat people like toys, both you and\nthat girl..."
                             ]
                         },
                         {
@@ -7744,7 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Then what?"
+                                "\\n<sine:ω>ω: ω: \\C[24]...Then what?"
                             ]
                         },
                         {
@@ -7761,7 +7761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]This is my space. It's up to me how I\nhandle my toys!"
+                                "\\n<sine:ω>ω: ω: \\C[24]This is my space. It's up to me how I\nhandle my toys!"
                             ]
                         },
                         {
@@ -7792,7 +7792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Don't think you can safely go back just\nlike this. I, the genius gamer, will make you\ntaste every last bit of the game I created, down\nto the core of your bones!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Don't think you can safely go back\njust like this. I, the genius gamer, will make you\ntaste every last bit of the game I created, down\nto the core of your bones!"
                             ]
                         },
                         {
@@ -7868,7 +7868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Is this...a timer...?"
+                                "\\n<\\N[3]>Is this...a timer...?"
                             ]
                         },
                         {
@@ -7892,7 +7892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Didn't I tell you? This is my game! Games\nare interesting because they have limitations!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Didn't I tell you? This is my game!\nGames are interesting because they have\nlimitations!"
                             ]
                         },
                         {
@@ -7923,7 +7923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]If you exceed this countdown... I'll\nexpose your crimes to the whole world!"
+                                "\\n<sine:ω>ω: ω: \\C[24]If you exceed this countdown... I'll\nexpose your crimes to the whole world!"
                             ]
                         },
                         {
@@ -7954,7 +7954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What!?"
+                                "\\n<\\N[3]>What!?"
                             ]
                         },
                         {
@@ -7971,7 +7971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Now, let the game begin! Do your best to\nentertain me!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Now, let the game begin! Do your best\nto entertain me!"
                             ]
                         },
                         {
@@ -7995,7 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Damn it... There's not much time... I need to\nhurry and go to her...!"
+                                "\\n<\\N[3]>...Damn it... There's not much time... I need to\nhurry and go to her...!"
                             ]
                         },
                         {
@@ -9742,7 +9742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's locked and won't open..."
+                                "\\n<\\N[3]>It's locked and won't open..."
                             ]
                         },
                         {
@@ -10007,7 +10007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this...?!"
+                                "\\n<\\N[3]>What is this...?!"
                             ]
                         },
                         {
@@ -10059,7 +10059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It seems to be a map of this floor. I'll\ngratefully make use of it."
+                                "\\n<\\N[3]>...It seems to be a map of this floor. I'll\ngratefully make use of it."
                             ]
                         },
                         {

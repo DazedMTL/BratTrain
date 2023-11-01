@@ -2247,7 +2247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Why are you here again..."
+                                "\\n<\\N[3]>Why are you here again..."
                             ]
                         },
                         {
@@ -2281,7 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Hey, are you okay? ...Luna...?"
+                                "\\n<\\N[3]>...Hey, are you okay? ...Luna...?"
                             ]
                         },
                         {
@@ -2359,7 +2359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...!? What... it's the same as before... no, even\nmore pressure...!)"
+                                "\\n<\\N[3]>(...!? What... it's the same as before... no, even\nmore pressure...!)"
                             ]
                         },
                         {
@@ -2471,7 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Damn...! I'm not sure what's going on, but... this\nisn't the Luna from earlier...!"
+                                "\\n<\\N[3]>Damn...! I'm not sure what's going on, but... this\nisn't the Luna from earlier...!"
                             ]
                         },
                         {
@@ -2526,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There is clearly hostility... I don't think we can\ncommunicate, we need to do something...!"
+                                "\\n<\\N[3]>There is clearly hostility... I don't think we can\ncommunicate, we need to do something...!"
                             ]
                         },
                         {
@@ -2817,7 +2817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Damn... You can still move... My stamina... is\nalready...!"
+                                "\\n<\\N[3]>Damn... You can still move... My stamina... is\nalready...!"
                             ]
                         },
                         {
@@ -3136,7 +3136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...This person..."
+                                "\\n<\\N[3]>...This person..."
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>I'm sorry, for leaving you behind... You worked\nso hard... but I couldn't respond..."
+                                "\\n<???>I'm sorry, for leaving you behind... You worked so\nhard... but I couldn't respond..."
                             ]
                         },
                         {
@@ -3494,7 +3494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Yes, exactly. Get along with your daughter... I\nwill take care of the rest."
+                                "\\n<\\N[3]>...Yes, exactly. Get along with your daughter... I\nwill take care of the rest."
                             ]
                         },
                         {
@@ -3611,7 +3611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hey hey, stop that in front of your father. You\ntoo, behave mischievously in moderation."
+                                "\\n<\\N[3]>Hey hey, stop that in front of your father. You\ntoo, behave mischievously in moderation."
                             ]
                         },
                         {
@@ -4089,7 +4089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>......Ah."
+                                "\\n<\\N[3]>......Ah."
                             ]
                         },
                         {

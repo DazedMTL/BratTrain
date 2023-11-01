@@ -2199,7 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey, we finally meet."
+                                "\\n<\\N[3]>Hey, we finally meet."
                             ]
                         },
                         {
@@ -2283,7 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Now, as promised, tell me the cause and how to\nstop the \\c[2]phenomenon of madness\\c[0]."
+                                "\\n<\\N[3]>Now, as promised, tell me the cause and how to\nstop the \\c[2]phenomenon of madness\\c[0]."
                             ]
                         },
                         {
@@ -2331,7 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>N-No... Well, since I've come this far..."
+                                "\\n<\\N[3]>N-No... Well, since I've come this far..."
                             ]
                         },
                         {
@@ -2386,7 +2386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ugh...! Then what do I have to do to get an\nanswer!?"
+                                "\\n<\\N[3]>Ugh...! Then what do I have to do to get an\nanswer!?"
                             ]
                         },
                         {
@@ -2441,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Then it's a promise. How to stop the phenomenon\nof madness, and just who exactly are you all?"
+                                "\\n<\\N[3]>...Then it's a promise. How to stop the phenomenon\nof madness, and just who exactly are you all?"
                             ]
                         },
                         {
@@ -2472,7 +2472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If you lose, I'll make you give me the answer."
+                                "\\n<\\N[3]>If you lose, I'll make you give me the answer."
                             ]
                         },
                         {
@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...If I've come this far, there's no way I can\nback down. If I lose, I'll do as you wish."
+                                "\\n<\\N[3]>...If I've come this far, there's no way I can\nback down. If I lose, I'll do as you wish."
                             ]
                         },
                         {
@@ -2582,7 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...This is the last one...! I need to focus, I\nabsolutely have to stop it...!"
+                                "\\n<\\N[3]>...This is the last one...! I need to focus, I\nabsolutely have to stop it...!"
                             ]
                         },
                         {
@@ -2701,7 +2701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...It's not working...you say...!?"
+                                "\\n<\\N[3]>...It's not working...you say...!?"
                             ]
                         },
                         {
@@ -2770,7 +2770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Damn it...Who the hell are you...?"
+                                "\\n<\\N[3]>...Damn it...Who the hell are you...?"
                             ]
                         },
                         {
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...!? Damn it...tsu!"
+                                "\\n<\\N[3]>...!? Damn it...tsu!"
                             ]
                         },
                         {
@@ -2965,7 +2965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Ugh...I won't...regret it...!"
+                                "\\n<\\N[3]>...Ugh...I won't...regret it...!"
                             ]
                         },
                         {
@@ -3112,7 +3112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...I'm sorry, when reason flies out the window, I\ncan't control myself... Is your body okay?"
+                                "\\n<\\N[3]>...I'm sorry, when reason flies out the window, I\ncan't control myself... Is your body okay?"
                             ]
                         },
                         {
@@ -3193,7 +3193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Are you...are you causing the phenomenon of\nmadness?"
+                                "\\n<\\N[3]>...Are you...are you causing the phenomenon of\nmadness?"
                             ]
                         },
                         {
@@ -3262,7 +3262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Half...? What exactly do you mean...?"
+                                "\\n<\\N[3]>...Half...? What exactly do you mean...?"
                             ]
                         },
                         {
@@ -3331,7 +3331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...If it's just something I learned in school as a\nstudent...does it have any relevance?"
+                                "\\n<\\N[3]>...If it's just something I learned in school as a\nstudent...does it have any relevance?"
                             ]
                         },
                         {
@@ -3400,7 +3400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Weight of the soul...? Does such a thing exist?"
+                                "\\n<\\N[3]>...Weight of the soul...? Does such a thing exist?"
                             ]
                         },
                         {
@@ -3476,7 +3476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...So...what exactly is the connection between all\nof this?"
+                                "\\n<\\N[3]>...So...what exactly is the connection between all\nof this?"
                             ]
                         },
                         {
@@ -3576,7 +3576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...???"
+                                "\\n<\\N[3]>...???"
                             ]
                         },
                         {
@@ -3624,7 +3624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]引力は物体の質量に比例する。つまり、”\\c[2]質量の大きな魂\\c[0]”は\\c[2]質量の小さな魂\\c[0]\\n<???>It has the power to pull."
+                                "ルナ\\SE[default]\\n<???>Gravitational force is proportional to the mass of\nan object. In other words, a soul with a larger\n\\c[2]mass\\c[0] has the power to pull\n\\c[2]souls\\c[0] with smaller \\c[2]masses\\c[0]."
                             ]
                         },
                         {
@@ -3662,7 +3662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...So...in other words...the story is that your\nsoul has a large mass...?"
+                                "\\n<\\N[3]>...So...in other words...the story is that your\nsoul has a large mass...?"
                             ]
                         },
                         {
@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]”結果的にそうなった”そして、それこそがこの現象の要因となってるんだよ。\\!\\c[2]ルナの死後\\c[0]\\n<???>There was someone who gave Luna's soul mass."
+                                "ルナ\\SE[default]\\n<???>As a result, it happened that way, and that is\nexactly what became the cause of this phenomenon.\n\\c[2]After Luna's death,\\c[0] there was someone\nwho gave her soul mass."
                             ]
                         },
                         {
@@ -3745,7 +3745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...!? ...What kind of joke is this...?"
+                                "\\n<\\N[3]>...!? ...What kind of joke is this...?"
                             ]
                         },
                         {
@@ -3819,7 +3819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]…ルナがここにいるのは、\\c[2]”死者をこの世に蘇らせる”\\!\\c[0]\\n<???>It's because there was someone who, unbelievably,\ntook that ridiculous idea seriously and actually\nsucceeded in executing that plan."
+                                "ルナ\\SE[cry]\\n<???>...Luna is here because someone, unbelievably,\ntook that ridiculous idea seriously and actually\nsucceeded in executing that plan to bring the dead\nback to this world."
                             ]
                         },
                         {
@@ -3864,7 +3864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Could it be...then the documents that fell\nearlier...and this underground facility..."
+                                "\\n<\\N[3]>...Could it be...then the documents that fell\nearlier...and this underground facility..."
                             ]
                         },
                         {
@@ -3902,7 +3902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>Without madness, success would be impossible.\nThat person remained obsessed with that plan until\nthe end and succeeded..."
+                                "ルナ\\SE[cry]\\n<???>Without madness, success would be impossible. That\nperson remained obsessed with that plan until the\nend and succeeded..."
                             ]
                         },
                         {
@@ -4050,7 +4050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Manifestation...Device..."
+                                "\\n<\\N[3]>...Manifestation...Device..."
                             ]
                         },
                         {
@@ -4143,7 +4143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]”魂”の在処とされる”\\c[2]普遍的無意識領域\\c[0]”、簡単に言えば、普段知覚してないし、知覚する事も出来ない\\c[2]無意識の領域\\c[0]\\n<???>It's about that, right?"
+                                "ルナ\\SE[cry]\\n<???>It's about the \\c[2]universal unconscious\nrealm\\c[0], which is considered to be the dwelling\nplace of souls. In simple terms, it's the\n\\c[2]unconscious realm\\c[0] that we are not aware\nof in our everyday perception and cannot perceive."
                             ]
                         },
                         {
@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]ここまで来たらわかるでしょ？\\!\\c[2]狂人化現象\\c[0]とは、この\\c[2]無意識の海\\c[0]\\n<???>The phenomenon that occurs by physically\ninterfering."
+                                "ルナ\\SE[cry]\\n<???>By now, you should understand, right? The\n\\c[2]Madness Transformation Phenomenon\\c[0] is the\nmanifestation of this \\c[2]Sea of\nUnconsciousness\\c[0] through physical\ninterference."
                             ]
                         },
                         {
@@ -4257,7 +4257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...A device that materializes the unconscious...\nAnd a phenomenon where one is absorbed by the\npower generated by it, and their sanity is\ndestroyed... That is the phenomenon of madness."
+                                "\\n<\\N[3]>...A device that materializes the unconscious...\nAnd a phenomenon where one is absorbed by the\npower generated by it, and their sanity is\ndestroyed... That is the phenomenon of madness."
                             ]
                         },
                         {
@@ -4302,7 +4302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]そう、ルナ達はただの\\c[2]”きっかけ”\\c[0]\\n<???>The materialized unconscious that melts away the\nreason of those who touch it, leading them into\nthe sea of the unconscious."
+                                "ルナ\\SE[cry]\\n<???>Yes, Luna and the others are just a\n\\c[2]trigger\\c[0]. They are the materialized\nunconscious that erodes the rationality of those\nwho come into contact with it, leading them into\nthe sea of the unconscious."
                             ]
                         },
                         {
@@ -4357,7 +4357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]つまり現象を止める方法は、\\c[2]装置を止める\\c[0]\\n<???>Now, the answer to another question. What is Luna\nand the others' true identity..."
+                                "ルナ\\SE[cry]\\n<???>In other words, the way to stop the phenomenon is\nto \\c[2]stop the device\\c[0]. Now, let's answer\nanother question. What is Luna and the others'\ntrue identity..."
                             ]
                         },
                         {
@@ -4402,7 +4402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>No way... Are you... the soul of the deceased...\njust like you...?"
+                                "\\n<\\N[3]>No way... Are you... the soul of the deceased...\njust like you...?"
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]そうとも限らない。\\!確かにルナは\\c[2]死後に無意識の海に沈んだ魂を核\\c[0]\\n<???>Because they have been materialized, they possess\nclear personalities, wills, and physical forms."
+                                "ルナ\\SE[cry]\\n<???>Well, that's not necessarily the case. Indeed,\nLuna is the \\c[2]core\\c[0] of a soul that sank\ninto the sea of unconsciousness after death.\nBecause they have been materialized, they possess\nclear personalities, wills, and physical forms."
                             ]
                         },
                         {
@@ -4464,45 +4464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]でも、現実世界で自我によって切り離された記憶や感情は単一の\\c[2]”思念”\\c[0]として形成される事があるの。\\!顕霊装置は、こういった魂や思念を実体化するもの、それをあの人達は\\c[2]思念体\\c[0]\\n<???>They called me [N_1]."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]顕現した”思念体”の根源が\\c[2]魂\\c[0]なのか単一の\\c[2]思念\\c[0]なのかはルナにも分からない。\\!強い思念でないとあそこまでハッキリとは現れないから、受け入れ難い\\c[2]何か\\c[0]\\n<???>There's no doubt that it happened."
+                                "ルナ\\SE[cry]\\n<???>But in the real world, memories and emotions that\nhave been separated by the ego can sometimes form\nas a single \\c[2]thought form\\c[0]. The\nManifestation Device is what materializes these\nsouls and thought forms, and they refer to them as\n\\c[2]thought bodies\\c[0]. They called me [N_1]."
                             ]
                         },
                         {
@@ -4540,7 +4502,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]この世界は、歪んだ思念が生んだ願望によって形成されてるの。\\!でも、思念の元になる\\c[2]人\\c[0]\\n<???>They definitely existed somewhere, whether in the\npast or the future is uncertain, but it is certain\nthat they existed."
+                                "ルナ\\SE[cry]\\n<???>Whether the origin of the manifested thought\nbodies is \\c[2]souls\\c[0] or a singular\n\\c[2]thought\\c[0], Luna doesn't know either. It's\ndifficult to accept because it wouldn't have\nappeared so clearly without strong thoughts.\nThere's no doubt that it happened."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "ルナ\\SE[cry]\\n<???>This world is formed by the desires born from\ndistorted thoughts. However, the \\c[2]people\\c[0]\nwho serve as the origin of these thoughts\ndefinitely existed somewhere. Whether it was in\nthe past or the future is uncertain, but their\nexistence is certain."
                             ]
                         },
                         {
@@ -4585,7 +4585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>I see... So the cause of the phenomenon of madness\nis the Manifestation Device, and you all are the\nmanifested thought forms created by that device."
+                                "\\n<\\N[3]>I see... So the cause of the phenomenon of madness\nis the Manifestation Device, and you all are the\nmanifested thought forms created by that device."
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>In any case, the root cause is the Manifestation\nDevice. If we stop it, the phenomenon will\ncease... You all..."
+                                "\\n<\\N[3]>In any case, the root cause is the Manifestation\nDevice. If we stop it, the phenomenon will\ncease... You all..."
                             ]
                         },
                         {
@@ -4768,7 +4768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...What is it?"
+                                "\\n<\\N[3]>...What is it?"
                             ]
                         },
                         {
@@ -4830,7 +4830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...However, how..."
+                                "\\n<\\N[3]>...However, how..."
                             ]
                         },
                         {
@@ -5223,7 +5223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>........."
+                                "\\n<\\N[3]>........."
                             ]
                         },
                         {

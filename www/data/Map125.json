@@ -30345,7 +30345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(He's been opening and closing the change slot of\nthe vending machine...)"
+                                "\\n<\\N[3]>(He's been opening and closing the change slot of\nthe vending machine...)"
                             ]
                         },
                         {
@@ -30447,7 +30447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Good work, I just arrived and joined the\ninvestigation of the Madness Phenomenon today..."
+                                "\\n<\\N[3]>Good work, I just arrived and joined the\ninvestigation of the Madness Phenomenon today..."
                             ]
                         },
                         {
@@ -30502,7 +30502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>You probably saw it at the station, but we're\nalways short-staffed because it's constantly in\nthat state..."
+                                "\\n<\\N[3]>You probably saw it at the station, but we're\nalways short-staffed because it's constantly in\nthat state..."
                             ]
                         },
                         {
@@ -30605,7 +30605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Are there no other clues?"
+                                "\\n<\\N[3]>...Are there no other clues?"
                             ]
                         },
                         {
@@ -30653,7 +30653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What...? Ate...?"
+                                "\\n<\\N[3]>...What...? Ate...?"
                             ]
                         },
                         {
@@ -30708,7 +30708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......"
+                                "\\n<\\N[3]>......"
                             ]
                         },
                         {
@@ -30749,7 +30749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Indeed. Thank you very much, and good work."
+                                "\\n<\\N[3]>...Indeed. Thank you very much, and good work."
                             ]
                         },
                         {
@@ -30963,7 +30963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hello? Are you okay?"
+                                "\\n<\\N[3]>Hello? Are you okay?"
                             ]
                         },
                         {
@@ -31018,7 +31018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, it's like they can't hear me at all. Another\n\\C[18]madman\\C[0]... How many is this now?"
+                                "\\n<\\N[3]>No, it's like they can't hear me at all. Another\n\\C[18]madman\\C[0]... How many is this now?"
                             ]
                         },
                         {
@@ -31162,7 +31162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey, you."
+                                "\\n<\\N[3]>Hey, you."
                             ]
                         },
                         {
@@ -31179,7 +31179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's you. If you use bugs in this game, you'll end\nup suffering from traps like a fool."
+                                "\\n<\\N[3]>It's you. If you use bugs in this game, you'll end\nup suffering from traps like a fool."
                             ]
                         },
                         {
@@ -31210,7 +31210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I won't say anything bad. It's better to play the\ngame properly."
+                                "\\n<\\N[3]>I won't say anything bad. It's better to play the\ngame properly."
                             ]
                         },
                         {
@@ -31234,7 +31234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>For now, as a warning. Game over."
+                                "\\n<\\N[3]>For now, as a warning. Game over."
                             ]
                         },
                         {
@@ -31407,7 +31407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -31515,7 +31515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -31623,7 +31623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...? What am I trying to do?)"
+                                "\\n<\\N[3]>(...? What am I trying to do?)"
                             ]
                         },
                         {
@@ -31647,7 +31647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...For now, let's go out into the city.)"
+                                "\\n<\\N[3]>(...For now, let's go out into the city.)"
                             ]
                         },
                         {
@@ -31755,7 +31755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -31863,7 +31863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...? What am I trying to do?)"
+                                "\\n<\\N[3]>(...? What am I trying to do?)"
                             ]
                         },
                         {
@@ -31887,7 +31887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -31964,7 +31964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -32072,7 +32072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...? What am I trying to do?)"
+                                "\\n<\\N[3]>(...? What am I trying to do?)"
                             ]
                         },
                         {
@@ -32096,7 +32096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -32173,7 +32173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -32430,7 +32430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey, you."
+                                "\\n<\\N[3]>Hey, you."
                             ]
                         },
                         {
@@ -32447,7 +32447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's you. If you use bugs in this game, you'll end\nup suffering from traps like a fool."
+                                "\\n<\\N[3]>It's you. If you use bugs in this game, you'll end\nup suffering from traps like a fool."
                             ]
                         },
                         {
@@ -32478,7 +32478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I won't say anything bad. It's better to play the\ngame properly."
+                                "\\n<\\N[3]>I won't say anything bad. It's better to play the\ngame properly."
                             ]
                         },
                         {
@@ -32502,7 +32502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>For now, as a warning. Game over."
+                                "\\n<\\N[3]>For now, as a warning. Game over."
                             ]
                         },
                         {
@@ -33904,7 +33904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I... I can only hear barking from four\nsources...!)"
+                                "\\n<\\N[3]>(I... I can only hear barking from four\nsources...!)"
                             ]
                         },
                         {
@@ -33988,7 +33988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -34216,7 +34216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey, you."
+                                "\\n<\\N[3]>Hey, you."
                             ]
                         },
                         {
@@ -34233,7 +34233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's you. If you use bugs in this game, you'll end\nup suffering like an idiot because there are traps\nset up like that."
+                                "\\n<\\N[3]>It's you. If you use bugs in this game, you'll end\nup suffering like an idiot because there are traps\nset up like that."
                             ]
                         },
                         {
@@ -34264,7 +34264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I won't say anything bad. It's better to play\nproperly."
+                                "\\n<\\N[3]>I won't say anything bad. It's better to play\nproperly."
                             ]
                         },
                         {
@@ -34288,7 +34288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>For now, as a warning. Game over."
+                                "\\n<\\N[3]>For now, as a warning. Game over."
                             ]
                         },
                         {
@@ -34377,7 +34377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey, you."
+                                "\\n<\\N[3]>Hey, you."
                             ]
                         },
                         {
@@ -34394,7 +34394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's you. If you use bugs in this game, you'll end\nup suffering like an idiot because there are traps\nset up like that."
+                                "\\n<\\N[3]>It's you. If you use bugs in this game, you'll end\nup suffering like an idiot because there are traps\nset up like that."
                             ]
                         },
                         {
@@ -34425,7 +34425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I won't say anything bad. It's better to play\nproperly."
+                                "\\n<\\N[3]>I won't say anything bad. It's better to play\nproperly."
                             ]
                         },
                         {
@@ -34449,7 +34449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>For now, as a warning. Game over."
+                                "\\n<\\N[3]>For now, as a warning. Game over."
                             ]
                         },
                         {
@@ -34665,7 +34665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Now, where should I start looking..."
+                                "\\n<\\N[3]>Now, where should I start looking..."
                             ]
                         },
                         {
@@ -34745,7 +34745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Is that... the local detective? First, let's\ngather information from him."
+                                "\\n<\\N[3]>Is that... the local detective? First, let's\ngather information from him."
                             ]
                         },
                         {

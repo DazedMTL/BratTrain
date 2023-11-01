@@ -1103,7 +1103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Damn it... It's a dead end..."
+                                "\\n<\\N[3]>Damn it... It's a dead end..."
                             ]
                         },
                         {
@@ -1357,7 +1357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What on earth are you talking about? I am not\nyour father!"
+                                "\\n<\\N[3]>...What on earth are you talking about? I am not\nyour father!"
                             ]
                         },
                         {
@@ -1457,7 +1457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...This child...)"
+                                "\\n<\\N[3]>(...This child...)"
                             ]
                         },
                         {
@@ -1598,7 +1598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Please, let me go... There are things I must do..."
+                                "\\n<\\N[3]>Please, let me go... There are things I must do..."
                             ]
                         },
                         {
@@ -1667,7 +1667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...This is bad... I really can't communicate with\nthem... Perhaps I have no choice but to somehow\nneutralize this child as well...)"
+                                "\\n<\\N[3]>(...This is bad... I really can't communicate with\nthem... Perhaps I have no choice but to somehow\nneutralize this child as well...)"
                             ]
                         },
                         {
@@ -1838,7 +1838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Huh...huff...huff...!"
+                                "\\n<\\N[3]>Huh...huff...huff...!"
                             ]
                         },
                         {
@@ -1862,7 +1862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(Damn... Is the burden gradually increasing...? My\nsanity...)"
+                                "\\n<\\N[3]>(Damn... Is the burden gradually increasing...? My\nsanity...)"
                             ]
                         },
                         {
@@ -1945,7 +1945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Stop... not now...!"
+                                "\\n<\\N[3]>Stop... not now...!"
                             ]
                         },
                         {
@@ -2007,7 +2007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -2102,7 +2102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>......"
+                                "\\n<\\N[3]>......"
                             ]
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(She still won't let go...)"
+                                "\\n<\\N[3]>(She still won't let go...)"
                             ]
                         },
                         {
@@ -2174,7 +2174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Actually, there's something I want to ask you\nabout. It's regarding a girl named\n\\C[2]Luna\\C[0]..."
+                                "\\n<\\N[3]>...Actually, there's something I want to ask you\nabout. It's regarding a girl named\n\\C[2]Luna\\C[0]..."
                             ]
                         },
                         {
@@ -2236,7 +2236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...It's only for the sake of the investigation.\nRegarding her involvement in the series of\nincidents of madness..."
+                                "\\n<\\N[3]>...It's only for the sake of the investigation.\nRegarding her involvement in the series of\nincidents of madness..."
                             ]
                         },
                         {
@@ -2298,7 +2298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>No, not in that sense... Right, this list."
+                                "\\n<\\N[3]>No, not in that sense... Right, this list."
                             ]
                         },
                         {
@@ -2346,7 +2346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Cocoa... Ah, no, it's a document I obtained from a\ncertain informant. Do you happen to know anything\nabout it?"
+                                "\\n<\\N[3]>Cocoa... Ah, no, it's a document I obtained from a\ncertain informant. Do you happen to know anything\nabout it?"
                             ]
                         },
                         {
@@ -2408,7 +2408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Of course. It's my job, after all."
+                                "\\n<\\N[3]>Of course. It's my job, after all."
                             ]
                         },
                         {
@@ -2494,7 +2494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]Kurube\\C[0]...\\C[2]Ichiru Kurube\\C[0]...."
+                                "\\n<\\N[3]>\\C[2]Kurube\\C[0]...\\C[2]Ichiru Kurube\\C[0]...."
                             ]
                         },
                         {
@@ -2518,7 +2518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(The daughter of the designated violent group\n\\C[2]Kurube Group\\C[0]... Kurube Group... This\nis...)"
+                                "\\n<\\N[3]>(The daughter of the designated violent group\n\\C[2]Kurube Group\\C[0]... Kurube Group... This\nis...)"
                             ]
                         },
                         {
@@ -2542,7 +2542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(Intervening in urban development plans behind the\nscenes before the series of incidents occurred?\nAnd on this scale... It's suspicious.)"
+                                "\\n<\\N[3]>(Intervening in urban development plans behind the\nscenes before the series of incidents occurred?\nAnd on this scale... It's suspicious.)"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Ah, thank you. This is a valuable clue. It's\nthanks to you."
+                                "\\n<\\N[3]>Ah, thank you. This is a valuable clue. It's\nthanks to you."
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Those girls...? Are there others as well?"
+                                "\\n<\\N[3]>Those girls...? Are there others as well?"
                             ]
                         },
                         {
@@ -2780,7 +2780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...It would be better for you to leave from here.\nIf you stay in a place like this..."
+                                "\\n<\\N[3]>...It would be better for you to leave from here.\nIf you stay in a place like this..."
                             ]
                         },
                         {
@@ -3024,7 +3024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...! ...I understand. If I can leave this place, I\npromise I will definitely search for you."
+                                "\\n<\\N[3]>...! ...I understand. If I can leave this place, I\npromise I will definitely search for you."
                             ]
                         },
                         {
@@ -3124,7 +3124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Ah, thank you."
+                                "\\n<\\N[3]>...Ah, thank you."
                             ]
                         },
                         {

@@ -5427,7 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...A tattered \\C[2]stuffed animal's head \\C[0]is\nhanging down...)"
+                                "\\n<\\N[3]>(...A tattered \\C[2]stuffed animal's head \\C[0]is\nhanging down...)"
                             ]
                         },
                         {
@@ -5566,7 +5566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...A tattered \\C[2]stuffed animal's head \\C[0]is\nhanging down...)"
+                                "\\n<\\N[3]>(...A tattered \\C[2]stuffed animal's head \\C[0]is\nhanging down...)"
                             ]
                         },
                         {

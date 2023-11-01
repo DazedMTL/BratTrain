@@ -752,7 +752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What...? Where am I...?"
+                                "\\n<\\N[3]>...What...? Where am I...?"
                             ]
                         },
                         {
@@ -842,7 +842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What?!"
+                                "\\n<\\N[3]>What?!"
                             ]
                         },
                         {
@@ -883,7 +883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I'm sorry! Are you okay? I can't see well..."
+                                "\\n<\\N[3]>I'm sorry! Are you okay? I can't see well..."
                             ]
                         },
                         {
@@ -931,7 +931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...This voice...a girl...?)"
+                                "\\n<\\N[3]>(...This voice...a girl...?)"
                             ]
                         },
                         {
@@ -955,7 +955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What?!"
+                                "\\n<\\N[3]>...What?!"
                             ]
                         },
                         {
@@ -1048,7 +1048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ouch...!"
+                                "\\n<\\N[3]>Ouch...!"
                             ]
                         },
                         {
@@ -1120,7 +1120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ouch... I'm sorry, it seems like I hit my head."
+                                "\\n<\\N[3]>Ouch... I'm sorry, it seems like I hit my head."
                             ]
                         },
                         {

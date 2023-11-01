@@ -5779,7 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
+                                "\\n<\\N[3]>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
+                                "\\n<\\N[3]>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
                             ]
                         },
                         {
@@ -8622,7 +8622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
+                                "\\n<\\N[3]>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
                             ]
                         },
                         {
@@ -11488,7 +11488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
+                                "\\n<\\N[3]>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
                             ]
                         },
                         {

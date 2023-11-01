@@ -1403,7 +1403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Good work. Currently, only the personnel in charge\nand the forensic team are allowed to enter beyond\nthis point, so you cannot pass."
+                                "\\n<\\N[3]>Good work. Currently, only the personnel in charge\nand the forensic team are allowed to enter beyond\nthis point, so you cannot pass."
                             ]
                         },
                         {
@@ -1434,7 +1434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Did something happen?"
+                                "\\n<\\N[3]>...Did something happen?"
                             ]
                         },
                         {
@@ -1451,7 +1451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems that a deranged individual went on a\nrampage ahead. It was a close call, as there could\nhave been casualties."
+                                "\\n<\\N[3]>It seems that a deranged individual went on a\nrampage ahead. It was a close call, as there could\nhave been casualties."
                             ]
                         },
                         {
@@ -1475,7 +1475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did they go on a rampage to the extent of drawing\na boundary line...?"
+                                "\\n<\\N[3]>Did they go on a rampage to the extent of drawing\na boundary line...?"
                             ]
                         },
                         {
@@ -1492,7 +1492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems that they didn't have any weapons or the\nlike, but considering the extent of the damage to\nthe building, it's hard to believe that they\ncaused such havoc with just their bare hands."
+                                "\\n<\\N[3]>It seems that they didn't have any weapons or the\nlike, but considering the extent of the damage to\nthe building, it's hard to believe that they\ncaused such havoc with just their bare hands."
                             ]
                         },
                         {
@@ -1523,31 +1523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>To think that they would destroy the building with\ntheir bare hands. It's a more serious situation\nthan I thought, a case of madness..."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>It seems that they were finally subdued with the\nhelp of dozens of police officers. They were like\na wild beast."
+                                "\\n<\\N[3]>To think that they would destroy the building with\ntheir bare hands. It's a more serious situation\nthan I thought, a case of madness..."
                             ]
                         },
                         {
@@ -1571,7 +1547,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Please be careful. It seems to be a phenomenon\nthat occurs suddenly without any warning signs,\nand we still haven't been able to grasp any\nindications."
+                                "\\n<\\N[3]>It seems that they were finally subdued with the\nhelp of dozens of police officers. They were like\na wild beast."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<\\N[3]>Please be careful. It seems to be a phenomenon\nthat occurs suddenly without any warning signs,\nand we still haven't been able to grasp any\nindications."
                             ]
                         },
                         {
@@ -1602,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ah, thank you."
+                                "\\n<\\N[3]>...Ah, thank you."
                             ]
                         },
                         {
@@ -1619,7 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(An abnormal increase in physical abilities... and\na destructive impulse... I see.)"
+                                "\\n<\\N[3]>(An abnormal increase in physical abilities... and\na destructive impulse... I see.)"
                             ]
                         },
                         {
@@ -1702,7 +1702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Good work. Currently, only the assigned personnel\nand forensic investigators are allowed beyond this\npoint, so you cannot pass."
+                                "\\n<\\N[3]>Good work. Currently, only the assigned personnel\nand forensic investigators are allowed beyond this\npoint, so you cannot pass."
                             ]
                         },
                         {
@@ -1793,7 +1793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
+                                "\\n<\\N[3]>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
                             ]
                         },
                         {
@@ -1877,7 +1877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
+                                "\\n<\\N[3]>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
                             ]
                         },
                         {

@@ -3548,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What on earth are you talking about...?"
+                                "\\n<\\N[3]>What on earth are you talking about...?"
                             ]
                         },
                         {
@@ -3740,7 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If you look closely, there are shoe prints at the\nfoot..."
+                                "\\n<\\N[3]>If you look closely, there are shoe prints at the\nfoot..."
                             ]
                         },
                         {
@@ -3757,7 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Does it lead to the next room...? Let's follow it\nfor a bit."
+                                "\\n<\\N[3]>Does it lead to the next room...? Let's follow it\nfor a bit."
                             ]
                         },
                         {

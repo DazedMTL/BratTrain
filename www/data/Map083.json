@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...There's something written on the door..."
+                                "\\n<\\N[3]>...There's something written on the door..."
                             ]
                         },
                         {
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everything is for the moon. Even if I have to\nsacrifice everything I have, I will never give\nup."
+                                "Everything is for the moon. Even if I have to\nsacrifice everything I have, I will never give up."
                             ]
                         },
                         {
@@ -2371,7 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>.........."
+                                "\\n<\\N[3]>.........."
                             ]
                         },
                         {
@@ -3230,7 +3230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!?...I don't feel the same pressure as before..."
+                                "\\n<\\N[3]>!?...I don't feel the same pressure as before..."
                             ]
                         },
                         {
@@ -3254,7 +3254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Luna disappeared..."
+                                "\\n<\\N[3]>...Luna disappeared..."
                             ]
                         },
                         {
@@ -3278,7 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The door over there... Most likely, the\nmanifestation device is beyond that..."
+                                "\\n<\\N[3]>The door over there... Most likely, the\nmanifestation device is beyond that..."
                             ]
                         },
                         {
@@ -3302,7 +3302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>And...the first lunatic..."
+                                "\\n<\\N[3]>And...the first lunatic..."
                             ]
                         },
                         {
@@ -3472,7 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's blocked by a hard door..."
+                                "\\n<\\N[3]>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3580,7 +3580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's blocked by a hard door..."
+                                "\\n<\\N[3]>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3688,7 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's blocked by a hard door..."
+                                "\\n<\\N[3]>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3903,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If it's a thought form... then what she was\nsaying..."
+                                "\\n<\\N[3]>If it's a thought form... then what she was\nsaying..."
                             ]
                         },
                         {
@@ -4093,7 +4093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If it's a thought form... then what she was\nsaying..."
+                                "\\n<\\N[3]>If it's a thought form... then what she was\nsaying..."
                             ]
                         },
                         {
@@ -4253,7 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Using remains like that..."
+                                "\\n<\\N[3]>...Using remains like that..."
                             ]
                         },
                         {
@@ -4412,7 +4412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Using the remains...to that extent..."
+                                "\\n<\\N[3]>...Using the remains...to that extent..."
                             ]
                         },
                         {
@@ -4610,7 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The plan was once canceled, but they still\nwanted to continue... [Chairman]... This person..."
+                                "\\n<\\N[3]>...The plan was once canceled, but they still\nwanted to continue... [Chairman]... This person..."
                             ]
                         },
                         {
@@ -4814,7 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The plan was once canceled, but they still\nwanted to continue...the chairman...this person..."
+                                "\\n<\\N[3]>...The plan was once canceled, but they still\nwanted to continue...the chairman...this person..."
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...To seriously try to bring back the dead..."
+                                "\\n<\\N[3]>...To seriously try to bring back the dead..."
                             ]
                         },
                         {
@@ -5202,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Trying to bring back the dead...seriously\nattempting such a thing..."
+                                "\\n<\\N[3]>...Trying to bring back the dead...seriously\nattempting such a thing..."
                             ]
                         },
                         {
@@ -5400,7 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! Hikou Group...? I'm sure it was on Coco's\nlist... The business withdrawal should have been\nover half a year ago..."
+                                "\\n<\\N[3]>...! Hikou Group...? I'm sure it was on Coco's\nlist... The business withdrawal should have been\nover half a year ago..."
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If that's the case, this facility should have\nalready been shut down... What's going on...?"
+                                "\\n<\\N[3]>If that's the case, this facility should have\nalready been shut down... What's going on...?"
                             ]
                         },
                         {
@@ -5642,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! Hikou Group...? I'm sure it was on Coco's\nlist too... Their business withdrawal should have\nbeen over half a year ago..."
+                                "\\n<\\N[3]>...! Hikou Group...? I'm sure it was on Coco's\nlist too... Their business withdrawal should have\nbeen over half a year ago..."
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If that's the case, this facility should have\nalready been shut down... What's going on...?"
+                                "\\n<\\N[3]>If that's the case, this facility should have\nalready been shut down... What's going on...?"
                             ]
                         },
                         {
@@ -5916,7 +5916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Accessing the soul... I never thought something\nlike this would be possible..."
+                                "\\n<\\N[3]>Accessing the soul... I never thought something\nlike this would be possible..."
                             ]
                         },
                         {
@@ -6144,7 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Accessing the soul... I never thought something\nlike this would be possible..."
+                                "\\n<\\N[3]>Accessing the soul... I never thought something\nlike this would be possible..."
                             ]
                         },
                         {
@@ -6418,7 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Death spirits...life spirits...are there others\nlike them as well..."
+                                "\\n<\\N[3]>Death spirits...life spirits...are there others\nlike them as well..."
                             ]
                         },
                         {
@@ -6691,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Death spirits... life spirits... Are there others\nlike them..."
+                                "\\n<\\N[3]>Death spirits... life spirits... Are there others\nlike them..."
                             ]
                         },
                         {

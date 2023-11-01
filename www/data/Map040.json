@@ -2479,7 +2479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I'm curious about that girl... I'll try talking\nto her)"
+                                "\\n<\\N[3]>(I'm curious about that girl... I'll try talking\nto her)"
                             ]
                         },
                         {
@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I'm curious about that girl... I'll try talking\nto her)"
+                                "\\n<\\N[3]>(I'm curious about that girl... I'll try talking\nto her)"
                             ]
                         },
                         {
@@ -2647,7 +2647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I'm curious about that girl... I should try\ntalking to her)"
+                                "\\n<\\N[3]>(I'm curious about that girl... I should try\ntalking to her)"
                             ]
                         },
                         {
@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! No one is here...!? And... when did it become\nnight...?"
+                                "\\n<\\N[3]>...! No one is here...!? And... when did it become\nnight...?"
                             ]
                         },
                         {
@@ -2906,7 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Do you know something? What exactly happened..."
+                                "\\n<\\N[3]>...Do you know something? What exactly happened..."
                             ]
                         },
                         {
@@ -2968,7 +2968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What on earth are you talking about? Stop\nfooling around..."
+                                "\\n<\\N[3]>...What on earth are you talking about? Stop\nfooling around..."
                             ]
                         },
                         {
@@ -3038,7 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I am..."
+                                "\\n<\\N[3]>...I am..."
                             ]
                         },
                         {
@@ -3092,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I am Detective. I am a detective dispatched\nfrom the Police Agency."
+                                "\\n<\\N[3]>...I am \\N[3]. I am a detective dispatched from\nthe Police Agency."
                             ]
                         },
                         {
@@ -3123,7 +3123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>Oh~ Detective-san ♥ You really are wonderful ♥"
+                                "\\n<???>Oh~ \\N[3]-san ♥ You really are wonderful ♥"
                             ]
                         },
                         {
@@ -3178,7 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I'm sorry, but I can't disclose that kind of\ninformation to civilians."
+                                "\\n<\\N[3]>...I'm sorry, but I can't disclose that kind of\ninformation to civilians."
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(!?...What did this child just say?)"
+                                "\\n<\\N[3]>(!?...What did this child just say?)"
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Idiot... The phenomenon of madness is the code\nname currently used within the investigative\nagency...)"
+                                "\\n<\\N[3]>(Idiot... The phenomenon of madness is the code\nname currently used within the investigative\nagency...)"
                             ]
                         },
                         {
@@ -3340,7 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Why is a child like this... No, wait, if I show\nany signs of agitation here, it will confirm...)"
+                                "\\n<\\N[3]>(Why is a child like this... No, wait, if I show\nany signs of agitation here, it will confirm...)"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(!?...No way... Can she read minds...? No, that's\nridiculous...)"
+                                "\\n<\\N[3]>(!?...No way... Can she read minds...? No, that's\nridiculous...)"
                             ]
                         },
                         {
@@ -3464,7 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...No way... How did you..."
+                                "\\n<\\N[3]>...No way... How did you..."
                             ]
                         },
                         {
@@ -3526,7 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...From now on...?"
+                                "\\n<\\N[3]>...From now on...?"
                             ]
                         },
                         {
@@ -3588,7 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...What..."
+                                "\\n<\\N[3]>...What..."
                             ]
                         },
                         {
@@ -3723,7 +3723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...? What's going on?"
+                                "\\n<\\N[3]>...? What's going on?"
                             ]
                         },
                         {
@@ -3812,7 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>........."
+                                "\\n<\\N[3]>........."
                             ]
                         },
                         {
@@ -3877,7 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>What on earth are you..."
+                                "\\n<\\N[3]>What on earth are you..."
                             ]
                         },
                         {

@@ -1455,7 +1455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...!?"
+                                "\\n<\\N[3]>...!?"
                             ]
                         },
                         {
@@ -1534,7 +1534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>Wha-! What are you...! S-Stay away!"
+                                "\\n<\\N[3]>Wha-! What are you...! S-Stay away!"
                             ]
                         },
                         {
@@ -1729,7 +1729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...What is going on with this train car? Why are\nyou all...?"
+                                "\\n<\\N[3]>...What is going on with this train car? Why are\nyou all...?"
                             ]
                         },
                         {
@@ -1825,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]そう、\\C[10]私達\\C[0]\\n<???>Like that♡"
+                                "ルナ\\SE[default]Yes... \\C[10]Beautiful\\C[0] like us. ♡"
                             ]
                         },
                         {

@@ -3750,7 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -3827,7 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -3995,7 +3995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -4086,7 +4086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
+                                "\\n<\\N[3]>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
@@ -4177,7 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I've never seen an empty coin locker before...)"
+                                "\\n<\\N[3]>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
@@ -4261,7 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {
@@ -4345,7 +4345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I've never seen an empty coin locker before...)"
+                                "\\n<\\N[3]>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4506,7 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4917,7 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is strange... No one is here...)"
+                                "\\n<\\N[3]>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -5188,7 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {

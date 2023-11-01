@@ -4040,7 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
@@ -4183,7 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -4207,7 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
@@ -4326,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                                "\\n<\\N[3]>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
@@ -4350,7 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something\\C[0] somewhere... Let me search for\nit."
+                                "\\n<\\N[3]>I have a feeling that there might be\n\\C[2]something\\C[0] somewhere... Let me search for\nit."
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this... a quiz...?"
+                                "\\n<\\N[3]>What is this... a quiz...?"
                             ]
                         },
                         {

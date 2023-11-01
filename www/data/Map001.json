@@ -2057,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Oh... what's this...?"
+                                "\\n<\\N[3]>Oh... what's this...?"
                             ]
                         },
                         {
@@ -2105,7 +2105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Being suddenly dispatched and told something\nlike that, there's no way I would know things that\nthe forensic science laboratory knows..."
+                                "\\n<\\N[3]>...Being suddenly dispatched and told something\nlike that, there's no way I would know things that\nthe forensic science laboratory knows..."
                             ]
                         },
                         {
@@ -2160,7 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......"
+                                "\\n<\\N[3]>......"
                             ]
                         },
                         {
@@ -2359,7 +2359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Well then... let's first take a look at the\nsituation, shall we?"
+                                "\\n<\\N[3]>Well then... let's first take a look at the\nsituation, shall we?"
                             ]
                         },
                         {

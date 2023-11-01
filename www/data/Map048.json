@@ -1675,7 +1675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems like this elevator is not powered on..."
+                                "\\n<\\N[3]>It seems like this elevator is not powered on..."
                             ]
                         },
                         {
@@ -1699,7 +1699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If we can just get it powered on, it should\nmove... Shall we try to find the distribution\npanel?"
+                                "\\n<\\N[3]>If we can just get it powered on, it should\nmove... Shall we try to find the distribution\npanel?"
                             ]
                         },
                         {
@@ -1998,7 +1998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>Huh...? This elevator can only go between the\n\\c[2]1st and 3rd floors\\c[0]?"
+                                "\\n<\\N[3]>Huh...? This elevator can only go between the\n\\c[2]1st and 3rd floors\\c[0]?"
                             ]
                         },
                         {
@@ -2022,7 +2022,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>Well, the goal is to go to the 3rd floor. Is there\nany problem in particular?"
+                                "\\n<\\N[3]>Well, the goal is to go to the 3rd floor. Is there\nany problem in particular?"
                             ]
                         },
                         {
@@ -2305,7 +2305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>The lights are on... The elevator should be\nworking now."
+                                "\\n<\\N[3]>The lights are on... The elevator should be\nworking now."
                             ]
                         },
                         {
@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>The fuse in the distribution panel is broken... So\nwhat those kids were talking about earlier was\nthis."
+                                "\\n<\\N[3]>The fuse in the distribution panel is broken... So\nwhat those kids were talking about earlier was\nthis."
                             ]
                         },
                         {
@@ -2389,7 +2389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Is there a \\C[2]fuse\\C[0] somewhere...? Or... if\nit's the \\c[2]distribution room\\c[0], it must be\nthere for sure..."
+                                "\\n<\\N[3]>Is there a \\C[2]fuse\\C[0] somewhere...? Or... if\nit's the \\c[2]distribution room\\c[0], it must be\nthere for sure..."
                             ]
                         },
                         {
@@ -2490,7 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's functioning properly now that I've inserted\nthe fuse."
+                                "\\n<\\N[3]>It's functioning properly now that I've inserted\nthe fuse."
                             ]
                         },
                         {

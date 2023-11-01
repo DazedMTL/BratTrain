@@ -2755,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(What on earth are you talking about...?)"
+                                "\\n<\\N[3]>(What on earth are you talking about...?)"
                             ]
                         },
                         {
@@ -3675,7 +3675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The station attendant is working frantically...)"
+                                "\\n<\\N[3]>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
+                                "\\n<\\N[3]>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The station attendant is working frantically...)"
+                                "\\n<\\N[3]>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -3793,7 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
+                                "\\n<\\N[3]>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
@@ -3877,7 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
+                                "\\n<\\N[3]>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
@@ -3968,7 +3968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
+                                "\\n<\\N[3]>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
@@ -4059,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
+                                "\\n<\\N[3]>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
@@ -4150,7 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I've never seen an empty coin locker before...)"
+                                "\\n<\\N[3]>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
@@ -4234,7 +4234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
                             ]
                         },
                         {
@@ -4318,7 +4318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I've never seen an empty coin locker before...)"
+                                "\\n<\\N[3]>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
@@ -4402,7 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4479,7 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I don't particularly want anything right now)"
+                                "\\n<\\N[3]>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4695,7 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                                "\\n<\\N[3]>Stop it! I'm arresting you on the spot!"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I heard that the crime rate is increasing... but\nthis is something else...)"
+                                "\\n<\\N[3]>(I heard that the crime rate is increasing... but\nthis is something else...)"
                             ]
                         },
                         {
@@ -4858,7 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                                "\\n<\\N[3]>Stop it! I'm arresting you on the spot!"
                             ]
                         },
                         {
@@ -4882,7 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I heard that the crime rate is increasing... but\nthis is something else...)"
+                                "\\n<\\N[3]>(I heard that the crime rate is increasing... but\nthis is something else...)"
                             ]
                         },
                         {
@@ -5021,7 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                                "\\n<\\N[3]>Stop it! I'm arresting you on the spot!"
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is an intense city...)"
+                                "\\n<\\N[3]>(This is an intense city...)"
                             ]
                         },
                         {
@@ -5402,7 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I haven't finished investigating the town.)"
+                                "\\n<\\N[3]>(I haven't finished investigating the town.)"
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>.........?"
+                                "\\n<\\N[3]>.........?"
                             ]
                         },
                         {
@@ -5530,7 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>........."
+                                "\\n<\\N[3]>........."
                             ]
                         },
                         {
@@ -5679,7 +5679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(What rights do you have if you don't consider the\ninconvenience to others... honestly...)"
+                                "\\n<\\N[3]>(What rights do you have if you don't consider the\ninconvenience to others... honestly...)"
                             ]
                         },
                         {
@@ -5835,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is this due to the symptoms we've seen\nbefore...?)"
+                                "\\n<\\N[3]>(Is this due to the symptoms we've seen\nbefore...?)"
                             ]
                         },
                         {
@@ -5912,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The station attendant is working frantically...)"
+                                "\\n<\\N[3]>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
+                                "\\n<\\N[3]>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
@@ -6030,7 +6030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is this also another one of those\n\\C[2]phenomena\\C[0]...?)"
+                                "\\n<\\N[3]>(Is this also another one of those\n\\C[2]phenomena\\C[0]...?)"
                             ]
                         },
                         {
@@ -6095,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Well, if you dress like that, of course people\nwill look."
+                                "\\n<\\N[3]>...Well, if you dress like that, of course people\nwill look."
                             ]
                         },
                         {
@@ -6150,7 +6150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...What on earth has happened to modern Japan...)"
+                                "\\n<\\N[3]>(...What on earth has happened to modern Japan...)"
                             ]
                         },
                         {
@@ -6294,7 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -6371,7 +6371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -6448,7 +6448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -6525,7 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I have no business here...)"
+                                "\\n<\\N[3]>(I have no business here...)"
                             ]
                         },
                         {
@@ -6602,7 +6602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
+                                "\\n<\\N[3]>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
                             ]
                         },
                         {
@@ -6691,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's becoming more intense than I expected... The\natmosphere feels strange too.)"
+                                "\\n<\\N[3]>(It's becoming more intense than I expected... The\natmosphere feels strange too.)"
                             ]
                         },
                         {
@@ -6715,7 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's first leave the station and see\nwhat the town looks like.)"
+                                "\\n<\\N[3]>(Anyway, let's first leave the station and see\nwhat the town looks like.)"
                             ]
                         },
                         {

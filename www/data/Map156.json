@@ -3282,7 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>S-Sorry! Did I hit you somewhere...?"
+                                "\\n<\\N[3]>S-Sorry! Did I hit you somewhere...?"
                             ]
                         },
                         {
@@ -3416,7 +3416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...Where did they go...?"
+                                "\\n<\\N[3]>...Where did they go...?"
                             ]
                         },
                         {
@@ -3440,7 +3440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...A-anyway, let's move forward from here."
+                                "\\n<\\N[3]>...A-anyway, let's move forward from here."
                             ]
                         },
                         {
@@ -3525,7 +3525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(No...! Let's temporarily move away from here...!)"
+                                "\\n<\\N[3]>(No...! Let's temporarily move away from here...!)"
                             ]
                         },
                         {
@@ -4967,7 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>W-What is this place..."
+                                "\\n<\\N[3]>W-What is this place..."
                             ]
                         },
                         {
@@ -5208,7 +5208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Papa...? What on earth is going on...?"
+                                "\\n<\\N[3]>Papa...? What on earth is going on...?"
                             ]
                         },
                         {
@@ -5273,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What are you talking about... What is this\nplace...? Where is the exit..."
+                                "\\n<\\N[3]>What are you talking about... What is this\nplace...? Where is the exit..."
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(What is this child...)"
+                                "\\n<\\N[3]>(What is this child...)"
                             ]
                         },
                         {
@@ -5420,7 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...I don't know what's going on, but this\natmosphere is bad...!)"
+                                "\\n<\\N[3]>(...I don't know what's going on, but this\natmosphere is bad...!)"
                             ]
                         },
                         {

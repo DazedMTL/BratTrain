@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Don't worry, this will heal quickly."
+                                "\\n<\\N[3]>Don't worry, this will heal quickly."
                             ]
                         },
                         {
@@ -5483,7 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...But, are we really inside a train here...?"
+                                "\\n<\\N[3]>...But, are we really inside a train here...?"
                             ]
                         },
                         {
@@ -5507,7 +5507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...For now, let's wait for that girl to come back."
+                                "\\n<\\N[3]>...For now, let's wait for that girl to come back."
                             ]
                         },
                         {
@@ -5774,7 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...She's not coming back..."
+                                "\\n<\\N[3]>...She's not coming back..."
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Where on earth did she go...? Let's search around\na bit."
+                                "\\n<\\N[3]>Where on earth did she go...? Let's search around\na bit."
                             ]
                         },
                         {

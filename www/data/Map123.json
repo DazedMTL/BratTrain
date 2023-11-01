@@ -4828,7 +4828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is he drunk...? What a nuisance...)"
+                                "\\n<\\N[3]>(Is he drunk...? What a nuisance...)"
                             ]
                         },
                         {
@@ -5124,7 +5124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(How much did you drink to end up like this...)"
+                                "\\n<\\N[3]>(How much did you drink to end up like this...)"
                             ]
                         },
                         {
@@ -5294,7 +5294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(How much do you have to drink to end up like\nthis...)"
+                                "\\n<\\N[3]>(How much do you have to drink to end up like\nthis...)"
                             ]
                         },
                         {
@@ -5411,7 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Seriously... What on earth is happening in this\nplace...)"
+                                "\\n<\\N[3]>(Seriously... What on earth is happening in this\nplace...)"
                             ]
                         },
                         {
@@ -5559,7 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ahaha... It's work-related... It's not exactly\nlike that."
+                                "\\n<\\N[3]>Ahaha... It's work-related... It's not exactly\nlike that."
                             ]
                         },
                         {
@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(If I could, I would prefer to be assigned to a\ndifferent location...)"
+                                "\\n<\\N[3]>(If I could, I would prefer to be assigned to a\ndifferent location...)"
                             ]
                         },
                         {
@@ -6110,7 +6110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(!?... What is this guy...!?)"
+                                "\\n<\\N[3]>(!?... What is this guy...!?)"
                             ]
                         },
                         {
@@ -6189,7 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...What we should be worried about is not the\ninfection, but the sickness of the mind...)"
+                                "\\n<\\N[3]>(...What we should be worried about is not the\ninfection, but the sickness of the mind...)"
                             ]
                         },
                         {
@@ -6983,7 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Oh boy, looks like we've got another weirdo...)"
+                                "\\n<\\N[3]>(Oh boy, looks like we've got another weirdo...)"
                             ]
                         },
                         {
@@ -7017,7 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Y-Yes, what is it...?"
+                                "\\n<\\N[3]>Y-Yes, what is it...?"
                             ]
                         },
                         {
@@ -7058,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Um, excuse me, sir..."
+                                "\\n<\\N[3]>Um, excuse me, sir..."
                             ]
                         },
                         {
@@ -7113,7 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...I'm not quite sure what's going on, but it\nseems better to step away while they're enjoying\nthemselves...)"
+                                "\\n<\\N[3]>(...I'm not quite sure what's going on, but it\nseems better to step away while they're enjoying\nthemselves...)"
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Now it's a magician...? Is this town hosting a\ncosplay event or something?)"
+                                "\\n<\\N[3]>(Now it's a magician...? Is this town hosting a\ncosplay event or something?)"
                             ]
                         },
                         {
@@ -7245,7 +7245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!!"
+                                "\\n<\\N[3]>!!"
                             ]
                         },
                         {
@@ -7293,7 +7293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I want to go home...)"
+                                "\\n<\\N[3]>(I want to go home...)"
                             ]
                         },
                         {

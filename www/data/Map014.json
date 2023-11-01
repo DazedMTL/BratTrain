@@ -3151,7 +3151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>The lock is locked and won't open..."
+                                "\\n<\\N[3]>The lock is locked and won't open..."
                             ]
                         },
                         {
@@ -3260,7 +3260,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>Ugh! \\C[24] Damn it! You fell for it!"
+                                "\\n<sine:ω>ω: Ugh! \\C[24] Damn it! You fell for it!"
                             ]
                         },
                         {
@@ -3284,7 +3284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: Did you really think I would let you pass so\neasily? \\C[2]You can't get through there without a\nkey, you know!"
+                                "\\n<sine:ω>ω: ω: Did you really think I would let you pass so\neasily? \\C[2]You can't get through there without a\nkey, you know!"
                             ]
                         },
                         {
@@ -3308,165 +3308,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>...This is troublesome. As expected of a genius\ngamer. Games are your specialty, huh?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Kishishi! That's right, isn't it? You\nfinally decided to admit it, huh!"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<Detective>Ah, you're clever. And, I caught a glimpse of you\nearlier, you're very cute."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<Detective>You will surely become a beauty that everyone will\nturn their heads to in the future."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]!...R-Really...?"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<Detective>Of course. And on top of that, I'm surprised to\nfind out that you're that genius gamer."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<Detective>I would love to have your autograph, but\nunfortunately, it seems like a wish that won't\ncome true for someone like me who can't pass\nthrough here."
+                                "\\n<\\N[3]>...This is troublesome. As expected of a genius\ngamer. Games are your specialty, huh?"
                             ]
                         },
                         {
@@ -3497,62 +3339,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...W-Well, I guess I have no choice! I'll\ntell you the location of the key as a special\nfavor!"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]The key was left with the drone in the\nroom earlier, so \\C[2]defeat it and get your hands\non it\\C[24]!"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Of course, \\C[2]I have disabled the\ndrone\\C[24]..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Kishishi! That's right, isn't it? You\nfinally decided to admit it, huh!"
                             ]
                         },
                         {
@@ -3576,7 +3363,220 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>Alright, it's the drone. Thanks for your help,\nCoco-chan."
+                                "\\n<\\N[3]>Ah, you're clever. And, I caught a glimpse of you\nearlier, you're very cute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<\\N[3]>You will surely become a beauty that everyone will\nturn their heads to in the future."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ω: \\C[24]!...R-Really...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<\\N[3]>Of course. And on top of that, I'm surprised to\nfind out that you're that genius gamer."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<\\N[3]>I would love to have your autograph, but\nunfortunately, it seems like a wish that won't\ncome true for someone like me who can't pass\nthrough here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ω: \\C[24]...W-Well, I guess I have no choice!\nI'll tell you the location of the key as a special\nfavor!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ω: \\C[24]The key was left with the drone in the\nroom earlier, so \\C[2]defeat it and get your hands\non it\\C[24]!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ω: \\C[24]Of course, \\C[2]I have disabled the\ndrone\\C[24]..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<\\N[3]>Alright, it's the drone. Thanks for your help,\nCoco-chan."
                             ]
                         },
                         {
@@ -3600,7 +3600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Hey, you! Don't tell me...!"
+                                "\\n<sine:ω>ω: ω: \\C[24]...Hey, you! Don't tell me...!"
                             ]
                         },
                         {
@@ -3624,7 +3624,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>It seems like you're not good at playing mind\ngames. I'm sorry, but a detective can't do their\njob without being skilled in some negotiation\ntactics."
+                                "\\n<\\N[3]>It seems like you're not good at playing mind\ngames. I'm sorry, but a detective can't do their\njob without being skilled in some negotiation\ntactics."
                             ]
                         },
                         {
@@ -3655,7 +3655,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Th-this...damn old man!"
+                                "\\n<sine:ω>ω: ω: \\C[24]...Th-this...damn old man!"
                             ]
                         },
                         {
@@ -8859,7 +8859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hm...? If I look closely, there's something\nwritten on this pillar..."
+                                "\\n<\\N[3]>Hm...? If I look closely, there's something\nwritten on this pillar..."
                             ]
                         },
                         {
@@ -8907,7 +8907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>......."
+                                "\\n<\\N[3]>......."
                             ]
                         },
                         {
@@ -9017,7 +9017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...It might be a trap, let's not do it."
+                                "\\n<\\N[3]>...It might be a trap, let's not do it."
                             ]
                         },
                         {

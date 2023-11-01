@@ -3790,7 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...!? What is this...!?"
+                                "\\n<\\N[3]>...!? What is this...!?"
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Is this the work of that girl...? But how...did\nsomething like this happen..."
+                                "\\n<\\N[3]>...Is this the work of that girl...? But how...did\nsomething like this happen..."
                             ]
                         },
                         {
@@ -3855,7 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Anyway, let's first go to a place we can go to."
+                                "\\n<\\N[3]>...Anyway, let's first go to a place we can go to."
                             ]
                         },
                         {
@@ -4043,7 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {

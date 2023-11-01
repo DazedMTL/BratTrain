@@ -2973,7 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<White-haired Detective>Detective-san! Detective-san! Are you okay?!"
+                                "\\n<White-haired Detective>\\N[3]-san! \\N[3]-san! Are you okay?!"
                             ]
                         },
                         {
@@ -3143,7 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This place...! The device...!"
+                                "\\n<\\N[3]>This place...! The device...!"
                             ]
                         },
                         {
@@ -3242,7 +3242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Uh... Ah... I'm fine... Where am I...?"
+                                "\\n<\\N[3]>Uh... Ah... I'm fine... Where am I...?"
                             ]
                         },
                         {
@@ -3304,7 +3304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I was investigating...on the train... No,\nunderground..."
+                                "\\n<\\N[3]>...I was investigating...on the train... No,\nunderground..."
                             ]
                         },
                         {
@@ -3390,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah... I see... Well, that's a relief then..."
+                                "\\n<\\N[3]>Ah... I see... Well, that's a relief then..."
                             ]
                         },
                         {
@@ -3445,7 +3445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Well, there's no need to hurry so much. Most\nlikely, the phenomenon of people going insane\nshould stop by now."
+                                "\\n<\\N[3]>...Well, there's no need to hurry so much. Most\nlikely, the phenomenon of people going insane\nshould stop by now."
                             ]
                         },
                         {

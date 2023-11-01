@@ -2294,7 +2294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Kishishi...lol"
+                                "\\n<sine:ω>ω: ω: \\C[24]Kishishi...lol"
                             ]
                         },
                         {
@@ -2311,7 +2311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(...? Are you laughing?)"
+                                "\\n<\\N[3]>(...? Are you laughing?)"
                             ]
                         },
                         {
@@ -2335,7 +2335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(...Considering her personality, isn't it\nunnatural for things to go smoothly?)"
+                                "\\n<\\N[3]>(...Considering her personality, isn't it\nunnatural for things to go smoothly?)"
                             ]
                         },
                         {
@@ -2359,7 +2359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>(...Well, there's no point in thinking about it\nnow. Let's move on.)"
+                                "\\n<\\N[3]>(...Well, there's no point in thinking about it\nnow. Let's move on.)"
                             ]
                         },
                         {
@@ -3855,7 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Alright, now I've obtained the key to proceed\nfurther into \\C[2]Γ-3\\C[0]. Let's hurry ahead."
+                                "\\n<\\N[3]>Alright, now I've obtained the key to proceed\nfurther into \\C[2]Γ-3\\C[0]. Let's hurry ahead."
                             ]
                         },
                         {
@@ -7449,7 +7449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(There are lockers here too... That girl didn't\nlike being seen near the lockers...)"
+                                "\\n<\\N[3]>(There are lockers here too... That girl didn't\nlike being seen near the lockers...)"
                             ]
                         },
                         {
@@ -7830,7 +7830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The concept of a transcendent being disguised\nwhen discussing the determinism of the future\nbased on the principle of causality,\n'\\c[2]Laplace's Demon\\c[0]'"
+                                "The concept of a transcendent being disguised when\ndiscussing the determinism of the future based on\nthe principle of causality, '\\c[2]Laplace's\nDemon\\c[0]'"
                             ]
                         },
                         {
@@ -7923,7 +7923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Surprisingly, that girl is actually good at\nstudying."
+                                "\\n<\\N[3]>...Surprisingly, that girl is actually good at\nstudying."
                             ]
                         },
                         {
@@ -7999,7 +7999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The concept of a transcendent being disguised\nwhen discussing the determinism of the future\nbased on the principle of causality,\n'\\c[2]Laplace's Demon\\c[0]'"
+                                "The concept of a transcendent being disguised when\ndiscussing the determinism of the future based on\nthe principle of causality, '\\c[2]Laplace's\nDemon\\c[0]'"
                             ]
                         },
                         {
@@ -8092,7 +8092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Surprisingly, that girl is actually good at\nstudying."
+                                "\\n<\\N[3]>...Surprisingly, that girl is actually good at\nstudying."
                             ]
                         },
                         {

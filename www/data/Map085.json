@@ -11431,7 +11431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The shopping district earlier...? In that case,\nlet's head towards the \\c[2] station."
+                                "\\n<\\N[3]>The shopping district earlier...? In that case,\nlet's head towards the \\c[2] station."
                             ]
                         },
                         {
@@ -11607,7 +11607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -12036,7 +12036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
+                                "\\n<\\N[3]>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
@@ -12060,7 +12060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no choice but to go and see for myself."
+                                "\\n<\\N[3]>...I have no choice but to go and see for myself."
                             ]
                         },
                         {
@@ -12206,7 +12206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
+                                "\\n<\\N[3]>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
@@ -12230,7 +12230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no choice but to go and see for myself."
+                                "\\n<\\N[3]>...I have no choice but to go and see for myself."
                             ]
                         },
                         {
@@ -12367,7 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did something like this exist until just now?"
+                                "\\n<\\N[3]>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12444,7 +12444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did something like this exist until just now?"
+                                "\\n<\\N[3]>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12521,7 +12521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did something like this exist until just now?"
+                                "\\n<\\N[3]>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12598,7 +12598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Did something like this exist until just now?"
+                                "\\n<\\N[3]>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -18790,7 +18790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
+                                "\\n<\\N[3]>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
@@ -18814,7 +18814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no choice but to go and see for myself."
+                                "\\n<\\N[3]>...I have no choice but to go and see for myself."
                             ]
                         },
                         {

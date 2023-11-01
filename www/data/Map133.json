@@ -4246,7 +4246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>W-What is this...!"
+                                "\\n<\\N[3]>W-What is this...!"
                             ]
                         },
                         {
@@ -4311,7 +4311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!?... Why are you... using that term..."
+                                "\\n<\\N[3]>!?... Why are you... using that term..."
                             ]
                         },
                         {
@@ -4366,7 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Could it be... the former detective...?"
+                                "\\n<\\N[3]>...Could it be... the former detective...?"
                             ]
                         },
                         {
@@ -4462,7 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I heard that several detectives who went to\ninvestigate the scene have become mad... Could it\nbe that one of them...?)"
+                                "\\n<\\N[3]>(I heard that several detectives who went to\ninvestigate the scene have become mad... Could it\nbe that one of them...?)"
                             ]
                         },
                         {
@@ -4493,7 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>As I thought... it seems like you know something.\nNo, I should say you're involved."
+                                "\\n<\\N[3]>As I thought... it seems like you know something.\nNo, I should say you're involved."
                             ]
                         },
                         {
@@ -4594,7 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no choice... I need to subdue him\nquickly and hear what those girls have to say as\nsoon as possible."
+                                "\\n<\\N[3]>...I have no choice... I need to subdue him\nquickly and hear what those girls have to say as\nsoon as possible."
                             ]
                         },
                         {
@@ -4720,7 +4720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...In any case, I need to apply a little pressure."
+                                "\\n<\\N[3]>...In any case, I need to apply a little pressure."
                             ]
                         },
                         {
@@ -4799,7 +4799,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>What?... What kind of..."
+                                "\\n<\\N[3]>What?... What kind of..."
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...I forgot something... There's still a place\n\\C[10]that I haven't searched \\C[0]yet... I'll\nsearch a little more and find the path to move\nforward."
+                                "\\n<\\N[3]>...I forgot something... There's still a place\n\\C[10]that I haven't searched \\C[0]yet... I'll\nsearch a little more and find the path to move\nforward."
                             ]
                         },
                         {
@@ -5494,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>W-What is this...?!"
+                                "\\n<\\N[3]>W-What is this...?!"
                             ]
                         },
                         {
@@ -5559,7 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>!?...Why are you...using that nickname..."
+                                "\\n<\\N[3]>!?...Why are you...using that nickname..."
                             ]
                         },
                         {
@@ -5614,7 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Could it be...the former detective...?"
+                                "\\n<\\N[3]>...Could it be...the former detective...?"
                             ]
                         },
                         {
@@ -5710,7 +5710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(I heard that several detectives who went to\ninvestigate the scene have become mad... Could it\nbe that one of them...?)"
+                                "\\n<\\N[3]>(I heard that several detectives who went to\ninvestigate the scene have become mad... Could it\nbe that one of them...?)"
                             ]
                         },
                         {
@@ -5741,7 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>As I thought... It seems like you know something.\nNo, I should say you're involved."
+                                "\\n<\\N[3]>As I thought... It seems like you know something.\nNo, I should say you're involved."
                             ]
                         },
                         {
@@ -5842,7 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I have no choice... I need to subdue him\nquickly and hear what those girls have to say as\nsoon as possible."
+                                "\\n<\\N[3]>...I have no choice... I need to subdue him\nquickly and hear what those girls have to say as\nsoon as possible."
                             ]
                         },
                         {
@@ -5968,7 +5968,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...In any case, I need to apply a little pressure."
+                                "\\n<\\N[3]>...In any case, I need to apply a little pressure."
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>What?... What kind of thing is that..."
+                                "\\n<\\N[3]>What?... What kind of thing is that..."
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...I still haven't searched for the forgotten\nitem... There must be a place I haven't looked\nyet.... Let's search a little more and find the\npath to move forward."
+                                "\\n<\\N[3]>...I still haven't searched for the forgotten\nitem... There must be a place I haven't looked\nyet.... Let's search a little more and find the\npath to move forward."
                             ]
                         },
                         {

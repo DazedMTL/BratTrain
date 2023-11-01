@@ -345,7 +345,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>N...Nana..."
+                            "\\n<\\N[3]>N...Nana..."
                         ]
                     },
                     {
@@ -362,7 +362,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>What are you all doing?!"
+                            "\\n<\\N[3]>What are you all doing?!"
                         ]
                     },
                     {
@@ -461,7 +461,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>(Y-You... You dare to mock an adult...)"
+                            "\\n<\\N[3]>(Y-You... You dare to mock an adult...)"
                         ]
                     },
                     {
@@ -533,7 +533,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>B-Because... they're just children..."
+                            "\\n<\\N[3]>B-Because... they're just children..."
                         ]
                     },
                     {
@@ -615,7 +615,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>(How...! Such insolence...!)"
+                            "\\n<\\N[3]>(How...! Such insolence...!)"
                         ]
                     },
                     {
@@ -694,7 +694,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>Th-There's no way something like that can be done!"
+                            "\\n<\\N[3]>Th-There's no way something like that can be done!"
                         ]
                     },
                     {
@@ -859,7 +859,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>Damn it...! This... is getting out of hand...!"
+                            "\\n<\\N[3]>Damn it...! This... is getting out of hand...!"
                         ]
                     },
                     {
@@ -945,7 +945,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>What does this mean...?"
+                            "\\n<\\N[3]>What does this mean...?"
                         ]
                     },
                     {
@@ -1041,7 +1041,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>!?"
+                            "\\n<\\N[3]>!?"
                         ]
                     },
                     {
@@ -1106,7 +1106,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>...Damn it..."
+                            "\\n<\\N[3]>...Damn it..."
                         ]
                     },
                     {
@@ -1164,7 +1164,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>(That's right... This is to break through this\nsituation...)"
+                            "\\n<\\N[3]>(That's right... This is to break through this\nsituation...)"
                         ]
                     },
                     {
@@ -1181,7 +1181,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>(It's not a guilty feeling... And to teach these\nchildren the fear of adults...)"
+                            "\\n<\\N[3]>(It's not a guilty feeling... And to teach these\nchildren the fear of adults...)"
                         ]
                     },
                     {
@@ -5248,7 +5248,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>It's no use."
+                            "\\n<\\N[3]>It's no use."
                         ]
                     },
                     {
@@ -8820,7 +8820,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>I don't intend to fight..."
+                            "\\n<\\N[3]>I don't intend to fight..."
                         ]
                     },
                     {
@@ -10656,7 +10656,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>Excellent..."
+                            "\\n<\\N[3]>Excellent..."
                         ]
                     },
                     {
@@ -10952,7 +10952,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>Such an intense killing intent... She may look the\nsame, but... she's like a completely different\nperson... no, something else entirely."
+                            "\\n<\\N[3]>Such an intense killing intent... She may look the\nsame, but... she's like a completely different\nperson... no, something else entirely."
                         ]
                     },
                     {
@@ -10983,7 +10983,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>Let's fight for real... Otherwise, we'll be done\nfor."
+                            "\\n<\\N[3]>Let's fight for real... Otherwise, we'll be done\nfor."
                         ]
                     },
                     {
@@ -11048,7 +11048,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>Did I manage to wear you down a bit...? But you're\nstill going strong... I need to wear you down even\nmore...!"
+                            "\\n<\\N[3]>Did I manage to wear you down a bit...? But you're\nstill going strong... I need to wear you down even\nmore...!"
                         ]
                     },
                     {
@@ -11127,7 +11127,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>...! The atmosphere has changed... I should be\ncareful."
+                            "\\n<\\N[3]>...! The atmosphere has changed... I should be\ncareful."
                         ]
                     },
                     {
@@ -11206,7 +11206,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>...Haa...haa...! The enemy is quite\nexhausted...just a little more...!"
+                            "\\n<\\N[3]>...Haa...haa...! The enemy is quite\nexhausted...just a little more...!"
                         ]
                     },
                     {

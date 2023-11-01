@@ -1950,7 +1950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Finally, we meet. Now, shall I ask you a few\nthings?"
+                                "\\n<\\N[3]>...Finally, we meet. Now, shall I ask you a few\nthings?"
                             ]
                         },
                         {
@@ -2114,7 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! (When did you...?)"
+                                "\\n<\\N[3]>...! (When did you...?)"
                             ]
                         },
                         {
@@ -2162,7 +2162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Wha?! I...I'm not joking around!"
+                                "\\n<\\N[3]>...Wha?! I...I'm not joking around!"
                             ]
                         },
                         {
@@ -2279,7 +2279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Anyway, let's talk about the phenomenon of\nmadness. And then, tell me what you know about\nthat girl who was here in the beginning."
+                                "\\n<\\N[3]>...Anyway, let's talk about the phenomenon of\nmadness. And then, tell me what you know about\nthat girl who was here in the beginning."
                             ]
                         },
                         {
@@ -2348,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If you come to my place, I'll tell you...!"
+                                "\\n<\\N[3]>If you come to my place, I'll tell you...!"
                             ]
                         },
                         {
@@ -2441,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...So that means you too..."
+                                "\\n<\\N[3]>...So that means you too..."
                             ]
                         },
                         {
@@ -2721,7 +2721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Hoo...hoo...!"
+                                "\\n<\\N[3]>Hoo...hoo...!"
                             ]
                         },
                         {
@@ -2814,7 +2814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>...! Hey, what about our promise...!"
+                                "\\n<\\N[3]>...! Hey, what about our promise...!"
                             ]
                         },
                         {
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...I don't know what happened, but please stop\ndoing this."
+                                "\\n<\\N[3]>...I don't know what happened, but please stop\ndoing this."
                             ]
                         },
                         {
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...Not everyone has the strength to pretend and\nlaugh like that."
+                                "\\n<\\N[3]>...Not everyone has the strength to pretend and\nlaugh like that."
                             ]
                         },
                         {
@@ -3272,7 +3272,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>I find a strong woman who can use her weapons\nwithout hesitation to be attractive."
+                                "\\n<\\N[3]>I find a strong woman who can use her weapons\nwithout hesitation to be attractive."
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...Don't make fun of me."
+                                "\\n<\\N[3]>...Don't make fun of me."
                             ]
                         },
                         {
@@ -3437,7 +3437,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...Wait, before that, tell me more about this\ntrain and that girl..."
+                                "\\n<\\N[3]>...Wait, before that, tell me more about this\ntrain and that girl..."
                             ]
                         },
                         {
@@ -3468,7 +3468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[cry]ごめんね、アリアは\\C[2]ルナちゃん\\C[0]に引き寄せられたただの\\C[2]粒子\\C[0]\\n<Aria>."
+                                "アリア\\SE[cry]\\n<Aria>I'm sorry, Aria is just a particle attracted to\nLuna-chan."
                             ]
                         },
                         {
@@ -3492,7 +3492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]知ってる事があるとすれば…\\C[2]狂人化\\C[0]\\n<Aria>It's just fragments about her."
+                                "アリア\\SE[default]\\n<Aria>If there's anything I know... it's just fragments\nabout her."
                             ]
                         },
                         {
@@ -3523,7 +3523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...! That's enough. What on earth is this\n\\C[2]madness\\C[0]..."
+                                "\\n<\\N[3]>...! That's enough. What on earth is this\n\\C[2]madness\\C[0]..."
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\C[2]狂人化\\C[0]\\n<Aria>It means the end result of someone in this world\ncompletely losing their restraints."
+                                "アリア\\SE[default]\\n<Aria>\\C[2]Madness\\C[0]. It means the end result of\nsomeone in this world completely losing their\nrestraints."
                             ]
                         },
                         {
@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>Why would something like that..."
+                                "\\n<\\N[3]>Why would something like that..."
                             ]
                         },
                         {
@@ -3755,7 +3755,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]ともかく、おじさんの\\C[2]狂人化\\C[0]は確かに強力だけど\\C[2]何度もあの力を使ったらいずれは戻れなくなる\\C[0]\\n<Aria>From me."
+                                "アリア\\SE[default]\\n<Aria>Anyway, even though the \\C[2]madness\\C[0] of the\nold man is certainly powerful, if he keeps using\nthat power repeatedly, he won't be able to return\n\\C[2]from it\\C[0]."
                             ]
                         },
                         {
@@ -3817,7 +3817,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>(Madness... I still can't see the whole picture,\nbut I definitely have to pursue that girl.)"
+                                "\\n<\\N[3]>(Madness... I still can't see the whole picture,\nbut I definitely have to pursue that girl.)"
                             ]
                         },
                         {
@@ -3939,7 +3939,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>No, it's fine. Anyway, it seems like I have no\nchoice but to pursue that girl."
+                                "\\n<\\N[3]>No, it's fine. Anyway, it seems like I have no\nchoice but to pursue that girl."
                             ]
                         },
                         {
@@ -3970,7 +3970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]…ルナちゃんもそうだけど、ルナちゃん以外にもまだ\\C[2]5人\\C[0]\\n<Aria>Because I'm here."
+                                "アリア\\SE[default]\\n<Aria>...Not just Luna-chan, but there are still\n\\C[2]five others\\C[0] because I'm here."
                             ]
                         },
                         {
@@ -3994,7 +3994,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]とりあえず次の部屋にいる子は、\\C[2]見た目ほどバカじゃないから\\C[0]\\n<Aria>Be careful."
+                                "アリア\\SE[default]\\n<Aria>For now, the girl in the next room is not as dumb\nas she looks, so be careful."
                             ]
                         },
                         {
@@ -4042,7 +4042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>...!"
+                                "\\n<\\N[3]>...!"
                             ]
                         },
                         {

@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's locked and won't open..."
+                                "\\n<\\N[3]>It's locked and won't open..."
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's locked and won't open..."
+                                "\\n<\\N[3]>It's locked and won't open..."
                             ]
                         },
                         {
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Shit...! I've been trapped..."
+                                "\\n<\\N[3]>Shit...! I've been trapped..."
                             ]
                         },
                         {
@@ -5953,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Let's search the room... There should be an exit\nsomewhere."
+                                "\\n<\\N[3]>Let's search the room... There should be an exit\nsomewhere."
                             ]
                         },
                         {

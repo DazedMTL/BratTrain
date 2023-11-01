@@ -11110,7 +11110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The door is locked and won't open..."
+                                "\\n<\\N[3]>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -11187,7 +11187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The door is locked and won't open..."
+                                "\\n<\\N[3]>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -11264,7 +11264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The door is locked and won't open..."
+                                "\\n<\\N[3]>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -13408,7 +13408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>This is..."
+                                "\\n<\\N[3]>This is..."
                             ]
                         },
                         {
@@ -13480,7 +13480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems to be a floor map of this building... but\nit looks like someone has written various\ninformation on it."
+                                "\\n<\\N[3]>It seems to be a floor map of this building... but\nit looks like someone has written various\ninformation on it."
                             ]
                         },
                         {
@@ -13504,7 +13504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems to be quite a large place, so if you get\nlost, let's check it out."
+                                "\\n<\\N[3]>It seems to be quite a large place, so if you get\nlost, let's check it out."
                             ]
                         },
                         {
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's quite spacious again..."
+                                "\\n<\\N[3]>It's quite spacious again..."
                             ]
                         },
                         {
@@ -16114,7 +16114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>As a detective, you see, I can't just back down so\neasily. If I do, I won't be able to solve\nanything."
+                                "\\n<\\N[3]>As a detective, you see, I can't just back down so\neasily. If I do, I won't be able to solve\nanything."
                             ]
                         },
                         {
@@ -16200,7 +16200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Where on earth are they? It's difficult to search\nin this spaciousness..."
+                                "\\n<\\N[3]>Where on earth are they? It's difficult to search\nin this spaciousness..."
                             ]
                         },
                         {
@@ -16394,7 +16394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The game center on the \\C[2]3rd floor\\c[0],\nhuh... For now, let's head there first."
+                                "\\n<\\N[3]>...The game center on the \\C[2]3rd floor\\c[0],\nhuh... For now, let's head there first."
                             ]
                         },
                         {

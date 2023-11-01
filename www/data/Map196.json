@@ -8753,7 +8753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
+                                "\\n<\\N[3]>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
@@ -8777,7 +8777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                                "\\n<\\N[3]>By the way... according to the floor plan, there\nshould be a basement in this building."
                             ]
                         },
                         {
@@ -8808,7 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
+                                "\\n<\\N[3]>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
                             ]
                         },
                         {
@@ -9259,7 +9259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>With this, it seems like we can go to places where\nwe couldn't go with the \\C[2]elevator."
+                                "\\n<\\N[3]>With this, it seems like we can go to places where\nwe couldn't go with the \\C[2]elevator."
                             ]
                         },
                         {
@@ -10015,7 +10015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
+                                "\\n<\\N[3]>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
@@ -10039,7 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                                "\\n<\\N[3]>By the way... according to the floor plan, there\nshould be a basement in this building."
                             ]
                         },
                         {
@@ -10070,7 +10070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If the stairs are blocked, then the only\nsuspicious place left is... the elevator."
+                                "\\n<\\N[3]>If the stairs are blocked, then the only\nsuspicious place left is... the elevator."
                             ]
                         },
                         {
@@ -10582,7 +10582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
+                                "\\n<\\N[3]>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
@@ -10606,7 +10606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                                "\\n<\\N[3]>By the way... according to the floor plan, there\nshould be a basement in this building."
                             ]
                         },
                         {
@@ -10637,7 +10637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
+                                "\\n<\\N[3]>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
                             ]
                         },
                         {
@@ -13026,7 +13026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! Are you planning to make me do something\nelse?!"
+                                "\\n<\\N[3]>...! Are you planning to make me do something\nelse?!"
                             ]
                         },
                         {
@@ -13081,7 +13081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...So, what now?"
+                                "\\n<\\N[3]>...So, what now?"
                             ]
                         },
                         {
@@ -13203,7 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...A key, huh... For now, let's \\c[2]search around\nthis area\\c[0]."
+                                "\\n<\\N[3]>...A key, huh... For now, let's \\c[2]search around\nthis area\\c[0]."
                             ]
                         },
                         {

@@ -2094,7 +2094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Alright, let's investigate the elevator. We should\nbe able to go to places we couldn't go before."
+                                "\\n<\\N[3]>Alright, let's investigate the elevator. We should\nbe able to go to places we couldn't go before."
                             ]
                         },
                         {
@@ -2152,7 +2152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>It has a keyhole... \\C[2]Transportation\nKey\\c[0]...?"
+                                "\\n<\\N[3]>It has a keyhole... \\C[2]Transportation\nKey\\c[0]...?"
                             ]
                         },
                         {
@@ -2176,7 +2176,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>It's probably something that controls access to\nthe floor where only relevant personnel can enter."
+                                "\\n<\\N[3]>It's probably something that controls access to\nthe floor where only relevant personnel can enter."
                             ]
                         },
                         {
@@ -2200,7 +2200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>If we insert the key, we might be able to go to\nthe floors we couldn't access before."
+                                "\\n<\\N[3]>If we insert the key, we might be able to go to\nthe floors we couldn't access before."
                             ]
                         },
                         {
@@ -2234,7 +2234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>It has a keyhole... \\C[2]Transportation\nKey\\c[0]...?"
+                                "\\n<\\N[3]>It has a keyhole... \\C[2]Transportation\nKey\\c[0]...?"
                             ]
                         },
                         {
@@ -2258,7 +2258,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>I see, so this is the \\C[2]access key to the\nunderground floor\\c[0]!"
+                                "\\n<\\N[3]>I see, so this is the \\C[2]access key to the\nunderground floor\\c[0]!"
                             ]
                         },
                         {
@@ -2282,7 +2282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>It's probably something that controls access to\nthe floor where only relevant personnel can enter."
+                                "\\n<\\N[3]>It's probably something that controls access to\nthe floor where only relevant personnel can enter."
                             ]
                         },
                         {
@@ -2306,7 +2306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>If we've pretty much searched the other floors...\nthen there might surprisingly be a key \\C[0]around\nthis area\\C[2]."
+                                "\\n<\\N[3]>If we've pretty much searched the other floors...\nthen there might surprisingly be a key \\C[0]around\nthis area\\C[2]."
                             ]
                         },
                         {
@@ -2408,7 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Let's investigate the elevator. We should be able\nto go to places we couldn't go before."
+                                "\\n<\\N[3]>Let's investigate the elevator. We should be able\nto go to places we couldn't go before."
                             ]
                         },
                         {

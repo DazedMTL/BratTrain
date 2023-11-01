@@ -1823,7 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>So this is the key... I'll have to ask them\nvarious things."
+                                "\\n<\\N[3]>So this is the key... I'll have to ask them\nvarious things."
                             ]
                         },
                         {
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A military rifle... and it's a custom model\ntoo..."
+                                "A military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A military rifle... and it's a custom model\ntoo..."
+                                "A military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -3640,7 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A military rifle... and it's a custom model\ntoo..."
+                                "A military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -3717,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A military rifle... and it's a custom model\ntoo..."
+                                "A military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A military rifle... and it's a custom model\ntoo..."
+                                "A military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -4756,7 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Sanoukai and Kurokai-gumi... They are notorious\nunderground organizations..."
+                                "\\n<\\N[3]>Sanoukai and Kurokai-gumi... They are notorious\nunderground organizations..."
                             ]
                         },
                         {
@@ -4780,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>But... Luna...? Was there such an organization...?"
+                                "\\n<\\N[3]>But... Luna...? Was there such an organization...?"
                             ]
                         },
                         {
@@ -4939,7 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Sanoukai and Kurokai-gumi... Infamous dark\norganizations..."
+                                "\\n<\\N[3]>Sanoukai and Kurokai-gumi... Infamous dark\norganizations..."
                             ]
                         },
                         {
@@ -4963,7 +4963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>But... Luna...? Was there such an organization...?"
+                                "\\n<\\N[3]>But... Luna...? Was there such an organization...?"
                             ]
                         },
                         {
@@ -5123,7 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Speaking of the young head of the Sanoukai, he\nshould be around 45 years old and quite capable.\nAnd the young lady from the Kurube Group... Could\nit be... Is that what this is about?"
+                                "\\n<\\N[3]>Speaking of the young head of the Sanoukai, he\nshould be around 45 years old and quite capable.\nAnd the young lady from the Kurube Group... Could\nit be... Is that what this is about?"
                             ]
                         },
                         {
@@ -5296,7 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Speaking of the Sanoukai's future head, he should\nbe around 45 years old and quite capable. And the\nyoung lady from the Kurube Group... Could it be...\nIs that what this is about?"
+                                "\\n<\\N[3]>Speaking of the Sanoukai's future head, he should\nbe around 45 years old and quite capable. And the\nyoung lady from the Kurube Group... Could it be...\nIs that what this is about?"
                             ]
                         },
                         {
@@ -5394,7 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this room...! Handguns, rifles, even\ngrenade launchers... The Kurube Group... What an\nunbelievable organization."
+                                "\\n<\\N[3]>What is this room...! Handguns, rifles, even\ngrenade launchers... The Kurube Group... What an\nunbelievable organization."
                             ]
                         },
                         {
@@ -5425,7 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However, these weapons are too extreme for use in\na conflict. It seems this was a warehouse for a\nsmuggling organization based in Asia."
+                                "\\n<\\N[3]>However, these weapons are too extreme for use in\na conflict. It seems this was a warehouse for a\nsmuggling organization based in Asia."
                             ]
                         },
                         {
@@ -5463,7 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>If that's the case... There should have been a\nhuge amount of money involved. It might be related\nto what's happening in this town."
+                                "\\n<\\N[3]>If that's the case... There should have been a\nhuge amount of money involved. It might be related\nto what's happening in this town."
                             ]
                         },
                         {
@@ -5494,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>I might be able to find something out. Let's\ninvestigate."
+                                "\\n<\\N[3]>I might be able to find something out. Let's\ninvestigate."
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We have confirmed that the representative of the\nSakuhai Residents' Association, who had been\nleading the opposition movement against the urban\ndevelopment project in Sakuhai City, has agreed to\npersuasion and has also confirmed the stamping\nof the reconciliation document."
+                                "We have confirmed that the representative of the\nSakuhai Residents' Association, who had been\nleading the opposition movement against the urban\ndevelopment project in Sakuhai City, has agreed to\npersuasion and has also confirmed the stamping of\nthe reconciliation document."
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
+                                "\\n<\\N[3]>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
                             ]
                         },
                         {
@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However... Hisube... and something about the\nunderground..."
+                                "\\n<\\N[3]>However... Hisube... and something about the\nunderground..."
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
+                                "\\n<\\N[3]>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
                             ]
                         },
                         {
@@ -6088,7 +6088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However... Hisube... and something about the\nunderground..."
+                                "\\n<\\N[3]>However... Hisube... and something about the\nunderground..."
                             ]
                         },
                         {

@@ -3172,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...there's a stuffed animal torso hanging from\nthe chains...)"
+                                "\\n<\\N[3]>(...there's a stuffed animal torso hanging from\nthe chains...)"
                             ]
                         },
                         {
@@ -3594,7 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...there's a stuffed animal torso hanging from\nthe chains...)"
+                                "\\n<\\N[3]>(...there's a stuffed animal torso hanging from\nthe chains...)"
                             ]
                         },
                         {
@@ -5099,7 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Something is reflecting...? What is this..."
+                                "\\n<\\N[3]>Something is reflecting...? What is this..."
                             ]
                         },
                         {
@@ -5140,7 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>A blacklight used in forensic investigations...?\nIs Lamphead... for blood detection...?"
+                                "\\n<\\N[3]>A blacklight used in forensic investigations...?\nIs Lamphead... for blood detection...?"
                             ]
                         },
                         {
@@ -5164,7 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It might be useful for something. I'll keep it\njust in case."
+                                "\\n<\\N[3]>It might be useful for something. I'll keep it\njust in case."
                             ]
                         },
                         {

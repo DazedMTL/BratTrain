@@ -1878,7 +1878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this place..."
+                                "\\n<\\N[3]>What is this place..."
                             ]
                         },
                         {
@@ -2120,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No good... It's locked and won't open..."
+                                "\\n<\\N[3]>No good... It's locked and won't open..."
                             ]
                         },
                         {
@@ -2242,7 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>A sign...?"
+                                "\\n<\\N[3]>A sign...?"
                             ]
                         },
                         {
@@ -2259,7 +2259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: Kishishishi! Welcome to the room of the genius\ngamer, Sine:ω-sama!"
+                                "\\n<sine:ω>ω: ω: Kishishishi! Welcome to the room of the\ngenius gamer, Sine:ω-sama!"
                             ]
                         },
                         {
@@ -2283,7 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...! Who are you...?"
+                                "\\n<\\N[3]>...! Who are you...?"
                             ]
                         },
                         {
@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Sigh... This is why ignorant people\nare... not knowing the genius gamer Sine:ω-sama..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Sigh... This is why ignorant people\nare... not knowing the genius gamer Sine:ω-sama..."
                             ]
                         },
                         {
@@ -2331,7 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]You're one of those people who still go\nto the library to do research, aren't you?"
+                                "\\n<sine:ω>ω: ω: \\C[24]You're one of those people who still\ngo to the library to do research, aren't you?"
                             ]
                         },
                         {
@@ -2355,7 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]So, you're the type of person who proudly\nshares outdated information from decades ago and\nannoys everyone around you, huh?"
+                                "\\n<sine:ω>ω: ω: \\C[24]So, you're the type of person who\nproudly shares outdated information from decades\nago and annoys everyone around you, huh?"
                             ]
                         },
                         {
@@ -2379,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>You're quite cheeky... Hey, tell me how to get out\nof here."
+                                "\\n<\\N[3]>You're quite cheeky... Hey, tell me how to get out\nof here."
                             ]
                         },
                         {
@@ -2403,7 +2403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Haah... You're so lacking in\ncomprehension it's pathetic... There's no way I'm\ngoing to tell you, idiot. Use your brain and think\nabout the situation, dumbass."
+                                "\\n<sine:ω>ω: ω: \\C[24]Haah... You're so lacking in\ncomprehension it's pathetic... There's no way I'm\ngoing to tell you, idiot. Use your brain and think\nabout the situation, dumbass."
                             ]
                         },
                         {
@@ -2434,7 +2434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]There's a door on the monitor, and the\ndoor is locked. It's obvious that I, the one\nbehind the monitor, have complete control over\nwhere to go and how to proceed, unlike you\nclueless old man."
+                                "\\n<sine:ω>ω: ω: \\C[24]There's a door on the monitor, and the\ndoor is locked. It's obvious that I, the one\nbehind the monitor, have complete control over\nwhere to go and how to proceed, unlike you\nclueless old man."
                             ]
                         },
                         {
@@ -2442,54 +2442,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>...So, what is it that you want me to do?"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]This is a stage prepared by the genius\ngamer me, you know? It's obviously a game, you\nidiot. It's true that the government's dogs are\nall incompetent, huh?"
                             ]
                         },
                         {
@@ -2520,7 +2472,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Why would you..."
+                                "\\n<\\N[3]>...So, what is it that you want me to do?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ω: \\C[24]This is a stage prepared by the genius\ngamer me, you know? It's obviously a game, you\nidiot. It's true that the government's dogs are\nall incompetent, huh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<\\N[3]>Why would you..."
                             ]
                         },
                         {
@@ -2544,7 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]If you know your enemy and know yourself,\nyou will not be defeated in a hundred battles."
+                                "\\n<sine:ω>ω: ω: \\C[24]If you know your enemy and know\nyourself, you will not be defeated in a hundred\nbattles."
                             ]
                         },
                         {
@@ -2568,7 +2568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]When I heard about you from Luna-neechan,\nI obviously did my research and found out\neverything about you, lol."
+                                "\\n<sine:ω>ω: ω: \\C[24]When I heard about you from Luna-\nneechan, I obviously did my research and found out\neverything about you, lol."
                             ]
                         },
                         {
@@ -2608,7 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>Detective, you're a Deputy Inspector from the\nMetropolitan Police Department's Investigation\nSupport and Analysis Division, right? You were\ndispatched to investigate the case of someone\ngoing insane, correct?"
+                                "\\n<sine:ω>ω: Detective, you're a Deputy Inspector from the\nMetropolitan Police Department's Investigation\nSupport and Analysis Division, right? You were\ndispatched to investigate the case of someone\ngoing insane, correct?"
                             ]
                         },
                         {
@@ -2639,7 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No way... Hacking? Ridiculous... Something like\nthat from a child..."
+                                "\\n<\\N[3]>No way... Hacking? Ridiculous... Something like\nthat from a child..."
                             ]
                         },
                         {
@@ -2663,7 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Please don't compare me to a stupid brat\nlike the bitch in the previous room, okay?"
+                                "\\n<sine:ω>ω: ω: \\C[24]Please don't compare me to a stupid\nbrat like the bitch in the previous room, okay?"
                             ]
                         },
                         {
@@ -2687,7 +2687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>My IQ is 145, so I can easily break through the\ndefenses made by lowlifes like you, even right\nafter waking up. \\C[24]"
+                                "\\n<sine:ω>ω: My IQ is 145, so I can easily break through the\ndefenses made by lowlifes like you, even right\nafter waking up. \\C[24]"
                             ]
                         },
                         {
@@ -2718,7 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What the hell... This is a crime!"
+                                "\\n<\\N[3]>What the hell... This is a crime!"
                             ]
                         },
                         {
@@ -2735,7 +2735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Huh? I don't want to hear it from you,\nlol. You must have slept with that bitch, right?"
+                                "\\n<sine:ω>ω: ω: \\C[24]Huh? I don't want to hear it from you,\nlol. You must have slept with that bitch, right?"
                             ]
                         },
                         {
@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Wha...What..."
+                                "\\n<\\N[3]>Wha...What..."
                             ]
                         },
                         {
@@ -2783,7 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]There's no point in hiding, you know?\nCameras are installed all over this train, lol."
+                                "\\n<sine:ω>ω: ω: \\C[24]There's no point in hiding, you know?\nCameras are installed all over this train, lol."
                             ]
                         },
                         {
@@ -2814,7 +2814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Look, there's even a video of you and the\nbitch's actions..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Look, there's even a video of you and\nthe bitch's actions..."
                             ]
                         },
                         {
@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Kyaaah!?! Ah, cough cough!!"
+                                "\\n<sine:ω>ω: ω: \\C[24]...Kyaaah!?! Ah, cough cough!!"
                             ]
                         },
                         {
@@ -2911,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Phew...I accidentally deleted the\nentire script..."
+                                "\\n<sine:ω>ω: ω: \\C[24]...Phew...I accidentally deleted the\nentire script..."
                             ]
                         },
                         {
@@ -2935,7 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]A-anyway! You understand now, right? I\nhave your information and weaknesses in my grasp!"
+                                "\\n<sine:ω>ω: ω: \\C[24]A-anyway! You understand now, right? I\nhave your information and weaknesses in my grasp!"
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Footage from the in-car camera...? Could this\nbe...?)"
+                                "\\n<\\N[3]>(...Footage from the in-car camera...? Could this\nbe...?)"
                             ]
                         },
                         {
@@ -2990,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Kishishishi! Now, for the game I want you\nto play, first answer this quiz for me!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Kishishishi! Now, for the game I want\nyou to play, first answer this quiz for me!"
                             ]
                         },
                         {
@@ -3021,7 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]According to your answer, the door will\nopen, so proceed through the dungeon beyond..."
+                                "\\n<sine:ω>ω: ω: \\C[24]According to your answer, the door\nwill open, so proceed through the dungeon\nbeyond..."
                             ]
                         },
                         {
@@ -3045,7 +3045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Hey, you, the quiz isn't being displayed..."
+                                "\\n<\\N[3]>...Hey, you, the quiz isn't being displayed..."
                             ]
                         },
                         {
@@ -3085,7 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Huh?! What? Oh, it's true, the link to\nthe shared screen is disconnected..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Huh?! What? Oh, it's true, the link to\nthe shared screen is disconnected..."
                             ]
                         },
                         {
@@ -3109,7 +3109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Headset malfunction...?"
+                                "\\n<sine:ω>ω: ω: \\C[24]Headset malfunction...?"
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...Huh?! Is the camera on?!"
+                                "\\n<sine:ω>ω: ω: \\C[24]...Huh?! Is the camera on?!"
                             ]
                         },
                         {
@@ -3166,7 +3166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]W-Wait... My real face is dangerous...\nC-Cancel command...!"
+                                "\\n<sine:ω>ω: ω: \\C[24]W-Wait... My real face is dangerous...\nC-Cancel command...!"
                             ]
                         },
                         {
@@ -3218,7 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]!?"
+                                "\\n<sine:ω>ω: ω: \\C[24]!?"
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]What?!"
+                                "\\n<sine:ω>ω: ω: \\C[24]What?!"
                             ]
                         },
                         {
@@ -3331,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Awawawawa!! Awawawawawawawa...!!!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Awawawawa!! Awawawawawawawa...!!!"
                             ]
                         },
                         {
@@ -3355,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -3502,7 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Do I just need to enter this room?"
+                                "\\n<\\N[3]>...Do I just need to enter this room?"
                             ]
                         },
                         {
@@ -3519,7 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Hey...! Ah! No! That's the correct...\nno... ah..."
+                                "\\n<sine:ω>ω: ω: \\C[24]Hey...! Ah! No! That's the correct...\nno... ah..."
                             ]
                         },
                         {
@@ -3550,7 +3550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]Y-Y-Yikes...! That... that room is\ndangerous! You'll die if you enter that room, you\nknow!"
+                                "\\n<sine:ω>ω: ω: \\C[24]Y-Y-Yikes...! That... that room is\ndangerous! You'll die if you enter that room, you\nknow!"
                             ]
                         },
                         {
@@ -3574,7 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I understand, I understand. So, which room is\nthe correct one?"
+                                "\\n<\\N[3]>...I understand, I understand. So, which room is\nthe correct one?"
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]\\{Right!!\\} The right door! Or the second\none from the left... Just not the one in the\nmiddle...!"
+                                "\\n<sine:ω>ω: ω: \\C[24]\\{Right!!\\} The right door! Or the\nsecond one from the left... Just not the one in\nthe middle...!"
                             ]
                         },
                         {
@@ -3629,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's the one in the middle."
+                                "\\n<\\N[3]>It's the one in the middle."
                             ]
                         },
                         {
@@ -3733,7 +3733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]!? Why! I said right, Cocoa!"
+                                "\\n<sine:ω>ω: ω: \\C[24]!? Why! I said right, Cocoa!"
                             ]
                         },
                         {
@@ -3757,7 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Just wait there, Coco-chan. There are a few things\nI need to ask you too."
+                                "\\n<\\N[3]>Just wait there, Coco-chan. There are a few things\nI need to ask you too."
                             ]
                         },
                         {
@@ -3871,7 +3871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: \\C[24]...!!\\{...Mukyaaaaa!!"
+                                "\\n<sine:ω>ω: ω: \\C[24]...!!\\{...Mukyaaaaa!!"
                             ]
                         },
                         {

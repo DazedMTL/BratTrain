@@ -12031,7 +12031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
+                                "\\n<\\N[3]>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
                             ]
                         },
                         {
@@ -12055,7 +12055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Let's check out the other places as well.)"
+                                "\\n<\\N[3]>(...Let's check out the other places as well.)"
                             ]
                         },
                         {
@@ -12244,7 +12244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
+                                "\\n<\\N[3]>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
                             ]
                         },
                         {
@@ -12268,7 +12268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Let's check out the other places as well.)"
+                                "\\n<\\N[3]>(...Let's check out the other places as well.)"
                             ]
                         },
                         {
@@ -12429,7 +12429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(That student over there... They're clearly\nheading in the opposite direction of the school,\naren't they?)"
+                                "\\n<\\N[3]>(That student over there... They're clearly\nheading in the opposite direction of the school,\naren't they?)"
                             ]
                         },
                         {
@@ -12477,7 +12477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Well well... Anyway, let's check out other places\ntoo.)"
+                                "\\n<\\N[3]>(Well well... Anyway, let's check out other places\ntoo.)"
                             ]
                         },
                         {
@@ -12873,7 +12873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
+                                "\\n<\\N[3]>(From here on is the prestigious Sentsuki Academy.\nIt's one of the top schools in Tokyo.)"
                             ]
                         },
                         {
@@ -12897,7 +12897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Let's check out the other places as well.)"
+                                "\\n<\\N[3]>(...Let's check out the other places as well.)"
                             ]
                         },
                         {
@@ -13111,7 +13111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This shop seems quite run-down... and the\nselection is extremely poor.)"
+                                "\\n<\\N[3]>(This shop seems quite run-down... and the\nselection is extremely poor.)"
                             ]
                         },
                         {
@@ -13135,7 +13135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
+                                "\\n<\\N[3]>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
                             ]
                         },
                         {
@@ -13152,7 +13152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -13246,7 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This shop seems quite run-down... and the\nselection is extremely poor.)"
+                                "\\n<\\N[3]>(This shop seems quite run-down... and the\nselection is extremely poor.)"
                             ]
                         },
                         {
@@ -13270,7 +13270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
+                                "\\n<\\N[3]>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
                             ]
                         },
                         {
@@ -13287,7 +13287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -13364,7 +13364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The shopping street has turned into a shuttered\nstreet.)"
+                                "\\n<\\N[3]>(The shopping street has turned into a shuttered\nstreet.)"
                             ]
                         },
                         {
@@ -13381,7 +13381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The security has deteriorated, so the number of\ncustomers has decreased...)"
+                                "\\n<\\N[3]>(The security has deteriorated, so the number of\ncustomers has decreased...)"
                             ]
                         },
                         {
@@ -13398,7 +13398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -13640,7 +13640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The shopping street has turned into a shuttered\nstreet.)"
+                                "\\n<\\N[3]>(The shopping street has turned into a shuttered\nstreet.)"
                             ]
                         },
                         {
@@ -13657,7 +13657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The security has deteriorated, so the number of\ncustomers has decreased...)"
+                                "\\n<\\N[3]>(The security has deteriorated, so the number of\ncustomers has decreased...)"
                             ]
                         },
                         {
@@ -13674,7 +13674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -15560,7 +15560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This shop seems quite run-down... and the\nselection is extremely poor.)"
+                                "\\n<\\N[3]>(This shop seems quite run-down... and the\nselection is extremely poor.)"
                             ]
                         },
                         {
@@ -15584,7 +15584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
+                                "\\n<\\N[3]>(The public order has deteriorated, so it seems\nthat customers have been staying away...)"
                             ]
                         },
                         {
@@ -15601,7 +15601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -15709,7 +15709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -15834,7 +15834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>......"
+                                "\\n<\\N[3]>......"
                             ]
                         },
                         {
@@ -15851,7 +15851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -16062,7 +16062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...If I were to deal with every student from\nnearby schools, there would be no end to it.)"
+                                "\\n<\\N[3]>(...If I were to deal with every student from\nnearby schools, there would be no end to it.)"
                             ]
                         },
                         {
@@ -16086,7 +16086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -16297,7 +16297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...If I were to deal with every student from\nnearby schools, there would be no end to it.)"
+                                "\\n<\\N[3]>(...If I were to deal with every student from\nnearby schools, there would be no end to it.)"
                             ]
                         },
                         {
@@ -16321,7 +16321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check other places too.)"
                             ]
                         },
                         {
@@ -16398,7 +16398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...It seems there are no customers inside.)"
+                                "\\n<\\N[3]>(...It seems there are no customers inside.)"
                             ]
                         },
                         {
@@ -16415,7 +16415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -16523,7 +16523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -16600,7 +16600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems to be a candy store run by an elderly\ncouple.)"
+                                "\\n<\\N[3]>(It seems to be a candy store run by an elderly\ncouple.)"
                             ]
                         },
                         {
@@ -16634,7 +16634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -16711,7 +16711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems to be a candy store run by an elderly\ncouple.)"
+                                "\\n<\\N[3]>(It seems to be a candy store run by an elderly\ncouple.)"
                             ]
                         },
                         {
@@ -16745,7 +16745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -16822,7 +16822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The shopping street has turned into a shuttered\nstreet.)"
+                                "\\n<\\N[3]>(The shopping street has turned into a shuttered\nstreet.)"
                             ]
                         },
                         {
@@ -16839,7 +16839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(The security has deteriorated, so the number of\ncustomers has decreased...)"
+                                "\\n<\\N[3]>(The security has deteriorated, so the number of\ncustomers has decreased...)"
                             ]
                         },
                         {
@@ -16856,7 +16856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -16964,7 +16964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -16988,7 +16988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -17065,7 +17065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...It seems there are no customers inside.)"
+                                "\\n<\\N[3]>(...It seems there are no customers inside.)"
                             ]
                         },
                         {
@@ -17082,7 +17082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -17159,7 +17159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...It seems there are no customers inside.)"
+                                "\\n<\\N[3]>(...It seems there are no customers inside.)"
                             ]
                         },
                         {
@@ -17176,7 +17176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -17253,7 +17253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...It seems there are no customers inside.)"
+                                "\\n<\\N[3]>(...It seems there are no customers inside.)"
                             ]
                         },
                         {
@@ -17270,7 +17270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -17347,7 +17347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -17431,7 +17431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -17515,7 +17515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -17599,7 +17599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -17683,7 +17683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(There are outdated appliances lined up here.)"
+                                "\\n<\\N[3]>(There are outdated appliances lined up here.)"
                             ]
                         },
                         {
@@ -17700,7 +17700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
+                                "\\n<\\N[3]>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
                             ]
                         },
                         {
@@ -17724,7 +17724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -17801,7 +17801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -17885,7 +17885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -17909,7 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -17986,7 +17986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -18010,7 +18010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -18087,7 +18087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -18111,7 +18111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -18188,7 +18188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
+                                "\\n<\\N[3]>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
                             ]
                         },
                         {
@@ -18219,7 +18219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
+                                "\\n<\\N[3]>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
                             ]
                         },
                         {
@@ -18250,7 +18250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -18327,7 +18327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -18351,7 +18351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -18428,7 +18428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
+                                "\\n<\\N[3]>(It seems that there used to be a general store\nhere, but it appears to have closed down\nrecently.)"
                             ]
                         },
                         {
@@ -18452,7 +18452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -18529,7 +18529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -18546,7 +18546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -18577,7 +18577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -18654,7 +18654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -18671,7 +18671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -18702,7 +18702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -18779,7 +18779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -18796,7 +18796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -18827,7 +18827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -18904,7 +18904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -18921,7 +18921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -18952,7 +18952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -19029,7 +19029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -19046,7 +19046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -19077,7 +19077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -19154,7 +19154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a lifeless real estate.)"
+                                "\\n<\\N[3]>(This is a lifeless real estate.)"
                             ]
                         },
                         {
@@ -19171,7 +19171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
+                                "\\n<\\N[3]>(As the public safety deteriorates and\ndepopulation continues in this area, the land\nvalue is steadily declining.)"
                             ]
                         },
                         {
@@ -19202,7 +19202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -19279,7 +19279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(There are outdated appliances lined up here.)"
+                                "\\n<\\N[3]>(There are outdated appliances lined up here.)"
                             ]
                         },
                         {
@@ -19296,7 +19296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
+                                "\\n<\\N[3]>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
                             ]
                         },
                         {
@@ -19320,7 +19320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -19397,7 +19397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(There are outdated appliances lined up here.)"
+                                "\\n<\\N[3]>(There are outdated appliances lined up here.)"
                             ]
                         },
                         {
@@ -19414,7 +19414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
+                                "\\n<\\N[3]>(A two-tiered washing machine...? Are there still\npeople buying these nowadays...?)"
                             ]
                         },
                         {
@@ -19438,7 +19438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -19515,7 +19515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -19546,7 +19546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -19570,7 +19570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -19647,7 +19647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
+                                "\\n<\\N[3]>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
                             ]
                         },
                         {
@@ -19678,7 +19678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
+                                "\\n<\\N[3]>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
                             ]
                         },
                         {
@@ -19709,7 +19709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -19786,7 +19786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
+                                "\\n<\\N[3]>(This is a diner run by an elderly couple who were\nrecently involved in a social media controversy.)"
                             ]
                         },
                         {
@@ -19817,7 +19817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
+                                "\\n<\\N[3]>(Ever since a part-time employee uploaded a photo\nof themselves inside the refrigerator on social\nmedia, it seems that the diner has been facing\nfinancial difficulties...)"
                             ]
                         },
                         {
@@ -19848,7 +19848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -19925,7 +19925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
+                                "\\n<\\N[3]>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
                             ]
                         },
                         {
@@ -19956,7 +19956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -20033,7 +20033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
+                                "\\n<\\N[3]>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
                             ]
                         },
                         {
@@ -20064,7 +20064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -20141,7 +20141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a run-down electronics store run by an old\nmarried couple.)"
+                                "\\n<\\N[3]>(It's a run-down electronics store run by an old\nmarried couple.)"
                             ]
                         },
                         {
@@ -20158,7 +20158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -20235,7 +20235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a run-down electronics store run by an old\nmarried couple.)"
+                                "\\n<\\N[3]>(It's a run-down electronics store run by an old\nmarried couple.)"
                             ]
                         },
                         {
@@ -20252,7 +20252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -20329,7 +20329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -20360,7 +20360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -20384,7 +20384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -20461,7 +20461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -20492,7 +20492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -20516,7 +20516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -20593,7 +20593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -20624,7 +20624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -20648,7 +20648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -20725,7 +20725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -20756,7 +20756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -20780,7 +20780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -20857,7 +20857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -20881,7 +20881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -21013,7 +21013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Is this not about vegetables...? What exactly are\nwe talking about?)"
+                                "\\n<\\N[3]>(Is this not about vegetables...? What exactly are\nwe talking about?)"
                             ]
                         },
                         {
@@ -21277,7 +21277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I am this kind of person..."
+                                "\\n<\\N[3]>...I am this kind of person..."
                             ]
                         },
                         {
@@ -21356,7 +21356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -21432,7 +21432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Playboy>Ah! D... Detective-san! Ah... Ahahaha! T...\nToday's weather is also..."
+                                "\\n<Playboy>Ah! D... \\N[3]-san! Ah... Ahahaha! T... Today's\nweather is also..."
                             ]
                         },
                         {
@@ -21463,7 +21463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>..."
+                                "\\n<\\N[3]>..."
                             ]
                         },
                         {
@@ -21568,7 +21568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -21599,7 +21599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -21623,7 +21623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -21700,7 +21700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
+                                "\\n<\\N[3]>(Until recently, there was a second-hand clothing\nstore here, but ever since it closed down, the\nshutters have been down.)"
                             ]
                         },
                         {
@@ -21731,7 +21731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -21808,7 +21808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
+                                "\\n<\\N[3]>(It's a video rental store. It seems they shifted\ntheir business from rental to bookstore because\nnow it's the era of watching through\nsubscriptions.)"
                             ]
                         },
                         {
@@ -21839,7 +21839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
+                                "\\n<\\N[3]>(However, considering how deserted this area has\nbecome, the management is bound to be tough\nregardless.)"
                             ]
                         },
                         {
@@ -21863,7 +21863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -21940,7 +21940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -21964,7 +21964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22041,7 +22041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22065,7 +22065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22142,7 +22142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a barber shop here, but\never since it closed, the shutters have been\ndown.)"
+                                "\\n<\\N[3]>(Until recently, there was a barber shop here, but\never since it closed, the shutters have been\ndown.)"
                             ]
                         },
                         {
@@ -22173,7 +22173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22250,7 +22250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22274,7 +22274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22351,7 +22351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22375,7 +22375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22452,7 +22452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
+                                "\\n<\\N[3]>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
                             ]
                         },
                         {
@@ -22476,7 +22476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22584,7 +22584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -22661,7 +22661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22685,7 +22685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22762,7 +22762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22786,7 +22786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22863,7 +22863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22887,7 +22887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -22964,7 +22964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -22988,7 +22988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -23065,7 +23065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -23089,7 +23089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -23166,7 +23166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -23190,7 +23190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -23267,7 +23267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a cram school. I suppose students from the\nnearby school attend here.)"
+                                "\\n<\\N[3]>(It's a cram school. I suppose students from the\nnearby school attend here.)"
                             ]
                         },
                         {
@@ -23291,7 +23291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -23476,7 +23476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -23500,7 +23500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -23577,7 +23577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -23601,7 +23601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -23709,7 +23709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -23817,7 +23817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -23925,7 +23925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24002,7 +24002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -24026,7 +24026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24218,7 +24218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -24242,7 +24242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24319,7 +24319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -24343,7 +24343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24420,7 +24420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -24444,7 +24444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24521,7 +24521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -24545,7 +24545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(...Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -24639,7 +24639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Hey, you're not thinking of something\nsuspicious, are you?"
+                                "\\n<\\N[3]>...Hey, you're not thinking of something\nsuspicious, are you?"
                             ]
                         },
                         {
@@ -24687,7 +24687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...So it's you. It seemed like you were following\na high school girl...?"
+                                "\\n<\\N[3]>...So it's you. It seemed like you were following\na high school girl...?"
                             ]
                         },
                         {
@@ -24742,7 +24742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...I'll let it slide this time, so try not to do\nanything strange."
+                                "\\n<\\N[3]>...I'll let it slide this time, so try not to do\nanything strange."
                             ]
                         },
                         {
@@ -24790,7 +24790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Sigh... Anyway, let's check out other places\ntoo.)"
+                                "\\n<\\N[3]>(Sigh... Anyway, let's check out other places\ntoo.)"
                             ]
                         },
                         {
@@ -25136,7 +25136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
+                                "\\n<\\N[3]>It's a family restaurant popular among students.\nThe menu has a delicious-looking pizza drawn on\nit."
                             ]
                         },
                         {
@@ -25299,7 +25299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It's a run-down electronics store run by an old\nmarried couple.)"
+                                "\\n<\\N[3]>(It's a run-down electronics store run by an old\nmarried couple.)"
                             ]
                         },
                         {
@@ -25316,7 +25316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -25417,7 +25417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Another suspicious person... I need to quickly\nfind out the cause...)"
+                                "\\n<\\N[3]>(Another suspicious person... I need to quickly\nfind out the cause...)"
                             ]
                         },
                         {
@@ -25501,7 +25501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems to be a candy store run by an elderly\ncouple.)"
+                                "\\n<\\N[3]>(It seems to be a candy store run by an elderly\ncouple.)"
                             ]
                         },
                         {
@@ -25535,7 +25535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -25629,7 +25629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Seems like he's nodding to something...)"
+                                "\\n<\\N[3]>(Seems like he's nodding to something...)"
                             ]
                         },
                         {
@@ -25646,7 +25646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It's nice weather, isn't it? Is walking with your\nbrother fun?"
+                                "\\n<\\N[3]>It's nice weather, isn't it? Is walking with your\nbrother fun?"
                             ]
                         },
                         {
@@ -25840,7 +25840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Good work. I've been investigating the phenomenon\nof people going insane..."
+                                "\\n<\\N[3]>Good work. I've been investigating the phenomenon\nof people going insane..."
                             ]
                         },
                         {
@@ -25864,7 +25864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ah, you must be the newly dispatched detective.\nThank you for your hard work."
+                                "\\n<\\N[3]>Ah, you must be the newly dispatched detective.\nThank you for your hard work."
                             ]
                         },
                         {
@@ -25888,7 +25888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The owner of this place was found to have gone\ninsane a few months ago."
+                                "\\n<\\N[3]>The owner of this place was found to have gone\ninsane a few months ago."
                             ]
                         },
                         {
@@ -25912,7 +25912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The customers became suspicious when they noticed\nthat the store remained closed and the owner was\nnowhere to be seen, so they reported it and he was\ndiscovered."
+                                "\\n<\\N[3]>The customers became suspicious when they noticed\nthat the store remained closed and the owner was\nnowhere to be seen, so they reported it and he was\ndiscovered."
                             ]
                         },
                         {
@@ -25936,7 +25936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>When the officer who rushed to the scene\nquestioned him, it seems that he had been sleeping\nin his room without opening the store."
+                                "\\n<\\N[3]>When the officer who rushed to the scene\nquestioned him, it seems that he had been sleeping\nin his room without opening the store."
                             ]
                         },
                         {
@@ -25960,7 +25960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>He kept sleeping...? Was it some kind of illness?"
+                                "\\n<\\N[3]>He kept sleeping...? Was it some kind of illness?"
                             ]
                         },
                         {
@@ -25984,7 +25984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>No, it seems he simply lost the motivation to do\nanything and just slept in his room."
+                                "\\n<\\N[3]>No, it seems he simply lost the motivation to do\nanything and just slept in his room."
                             ]
                         },
                         {
@@ -26008,7 +26008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The phenomenon of people going insane was the most\ncommon initial symptom. At first, conditions such\nas apathy syndrome and autonomic nervous system\ndisorder were suspected, but..."
+                                "\\n<\\N[3]>The phenomenon of people going insane was the most\ncommon initial symptom. At first, conditions such\nas apathy syndrome and autonomic nervous system\ndisorder were suspected, but..."
                             ]
                         },
                         {
@@ -26039,7 +26039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>However, there have been no confirmed cases of\nsimultaneous outbreaks limited to those areas."
+                                "\\n<\\N[3]>However, there have been no confirmed cases of\nsimultaneous outbreaks limited to those areas."
                             ]
                         },
                         {
@@ -26063,7 +26063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The abnormal phenomena that frequently occur in\nthe vicinity of Sakuhai City have been\ncollectively referred to as Insanity Syndrome."
+                                "\\n<\\N[3]>The abnormal phenomena that frequently occur in\nthe vicinity of Sakuhai City have been\ncollectively referred to as Insanity Syndrome."
                             ]
                         },
                         {
@@ -26087,7 +26087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...The phenomenon of people going insane that\noccurs only in the vicinity of Sakuhai City..."
+                                "\\n<\\N[3]>...The phenomenon of people going insane that\noccurs only in the vicinity of Sakuhai City..."
                             ]
                         },
                         {
@@ -26111,7 +26111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It is certain that the cause lies somewhere in\nthis city, but we still lack enough information to\nidentify the specific cause."
+                                "\\n<\\N[3]>It is certain that the cause lies somewhere in\nthis city, but we still lack enough information to\nidentify the specific cause."
                             ]
                         },
                         {
@@ -26194,7 +26194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It seems that the owner of this place was sleeping\nin their room without even opening the store."
+                                "\\n<\\N[3]>It seems that the owner of this place was sleeping\nin their room without even opening the store."
                             ]
                         },
                         {
@@ -26218,7 +26218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>It has come to be called the Madness Phenomenon as\na way to summarize the abnormal occurrences that\nfrequently happen in the vicinity of \\C[10]Sakuhai\nCity\\C[0]."
+                                "\\n<\\N[3]>It has come to be called the Madness Phenomenon as\na way to summarize the abnormal occurrences that\nfrequently happen in the vicinity of \\C[10]Sakuhai\nCity\\C[0]."
                             ]
                         },
                         {
@@ -26309,7 +26309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The security in this area has been deteriorating,\nso we are currently strengthening patrols."
+                                "\\n<\\N[3]>The security in this area has been deteriorating,\nso we are currently strengthening patrols."
                             ]
                         },
                         {
@@ -26410,7 +26410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...! The old man has collapsed...!)"
+                                "\\n<\\N[3]>(...! The old man has collapsed...!)"
                             ]
                         },
                         {
@@ -26451,7 +26451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...You're wearing them...)"
+                                "\\n<\\N[3]>(...You're wearing them...)"
                             ]
                         },
                         {
@@ -26629,7 +26629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...A student from the nearby school, huh? Nothing\nunusual, let's try looking elsewhere.)"
+                                "\\n<\\N[3]>(...A student from the nearby school, huh? Nothing\nunusual, let's try looking elsewhere.)"
                             ]
                         },
                         {
@@ -27459,7 +27459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a barber shop here, but\never since it closed, the shutters have been\ndown.)"
+                                "\\n<\\N[3]>(Until recently, there was a barber shop here, but\never since it closed, the shutters have been\ndown.)"
                             ]
                         },
                         {
@@ -27490,7 +27490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -27567,7 +27567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Until recently, there was a barber shop here, but\nit has been closed and the shutter has been down\never since.)"
+                                "\\n<\\N[3]>(Until recently, there was a barber shop here, but\nit has been closed and the shutter has been down\never since.)"
                             ]
                         },
                         {
@@ -27598,7 +27598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places as well.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places as well.)"
                             ]
                         },
                         {
@@ -27675,7 +27675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
+                                "\\n<\\N[3]>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
                             ]
                         },
                         {
@@ -27699,7 +27699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -27776,7 +27776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
+                                "\\n<\\N[3]>(It seems like there used to be a mahjong parlor\nhere, but it's closed now.)"
                             ]
                         },
                         {
@@ -27800,7 +27800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out other places too.)"
                             ]
                         },
                         {
@@ -27877,7 +27877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(It seems like this property has been vacant for\nquite some time.)"
+                                "\\n<\\N[3]>(It seems like this property has been vacant for\nquite some time.)"
                             ]
                         },
                         {
@@ -27901,7 +27901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Anyway, let's check out the other places too.)"
+                                "\\n<\\N[3]>(Anyway, let's check out the other places too.)"
                             ]
                         },
                         {
@@ -28782,7 +28782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Kurube... The designated violent group\n\\c[2]Kurube Group\\c[0]...?)"
+                                "\\n<\\N[3]>(Kurube... The designated violent group\n\\c[2]Kurube Group\\c[0]...?)"
                             ]
                         },
                         {
@@ -28916,7 +28916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What are you guys whispering about since earlier?\nIf you're causing a commotion, do it somewhere\nelse...?"
+                                "\\n<\\N[3]>What are you guys whispering about since earlier?\nIf you're causing a commotion, do it somewhere\nelse...?"
                             ]
                         },
                         {
@@ -29523,7 +29523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey! Wait!... Damn it!"
+                                "\\n<\\N[3]>Hey! Wait!... Damn it!"
                             ]
                         },
                         {
@@ -29715,7 +29715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Kurube... The designated violent group\n\\c[2]Kurube-gumi\\c[0]...?)"
+                                "\\n<\\N[3]>(Kurube... The designated violent group\n\\c[2]Kurube-gumi\\c[0]...?)"
                             ]
                         },
                         {
@@ -29849,7 +29849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What are you guys whispering about? If you're\ncausing a ruckus, take it somewhere else...?"
+                                "\\n<\\N[3]>What are you guys whispering about? If you're\ncausing a ruckus, take it somewhere else...?"
                             ]
                         },
                         {
@@ -30456,7 +30456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Hey! Wait a minute!... Damn it!"
+                                "\\n<\\N[3]>Hey! Wait a minute!... Damn it!"
                             ]
                         },
                         {
@@ -30727,7 +30727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>The voice should have come from around here...\nLet's search a little."
+                                "\\n<\\N[3]>The voice should have come from around here...\nLet's search a little."
                             ]
                         },
                         {

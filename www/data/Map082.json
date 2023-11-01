@@ -2877,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Some kind of research document...?"
+                                "\\n<\\N[3]>...Some kind of research document...?"
                             ]
                         },
                         {
@@ -3029,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Some kind of research document...?"
+                                "\\n<\\N[3]>...Some kind of research document...?"
                             ]
                         },
                         {
@@ -3220,7 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...? What kind of research were you conducting...?"
+                                "\\n<\\N[3]>...? What kind of research were you conducting...?"
                             ]
                         },
                         {
@@ -3417,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...? What kind of research were you conducting...?"
+                                "\\n<\\N[3]>...? What kind of research were you conducting...?"
                             ]
                         },
                         {
@@ -3639,7 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
+                                "\\n<\\N[3]>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
                             ]
                         },
                         {
@@ -3867,7 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
+                                "\\n<\\N[3]>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
                             ]
                         },
                         {
@@ -4034,7 +4034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The 'ego' is the memory that tries to suppress\nand drive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
+                                "The 'ego' is the memory that tries to suppress and\ndrive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
                             ]
                         },
                         {
@@ -4065,7 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
+                                "\\n<\\N[3]>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
                             ]
                         },
                         {
@@ -4224,7 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The 'ego' is the memory that tries to suppress\nand drive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
+                                "The 'ego' is the memory that tries to suppress and\ndrive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
                             ]
                         },
                         {
@@ -4255,7 +4255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
+                                "\\n<\\N[3]>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
                             ]
                         },
                         {
@@ -4339,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...No, let's move forward."
+                                "\\n<\\N[3]>...No, let's move forward."
                             ]
                         },
                         {
@@ -4614,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Soul...? The conversation has taken a detour\nagain... But... what if..."
+                                "\\n<\\N[3]>...Soul...? The conversation has taken a detour\nagain... But... what if..."
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Soul...? The conversation took a detour\nagain... But... what if..."
+                                "\\n<\\N[3]>...Soul...? The conversation took a detour\nagain... But... what if..."
                             ]
                         },
                         {
@@ -4914,7 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>What is this... Why is there such a space\nunderground at the station?"
+                                "\\n<\\N[3]>What is this... Why is there such a space\nunderground at the station?"
                             ]
                         },
                         {
@@ -4938,7 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>There's dust piled up... and documents scattered\naround. It seems like it hasn't been used for a\nwhile."
+                                "\\n<\\N[3]>There's dust piled up... and documents scattered\naround. It seems like it hasn't been used for a\nwhile."
                             ]
                         },
                         {
@@ -4969,7 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...Are they ahead...? Let's proceed."
+                                "\\n<\\N[3]>...Are they ahead...? Let's proceed."
                             ]
                         },
                         {

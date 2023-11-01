@@ -4063,7 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
+                                "\\n<\\N[3]>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
                             ]
                         },
                         {
@@ -4548,7 +4548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
+                                "\\n<\\N[3]>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
                             ]
                         },
                         {
@@ -7639,7 +7639,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>So, this means that the lock on the switch-\noperated door has been released. Let's head\ntowards Room \\C[2]α-1\\C[0]."
+                                "\\n<\\N[3]>So, this means that the lock on the switch-\noperated door has been released. Let's head\ntowards Room \\C[2]α-1\\C[0]."
                             ]
                         },
                         {

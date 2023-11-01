@@ -3748,7 +3748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...You..."
+                                "\\n<\\N[3]>...You..."
                             ]
                         },
                         {
@@ -3808,7 +3808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>Ouch... I wonder if I got a bruise..."
+                                "\\n<\\N[3]>Ouch... I wonder if I got a bruise..."
                             ]
                         },
                         {
@@ -4669,7 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>...It would be bad if that girl finds me... I need\nto find an exit without being discovered..."
+                                "\\n<\\N[3]>...It would be bad if that girl finds me... I need\nto find an exit without being discovered..."
                             ]
                         },
                         {
@@ -4965,7 +4965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Damn it... I have to proceed carefully this\ntime...)"
+                                "\\n<\\N[3]>(Damn it... I have to proceed carefully this\ntime...)"
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(...It's a bit blurry in some places... Is it some\nkind of hint...?)"
+                                "\\n<\\N[3]>(...It's a bit blurry in some places... Is it some\nkind of hint...?)"
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(Damn it... I have to proceed carefully this\ntime...)"
+                                "\\n<\\N[3]>(Damn it... I have to proceed carefully this\ntime...)"
                             ]
                         },
                         {

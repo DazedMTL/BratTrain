@@ -20721,7 +20721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
+                                "\\n<\\N[3]>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -20819,7 +20819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
+                                "\\n<\\N[3]>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
@@ -20983,7 +20983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
+                                "\\n<\\N[3]>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {
@@ -21078,7 +21078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Alright... I'll use this piece of wood as a\nbridge..."
+                                "\\n<\\N[3]>Alright... I'll use this piece of wood as a\nbridge..."
                             ]
                         },
                         {
@@ -21176,7 +21176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
+                                "\\n<\\N[3]>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
@@ -21340,7 +21340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>If there's something sturdy that can serve as a\nbridge..."
+                                "\\n<\\N[3]>If there's something sturdy that can serve as a\nbridge..."
                             ]
                         },
                         {
@@ -21444,7 +21444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
+                                "\\n<\\N[3]>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -21553,7 +21553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
+                                "\\n<\\N[3]>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
@@ -21717,7 +21717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
+                                "\\n<\\N[3]>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {
@@ -21812,7 +21812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
+                                "\\n<\\N[3]>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -21921,7 +21921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
+                                "\\n<\\N[3]>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
@@ -22085,7 +22085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
+                                "\\n<\\N[3]>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {

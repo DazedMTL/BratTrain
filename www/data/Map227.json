@@ -1593,7 +1593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>...! Where am I?"
+                                "\\n<\\N[3]>...! Where am I?"
                             ]
                         },
                         {
