@@ -7399,7 +7399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]Kishi shi, w? Wazurashii ka? Sono\nfuroa ni wa shinkei gasu ga juuman shite iru zo!"
+                                "\\n<sine:ω>\\C[24]Kishi shi, w? Wazurashii ka? Sono\nfuroa ni wa shinkei gasu ga juuman shite iru zo!"
                             ]
                         },
                         {
@@ -7423,7 +7423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]Whether we move forward or turn back\ndepends on the old man, but I wonder how long he\ncan keep up that composure~? w"
+                                "\\n<sine:ω>\\C[24]Whether we move forward or turn back\ndepends on the old man, but I wonder how long he\ncan keep up that composure~? w"
                             ]
                         },
                         {

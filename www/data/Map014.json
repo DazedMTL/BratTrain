@@ -3284,7 +3284,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: Did you really think I would let you pass so\neasily? \\C[2]You can't get through there without a\nkey, you know!"
+                                "\\n<sine:ω>Did you really think I would let you pass so\neasily? \\C[2]You can't get through there without a\nkey, you know!"
                             ]
                         },
                         {
@@ -3339,7 +3339,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]Kishishi! That's right, isn't it? You\nfinally decided to admit it, huh!"
+                                "\\n<sine:ω>\\C[24]Kishishi! That's right, isn't it? You\nfinally decided to admit it, huh!"
                             ]
                         },
                         {
@@ -3418,7 +3418,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]!...R-Really...?"
+                                "\\n<sine:ω>\\C[24]!...R-Really...?"
                             ]
                         },
                         {
@@ -3497,7 +3497,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]...W-Well, I guess I have no choice!\nI'll tell you the location of the key as a special\nfavor!"
+                                "\\n<sine:ω>\\C[24]...W-Well, I guess I have no choice!\nI'll tell you the location of the key as a special\nfavor!"
                             ]
                         },
                         {
@@ -3521,7 +3521,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]The key was left with the drone in the\nroom earlier, so \\C[2]defeat it and get your hands\non it\\C[24]!"
+                                "\\n<sine:ω>\\C[24]The key was left with the drone in the\nroom earlier, so \\C[2]defeat it and get your hands\non it\\C[24]!"
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]Of course, \\C[2]I have disabled the\ndrone\\C[24]..."
+                                "\\n<sine:ω>\\C[24]Of course, \\C[2]I have disabled the\ndrone\\C[24]..."
                             ]
                         },
                         {
@@ -3600,7 +3600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]...Hey, you! Don't tell me...!"
+                                "\\n<sine:ω>\\C[24]...Hey, you! Don't tell me...!"
                             ]
                         },
                         {
@@ -3655,7 +3655,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<sine:ω>ω: ω: \\C[24]...Th-this...damn old man!"
+                                "\\n<sine:ω>\\C[24]...Th-this...damn old man!"
                             ]
                         },
                         {
