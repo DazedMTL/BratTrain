@@ -47,7 +47,7 @@ Window_Base.prototype.standardFontFace = function () {
 };
 
 Window_Base.prototype.standardFontSize = function () {
-    return 28;
+    return 24;
 };
 
 Window_Base.prototype.standardPadding = function () {
@@ -266,6 +266,22 @@ Window_Base.prototype.drawTextEx = function (text, x, y) {
         textState.text = this.convertEscapeCharacters(text);
         textState.height = this.calcTextHeight(textState, false);
         this.resetFontSettings();
+        while (textState.index < textState.text.length) {
+            this.processCharacter(textState);
+        }
+        return textState.x - x;
+    } else {
+        return 0;
+    }
+};
+
+Window_Base.prototype.drawTextExHelp = function (text, x, y) {
+    if (text) {
+        var textState = { index: 0, x: x, y: y, left: x };
+        textState.text = this.convertEscapeCharacters(text);
+        textState.height = this.calcTextHeight(textState, false);
+        this.resetFontSettings();
+        this.contents.fontSize = 18
         while (textState.index < textState.text.length) {
             this.processCharacter(textState);
         }
@@ -1502,7 +1518,7 @@ Window_Help.prototype.setItem = function (item) {
 
 Window_Help.prototype.refresh = function () {
     this.contents.clear();
-    this.drawTextEx(this._text, this.textPadding(), 0);
+    this.drawTextExHelp(this._text, this.textPadding(), 0);
 };
 
 //-----------------------------------------------------------------------------
