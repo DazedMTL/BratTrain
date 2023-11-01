@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "繊月館学院前",
+    "displayName": "Sentsuki Mansion Academy Front",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4553,38 +4553,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体育の授業の合間に"
+                                "During the break in physical education class, I\nwill be in charge of disciplining the student who\nengaged in misconduct. I will patrol around the\nschool vicinity near dismissal time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "問題行動を起こした生徒指導にあたり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下校時間付近は学校周辺の見回り。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これももう十数年繰り返しているルーティンだ。"
+                                ""
                             ]
                         },
                         {
@@ -4601,14 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大抵は寄り道する生徒への注意や、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不純異性交遊の取り締まり。"
+                                "This is already a routine that has been repeated\nfor over ten years."
                             ]
                         },
                         {
@@ -4625,14 +4601,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下校時間で浮かれた生徒への注意だけで済むが、"
+                                "Usually, I give warnings to students who take\ndetours and enforce regulations on inappropriate\nrelationships between students of the opposite\nsex."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時には看過できない問題行動を起こす生徒もいる。"
+                                "Sometimes, there are students who engage in\nmisconduct that cannot be overlooked, although\nusually it is enough to just give warnings to the\nstudents who are excited during dismissal time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5183,14 +5183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>お前達、"
+                                "\\n<Teacher>What are you all doing at this time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな時間に何やってる。"
+                                ""
                             ]
                         },
                         {
@@ -5207,38 +5207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒A>ゲッ…"
+                                "\\n<Female Student A>Ugh... The worst~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サイアク～。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<教師>お前ら電車通学だろう。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駅は反対側だ。"
+                                ""
                             ]
                         },
                         {
@@ -5255,7 +5231,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>一体どこに向かうつもりだったんだ？"
+                                "\\n<Teacher>You guys commute by train, right? The station is\non the opposite side."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Teacher>Where on earth were you planning to go?"
                             ]
                         },
                         {
@@ -5272,21 +5272,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒B>はぁ…マジ何なの？\\!"
+                                "\\n<Female Student B>Ugh... Seriously, what's the deal? And seriously,\nwhy are you prying into what we do after school?\nIt's none of your business~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つーか放課後何するかまで詮索するとか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぷらいばしーのしんがいなんですけど～"
+                                ""
                             ]
                         },
                         {
@@ -5303,14 +5303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒C>違うって！\\!"
+                                "\\n<Female Student C>No way! It's sexual harassment, sexual harassment!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セクハラだよセクハラ！"
+                                ""
                             ]
                         },
                         {
@@ -5327,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒A>つーかセクハラって何の略なん？"
+                                "\\n<Female Student A>By the way, what does セクハラ stand for?"
                             ]
                         },
                         {
@@ -5344,38 +5344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒C>セクハラ…セクハラ…\\!"
+                                "\\n<Female Student C>Sexual harassment... sexual harassment... sex\nparadise!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セックスパラダイス！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor19",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女生徒B>「パ」じゃんwww\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃセクパラになっちゃうからwww"
+                                ""
                             ]
                         },
                         {
@@ -5383,30 +5359,6 @@
                             "indent": 0,
                             "parameters": [
                                 "Actor19",
-                                2,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女生徒A>いいじゃんセクパラ！ｗ\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちらでバズらそ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
                                 0,
                                 0,
                                 2
@@ -5416,14 +5368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>馬鹿な事言ってないで"
+                                "\\n<Female Student B>Pa huh? Hahaha, if that's the case, it'll turn\ninto a sex paradise! Hahaha"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっさと家に帰れ。"
+                                ""
                             ]
                         },
                         {
@@ -5440,14 +5392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒A>は？ヤだし。\\!"
+                                "\\n<Female Student A>It's fine, let's make it go viral with Sex-Para!\nLOL"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちらこれからカラオケでオールだし。"
+                                ""
                             ]
                         },
                         {
@@ -5464,7 +5416,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>…なに？"
+                                "\\n<Teacher>Stop saying stupid things and go home already."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor19",
+                                2,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Female Student A>Huh? I don't want to. We're going to karaoke and\nsinging all night."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Teacher>...What?"
                             ]
                         },
                         {
@@ -5481,14 +5481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒B>ちょ！バカ！"
+                                "\\n<Female Student B>Hey! Idiot! You can't say that!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言っちゃヤバいって！"
+                                ""
                             ]
                         },
                         {
@@ -5505,7 +5505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒C>ヤッバ…逃げよ！"
+                                "\\n<Female Student C>Oh no... Let's run away!"
                             ]
                         },
                         {
@@ -6242,14 +6242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あ！おい待てお前ら！！\\!"
+                                "\\n<Teacher>Ah! Hey, wait you guys!! Dammit!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クソっ！！"
+                                ""
                             ]
                         },
                         {
@@ -6601,38 +6601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世の中を舐め切った生徒の指導は"
+                                "The guidance of students who have completely\nunderestimated the world requires time, patience,\nand physical stamina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "時間も根気も体力もいる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その日は結局、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不良生徒達を捕まえた後にこってりと説教をし、"
+                                ""
                             ]
                         },
                         {
@@ -6649,14 +6625,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親御さんへの連絡に事後処理などで、"
+                                "After catching the delinquent students that day, I\ngave them a thorough scolding."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局帰りは終電となってしまうのだった。"
+                                "In the end, due to contacting the parents and\nhandling the aftermath, it turned out that they\nhad to go home by the last train."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下階段",
+    "displayName": "Underground Stairs",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -2801,28 +2801,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕現装置に関する研究 L-9351～"
+                                "~Research on Manifestation Device L-9351~ The sea\nof the unconscious is connected to people's\nconscious and subconscious minds. In other words,\nif we can observe the sea of the unconscious, it\nwould also be possible to observe people's desires\nand wishes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識の海は人々の顕在意識と潜在意識に繋がっている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つまり、無意識の海を観測する事が出来れば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の欲望や願望を観測する事も可能となる。”"
+                                ""
                             ]
                         },
                         {
@@ -2839,28 +2839,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”計画書U-25を参照。"
+                                "Referring to Project Document U-25. In order to\nmanifest Target X, three operations are essential:\nthe observation device, the beacon, and the\nmanifestation device. These require a significant\namount of power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象Xの顕現には、観測装置とビーコン、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕現装置の３つの稼働が不可欠であり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これには多大な電力を要するものである。”"
+                                ""
                             ]
                         },
                         {
@@ -2877,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…何かの研究書類か…？"
+                                "\\n<Detective>...Some kind of research document...?"
                             ]
                         },
                         {
@@ -2953,28 +2953,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕現装置に関する研究 L-9351～"
+                                "~Research on Manifestation Device L-9351~ The sea\nof the unconscious is connected to people's\nconscious and subconscious minds. In other words,\nif we can observe the sea of the unconscious, it\nwould also be possible to observe people's desires\nand wishes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識の海は人々の顕在意識と潜在意識に繋がっている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つまり、無意識の海を観測する事が出来れば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の欲望や願望を観測する事も可能となる。”"
+                                ""
                             ]
                         },
                         {
@@ -2991,28 +2991,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”計画書U-25を参照。"
+                                "Referring to Project Document U-25. In order to\nmanifest Target X, three operations are essential:\nthe observation device, the beacon, and the\nmanifestation device. These require a significant\namount of power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象Xの顕現には、観測装置とビーコン、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕現装置の３つの稼働が不可欠であり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これには多大な電力を要するものである。”"
+                                ""
                             ]
                         },
                         {
@@ -3029,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…何かの研究書類か…？"
+                                "\\n<Detective>...Some kind of research document...?"
                             ]
                         },
                         {
@@ -3106,66 +3106,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～心の防衛に関する研究～"
+                                "~Research on the Defense of the Mind~ In Jungian\npsychology, similar to Freud, there is a concept\nof the unconscious. As an example of unconscious\nreactions, the ego, which forms consciousness,\ntries to maintain personality in response to\npsychological stressors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ユング心理学では、フロイト同様に\"無意識\"の概念を持つ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識的な反応の一例として、意識を形成する"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”自我”は心的ストレス要因から人格を保とうとする為”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”無意識領域に記憶を排除する動きがあるとされる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感情と理性（意識）が相反する反応を示す場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり矛盾が生じた際に、無意識的な反応を示し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健忘などの症状を表す。”"
+                                ""
                             ]
                         },
                         {
@@ -3182,28 +3144,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”人間は激しい感情や情動を無意識の中に"
+                                "There is a movement to exclude memories from the\nunconscious realm. When emotions and reason\n(consciousness) show contradictory reactions, in\nother words, when contradictions arise,\nunconscious reactions are shown, manifesting\nsymptoms such as amnesia."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抑圧しようとする働きを持ち（自我の作用）、"
+                                "Humans have a function to suppress intense\nemotions and passions into the unconscious (the\nfunction of the ego), which is a defense mechanism\nto prevent the destruction of the mind caused by\npsychological stress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは、心的ストレスによる精神の破壊を防ぐための"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "防衛本能である。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3220,14 +3220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…？"
+                                "\\n<Detective>...? What kind of research were you conducting...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何の研究をしていたんだ…？"
+                                ""
                             ]
                         },
                         {
@@ -3303,66 +3303,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～心の防衛に関する研究～"
+                                "~Research on the Defense of the Mind~ In Jungian\npsychology, similar to Freud, there is a concept\nof the unconscious. As an example of unconscious\nreactions, the ego, which forms consciousness,\ntries to maintain personality from mental stress\nfactors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ユング心理学では、フロイト同様に\"無意識\"の概念を持つ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識的な反応の一例として、意識を形成する"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”自我”は心的ストレス要因から人格を保とうとする為”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”無意識領域に記憶を排除する動きがあるとされる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感情と理性（意識）が相反する反応を示す場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり矛盾が生じた際に、無意識的な反応を示し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健忘などの症状を表す。”"
+                                ""
                             ]
                         },
                         {
@@ -3379,28 +3341,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”人間は激しい感情や情動を無意識の中に"
+                                "There is a movement to exclude memories from the\nunconscious realm. When emotions and reason\n(consciousness) show contradictory reactions, in\nother words, when contradictions arise,\nunconscious reactions are shown, manifesting\nsymptoms such as amnesia."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抑圧しようとする働きを持ち（自我の作用）、"
+                                "Humans have a function to suppress intense\nemotions and passions within the unconscious (the\nfunction of the ego), which is a defense mechanism\nto prevent the destruction of the mind caused by\nmental stress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは、心的ストレスによる精神の破壊を防ぐための"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "防衛本能である。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3417,14 +3417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…？"
+                                "\\n<Detective>...? What kind of research were you conducting...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何の研究をしていたんだ…？"
+                                ""
                             ]
                         },
                         {
@@ -3501,66 +3501,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～自我と自己の違い～"
+                                "~The Difference Between Ego and Self~ The ego is\nthe self that actively manipulates actions and\nconsciousness, using the five senses to perceive\nthe external world and recognize desires and\nemotions within oneself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自我とは、行動や意識を主体的に操作する”私”であり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "五感を使って外の世界を認知し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "内側にある欲望や感情を認知する”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”経験や体験を記憶する役割もあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな”自我”の最も大きい仕事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人格を保ち、安定性を保持する事である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（自分自身を防衛する機能）”"
+                                ""
                             ]
                         },
                         {
@@ -3577,28 +3539,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”自己とは心の全体性であり、自我を包含するもの。"
+                                "The ego also has the role of storing experiences\nand memories, and its biggest job is to maintain\npersonality and stability. (A function to defend\noneself)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識内に存在していて、海よりも深く宇宙より広い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "故に、意識化が不可能なものであり、自我を保つために"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "感情を無意識に送ろうとする時に反発する作用を持つ”"
+                                ""
                             ]
                         },
                         {
@@ -3615,14 +3577,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”これは、自己は常に高次に向かおうとする"
+                                "The self is the totality of the mind and\nencompasses the ego. It exists within the\nunconscious, deeper than the sea and wider than\nthe universe. Therefore, it is something that\ncannot be made conscious and has a function of\nresisting when trying to unconsciously send\nemotions in order to maintain the ego."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作用がある為とも考えられている。”"
+                                "This is also considered to be due to the fact that\nthe self always has a tendency to strive for\nhigher levels."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3639,21 +3639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…自我…自己…"
+                                "\\n<Detective>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "心理学の研究か…？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "狂人化現象と何か関係が…？"
+                                ""
                             ]
                         },
                         {
@@ -3729,66 +3729,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～自我と自己の違い～"
+                                "~The Difference Between Ego and Self~ The ego is\nthe self that actively manipulates actions and\nconsciousness, using the five senses to perceive\nthe external world and recognize desires and\nemotions within."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自我とは、行動や意識を主体的に操作する”私”であり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "五感を使って外の世界を認知し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "内側にある欲望や感情を認知する”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”経験や体験を記憶する役割もあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな”自我”の最も大きい仕事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人格を保ち、安定性を保持する事である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（自分自身を防衛する機能）”"
+                                ""
                             ]
                         },
                         {
@@ -3805,28 +3767,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "””自己”とは心の全体性であり、自我を包含するもの。"
+                                "The ego also has the role of storing experiences\nand memories, and its biggest job is to maintain\npersonality and stability. (A function to defend\noneself)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無意識内に存在していて、海よりも深く宇宙より広い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "故に、意識化が不可能なものであり、自我を保つために"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "感情を無意識に送ろうとする時に反発する作用を持つ”"
+                                ""
                             ]
                         },
                         {
@@ -3843,14 +3805,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”これは、自己は常に高次に向かおうとする"
+                                "The self is the totality of the mind and includes\nthe ego. It exists within the unconscious, deeper\nthan the sea and wider than the universe.\nTherefore, it is something that cannot be made\nconscious and has a function of resisting when\ntrying to unconsciously send emotions in order to\nmaintain the ego."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作用がある為とも考えられている。”"
+                                "This is also considered to be due to the fact that\nthe self always has a tendency to strive for\nhigher levels."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3867,21 +3867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…自我…自己…"
+                                "\\n<Detective>...Ego...Self...Research in psychology, huh? Is\nthere any connection to the phenomenon of madness?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "心理学の研究か…？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "狂人化現象と何か関係が…？"
+                                ""
                             ]
                         },
                         {
@@ -3958,66 +3958,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～自我がもたらす身体機能に対する影響の研究６～"
+                                "~Study on the Effects of Self-Identity on Bodily\nFunctions 6~ As an example, I will mention\nHysterical Amnesia. When faced with anger towards\nbetrayal, one tends to make extreme choices,\ndriven by emotions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "症例としてヒステリー性健忘を挙げる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "裏切りに対する怒りで極端な選択を取ろうとしたとき、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この選択を取ろうとするものは感情である。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかし、極端な行動を取る事によって生じる責任に対し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブレーキを掛けようとする”意識”との間に”葛藤”が生じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような精神状態の中で、葛藤によって生じる矛盾により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人格を保てなくなった場合に、”"
+                                ""
                             ]
                         },
                         {
@@ -4034,21 +3996,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”「自我」は無意識の中に怒りの感情を追いやり"
+                                "However, conflicts arise between the consciousness\nthat tries to put the brakes on the responsibility\nthat arises from taking extreme actions. In such a\nmental state, if one becomes unable to maintain\ntheir personality due to contradictions caused by\nconflicts,"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抑えようとした記憶を消して自我を保ち、安定性を維持する。"
+                                "The 'ego' is the memory that tries to suppress\nand drive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この状況と結果こそがヒステリー性健忘である。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4065,14 +4065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…感情によって作用する身体的影響…\\!"
+                                "\\n<Detective>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無関係とは思えない…。"
+                                ""
                             ]
                         },
                         {
@@ -4148,66 +4148,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～自我がもたらす身体機能に対する影響の研究６～"
+                                "~Study on the Effects of Self-Identity on Bodily\nFunctions 6~ As an example, I will mention\nHysterical Amnesia. When faced with anger towards\nbetrayal, one tends to make extreme choices,\ndriven by emotions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "症例としてヒステリー性健忘を挙げる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "裏切りに対する怒りで極端な選択を取ろうとしたとき、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この選択を取ろうとするものは感情である。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかし、極端な行動を取る事によって生じる責任に対し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブレーキを掛けようとする”意識”との間に”葛藤”が生じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような精神状態の中で、葛藤によって生じる矛盾により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人格を保てなくなった場合に、”"
+                                ""
                             ]
                         },
                         {
@@ -4224,21 +4186,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”「自我」は無意識の中に怒りの感情を追いやり"
+                                "However, conflicts arise between the consciousness\nthat tries to put the brakes on the responsibility\nthat arises from taking extreme actions. In such a\nmental state, if one becomes unable to maintain\ntheir personality due to contradictions caused by\nconflicts,"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抑えようとした記憶を消して自我を保ち、安定性を維持する。"
+                                "The 'ego' is the memory that tries to suppress\nand drive away the emotions of anger within the\nunconscious, in order to maintain self-identity\nand stability. This situation and its outcome are\nwhat constitute Hysterical Amnesia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この状況と結果こそがヒステリー性健忘である。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4255,14 +4255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…感情によって作用する身体的影響…\\!"
+                                "\\n<Detective>...Physical effects influenced by emotions... It\ndoesn't seem unrelated..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無関係とは思えない…。"
+                                ""
                             ]
                         },
                         {
@@ -4339,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…いや、先に進もう。"
+                                "\\n<Detective>...No, let's move forward."
                             ]
                         },
                         {
@@ -4507,59 +4507,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～普遍的無意識領域と魂魄の存在に関する論文～"
+                                "~A Paper on the Existence of the Universal\nUnconscious and Soul~ Research on what happens\nafter a person's death has been conducted since\nancient times, but the study of unobservable\nphenomena has never been recognized as an academic\ndiscipline."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の死後に関する研究は太古から進められてきたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "観測不能な研究を学問として認められることはなかった”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかしながら、ユングやフロイトの心理学を元に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくつかの仮説を立てた上で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象Xを被検体とした研究を進めた結果、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのカギは普遍的無意識領域にある事がわかった。”"
+                                ""
                             ]
                         },
                         {
@@ -4576,28 +4538,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”仮に、魂魄という存在が実在したとして、"
+                                "However, based on the psychology of Jung and\nFreud, several hypotheses were formulated, and as\na result of conducting research with subject X, it\nwas discovered that the key lies in the realm of\nthe universal unconscious."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは死後どこに向かうのか。"
+                                "If we assume that the existence of a soul is real,\nwhere does it go after death? Perhaps the answer\nlies in the collective unconscious, which everyone\nshares but cannot accurately perceive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人が誰しも共有しながら、その存在を正確に認知する事が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できない集合的無意識こそ、その答えではないだろうか。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4614,21 +4614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…魂魄…？"
+                                "\\n<Detective>...Soul...? The conversation has taken a detour\nagain... But... what if..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また話が吹っ飛んだな……。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが…もしも…"
+                                ""
                             ]
                         },
                         {
@@ -4704,59 +4704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～普遍的無意識領域と魂魄の存在に関する論文～"
+                                "~A Paper on the Existence of the Universal\nUnconscious and Soul~ Research on what happens\nafter a person's death has been conducted since\nancient times, but the study of unobservable\nphenomena has never been recognized as an academic\ndiscipline."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の死後に関する研究は太古から進められてきたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "観測不能な研究を学問として認められることはなかった”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかしながら、ユングやフロイトの心理学を元に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくつかの仮説を立てた上で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象Xを被検体とした研究を進めた結果、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのカギは普遍的無意識領域にある事がわかった。”"
+                                ""
                             ]
                         },
                         {
@@ -4773,28 +4735,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”仮に、魂魄という存在が実在したとして、"
+                                "However, based on the psychology of Jung and\nFreud, several hypotheses were formulated, and as\na result of conducting research with subject X, it\nwas discovered that the key lies in the realm of\nthe universal unconscious."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは死後どこに向かうのか。"
+                                "If we assume that the existence of a soul actually\nexists, where does it go after death? Perhaps the\nanswer lies in the collective unconscious, which\neveryone shares but cannot accurately perceive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人が誰しも共有しながら、その存在を正確に認知する事が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できない集合的無意識こそ、その答えではないだろうか。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4811,21 +4811,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…魂魄…？"
+                                "\\n<Detective>...Soul...? The conversation took a detour\nagain... But... what if..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また話が吹っ飛んだな……。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが…もしも…"
+                                ""
                             ]
                         },
                         {
@@ -4914,45 +4914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これは…"
+                                "\\n<Detective>What is this... Why is there such a space\nunderground at the station?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駅の地下になぜこんな空間が…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>埃も積もっているし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書類のようなものも散乱している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら暫く使われてはいなさそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -4969,14 +4938,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…この先にいるのか…？\\!"
+                                "\\n<Detective>There's dust piled up... and documents scattered\naround. It seems like it hasn't been used for a\nwhile."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進んでみよう。"
+                                "\\n<Detective>...Are they ahead...? Let's proceed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

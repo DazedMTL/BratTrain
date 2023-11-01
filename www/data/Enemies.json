@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             200,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             250,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             300,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "",
         "params": [
             500,
@@ -304,7 +304,7 @@
             }
         ],
         "gold": 500,
-        "name": "美彌子母テスト",
+        "name": "Miyako's Mother Test",
         "note": "テスト用",
         "params": [
             100,
@@ -366,7 +366,7 @@
             }
         ],
         "gold": 0,
-        "name": "女の子A",
+        "name": "Girl A",
         "note": "",
         "params": [
             190,
@@ -435,7 +435,7 @@
             }
         ],
         "gold": 0,
-        "name": "女の子B",
+        "name": "Girl B",
         "note": "",
         "params": [
             100,
@@ -497,7 +497,7 @@
             }
         ],
         "gold": 0,
-        "name": "女の子C",
+        "name": "Girl C",
         "note": "",
         "params": [
             200,
@@ -566,7 +566,7 @@
             }
         ],
         "gold": 0,
-        "name": "女の子D",
+        "name": "Girl D",
         "note": "",
         "params": [
             100,
@@ -635,7 +635,7 @@
             }
         ],
         "gold": 0,
-        "name": "性欲の成れの果て",
+        "name": "The end result of sexual desire",
         "note": "",
         "params": [
             1700,
@@ -711,7 +711,7 @@
             }
         ],
         "gold": 0,
-        "name": "レア少女",
+        "name": "Rare Girl",
         "note": "",
         "params": [
             250,
@@ -1290,7 +1290,7 @@
             }
         ],
         "gold": 0,
-        "name": "アリア",
+        "name": "Aria",
         "note": "",
         "params": [
             2000,
@@ -1848,7 +1848,7 @@
             }
         ],
         "gold": 0,
-        "name": "◆ココステージ◆",
+        "name": "◆Coco Stage◆",
         "note": "",
         "params": [
             100,
@@ -1962,7 +1962,7 @@
             }
         ],
         "gold": 0,
-        "name": "ココ",
+        "name": "Coco",
         "note": "",
         "params": [
             10,
@@ -2052,7 +2052,7 @@
             }
         ],
         "gold": 0,
-        "name": "戦闘ドローンType072A1",
+        "name": "Combat Drone Type072A1",
         "note": "",
         "params": [
             270,
@@ -2259,7 +2259,7 @@
             }
         ],
         "gold": 0,
-        "name": "戦闘ドローンType69-A1",
+        "name": "Combat Drone Type 69-A1",
         "note": "",
         "params": [
             370,
@@ -2409,7 +2409,7 @@
             }
         ],
         "gold": 0,
-        "name": "マザードローン-Prototype",
+        "name": "Mother Drone - Prototype",
         "note": "",
         "params": [
             2500,
@@ -2504,7 +2504,7 @@
             }
         ],
         "gold": 0,
-        "name": "マザードローンType-LUNA",
+        "name": "Mother Drone Type-LUNA",
         "note": "",
         "params": [
             1500,
@@ -2690,7 +2690,7 @@
             }
         ],
         "gold": 0,
-        "name": "◆ミヤコステージ◆",
+        "name": "◆Miyako Stage◆",
         "note": "",
         "params": [
             100,
@@ -2773,7 +2773,7 @@
             }
         ],
         "gold": 0,
-        "name": "？？？",
+        "name": "???",
         "note": "通常",
         "params": [
             270,
@@ -2870,7 +2870,7 @@
             }
         ],
         "gold": 0,
-        "name": "？？？",
+        "name": "???",
         "note": "ミヤコ中ボス",
         "params": [
             2000,
@@ -2967,7 +2967,7 @@
             }
         ],
         "gold": 0,
-        "name": "？？？",
+        "name": "???",
         "note": "ミヤコ覚醒",
         "params": [
             260,
@@ -3078,7 +3078,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミヤコ",
+        "name": "Miyako",
         "note": "ミヤコボス戦",
         "params": [
             2500,
@@ -3450,7 +3450,7 @@
             }
         ],
         "gold": 0,
-        "name": "～3人組～",
+        "name": "~3-person group~",
         "note": "",
         "params": [
             100,
@@ -3533,7 +3533,7 @@
             }
         ],
         "gold": 0,
-        "name": "不良生徒A",
+        "name": "Delinquent Student A",
         "note": "",
         "params": [
             280,
@@ -3616,7 +3616,7 @@
             }
         ],
         "gold": 0,
-        "name": "不良生徒B",
+        "name": "Delinquent Student B",
         "note": "",
         "params": [
             270,
@@ -3720,7 +3720,7 @@
             }
         ],
         "gold": 0,
-        "name": "イチル",
+        "name": "Ichiru",
         "note": "",
         "params": [
             1950,
@@ -3824,7 +3824,7 @@
             }
         ],
         "gold": 0,
-        "name": "アイ",
+        "name": "Ai",
         "note": "",
         "params": [
             1500,
@@ -3921,7 +3921,7 @@
             }
         ],
         "gold": 0,
-        "name": "コマリ",
+        "name": "Komari",
         "note": "",
         "params": [
             1340,
@@ -4611,7 +4611,7 @@
             }
         ],
         "gold": 0,
-        "name": "ルナ",
+        "name": "Luna",
         "note": "",
         "params": [
             4200,
@@ -4764,7 +4764,7 @@
             }
         ],
         "gold": 0,
-        "name": "緋皇 月",
+        "name": "Luna Hisube",
         "note": "",
         "params": [
             5500,
@@ -6872,7 +6872,7 @@
             }
         ],
         "gold": 0,
-        "name": "～サンプル～",
+        "name": "~Sample~",
         "note": "",
         "params": [
             100,
@@ -6934,7 +6934,7 @@
             }
         ],
         "gold": 0,
-        "name": "-----Lv1～4",
+        "name": "-----Lv1-4",
         "note": "",
         "params": [
             100,
@@ -7003,7 +7003,7 @@
             }
         ],
         "gold": 4,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             110,
@@ -7082,7 +7082,7 @@
             }
         ],
         "gold": 6,
-        "name": "ホーネット",
+        "name": "Hornet",
         "note": "",
         "params": [
             131,
@@ -7154,7 +7154,7 @@
             }
         ],
         "gold": 11,
-        "name": "バット",
+        "name": "Bat",
         "note": "",
         "params": [
             153,
@@ -7216,7 +7216,7 @@
             }
         ],
         "gold": 0,
-        "name": "-----Lv5～8",
+        "name": "-----Lv5-8",
         "note": "",
         "params": [
             100,
@@ -7278,7 +7278,7 @@
             }
         ],
         "gold": 29,
-        "name": "大ネズミ",
+        "name": "Big Rat",
         "note": "",
         "params": [
             198,
@@ -7376,7 +7376,7 @@
             }
         ],
         "gold": 38,
-        "name": "フェアリー",
+        "name": "Fairy",
         "note": "",
         "params": [
             226,
@@ -7450,7 +7450,7 @@
             }
         ],
         "gold": 52,
-        "name": "マッドフラワー",
+        "name": "Madflower",
         "note": "",
         "params": [
             256,
@@ -7608,7 +7608,7 @@
             }
         ],
         "gold": 82,
-        "name": "ゲイザー",
+        "name": "Gazer",
         "note": "",
         "params": [
             312,
@@ -7701,7 +7701,7 @@
             }
         ],
         "gold": 100,
-        "name": "パペット",
+        "name": "Puppet",
         "note": "",
         "params": [
             347,
@@ -7787,7 +7787,7 @@
             }
         ],
         "gold": 119,
-        "name": "ミミック",
+        "name": "Mimic",
         "note": "",
         "params": [
             384,
@@ -7967,7 +7967,7 @@
             }
         ],
         "gold": 162,
-        "name": "ノーム",
+        "name": "Gnome",
         "note": "",
         "params": [
             451,
@@ -8046,7 +8046,7 @@
             }
         ],
         "gold": 186,
-        "name": "大サソリ",
+        "name": "Giant Scorpion",
         "note": "",
         "params": [
             494,
@@ -8122,7 +8122,7 @@
             }
         ],
         "gold": 352,
-        "name": "大蛇",
+        "name": "Orochi",
         "note": "",
         "params": [
             537,
@@ -8297,7 +8297,7 @@
             }
         ],
         "gold": 266,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             627,
@@ -8408,7 +8408,7 @@
             }
         ],
         "gold": 295,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             678,
@@ -8521,7 +8521,7 @@
             }
         ],
         "gold": 332,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "",
         "params": [
             729,
@@ -8694,7 +8694,7 @@
             }
         ],
         "gold": 391,
-        "name": "ウンディーネ",
+        "name": "Undine",
         "note": "",
         "params": [
             832,
@@ -8787,7 +8787,7 @@
             }
         ],
         "gold": 426,
-        "name": "サハギン",
+        "name": "Sahagin",
         "note": "",
         "params": [
             890,
@@ -8885,7 +8885,7 @@
             }
         ],
         "gold": 461,
-        "name": "セイレーン",
+        "name": "Siren",
         "note": "",
         "params": [
             950,
@@ -9038,7 +9038,7 @@
             }
         ],
         "gold": 559,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             1147,
@@ -9156,7 +9156,7 @@
             }
         ],
         "gold": 572,
-        "name": "レイス",
+        "name": "Reis",
         "note": "",
         "params": [
             1080,
@@ -9247,7 +9247,7 @@
             }
         ],
         "gold": 612,
-        "name": "グール",
+        "name": "Ghoul",
         "note": "",
         "params": [
             1641,
@@ -9432,7 +9432,7 @@
             }
         ],
         "gold": 691,
-        "name": "シルフ",
+        "name": "Sylph",
         "note": "",
         "params": [
             1392,
@@ -9535,7 +9535,7 @@
             }
         ],
         "gold": 732,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             1470,
@@ -9621,7 +9621,7 @@
             }
         ],
         "gold": 773,
-        "name": "ワーウルフ",
+        "name": "Werewolf",
         "note": "",
         "params": [
             1548,
@@ -9821,7 +9821,7 @@
             }
         ],
         "gold": 857,
-        "name": "ウィル・オ・ウィスプ",
+        "name": "Will O' Wisp",
         "note": "",
         "params": [
             1742,
@@ -9917,7 +9917,7 @@
             }
         ],
         "gold": 900,
-        "name": "サラマンダー",
+        "name": "Salamander",
         "note": "",
         "params": [
             1830,
@@ -10008,7 +10008,7 @@
             }
         ],
         "gold": 1414,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "",
         "params": [
             3840,
@@ -10170,7 +10170,7 @@
             }
         ],
         "gold": 1028,
-        "name": "サキュバス",
+        "name": "Succubus",
         "note": "",
         "params": [
             2419,
@@ -10277,7 +10277,7 @@
             }
         ],
         "gold": 1072,
-        "name": "ヴァンパイア",
+        "name": "Vampire",
         "note": "",
         "params": [
             2530,
@@ -10397,7 +10397,7 @@
             }
         ],
         "gold": 1115,
-        "name": "ブラックナイト",
+        "name": "Black Knight",
         "note": "",
         "params": [
             2641,
@@ -10459,7 +10459,7 @@
             }
         ],
         "gold": 0,
-        "name": "-----ボス",
+        "name": "-----Boss",
         "note": "",
         "params": [
             100,
@@ -10580,7 +10580,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "",
         "params": [
             1568,
@@ -10708,7 +10708,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーガー",
+        "name": "Ogre",
         "note": "",
         "params": [
             2600,
@@ -10865,7 +10865,7 @@
             }
         ],
         "gold": 0,
-        "name": "ガーゴイル",
+        "name": "Gargoyle",
         "note": "",
         "params": [
             3888,
@@ -11028,7 +11028,7 @@
             }
         ],
         "gold": 0,
-        "name": "ベヒーモス",
+        "name": "Behemoth",
         "note": "",
         "params": [
             5432,
@@ -11200,7 +11200,7 @@
             }
         ],
         "gold": 0,
-        "name": "デーモン",
+        "name": "Daemon",
         "note": "",
         "params": [
             7360,
@@ -11367,7 +11367,7 @@
             }
         ],
         "gold": 0,
-        "name": "ラミア",
+        "name": "Lamia",
         "note": "",
         "params": [
             9576,
@@ -11544,7 +11544,7 @@
             }
         ],
         "gold": 0,
-        "name": "リッチ",
+        "name": "Lich",
         "note": "",
         "params": [
             12240,
@@ -11733,7 +11733,7 @@
             }
         ],
         "gold": 0,
-        "name": "ガルーダ",
+        "name": "Garuda",
         "note": "",
         "params": [
             15576,
@@ -11917,7 +11917,7 @@
             }
         ],
         "gold": 0,
-        "name": "キマイラ",
+        "name": "Chimera",
         "note": "",
         "params": [
             19296,
@@ -12117,7 +12117,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔王",
+        "name": "Demon King",
         "note": "",
         "params": [
             20400,
@@ -12293,7 +12293,7 @@
             }
         ],
         "gold": 0,
-        "name": "真・魔王",
+        "name": "True Demon Lord",
         "note": "",
         "params": [
             25600,
@@ -12355,7 +12355,7 @@
             }
         ],
         "gold": 0,
-        "name": "-----予備",
+        "name": "-----Preparation",
         "note": "",
         "params": [
             100,
@@ -33869,7 +33869,7 @@
             }
         ],
         "gold": 0,
-        "name": "絶倫少女",
+        "name": "Insatiable Girl",
         "note": "",
         "params": [
             999999,

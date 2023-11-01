@@ -1465,7 +1465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私立繊月館学院。"
+                                "Private Sentsuki Academy."
                             ]
                         },
                         {
@@ -1482,14 +1482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "歴史は短いが都内有数の名門校であり、"
+                                "The history may be short, but it is one of the\nmost prestigious schools in Tokyo, and among its\ngraduates are politicians and bureaucrats."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "卒業生の中には議員や官僚もいる。"
+                                ""
                             ]
                         },
                         {
@@ -1506,14 +1506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、そんな名門校にも問題のある生徒はいる。"
+                                "However, even in such a prestigious school, there\nare students with problems. On that day, I was\nreceiving a consultation from a student I had been\nguiding..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その日は、指導した生徒からの相談を受けていたが…"
+                                ""
                             ]
                         },
                         {
@@ -1547,45 +1547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>それで、うちの担任何て言ったと思う！？\\!"
+                                "\\n<Female student>So, what do you think our homeroom teacher said!?\nThe school can't get involved in something like\nthat, so solve it yourself!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そんな事まで学校は関与できないから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分で解決しろ」って！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女生徒>マジありえない！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分で解決できないから相談したんじゃん！"
+                                ""
                             ]
                         },
                         {
@@ -1602,21 +1578,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>そもそも困った事あったら"
+                                "\\n<Female student>This is seriously unbelievable! I came to you for\nadvice because I couldn't solve it myself, right?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでも相談しろって言ったくせに、"
+                                "\\n<Female student>She said to come to her with any problems, but\nwhat's up with her now?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんなのアイツ！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1633,14 +1633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>…おいちょっと待て、"
+                                "\\n<Teacher>...Wait a minute, even if you tell me that, I\ncan't solve it either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それを俺に言われても、俺も解決はできない。"
+                                ""
                             ]
                         },
                         {
@@ -1657,14 +1657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>はぁ！？\\!"
+                                "\\n<Female student>Huh?! I asked you why you got into a fight, didn't\nI?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アンタがどうして喧嘩したのか聞いたんじゃん！"
+                                ""
                             ]
                         },
                         {
@@ -1681,14 +1681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>いや、それはそうだが"
+                                "\\n<Teacher>Well, that may be true, but I am just a student\nguidance teacher after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺はあくまでも生徒指導の教員なんだ。"
+                                ""
                             ]
                         },
                         {
@@ -1705,45 +1705,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>クラス担任の事で不満があるなら、"
+                                "\\n<Teacher>If you have any complaints about your homeroom\nteacher, consult the grade leader. I am here to\nguide you in regards to your actions..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "学年主任の先生に相談しなさい。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺はあくまでお前の行動に対する指導を…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<女生徒>で、どうせ学年主任のハゲに相談したところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言いくるめて対応しないんでしょ！"
+                                ""
                             ]
                         },
                         {
@@ -1760,14 +1736,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>もういい！どいつもこいつも！\\!"
+                                "\\n<Female student>So, even if I were to consult with the bald grade\nleader, he wouldn't try to persuade and handle the\nsituation, right?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "センコーなんかに相談したアタシがバカだった！"
+                                "\\n<Female student>Enough already! Everyone is useless! I was stupid\nto consult with the homeroom teacher!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1944,7 +1944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>おいコラ！待ちなさい！"
+                                "\\n<Teacher>Hey you! Wait!"
                             ]
                         },
                         {
@@ -1961,31 +1961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>…\\|"
+                                "\\n<Teacher>*sigh*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この学校に配属されてから20余年。"
+                                ""
                             ]
                         },
                         {
@@ -2002,21 +1985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒指導教員としてルールに伴って指導を続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今やベテランとも呼ばれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周囲からはそれなりの評価を得ている。"
+                                "I've been assigned to this school for over 20\nyears."
                             ]
                         },
                         {
@@ -2033,45 +2002,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒指導教員としての主な仕事は、"
+                                "As a student guidance teacher, I continue to\nprovide guidance in accordance with the rules, and\nnow I am called a veteran and have gained a\ncertain level of recognition from those around me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "謂わば軍隊における憲兵、学校の調和を保つ事だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただでさえ人数の多いこの学校で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力を使う体育の授業に加え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒指導まで行っているんだ。"
+                                ""
                             ]
                         },
                         {
@@ -2088,7 +2033,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "個人的な相談事まで乗っていたらキリがない。"
+                                "As a student guidance teacher, my main job is to\nmaintain the harmony of the school, so to speak,\nlike military police in the army."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "In addition to the physical education classes that\nalready drain my energy in this school with a\nlarge number of students, I also handle student\nguidance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If I were to handle personal consultations as\nwell, there would be no end to it."
                             ]
                         },
                         {
@@ -2105,21 +2105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>そのために担任に学年主任、"
+                                "\\n<Teacher>That's why we have homeroom teachers, grade\nleaders, and school counselors. Honestly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スクールカウンセラーまでいるんだろう。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく…"
+                                ""
                             ]
                         },
                         {
@@ -2136,14 +2136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>…まぁアイツの事は明日だ。\\!"
+                                "\\n<Teacher>...Well, let's deal with that person tomorrow.\nToday, let's go on our rounds."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日の見回りに行こう。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "生徒の隠し部屋",
+    "displayName": "Student's Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -1264,7 +1264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "200DP 手に入れた！"
+                                "200DP obtained!"
                             ]
                         },
                         {
@@ -1511,7 +1511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食べかけのアメを１個手に入れた！"
+                                "I obtained a partially eaten candy!"
                             ]
                         },
                         {
@@ -1758,7 +1758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーヒーを1個手に入れた！"
+                                "I got one coffee!"
                             ]
                         },
                         {
@@ -1908,7 +1908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ほかほかパンツ\\C[0]を手に入れた！"
+                                "I got some warm panties!"
                             ]
                         },
                         {
@@ -1925,28 +1925,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！？"
+                                "\\n<Detective>!? Th-this is... Could it be, \\c[2]something\nimportant\\c[0]? What on earth is that girl\nthinking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こ…これは…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…まさか、\\c[2]大切なモノ\\c[0]ってこれか！？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を考えてるんだあの娘は…"
+                                ""
                             ]
                         },
                         {

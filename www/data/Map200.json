@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１F　エレベーターホール",
+    "displayName": "1F Elevator Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1929,14 +1929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ドアやスイッチが破損している…"
+                                "\\n<Detective>The door and switch are damaged... It seems\nimpossible to ride from here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここから乗るのは無理そうだな…。"
+                                ""
                             ]
                         },
                         {
@@ -2089,45 +2089,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>この角材…"
+                                "\\n<Detective>This piece of wood... it looks sturdy, it might be\nuseful for something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]丈夫そうだし何かの役に立つかもしれない\\C[0]…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<Detective>…ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だがかなりの重さだな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[2]持ち運ぶには移動の妨げになりそう\\C[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -2144,7 +2113,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>さて、どうしようか…。"
+                                "\\n<Detective>...! But it's quite heavy... It seems like it\nwould be a hindrance to carry around."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<Detective>Now, what should I do..."
                             ]
                         },
                         {
@@ -2180,14 +2180,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このアイテムを持っている間は移動速度が半減します。"
+                                "\\C[2]While carrying this item, your movement speed\nwill be halved. Will you take it with you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "持ち運びますか？"
+                                ""
                             ]
                         },
                         {
@@ -2195,8 +2195,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "運ぶ　(移動速度低下)",
-                                    "置いておく"
+                                    "Carry it (Movement speed reduced)",
+                                    "Leave it behind"
                                 ],
                                 1,
                                 0,
@@ -2237,14 +2237,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>刑事の勘が運ぶべきだと告げている…。"
+                                "\\n<Detective>My detective's intuition is telling me that I\nshould bring it... Alright, I'll take it with me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "よし、持っていこう。"
+                                ""
                             ]
                         },
                         {
@@ -2308,14 +2308,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<???>（気づいた…？"
+                                "\\n<???>(You noticed...? Well, I can't help it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なら、仕方ない…）"
+                                ""
                             ]
                         },
                         {
@@ -2344,21 +2344,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>み…皆さん！\\!"
+                                "\\n<???>\\c[24]E-Everyone! We need reinforcements near the\nfirst floor elevator hall...! Please hold them\noff!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "1階エレベーターホール付近に増援を…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "足止めしてください！"
+                                ""
                             ]
                         },
                         {
@@ -2375,7 +2375,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>！？"
+                                "\\n<Detective>!?"
                             ]
                         },
                         {
@@ -2392,7 +2392,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<不良生徒>あいよ、仔犬の姐さん！"
+                                "\\n<Delinquent Student>Hey, Onee-san with the puppy-like face!"
                             ]
                         },
                         {
@@ -2409,14 +2409,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>うぅ…アイちゃん…\\!"
+                                "\\n<???>\\c[24]Ugh... Aria-chan... You always call Komari\nin a weird way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いつもコマリのこと変な風に呼ぶから…"
+                                ""
                             ]
                         },
                         {
@@ -2433,14 +2433,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>いいじゃん仔犬…"
+                                "\\n<???>\\c[24]It's fine, it's like a puppy... and cute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "かわいいし。"
+                                ""
                             ]
                         },
                         {
@@ -2469,21 +2469,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>クソッ…！人を呼ばれたか…\\!"
+                                "\\n<Detective>Shit...! I've been called... \\c[2]It's difficult\nto dodge when I'm carrying this \\c[0]... There's\nno other choice, I'll have to endure somehow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]これを持っていると避けにくい\\c[0]が…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "仕方が無い、何とか凌ごう！"
+                                ""
                             ]
                         },
                         {
@@ -2530,7 +2530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>うむ、やめておこう。"
+                                "\\n<Detective>Hmm, let's not do that."
                             ]
                         },
                         {
@@ -2574,14 +2574,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>この角材…"
+                                "\\n<Detective>This piece of lumber... \\C[2]If I hang it over the\nhole in the second floor, it could become a\nbridge!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]2階の床の穴に掛ければ橋に出来そうだ！"
+                                ""
                             ]
                         },
                         {
@@ -2598,21 +2598,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>だがかなり重そうだな…"
+                                "\\n<Detective>But it looks quite heavy... \\C[2]It might be a bit\ndifficult to move, but \\C[0]what should I do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]移動には少し手こずりそうだが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[0]どうしようか…"
+                                ""
                             ]
                         },
                         {
@@ -2648,14 +2648,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このアイテムを持っている間は移動速度が半減します。"
+                                "\\C[2]While carrying this item, your movement speed\nwill be halved. Do you want to take it with you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "持ち運びますか？"
+                                ""
                             ]
                         },
                         {
@@ -2663,8 +2663,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "運ぶ　(移動速度低下)",
-                                    "置いておく"
+                                    "Carry it (Movement speed reduced)",
+                                    "Leave it behind"
                                 ],
                                 1,
                                 0,
@@ -2705,14 +2705,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>あの穴の上を通るには致し方無い。"
+                                "\\n<Detective>There's no other choice but to pass over that\nhole. Let's drag it and carry it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "引きずって運ぼう。"
+                                ""
                             ]
                         },
                         {
@@ -2776,14 +2776,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<???>（気づいた…？"
+                                "\\n<???>(You noticed...? Well, I guess there's no helping\nit...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なら、仕方ない…）"
+                                ""
                             ]
                         },
                         {
@@ -2812,21 +2812,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>み…皆さん！\\!"
+                                "\\n<???>\\c[24]Everyone...! Please provide reinforcements\nnear the first floor elevator hall...! Please hold\nthem back!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "1階エレベーターホール付近に増援を…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "足止めしてください！"
+                                ""
                             ]
                         },
                         {
@@ -2843,7 +2843,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>！？"
+                                "\\n<Detective>!?"
                             ]
                         },
                         {
@@ -2860,7 +2860,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<不良生徒>あいよ、仔犬の姐さん！"
+                                "\\n<Delinquent Student>Hey, Onee-san of the puppy!"
                             ]
                         },
                         {
@@ -2877,14 +2877,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>うぅ…アイちゃん…\\!"
+                                "\\n<???>\\c[24]Ugh... Aria-chan... You always call Komari\nin a weird way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いつもコマリのこと変な風に呼ぶから…"
+                                ""
                             ]
                         },
                         {
@@ -2901,14 +2901,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>いいじゃん仔犬…"
+                                "\\n<???>\\c[24]It's fine, puppy... You're cute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "かわいいし。"
+                                ""
                             ]
                         },
                         {
@@ -2937,21 +2937,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>クソッ…！人を呼ばれたか…\\!"
+                                "\\n<Detective>Shit...! I've been called... \\c[2]It's difficult\nto avoid with this \\c[0]thing... There's no other\nchoice, let's somehow endure it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]これを持っていると避けにくい\\c[0]が…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "仕方が無い、何とか凌ごう！"
+                                ""
                             ]
                         },
                         {
@@ -2998,7 +2998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>いや、一旦置いておこう…。"
+                                "\\n<Detective>No, let's set it aside for now..."
                             ]
                         },
                         {
@@ -3285,7 +3285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエレベーターは完全に停止しているようだ。"
+                                "It seems like this elevator is completely stopped."
                             ]
                         },
                         {

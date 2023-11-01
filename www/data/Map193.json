@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "内階段",
+    "displayName": "Inner Stairs",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -6965,21 +6965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>2階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the second floor have collapsed...\nCan we use the emergency stairs or the elevator to\nmove?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -7056,21 +7056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>2階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the second floor have collapsed...\nCan we move using the emergency stairs or the\nelevator?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -7147,21 +7147,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>2階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the second floor have collapsed...\nCan we move using the emergency stairs or the\nelevator?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -7238,21 +7238,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>1階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the first floor are collapsed... Can\nwe move using the emergency stairs or the\nelevator?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -7329,21 +7329,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>1階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the first floor are collapsed... Can\nwe move using the emergency stairs or the\nelevator?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -7420,21 +7420,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>1階への階段が崩壊している…\\!"
+                                "\\n<Detective>The stairs to the first floor are collapsed... Can\nwe move using the emergency stairs or the\nelevator?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]非常階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -8102,7 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "稼働していないATMがポツンと置かれている…"
+                                "There is an out-of-service ATM sitting there all\nby itself..."
                             ]
                         },
                         {

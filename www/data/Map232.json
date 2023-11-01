@@ -1266,7 +1266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーヒーを手に入れた！"
+                                "I got some coffee!"
                             ]
                         },
                         {
@@ -1403,21 +1403,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>お疲れ様です、"
+                                "\\n<Detective>Good work. Currently, only the personnel in charge\nand the forensic team are allowed to enter beyond\nthis point, so you cannot pass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現在この先は担当者と鑑識以外は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止となっているので通れません…。"
+                                ""
                             ]
                         },
                         {
@@ -1434,7 +1434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…何かあったのか？"
+                                "\\n<Detective>...Did something happen?"
                             ]
                         },
                         {
@@ -1451,14 +1451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>狂人化した者がこの先で暴れたようで。"
+                                "\\n<Detective>It seems that a deranged individual went on a\nrampage ahead. It was a close call, as there could\nhave been casualties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "危うく死傷者が出るところだったみたいです。"
+                                ""
                             ]
                         },
                         {
@@ -1475,7 +1475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>規制線を引くほど暴れたのか…？"
+                                "\\n<Detective>Did they go on a rampage to the extent of drawing\na boundary line...?"
                             ]
                         },
                         {
@@ -1492,21 +1492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>武器のような類は持っていなかったようですが、"
+                                "\\n<Detective>It seems that they didn't have any weapons or the\nlike, but considering the extent of the damage to\nthe building, it's hard to believe that they\ncaused such havoc with just their bare hands."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それにしては建物の損壊が酷く"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とても素手で暴れたとは思えない程なんです。"
+                                ""
                             ]
                         },
                         {
@@ -1523,14 +1523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>素手で建物を壊すほどとは。"
+                                "\\n<Detective>To think that they would destroy the building with\ntheir bare hands. It's a more serious situation\nthan I thought, a case of madness..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "狂人化…思ったより深刻な現象だな。"
+                                ""
                             ]
                         },
                         {
@@ -1547,14 +1547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>警官数十人がかりでようやく取り押さえたようで。"
+                                "\\n<Detective>It seems that they were finally subdued with the\nhelp of dozens of police officers. They were like\na wild beast."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まるで猛獣ですよ。"
+                                ""
                             ]
                         },
                         {
@@ -1571,38 +1571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>気をつけてください。"
+                                "\\n<Detective>Please be careful. It seems to be a phenomenon\nthat occurs suddenly without any warning signs,\nand we still haven't been able to grasp any\nindications."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "予兆もなく突然起きる現象のようで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ兆候は掴めていないようなので。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…あぁ、ありがとう。"
+                                ""
                             ]
                         },
                         {
@@ -1619,14 +1602,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（異常な身体能力の上昇…"
+                                "\\n<Detective>...Ah, thank you."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに破壊衝動…か。）"
+                                "\\n<Detective>(An abnormal increase in physical abilities... and\na destructive impulse... I see.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1702,21 +1702,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>お疲れ様です、"
+                                "\\n<Detective>Good work. Currently, only the assigned personnel\nand forensic investigators are allowed beyond this\npoint, so you cannot pass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現在この先は担当者と鑑識以外は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止となっているので通れません…。"
+                                ""
                             ]
                         },
                         {
@@ -1793,14 +1793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>申し訳ありません、"
+                                "\\n<Detective>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先は現在、担当者と鑑識以外は入れません。"
+                                ""
                             ]
                         },
                         {
@@ -1877,14 +1877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>申し訳ありません、"
+                                "\\n<Detective>I'm sorry, but currently only the assigned\npersonnel and forensic investigators are allowed\nbeyond this point."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先は現在、担当者と鑑識以外は入れません。"
+                                ""
                             ]
                         },
                         {

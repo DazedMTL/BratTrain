@@ -2479,14 +2479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（あの少女の事が気になる…"
+                                "\\n<Detective>(I'm curious about that girl... I'll try talking\nto her)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声をかけてみよう）"
+                                ""
                             ]
                         },
                         {
@@ -2563,14 +2563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（あの少女の事が気になる…"
+                                "\\n<Detective>(I'm curious about that girl... I'll try talking\nto her)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声をかけてみよう）"
+                                ""
                             ]
                         },
                         {
@@ -2647,14 +2647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（あの少女の事が気になる…"
+                                "\\n<Detective>(I'm curious about that girl... I should try\ntalking to her)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声をかけてみよう）"
+                                ""
                             ]
                         },
                         {
@@ -2756,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>こんばんは、おじさん♡"
+                                "\\n<???>Good evening, uncle ♡"
                             ]
                         },
                         {
@@ -2813,14 +2813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"\\C[2]誰もいない夜の駅\\C[0]”の中で、ひとり佇む少女。"
+                                "\\C[2]In the empty night station\\C[0], a girl\nstands alone. Her atmosphere gives off a\nmysterious vibe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その雰囲気は、どこか神秘的なものを感じる。"
+                                ""
                             ]
                         },
                         {
@@ -2837,21 +2837,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! No one is here...!? And... when did it become\nnight...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰もいない…！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに…いつの間に夜に…？"
+                                ""
                             ]
                         },
                         {
@@ -2875,14 +2875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>フフフ♥"
+                                "\\n<???>Hehehe ♥ You just noticed now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今頃気付いたの？"
+                                ""
                             ]
                         },
                         {
@@ -2906,14 +2906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…君は…何か知っているのか…？"
+                                "\\n<Detective>...Do you know something? What exactly happened..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体どうなって…"
+                                ""
                             ]
                         },
                         {
@@ -2937,14 +2937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>知ってるよ♥"
+                                "\\n<???>I know, uncle ♥ I even know why you came here ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじさんが何をしにここに来たのかもね♥"
+                                ""
                             ]
                         },
                         {
@@ -2968,14 +2968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…一体何を言っているんだ？"
+                                "\\n<Detective>...What on earth are you talking about? Stop\nfooling around..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふざけていないで…"
+                                ""
                             ]
                         },
                         {
@@ -3007,14 +3007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>でも、おじさんの名前は分かんないな…"
+                                "\\n<???>But, I don't know uncle's name... I'm Luna, what\nabout you, uncle?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はルナっていうの、おじさんは？"
+                                ""
                             ]
                         },
                         {
@@ -3038,7 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…私は…"
+                                "\\n<Detective>...I am..."
                             ]
                         },
                         {
@@ -3067,7 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名前を入力してください。"
+                                "Please enter your name."
                             ]
                         },
                         {
@@ -3092,100 +3092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…私はDetective。"
+                                "\\n<Detective>...I am Detective. I am a detective dispatched\nfrom the Police Agency."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "警察庁から派遣された刑事だ。"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "skit focus 18_luna t"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>ふ～ん、刑事さん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりステキね♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>それでどう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そーさは順調に進んでる？♥"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "skit unFocus 18_luna t"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…すまないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう事は民間人には教えられないんだ。"
+                                ""
                             ]
                         },
                         {
@@ -3209,21 +3123,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>原因全然分かってないもんね、\\C[18]狂人化現象\\C[0]♥\\!"
+                                "\\n<???>Oh~ Detective-san ♥ You really are wonderful ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに沢山起きてるのに全然分かんないなんて、"
+                                "\\n<???>So, how is it going? Is the investigation\nprogressing smoothly? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無能だって言われちゃうもんね♥"
+                                ""
                             ]
                         },
                         {
@@ -3247,14 +3178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(！？"
+                                "\\n<Detective>...I'm sorry, but I can't disclose that kind of\ninformation to civilians."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…この子、今…何と言った？)"
+                                ""
                             ]
                         },
                         {
@@ -3278,14 +3209,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>狂人化現象♥"
+                                "\\n<???>You really have no idea about the cause, huh? The\n\\C[18]phenomenon of madness\\C[0] ♥ Even though so\nmany of them are happening, you have no clue at\nall. They'll call you incompetent ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こわーい人達が沢山溢れてるんだよね♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3309,45 +3247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(バカな…"
+                                "\\n<Detective>(!?...What did this child just say?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”狂人化現象”は現段階では捜査機関の中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼称されているコードだぞ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>(どうしてこんな子どもが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや待て、ここで動揺すれば肯定したと…)"
+                                ""
                             ]
                         },
                         {
@@ -3371,14 +3278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>クスクス♥"
+                                "\\n<???>The phenomenon of madness ♥ There are so many\nscary people overflowing ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に否定しても良いけど、ルナに隠しても意味ないよ♥"
+                                ""
                             ]
                         },
                         {
@@ -3402,21 +3309,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>(！？"
+                                "\\n<Detective>(Idiot... The phenomenon of madness is the code\nname currently used within the investigative\nagency...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…まさか…心を読んでる…？"
+                                "\\n<Detective>(Why is a child like this... No, wait, if I show\nany signs of agitation here, it will confirm...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、そんな馬鹿げた…)"
+                                ""
                             ]
                         },
                         {
@@ -3440,7 +3371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>馬鹿げた話、ないよね♥"
+                                "\\n<???>Hehe ♥ It's fine if you deny it, but there's no\npoint in hiding it from Luna ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3464,14 +3402,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…そんなまさか…"
+                                "\\n<Detective>(!?...No way... Can she read minds...? No, that's\nridiculous...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやって…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3495,14 +3440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>でも目の前で起きている事が現実、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから起きる事も、全部が現実なんだよ♥"
+                                "\\n<???>Ridiculous talk, right? ♥"
                             ]
                         },
                         {
@@ -3526,7 +3464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これから…？"
+                                "\\n<Detective>...No way... How did you..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3550,21 +3495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>そう、ルナね、"
+                                "\\n<???>But what's happening right in front of your eyes\nis reality, and everything that will happen from\nnow on is also reality ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじさんの事が欲しくなっちゃったの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんはルナの欲しいモノ、沢山持ってそうだから♥"
+                                ""
                             ]
                         },
                         {
@@ -3588,7 +3526,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…何を…"
+                                "\\n<Detective>...From now on...?"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "skit focus 18_luna t"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<???>Luna, you know, I've started to desire you, Uncle\n♥ Because Uncle seems to have a lot of things that\nLuna wants ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "skit unFocus 18_luna t"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>...What..."
                             ]
                         },
                         {
@@ -3668,14 +3668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ね、最後に”生”を感じたのは…"
+                                "\\n<???>Hey, when was the last time you felt alive...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつ？"
+                                ""
                             ]
                         },
                         {
@@ -3723,31 +3723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…？"
+                                "\\N<Detective>...? What's going on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どういう事だ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor16",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>アインシュタインは言った。"
+                                ""
                             ]
                         },
                         {
@@ -3764,14 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>”生きるという事は刺激的な事であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは楽しみである”"
+                                "\\n<???>Einstein said."
                             ]
                         },
                         {
@@ -3788,14 +3764,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>なら、おじさんは"
+                                "\\n<???>Living is an exciting thing, and it is enjoyable."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor16",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が楽しくて生きてるの？"
+                                "\\n<???>Then, what makes you enjoy living, Uncle?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3812,7 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>………"
+                                "\\N<Detective>........."
                             ]
                         },
                         {
@@ -3829,14 +3829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>”欲望を無くそうとする欲こそ、"
+                                "\\n<???>Why don't you realize that the desire to eliminate\ndesire is the greatest desire of all?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっとも大きい欲だと何故気付かない”"
+                                ""
                             ]
                         },
                         {
@@ -3853,14 +3853,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…これは誰の言葉だっけな？"
+                                "\\n<???>...Whose words were these again? Well, it's a\nperfect quote for an uncle like me ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、おじさんにピッタリな名言だよね♥"
+                                ""
                             ]
                         },
                         {
@@ -3877,7 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>君は一体何を…"
+                                "\\N<Detective>What on earth are you..."
                             ]
                         },
                         {
@@ -3930,21 +3930,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>私が教えてあげる♥\\!"
+                                "\\n<???>Let me teach you ♥ The fate of desires, the joy of\nlife ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "欲望の行く末を、\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人生の悦びを♡"
+                                ""
                             ]
                         },
                         {

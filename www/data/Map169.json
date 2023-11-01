@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "書斎",
+    "displayName": "Study",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4120,7 +4120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {

@@ -19199,7 +19199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カギが掛かっている"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -19657,7 +19657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カギが掛かっている"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -20115,7 +20115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カギが掛かっている"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -20573,7 +20573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カギが掛かっている"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -20990,7 +20990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロックキーBを手に入れた！"
+                                "I obtained the Rock Key B!"
                             ]
                         },
                         {
@@ -21241,7 +21241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "I obtained a potion!"
                             ]
                         },
                         {
@@ -21488,7 +21488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "I obtained a potion!"
                             ]
                         },
                         {
@@ -21735,7 +21735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "I obtained a potion!"
                             ]
                         },
                         {

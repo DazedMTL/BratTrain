@@ -1103,7 +1103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>しまった…行き止まりか…"
+                                "\\n<Detective>Damn it... It's a dead end..."
                             ]
                         },
                         {
@@ -1290,21 +1290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ふふふ…もう逃がさないよ、パパ♥"
+                                "\\n<???>Hehehe... I won't let you escape anymore, Papa♥\nWe'll be together forever♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "???とふたり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと一緒だよ♥"
+                                ""
                             ]
                         },
                         {
@@ -1357,14 +1357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…一体何を言っているんだ。"
+                                "\\n<Detective>...What on earth are you talking about? I am not\nyour father!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は君の父親ではない！"
+                                ""
                             ]
                         },
                         {
@@ -1388,21 +1388,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>…？\\!"
+                                "\\n<???>...? What are you talking about? Papa is not Papa♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なに言ってるの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パパはパパじゃない♥"
+                                ""
                             ]
                         },
                         {
@@ -1419,21 +1419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>ねぇ、どうしてミヤを置いて行ったの？"
+                                "\\n<???>Hey, why did you leave Miya behind? Why did you\nleave Miya all alone? Why did you abandon Miya?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてミヤをひとりにするの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてミヤを捨てたの？"
+                                ""
                             ]
                         },
                         {
@@ -1457,7 +1457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…この子は…）"
+                                "\\n<Detective>(...This child...)"
                             ]
                         },
                         {
@@ -1481,38 +1481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>もうひとりはヤダ…"
+                                "\\n<???>\\SE[default]I don't want anyone else... I don't\nwant to be with that person either..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの人とふたりもヤダ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\SE[default]\\n<???>パパがいい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パパと一緒。"
+                                ""
                             ]
                         },
                         {
@@ -1529,21 +1505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>ずっとずっと、"
+                                "\\n<???>\\SE[default]I want Papa... I want to be with Papa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これから先ずーっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パパだけでいい。"
+                                ""
                             ]
                         },
                         {
@@ -1560,21 +1529,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>パパと、???と…"
+                                "\\n<???>\\SE[default]Forever and ever, from now on and\nforever, I only need Papa."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                1,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから…♥\\!"
+                                "\\n<???>*SE[default]* Papa, ???, and... and then...\n♥hehe... hehehehe... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くふ…くふふふふ…♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1598,14 +1598,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>頼むからもう行かせてくれ…"
+                                "\\n<Detective>Please, let me go... There are things I must do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私にはやらなければならない事が…"
+                                ""
                             ]
                         },
                         {
@@ -1629,21 +1629,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>良いよ、イかせてあげる♥\\!"
+                                "\\n<???>*SE[default]* It's okay, I'll make you come♥ So,\nrelease a lot inside ???♥ Our precious little\nbaby's essence, just for the two of us♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから、???の中にいっぱい出して♥\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふたりだけの、かわいい赤ちゃんの素♥"
+                                ""
                             ]
                         },
                         {
@@ -1667,21 +1667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…まずい…本当に話が通じない…"
+                                "\\n<Detective>(...This is bad... I really can't communicate with\nthem... Perhaps I have no choice but to somehow\nneutralize this child as well...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やはりこの子も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とか無力化するしかないのか…）"
+                                ""
                             ]
                         },
                         {
@@ -1705,14 +1705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>じゃ、行くよ♥"
+                                "\\n<???>\\SE[default]Alright, let's go♥ Let's feel really\ngood together♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい気持ちよくなろうね♥"
+                                ""
                             ]
                         },
                         {
@@ -1786,7 +1786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>やンッ…♥♥♥"
+                                "\\n<???>Ahh...♥♥♥"
                             ]
                         },
                         {
@@ -1838,14 +1838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>くッ…"
+                                "\\n<Detective>Huh...huff...huff...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふー…ふー…っ！"
+                                ""
                             ]
                         },
                         {
@@ -1862,21 +1862,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（クソッ…"
+                                "\\n<Detective>(Damn... Is the burden gradually increasing...? My\nsanity...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "段々負荷が大きくなってないか…？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "理性が…）"
+                                ""
                             ]
                         },
                         {
@@ -1907,21 +1907,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>くふふ…♥"
+                                "\\n<???>Hehe...♥ Are you at your limit already? Miyako is\nall ready too♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もう限界？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ミヤももう準備万端だよ♥"
+                                ""
                             ]
                         },
                         {
@@ -1945,14 +1945,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>よせ…\\!"
+                                "\\n<Detective>Stop... not now...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今は…ッ！"
+                                ""
                             ]
                         },
                         {
@@ -1976,14 +1976,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>大丈夫…♥"
+                                "\\n<???>Don't worry...♥ I'll catch everything for you♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "全部、受け止めてあげるから♥"
+                                ""
                             ]
                         },
                         {
@@ -2007,7 +2007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…ッ"
+                                "\\n<Detective>..."
                             ]
                         },
                         {
@@ -2085,7 +2085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後も腕に抱き着いたまま離れようとしないミヤコ。"
+                                "Miyako, who doesn't let go of my arm even\nafterwards."
                             ]
                         },
                         {
@@ -2102,7 +2102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>......"
                             ]
                         },
                         {
@@ -2133,7 +2133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>……"
+                                "\\n<???>\\SE[default]......"
                             ]
                         },
                         {
@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（一向に離れようとしてくれないな…）"
+                                "\\n<Detective>(She still won't let go...)"
                             ]
                         },
                         {
@@ -2174,21 +2174,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…そうだ、"
+                                "\\n<Detective>...Actually, there's something I want to ask you\nabout. It's regarding a girl named\n\\C[2]Luna\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君に少し聞きたい事があるんだ。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ルナ\\C[0]という少女について…"
+                                ""
                             ]
                         },
                         {
@@ -2212,7 +2212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>…ほかの子の話しないで…　"
+                                "\\n<???>\\SE[default]...Don't talk about other girls..."
                             ]
                         },
                         {
@@ -2236,14 +2236,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…あくまでも捜査の為だ。\\!"
+                                "\\n<Detective>...It's only for the sake of the investigation.\nRegarding her involvement in the series of\nincidents of madness..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "彼女が一連の狂人化現象の…"
+                                ""
                             ]
                         },
                         {
@@ -2267,14 +2267,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>カノジョ？\\!"
+                                "\\n<???>\\SE[default]Girlfriend?......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                ""
                             ]
                         },
                         {
@@ -2298,14 +2298,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>いや、そういう意味では…。\\!"
+                                "\\n<Detective>No, not in that sense... Right, this list."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうだ、このリスト。"
+                                ""
                             ]
                         },
                         {
@@ -2322,14 +2322,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[0]ココから受け取ったリストを取り出し、"
+                                "I'll take out the list I received from Cocoa and\nshow it to ???"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "???に見せてみる。"
+                                ""
                             ]
                         },
                         {
@@ -2346,21 +2346,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ココ…あ、いや"
+                                "\\n<Detective>Cocoa... Ah, no, it's a document I obtained from a\ncertain informant. Do you happen to know anything\nabout it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ある情報筋から手に入れた資料だが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何か知っている事はないかい？"
+                                ""
                             ]
                         },
                         {
@@ -2384,7 +2384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>…教えたらパパは嬉しいの？"
+                                "\\n<???>...If I tell you, will Papa be happy?"
                             ]
                         },
                         {
@@ -2408,14 +2408,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>もちろんだ。"
+                                "\\n<Detective>Of course. It's my job, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の仕事だからね。"
+                                ""
                             ]
                         },
                         {
@@ -2439,21 +2439,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>……"
+                                "\\n<???>\\SE[default]...I don't really know much, but...\nI've seen this girl before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんまり分かんないけど…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この子、見たことあるよ。"
+                                ""
                             ]
                         },
                         {
@@ -2477,7 +2477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言って、???は1人の少女の写真を指さした。"
+                                "Saying that, ??? pointed to a photo of a girl."
                             ]
                         },
                         {
@@ -2494,38 +2494,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]訓覇\\C[0]…"
+                                "\\n<Detective>\\C[2]Kurube\\C[0]...\\C[2]Ichiru Kurube\\C[0]...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]訓覇一縷(クルベ イチル)\\C[0]…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<Detective>（広域指定暴力団\\C[2]訓覇組\\C[0]の一人娘…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "訓覇組…これは…）"
+                                ""
                             ]
                         },
                         {
@@ -2542,21 +2518,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（一連の事件が起きる前から、"
+                                "\\n<Detective>(The daughter of the designated violent group\n\\C[2]Kurube Group\\C[0]... Kurube Group... This\nis...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "都市開発計画に水面下で介入？"
+                                "\\n<Detective>(Intervening in urban development plans behind the\nscenes before the series of incidents occurred?\nAnd on this scale... It's suspicious.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それもこの規模で…怪しいな）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2580,7 +2580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>ね、役に立った？"
+                                "\\n<???>\\SE[default]Hey, did I help?"
                             ]
                         },
                         {
@@ -2604,21 +2604,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>あぁ、ありがとう。"
+                                "\\n<Detective>Ah, thank you. This is a valuable clue. It's\nthanks to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これは有力な手がかりだ。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君のおかげだ。"
+                                ""
                             ]
                         },
                         {
@@ -2642,28 +2642,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>えへへ…。"
+                                "\\n<???>\\SE[default]Ehehe... But be careful... Those girls\nare the same as Miya. But those girls are not\nalone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…でも、気を付けて…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]あの子達\\C[0]はミヤと同じ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だけど、\\C[2]あの子達\\C[2]はひとりじゃない。"
+                                ""
                             ]
                         },
                         {
@@ -2687,14 +2687,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>あの子達…？"
+                                "\\n<Detective>Those girls...? Are there others as well?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほかにもいるのか？"
+                                ""
                             ]
                         },
                         {
@@ -2718,21 +2718,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>この先にね？\\C[2]”訓覇”\\C[0]のお姉ちゃんと"
+                                "\\n<???>\\SE[default]Ahead, there's \\C[2]Kurube\\C[0]'s\nolder sister and a doll-like sister, and also a\n\\C[2]pure white sister\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]”お人形さん”\\C[0]みたいなお姉ちゃん、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…あと\\C[2]”真っ白”なお姉ちゃん\\C[0]がいるの。"
+                                ""
                             ]
                         },
                         {
@@ -2749,14 +2749,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>ミヤと同じ、寂しそうな人達…"
+                                "\\n<???>\\SE[default]People who seem lonely, just like\nMiya... but they're different from Miya... they're\nnot alone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、ミヤとは違う…ひとりじゃない…"
+                                ""
                             ]
                         },
                         {
@@ -2780,21 +2780,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……\\!"
+                                "\\n<Detective>...It would be better for you to leave from here.\nIf you stay in a place like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君もここから出た方が良い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなところにいたら…"
+                                ""
                             ]
                         },
                         {
@@ -2818,7 +2818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>……"
+                                "\\n<???>\\SE[default]......"
                             ]
                         },
                         {
@@ -2955,28 +2955,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>…ミヤは…待たなきゃいけないから…"
+                                "\\n<???>\\SE[default]...Miya... has to wait... yes...\nbecause we promised... but... but you know,\nPapa... will you keep the promise...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そう…約束したから……\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも…でもね…パパ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "約束…してくれる…？"
+                                ""
                             ]
                         },
                         {
@@ -2993,14 +2993,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>”パパ”を探すって…。\\!"
+                                "\\n<???>\\SE[default]Just waiting... to find Papa... it's\nlonely..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ずっと待ってるだけなのは…寂しいから…。"
+                                ""
                             ]
                         },
                         {
@@ -3024,21 +3024,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…！\\!"
+                                "\\n<Detective>...! ...I understand. If I can leave this place, I\npromise I will definitely search for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…分かった、ここを出る事が出来たら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "必ず探すと約束するよ。"
+                                ""
                             ]
                         },
                         {
@@ -3062,14 +3062,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>…うん、"
+                                "\\n<???>\\SE[default]...Yes, thank you... I believe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう…信じる。"
+                                ""
                             ]
                         },
                         {
@@ -3086,21 +3086,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\SE[default]\\n<???>…あ、そうだ…これ…"
+                                "\\n<???>\\SE[default]...Ah, that's right... Here... a band-\naid... You shouldn't leave a scrape like that as\nit is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "絆創膏…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "擦り傷、そのままにしちゃダメだよ。"
+                                ""
                             ]
                         },
                         {
@@ -3124,7 +3124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…あぁ、ありがとう。"
+                                "\\n<Detective>...Ah, thank you."
                             ]
                         },
                         {
@@ -3267,14 +3267,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<？？？>必ず…また会えるからな。"
+                                "\\n<???>We will definitely meet again, Miyako."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "美彌子。"
+                                ""
                             ]
                         },
                         {
@@ -3291,7 +3291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>……おとうさん…"
+                                "\\n<???>......Daddy..."
                             ]
                         },
                         {

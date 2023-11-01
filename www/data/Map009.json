@@ -2294,7 +2294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>キシシシ…ｗ"
+                                "\\n<sine:ω>ω: \\C[24]Kishishi...lol"
                             ]
                         },
                         {
@@ -2311,38 +2311,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（…？"
+                                "\\n<Detective>(...? Are you laughing?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\!…笑ってる？）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<Detective>（…この子の性格からして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すんなりと進めるのは不自然じゃないか…？）"
+                                ""
                             ]
                         },
                         {
@@ -2359,14 +2335,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（…まぁ今考えても仕方ない。"
+                                "\\n<Detective>(...Considering her personality, isn't it\nunnatural for things to go smoothly?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先に進もう。）"
+                                "\\n<Detective>(...Well, there's no point in thinking about it\nnow. Let's move on.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3070,14 +3070,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -3094,14 +3094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -3177,14 +3177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -3261,14 +3261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -3285,14 +3285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome hints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -3368,14 +3368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -3464,14 +3464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -3560,14 +3560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -3584,14 +3584,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome kind of hint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -3667,14 +3667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドローン>戦闘プロトコル…エラー…"
+                                "\\n<Drone>Combat protocol... Error..."
                             ]
                         },
                         {
@@ -3855,14 +3855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>よし、これで\\C[2]Γ-3の先へ行く鍵は手に入れた\\C[0]。\\!"
+                                "\\n<Detective>Alright, now I've obtained the key to proceed\nfurther into \\C[2]Γ-3\\C[0]. Let's hurry ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先を急ごう。"
+                                ""
                             ]
                         },
                         {
@@ -4010,14 +4010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4118,14 +4118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4226,14 +4226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4322,14 +4322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -4346,14 +4346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome hints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -4429,14 +4429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -4513,14 +4513,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -4537,14 +4537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -4620,14 +4620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -4704,14 +4704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -4728,14 +4728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -4811,14 +4811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place. We've\nalready searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -4895,14 +4895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -4919,14 +4919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5002,14 +5002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5086,14 +5086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -5110,14 +5110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5193,14 +5193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5277,14 +5277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -5301,14 +5301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5384,14 +5384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5468,14 +5468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -5492,14 +5492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5575,14 +5575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい薬品のサンプルがズラリと並んでいる…"
+                                "There is a row of suspicious chemical samples\nlined up..."
                             ]
                         },
                         {
@@ -5676,14 +5676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome hints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5759,14 +5759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5843,14 +5843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -5867,14 +5867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome hints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -5950,14 +5950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6034,14 +6034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -6058,14 +6058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search for others too... There should be\nsome kind of hint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -6141,14 +6141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6225,14 +6225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -6249,14 +6249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！"
+                                "......!! A drone flew out from among the junk!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタの中からドローンが飛び出してきた！"
+                                ""
                             ]
                         },
                         {
@@ -6339,14 +6339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6423,14 +6423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -6447,14 +6447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！"
+                                "......!! A drone flew out from among the junk!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタの中からドローンが飛び出してきた！"
+                                ""
                             ]
                         },
                         {
@@ -6537,14 +6537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6621,14 +6621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片付けされていないロッカーだ。"
+                                "It's an untidy locker. Various small items are\nstuffed inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色んな小物が詰め込まれている…。"
+                                ""
                             ]
                         },
                         {
@@ -6645,14 +6645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他も探してみよう…"
+                                "Let's search elsewhere too... There should be some\nhints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かヒントがあるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -6728,14 +6728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6812,7 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここもガラクタだけのようだ…。"
+                                "It seems like this place is also just full of\njunk..."
                             ]
                         },
                         {
@@ -6829,14 +6829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？　ロッカーの奥に名前のついた"
+                                "Oh? There's a keycard with a name on it placed at\nthe back of the locker."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カードキーが置いてある。"
+                                ""
                             ]
                         },
                         {
@@ -6853,7 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]\\n[102]\\C[0]を手に入れた。"
+                                "\\n[102] obtained \\C[0]."
                             ]
                         },
                         {
@@ -6870,14 +6870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29]もしも、カギを無くしたときは"
+                                "If you happen to lose the key, use this card!\n\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このカードを使うこと！\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -6894,7 +6894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…不用心だな。"
+                                "...You're careless."
                             ]
                         },
                         {
@@ -6989,14 +6989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒントは手に入れた。"
+                                "I obtained a clue. Let's go search for the next\nlead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次の手がかりも探しに行こう。"
+                                ""
                             ]
                         },
                         {
@@ -7064,7 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここもガラクタだけのようだ…。"
+                                "It seems like this place is also just full of\njunk..."
                             ]
                         },
                         {
@@ -7081,7 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？　奥にカード入れが…"
+                                "Oh? There's a card slot in the back..."
                             ]
                         },
                         {
@@ -7098,14 +7098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…なるほど、"
+                                "...I see, so the security key was here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セキュリティーキーはここにあったのか。"
+                                ""
                             ]
                         },
                         {
@@ -7191,14 +7191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの部品だろうか？"
+                                "Is this some kind of part? Junk is packed in the\nbox."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタが箱に詰められている"
+                                ""
                             ]
                         },
                         {
@@ -7215,14 +7215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！！"
+                                "......!! A drone flew out from among the junk!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタの中からドローンが飛び出してきた！"
+                                ""
                             ]
                         },
                         {
@@ -7305,14 +7305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、もう探したな。"
+                                "Let's try searching in a different place since\nwe've already searched here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別の場所を探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -7449,21 +7449,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（ここにも\\C[2]ロッカー\\C[0]…\\!"
+                                "\\n<Detective>(There are lockers here too... That girl didn't\nlike being seen near the lockers...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの子は\\C[2]ロッカー\\C[0]を見られるのを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌がっていたな…）"
+                                ""
                             ]
                         },
                         {
@@ -7830,59 +7830,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"因果律に基づいて未来の決定性を論じる際に"
+                                "The concept of a transcendent being disguised\nwhen discussing the determinism of the future\nbased on the principle of causality,\n'\\c[2]Laplace's Demon\\c[0]'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仮装された超越的存在の概念"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]ラプラスの悪魔\\c[0]」\""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\"「ある時点において作用している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全ての力学的・物理的な状態を完全に把握・解析する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "能力を持つが故に、未来を含む宇宙の全運動までも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確定的に知りえる」\""
+                                ""
                             ]
                         },
                         {
@@ -7899,14 +7861,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"と、フランスの数学者ピエール＝シモン・ラプラスは"
+                                "The ability to fully grasp and analyze all the\nmechanical and physical states that are in effect\nat a certain point in time allows for the\ndefinitive knowledge of the entire motion of the\nuniverse, including the future."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "提唱した。\""
+                                "And so, it was proposed by the French\nmathematician Pierre-Simon Laplace."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7923,7 +7923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…以外とあの子勉強はできるんだな。"
+                                "\\n<Detective>...Surprisingly, that girl is actually good at\nstudying."
                             ]
                         },
                         {
@@ -7999,59 +7999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"因果律に基づいて未来の決定性を論じる際に"
+                                "The concept of a transcendent being disguised\nwhen discussing the determinism of the future\nbased on the principle of causality,\n'\\c[2]Laplace's Demon\\c[0]'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仮装された超越的存在の概念"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]ラプラスの悪魔\\c[0]」\""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\"「ある時点において作用している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全ての力学的・物理的な状態を完全に把握・解析する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "能力を持つが故に、未来を含む宇宙の全運動までも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確定的に知りえる」\""
+                                ""
                             ]
                         },
                         {
@@ -8068,14 +8030,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"と、フランスの数学者ピエール＝シモン・ラプラスは"
+                                "The ability to fully grasp and analyze all the\nmechanical and physical states that are in effect\nat a certain point in time allows for the\ndefinitive knowledge of the entire motion of the\nuniverse, including the future."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "提唱した。\""
+                                "And, it was proposed by the French mathematician\nPierre-Simon Laplace."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8092,7 +8092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…以外とあの子勉強はできるんだな。"
+                                "\\n<Detective>...Surprisingly, that girl is actually good at\nstudying."
                             ]
                         },
                         {

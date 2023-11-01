@@ -1405,21 +1405,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの現在の"
+                                "Your current rampage value: \\C[18]\\V[3]\\C[0]\nRampage counter: \\C[18]\\V[4]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暴走値：\\C[18]\\V[3]\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暴走カウンター：\\C[18]\\V[4]"
+                                ""
                             ]
                         },
                         {

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "プロローグ",
+        "name": "Prologue",
         "order": 1,
         "parentId": 0,
         "scrollX": 728,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "オフィス（イベント用）",
+        "name": "Office (Event)",
         "order": 144,
         "parentId": 229,
         "scrollX": 819,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "駅ホーム（イベント用）",
+        "name": "Station Platform (Event)",
         "order": 135,
         "parentId": 33,
         "scrollX": 720.8888888888889,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": false,
-        "name": "ミリタリー",
+        "name": "Military",
         "order": 145,
         "parentId": 21,
         "scrollX": 980.4444444444445,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "β-2(PASS-B解)",
+        "name": "β-2 (PASS-B Solution)",
         "order": 41,
         "parentId": 10,
         "scrollX": 720.8888888888889,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": false,
-        "name": "β-3　（物理キーB）",
+        "name": "β-3 (Physical Key B)",
         "order": 42,
         "parentId": 10,
         "scrollX": 728,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "Γ-2　(スイッチA・PASS-A解)",
+        "name": "Γ-2 (Switch A, PASS-A解)",
         "order": 45,
         "parentId": 15,
         "scrollX": 720.8888888888889,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": false,
-        "name": "Γ-3 (物理キーB解)",
+        "name": "Γ-3 (Physics Key B Solution)",
         "order": 46,
         "parentId": 15,
         "scrollX": 720.8888888888889,
@@ -139,7 +139,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "オープニング(イベント用)",
+        "name": "Opening (Event)",
         "order": 143,
         "parentId": 229,
         "scrollX": 728,
@@ -148,7 +148,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "共通マップ",
+        "name": "Common Map",
         "order": 126,
         "parentId": 0,
         "scrollX": 728,
@@ -157,7 +157,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "休憩ポイント1",
+        "name": "Rest Area 1",
         "order": 127,
         "parentId": 18,
         "scrollX": 728,
@@ -166,7 +166,7 @@
     {
         "id": 20,
         "expanded": true,
-        "name": "①　通路",
+        "name": "① Corridor",
         "order": 146,
         "parentId": 6,
         "scrollX": 813.3333333333334,
@@ -175,7 +175,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "技術検証",
+        "name": "Technical Verification",
         "order": 130,
         "parentId": 0,
         "scrollX": 728,
@@ -184,7 +184,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "TRP_Skitプラグイン",
+        "name": "TRP_Skit Plugin",
         "order": 131,
         "parentId": 21,
         "scrollX": 655.2,
@@ -193,7 +193,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "シャドウフェーズ検証",
+        "name": "Shadow Phase Verification",
         "order": 132,
         "parentId": 21,
         "scrollX": 655.2,
@@ -202,7 +202,7 @@
     {
         "id": 24,
         "expanded": true,
-        "name": "PLEフェーズ",
+        "name": "PLE Phase",
         "order": 18,
         "parentId": 0,
         "scrollX": 982.8,
@@ -219,7 +219,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "マップテスト",
+        "name": "Map Test",
         "order": 133,
         "parentId": 21,
         "scrollX": 982.8,
@@ -228,7 +228,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "リゾート",
+        "name": "Resort",
         "order": 134,
         "parentId": 33,
         "scrollX": 720.8888888888889,
@@ -237,7 +237,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "ココBOSS",
+        "name": "Coco BOSS",
         "order": 47,
         "parentId": 11,
         "scrollX": 720.8888888888889,
@@ -246,7 +246,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "お邪魔部屋",
+        "name": "Intrusion Room",
         "order": 148,
         "parentId": 6,
         "scrollX": 861,
@@ -255,7 +255,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "改造ガード用マップ",
+        "name": "Modified Guard Map",
         "order": 128,
         "parentId": 18,
         "scrollX": 983.1111111111111,
@@ -264,7 +264,7 @@
     {
         "id": 38,
         "expanded": true,
-        "name": "2F B （開通後）旧訓覇組事務所",
+        "name": "2F B (After Opening) Former Kurube Group Office",
         "order": 96,
         "parentId": 192,
         "scrollX": 1648.888888888889,
@@ -273,7 +273,7 @@
     {
         "id": 39,
         "expanded": true,
-        "name": "改札…？修正",
+        "name": "Ticket gate...? Correction.",
         "order": 105,
         "parentId": 181,
         "scrollX": 720.8888888888889,
@@ -282,7 +282,7 @@
     {
         "id": 40,
         "expanded": true,
-        "name": "①　ホーム＿初回イベント用",
+        "name": "① Home_First Event Use",
         "order": 13,
         "parentId": 239,
         "scrollX": 728,
@@ -291,7 +291,7 @@
     {
         "id": 41,
         "expanded": false,
-        "name": "②　改札＿調整",
+        "name": "② Ticket Gate Adjustment",
         "order": 136,
         "parentId": 33,
         "scrollX": 719.1111111111111,
@@ -300,7 +300,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "休憩ポイント1",
+        "name": "Rest Area 1",
         "order": 14,
         "parentId": 40,
         "scrollX": 728,
@@ -309,7 +309,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "1F A　噴水広場",
+        "name": "1F A Fountain Plaza",
         "order": 91,
         "parentId": 186,
         "scrollX": 720.8888888888889,
@@ -318,7 +318,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "start(イベント)",
+        "name": "start (Event)",
         "order": 34,
         "parentId": 11,
         "scrollX": 728,
@@ -345,7 +345,7 @@
     {
         "id": 47,
         "expanded": false,
-        "name": "②　ココの部屋　BOSS",
+        "name": "② Cocoa's Room BOSS",
         "order": 147,
         "parentId": 6,
         "scrollX": 726.2222222222222,
@@ -381,7 +381,7 @@
     {
         "id": 51,
         "expanded": false,
-        "name": "BOSS ゲームセンター",
+        "name": "BOSS Game Center",
         "order": 101,
         "parentId": 194,
         "scrollX": 720.8888888888889,
@@ -390,7 +390,7 @@
     {
         "id": 52,
         "expanded": false,
-        "name": "廃ビルの入口（夜）",
+        "name": "Abandoned Building Entrance (Night)",
         "order": 113,
         "parentId": 207,
         "scrollX": 720.8888888888889,
@@ -399,7 +399,7 @@
     {
         "id": 53,
         "expanded": false,
-        "name": "駅のホーム",
+        "name": "Train platform",
         "order": 115,
         "parentId": 207,
         "scrollX": 720.8888888888889,
@@ -432,7 +432,7 @@
     {
         "id": 78,
         "expanded": true,
-        "name": "中間ポイント",
+        "name": "Middle Point",
         "order": 129,
         "parentId": 18,
         "scrollX": 728,
@@ -443,7 +443,7 @@
     {
         "id": 81,
         "expanded": false,
-        "name": "忘却防止メモ",
+        "name": "Memory Preservation Memo",
         "order": 138,
         "parentId": 21,
         "scrollX": 726.2222222222222,
@@ -452,7 +452,7 @@
     {
         "id": 82,
         "expanded": false,
-        "name": "地下へ続く通路",
+        "name": "Passage leading to the basement.",
         "order": 116,
         "parentId": 207,
         "scrollX": 720.8888888888889,
@@ -461,7 +461,7 @@
     {
         "id": 83,
         "expanded": false,
-        "name": "？？？（コンデンサの通路）",
+        "name": "??? (Condenser Passage)",
         "order": 122,
         "parentId": 86,
         "scrollX": 720.8888888888889,
@@ -470,7 +470,7 @@
     {
         "id": 84,
         "expanded": false,
-        "name": "コンデンサ収容室（影ボス）",
+        "name": "Capacitor Storage Room (Shadow Boss)",
         "order": 123,
         "parentId": 86,
         "scrollX": 728,
@@ -479,7 +479,7 @@
     {
         "id": 85,
         "expanded": false,
-        "name": "商店街（夜）",
+        "name": "Shopping Street (Night)",
         "order": 114,
         "parentId": 207,
         "scrollX": 720.8888888888889,
@@ -488,7 +488,7 @@
     {
         "id": 86,
         "expanded": true,
-        "name": "影BOSS",
+        "name": "Shadow BOSS",
         "order": 121,
         "parentId": 207,
         "scrollX": 728,
@@ -497,7 +497,7 @@
     {
         "id": 87,
         "expanded": false,
-        "name": "病院１",
+        "name": "Hospital 1",
         "order": 118,
         "parentId": 218,
         "scrollX": 720.8888888888889,
@@ -506,7 +506,7 @@
     {
         "id": 88,
         "expanded": false,
-        "name": "研究所：稼働中",
+        "name": "Laboratory: In operation",
         "order": 137,
         "parentId": 33,
         "scrollX": 973.1999999999999,
@@ -515,7 +515,7 @@
     {
         "id": 89,
         "expanded": false,
-        "name": "病院２",
+        "name": "Hospital 2",
         "order": 119,
         "parentId": 218,
         "scrollX": 720.8888888888889,
@@ -524,7 +524,7 @@
     {
         "id": 90,
         "expanded": false,
-        "name": "手術室（中ボス）",
+        "name": "Operating Room (Mid-Boss)",
         "order": 120,
         "parentId": 218,
         "scrollX": 720.8888888888889,
@@ -533,7 +533,7 @@
     {
         "id": 91,
         "expanded": true,
-        "name": "ED1_駅改札",
+        "name": "ED1_Station Ticket Gate",
         "order": 124,
         "parentId": 207,
         "scrollX": 720.8888888888889,
@@ -542,7 +542,7 @@
     {
         "id": 92,
         "expanded": true,
-        "name": "ED2＿駅ホーム",
+        "name": "ED2 Station Platform",
         "order": 125,
         "parentId": 207,
         "scrollX": 952,
@@ -577,7 +577,7 @@
     {
         "id": 119,
         "expanded": true,
-        "name": "ミリタリー",
+        "name": "Military",
         "order": 149,
         "parentId": 6,
         "scrollX": 3334.7999999999997,
@@ -586,7 +586,7 @@
     {
         "id": 120,
         "expanded": true,
-        "name": "戦闘テスト",
+        "name": "Battle Test",
         "order": 139,
         "parentId": 21,
         "scrollX": 728,
@@ -595,7 +595,7 @@
     {
         "id": 121,
         "expanded": true,
-        "name": "システム検証",
+        "name": "System Verification",
         "order": 140,
         "parentId": 120,
         "scrollX": 893.4545454545455,
@@ -604,7 +604,7 @@
     {
         "id": 122,
         "expanded": false,
-        "name": "ステージ移動検証",
+        "name": "Stage Movement Verification",
         "order": 141,
         "parentId": 121,
         "scrollX": 832,
@@ -613,7 +613,7 @@
     {
         "id": 123,
         "expanded": true,
-        "name": "OP１＿駅ホーム",
+        "name": "OP1_Station Platform",
         "order": 2,
         "parentId": 1,
         "scrollX": 818.6666666666666,
@@ -622,7 +622,7 @@
     {
         "id": 124,
         "expanded": true,
-        "name": "OP２＿駅改札",
+        "name": "OP2_Station Gate",
         "order": 4,
         "parentId": 123,
         "scrollX": 720.8888888888889,
@@ -631,7 +631,7 @@
     {
         "id": 125,
         "expanded": true,
-        "name": "駅周辺",
+        "name": "Station vicinity",
         "order": 5,
         "parentId": 124,
         "scrollX": 810.6666666666666,
@@ -640,7 +640,7 @@
     {
         "id": 126,
         "expanded": true,
-        "name": "通勤路",
+        "name": "Commute route",
         "order": 6,
         "parentId": 125,
         "scrollX": 810.6666666666666,
@@ -649,7 +649,7 @@
     {
         "id": 127,
         "expanded": false,
-        "name": "old_OP２＿自動イベント用",
+        "name": "old_OP2_Auto_Event",
         "order": 15,
         "parentId": 1,
         "scrollX": 728,
@@ -658,7 +658,7 @@
     {
         "id": 128,
         "expanded": false,
-        "name": "生徒指導室",
+        "name": "Student Guidance Room",
         "order": 16,
         "parentId": 127,
         "scrollX": 1146,
@@ -667,7 +667,7 @@
     {
         "id": 129,
         "expanded": true,
-        "name": "通勤路（夕）",
+        "name": "Commuting Route (Evening)",
         "order": 17,
         "parentId": 128,
         "scrollX": 1146,
@@ -685,7 +685,7 @@
     {
         "id": 131,
         "expanded": true,
-        "name": "A 大部屋",
+        "name": "A Large Room",
         "order": 20,
         "parentId": 130,
         "scrollX": 2067.5555555555557,
@@ -694,7 +694,7 @@
     {
         "id": 132,
         "expanded": true,
-        "name": "B　図書室",
+        "name": "B Library",
         "order": 21,
         "parentId": 131,
         "scrollX": 1048,
@@ -703,7 +703,7 @@
     {
         "id": 133,
         "expanded": false,
-        "name": "C　女子トイレ",
+        "name": "C Women's Restroom",
         "order": 22,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -712,7 +712,7 @@
     {
         "id": 134,
         "expanded": false,
-        "name": "D　食堂",
+        "name": "D Cafeteria",
         "order": 23,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -721,7 +721,7 @@
     {
         "id": 135,
         "expanded": false,
-        "name": "E　渡り廊下",
+        "name": "E Corridor",
         "order": 24,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -730,7 +730,7 @@
     {
         "id": 136,
         "expanded": true,
-        "name": "F　教室 1ー１",
+        "name": "Classroom 1-1",
         "order": 25,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -739,7 +739,7 @@
     {
         "id": 137,
         "expanded": true,
-        "name": "G　美術室",
+        "name": "G Art Room",
         "order": 26,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -748,7 +748,7 @@
     {
         "id": 138,
         "expanded": true,
-        "name": "H　大教室",
+        "name": "H Classroom",
         "order": 27,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -757,7 +757,7 @@
     {
         "id": 139,
         "expanded": true,
-        "name": "I　教室 １－２",
+        "name": "Classroom 1-2",
         "order": 28,
         "parentId": 130,
         "scrollX": 720.8888888888889,
@@ -766,7 +766,7 @@
     {
         "id": 140,
         "expanded": true,
-        "name": "J　廊下",
+        "name": "J Corridor",
         "order": 29,
         "parentId": 130,
         "scrollX": 1096,
@@ -775,7 +775,7 @@
     {
         "id": 141,
         "expanded": false,
-        "name": "K　生徒の隠し部屋",
+        "name": "K Hidden Room of the Students",
         "order": 30,
         "parentId": 130,
         "scrollX": 728,
@@ -784,7 +784,7 @@
     {
         "id": 142,
         "expanded": false,
-        "name": "BOSS　少女の放課後",
+        "name": "BOSS Girl's After School",
         "order": 31,
         "parentId": 130,
         "scrollX": 728,
@@ -793,7 +793,7 @@
     {
         "id": 143,
         "expanded": true,
-        "name": "回想ルーム",
+        "name": "Flashback Room",
         "order": 150,
         "parentId": 0,
         "scrollX": 728,
@@ -811,7 +811,7 @@
     {
         "id": 145,
         "expanded": true,
-        "name": "通常時",
+        "name": "Normal Time",
         "order": 49,
         "parentId": 144,
         "scrollX": 980.4,
@@ -820,7 +820,7 @@
     {
         "id": 146,
         "expanded": false,
-        "name": "A1 物置部屋",
+        "name": "A1 Storage Room",
         "order": 50,
         "parentId": 145,
         "scrollX": 728,
@@ -829,7 +829,7 @@
     {
         "id": 147,
         "expanded": true,
-        "name": "A2　書斎",
+        "name": "Study Room",
         "order": 51,
         "parentId": 145,
         "scrollX": 720.8888888888889,
@@ -838,7 +838,7 @@
     {
         "id": 148,
         "expanded": false,
-        "name": "A3　応接室（鍵のありか）",
+        "name": "A3 Reception Room (Location of the Key)",
         "order": 52,
         "parentId": 145,
         "scrollX": 728,
@@ -847,7 +847,7 @@
     {
         "id": 149,
         "expanded": true,
-        "name": "A4　廊下",
+        "name": "A4 Corridor",
         "order": 53,
         "parentId": 145,
         "scrollX": 728,
@@ -856,7 +856,7 @@
     {
         "id": 150,
         "expanded": true,
-        "name": "A5　エントランス",
+        "name": "A5 Entrance",
         "order": 54,
         "parentId": 145,
         "scrollX": 1391.111111111111,
@@ -865,7 +865,7 @@
     {
         "id": 151,
         "expanded": false,
-        "name": "A6　リビング（鍵のありか）",
+        "name": "A6 Living Room (Location of the Key)",
         "order": 55,
         "parentId": 145,
         "scrollX": 720.8888888888889,
@@ -874,7 +874,7 @@
     {
         "id": 152,
         "expanded": false,
-        "name": "A7 浴室",
+        "name": "A7 Bathroom",
         "order": 56,
         "parentId": 145,
         "scrollX": 728,
@@ -883,7 +883,7 @@
     {
         "id": 153,
         "expanded": false,
-        "name": "A8　サンルーム",
+        "name": "A8 Sunroom",
         "order": 57,
         "parentId": 145,
         "scrollX": 728,
@@ -892,7 +892,7 @@
     {
         "id": 154,
         "expanded": true,
-        "name": "A9　バルコニー",
+        "name": "A9 Balcony",
         "order": 58,
         "parentId": 145,
         "scrollX": 728,
@@ -901,7 +901,7 @@
     {
         "id": 155,
         "expanded": false,
-        "name": "バルコニー　２",
+        "name": "Balcony 2",
         "order": 59,
         "parentId": 154,
         "scrollX": 728,
@@ -910,7 +910,7 @@
     {
         "id": 156,
         "expanded": false,
-        "name": "A10　２階通路",
+        "name": "A10 2nd floor corridor",
         "order": 60,
         "parentId": 145,
         "scrollX": 728,
@@ -919,7 +919,7 @@
     {
         "id": 157,
         "expanded": false,
-        "name": "A11　子供部屋（鍵のありか）",
+        "name": "A11 Children's Room (Location of the Key)",
         "order": 61,
         "parentId": 145,
         "scrollX": 728,
@@ -928,7 +928,7 @@
     {
         "id": 158,
         "expanded": true,
-        "name": "不安定",
+        "name": "Unstable",
         "order": 62,
         "parentId": 144,
         "scrollX": 819,
@@ -937,7 +937,7 @@
     {
         "id": 159,
         "expanded": true,
-        "name": "１（Start）",
+        "name": "1 (Start)",
         "order": 63,
         "parentId": 158,
         "scrollX": 817,
@@ -946,7 +946,7 @@
     {
         "id": 160,
         "expanded": false,
-        "name": "２",
+        "name": "2",
         "order": 64,
         "parentId": 159,
         "scrollX": 728,
@@ -955,7 +955,7 @@
     {
         "id": 161,
         "expanded": false,
-        "name": "３",
+        "name": "3",
         "order": 65,
         "parentId": 159,
         "scrollX": 720.8888888888889,
@@ -964,7 +964,7 @@
     {
         "id": 162,
         "expanded": false,
-        "name": "４",
+        "name": "4",
         "order": 66,
         "parentId": 159,
         "scrollX": 819,
@@ -973,7 +973,7 @@
     {
         "id": 163,
         "expanded": false,
-        "name": "５(BOSS部屋のカギ)",
+        "name": "Key to the 5th (BOSS Room)",
         "order": 67,
         "parentId": 159,
         "scrollX": 720.8888888888889,
@@ -982,7 +982,7 @@
     {
         "id": 164,
         "expanded": false,
-        "name": "６",
+        "name": "6",
         "order": 68,
         "parentId": 159,
         "scrollX": 819,
@@ -991,7 +991,7 @@
     {
         "id": 165,
         "expanded": false,
-        "name": "７",
+        "name": "7",
         "order": 69,
         "parentId": 159,
         "scrollX": 819,
@@ -1000,7 +1000,7 @@
     {
         "id": 166,
         "expanded": false,
-        "name": "８(BOSS部屋手前)",
+        "name": "8 (In front of the boss room)",
         "order": 70,
         "parentId": 159,
         "scrollX": 728,
@@ -1009,7 +1009,7 @@
     {
         "id": 167,
         "expanded": false,
-        "name": "９",
+        "name": "9",
         "order": 71,
         "parentId": 159,
         "scrollX": 819,
@@ -1018,7 +1018,7 @@
     {
         "id": 168,
         "expanded": false,
-        "name": "A1 物置部屋",
+        "name": "A1 Storage Room",
         "order": 72,
         "parentId": 158,
         "scrollX": 728,
@@ -1027,7 +1027,7 @@
     {
         "id": 169,
         "expanded": true,
-        "name": "A2　書斎",
+        "name": "Study Room",
         "order": 73,
         "parentId": 158,
         "scrollX": 811,
@@ -1036,7 +1036,7 @@
     {
         "id": 170,
         "expanded": false,
-        "name": "A3　応接室",
+        "name": "A3 Reception Room",
         "order": 74,
         "parentId": 158,
         "scrollX": 819,
@@ -1045,7 +1045,7 @@
     {
         "id": 171,
         "expanded": true,
-        "name": "A4　廊下",
+        "name": "A4 Corridor",
         "order": 75,
         "parentId": 158,
         "scrollX": 819,
@@ -1054,7 +1054,7 @@
     {
         "id": 172,
         "expanded": true,
-        "name": "A5　エントランス",
+        "name": "A5 Entrance",
         "order": 76,
         "parentId": 158,
         "scrollX": 811,
@@ -1063,7 +1063,7 @@
     {
         "id": 173,
         "expanded": false,
-        "name": "A6　リビング",
+        "name": "A6 Living Room",
         "order": 77,
         "parentId": 158,
         "scrollX": 811,
@@ -1072,7 +1072,7 @@
     {
         "id": 174,
         "expanded": false,
-        "name": "A7 浴室",
+        "name": "A7 Bathroom",
         "order": 78,
         "parentId": 158,
         "scrollX": 819,
@@ -1081,7 +1081,7 @@
     {
         "id": 175,
         "expanded": false,
-        "name": "A8　サンルーム",
+        "name": "A8 Sunroom",
         "order": 79,
         "parentId": 158,
         "scrollX": 819,
@@ -1090,7 +1090,7 @@
     {
         "id": 176,
         "expanded": true,
-        "name": "A9　バルコニー　×",
+        "name": "A9 Balcony ×",
         "order": 80,
         "parentId": 158,
         "scrollX": 819,
@@ -1099,7 +1099,7 @@
     {
         "id": 177,
         "expanded": false,
-        "name": "バルコニー　２",
+        "name": "Balcony 2",
         "order": 81,
         "parentId": 176,
         "scrollX": 819,
@@ -1108,7 +1108,7 @@
     {
         "id": 178,
         "expanded": false,
-        "name": "A11　子供部屋",
+        "name": "A11 Children's Room",
         "order": 82,
         "parentId": 158,
         "scrollX": 728,
@@ -1117,7 +1117,7 @@
     {
         "id": 179,
         "expanded": false,
-        "name": "A10　２階通路",
+        "name": "A10 2nd floor corridor",
         "order": 83,
         "parentId": 158,
         "scrollX": 819,
@@ -1126,7 +1126,7 @@
     {
         "id": 180,
         "expanded": false,
-        "name": "BOSS あなたと一緒に",
+        "name": "BOSS, together with you.",
         "order": 84,
         "parentId": 158,
         "scrollX": 728,
@@ -1144,7 +1144,7 @@
     {
         "id": 182,
         "expanded": true,
-        "name": "ホーム…？",
+        "name": "Home...?",
         "order": 86,
         "parentId": 181,
         "scrollX": 728,
@@ -1153,7 +1153,7 @@
     {
         "id": 183,
         "expanded": true,
-        "name": "【没】改札…？",
+        "name": "[Lost] Ticket gate...?",
         "order": 87,
         "parentId": 181,
         "scrollX": 720.8888888888889,
@@ -1162,7 +1162,7 @@
     {
         "id": 184,
         "expanded": false,
-        "name": "商店街",
+        "name": "Shopping street",
         "order": 88,
         "parentId": 181,
         "scrollX": 808.8888888888889,
@@ -1171,7 +1171,7 @@
     {
         "id": 185,
         "expanded": false,
-        "name": "廃ビルの入口",
+        "name": "Entrance of the abandoned building",
         "order": 89,
         "parentId": 181,
         "scrollX": 720.8888888888889,
@@ -1190,7 +1190,7 @@
     {
         "id": 188,
         "expanded": true,
-        "name": "1F B　廃墟の繁華街",
+        "name": "1F B Ruined Downtown",
         "order": 92,
         "parentId": 186,
         "scrollX": 1635.5555555555557,
@@ -1209,7 +1209,7 @@
     {
         "id": 191,
         "expanded": false,
-        "name": "2F A　事務所前　",
+        "name": "2F A Office Entrance",
         "order": 94,
         "parentId": 190,
         "scrollX": 728,
@@ -1218,7 +1218,7 @@
     {
         "id": 192,
         "expanded": true,
-        "name": "2F B 旧訓覇組事務所",
+        "name": "2F B Former Kurube Group Office",
         "order": 95,
         "parentId": 190,
         "scrollX": 970.6666666666666,
@@ -1227,7 +1227,7 @@
     {
         "id": 193,
         "expanded": true,
-        "name": "内階段",
+        "name": "Inner Staircase",
         "order": 106,
         "parentId": 181,
         "scrollX": 720.8888888888889,
@@ -1245,7 +1245,7 @@
     {
         "id": 195,
         "expanded": false,
-        "name": "3F A　喫煙所",
+        "name": "3F A Smoking Area",
         "order": 98,
         "parentId": 194,
         "scrollX": 720.8888888888889,
@@ -1254,7 +1254,7 @@
     {
         "id": 196,
         "expanded": true,
-        "name": "3F B　アーケード街",
+        "name": "3F B Arcade Street",
         "order": 99,
         "parentId": 194,
         "scrollX": 720.8888888888889,
@@ -1263,7 +1263,7 @@
     {
         "id": 197,
         "expanded": true,
-        "name": "地下",
+        "name": "Underground",
         "order": 102,
         "parentId": 181,
         "scrollX": 728,
@@ -1272,7 +1272,7 @@
     {
         "id": 198,
         "expanded": false,
-        "name": "B1 地下室",
+        "name": "B1 Basement",
         "order": 103,
         "parentId": 197,
         "scrollX": 728,
@@ -1281,7 +1281,7 @@
     {
         "id": 199,
         "expanded": true,
-        "name": "エレベーターHL",
+        "name": "Elevator HL",
         "order": 107,
         "parentId": 181,
         "scrollX": 728,
@@ -1302,7 +1302,7 @@
     {
         "id": 204,
         "expanded": true,
-        "name": "配電室",
+        "name": "Power Distribution Room",
         "order": 100,
         "parentId": 194,
         "scrollX": 728,
@@ -1311,7 +1311,7 @@
     {
         "id": 205,
         "expanded": false,
-        "name": "非常階段",
+        "name": "Emergency Stairs",
         "order": 104,
         "parentId": 181,
         "scrollX": 720.8888888888889,
@@ -1340,7 +1340,7 @@
     {
         "id": 218,
         "expanded": true,
-        "name": "病院",
+        "name": "Hospital",
         "order": 117,
         "parentId": 207,
         "scrollX": 728,
@@ -1357,7 +1357,7 @@
     {
         "id": 227,
         "expanded": false,
-        "name": "【没】アリアシャドウ部屋",
+        "name": "[Lost] Aria's Shadow Room",
         "order": 32,
         "parentId": 130,
         "scrollX": 728,
@@ -1366,7 +1366,7 @@
     {
         "id": 228,
         "expanded": false,
-        "name": "通勤路２",
+        "name": "Commuting Route 2",
         "order": 7,
         "parentId": 126,
         "scrollX": 810.6666666666666,
@@ -1375,7 +1375,7 @@
     {
         "id": 229,
         "expanded": false,
-        "name": "旧データ",
+        "name": "Old Data",
         "order": 142,
         "parentId": 21,
         "scrollX": 728,
@@ -1384,7 +1384,7 @@
     {
         "id": 230,
         "expanded": false,
-        "name": "オープニングムービー用",
+        "name": "For Opening Movie",
         "order": 151,
         "parentId": 0,
         "scrollX": 728,
@@ -1393,7 +1393,7 @@
     {
         "id": 231,
         "expanded": false,
-        "name": "ルナの視線",
+        "name": "Luna's gaze",
         "order": 3,
         "parentId": 123,
         "scrollX": 728,
@@ -1402,7 +1402,7 @@
     {
         "id": 232,
         "expanded": false,
-        "name": "通勤路３（行き止まり）",
+        "name": "Commuting Route 3 (Dead End)",
         "order": 8,
         "parentId": 126,
         "scrollX": 728,
@@ -1411,7 +1411,7 @@
     {
         "id": 233,
         "expanded": true,
-        "name": "通勤路４（行き止まり）",
+        "name": "Commute Route 4 (Dead End)",
         "order": 9,
         "parentId": 126,
         "scrollX": 720.8888888888889,
@@ -1420,7 +1420,7 @@
     {
         "id": 234,
         "expanded": true,
-        "name": "通勤路（夕闇）",
+        "name": "Commuting Route (Twilight)",
         "order": 10,
         "parentId": 126,
         "scrollX": 810.6666666666666,
@@ -1432,7 +1432,7 @@
     {
         "id": 238,
         "expanded": true,
-        "name": "駅周辺",
+        "name": "Station vicinity",
         "order": 11,
         "parentId": 234,
         "scrollX": 810.6666666666666,
@@ -1441,7 +1441,7 @@
     {
         "id": 239,
         "expanded": true,
-        "name": "OP２＿駅改札",
+        "name": "OP2_Station Gate",
         "order": 12,
         "parentId": 238,
         "scrollX": 720.8888888888889,

@@ -1901,38 +1901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内ニュース>\\C[24]おはようございます"
+                                "\\n<In-car news>\\C[24]Good morning, this is MSGK Morning News."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "MSGKモーニングニュースです。　"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<車内ニュース>\\C[24]今日の天気はくもり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日は雨となる見込みです———"
+                                ""
                             ]
                         },
                         {
@@ -1949,21 +1925,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内ニュース>\\C[24]朔晦市の飲食店で飲料に睡眠薬を混入させ、"
+                                "\\n<In-car news>\\C[24]Today's weather is cloudy, and there is a\npossibility of rain tomorrow--"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "30代女性に対する準強制わいせつ容疑で"
+                                "\\n<In-car news>\\C[24]A man living in Tokyo was arrested early\nyesterday morning on suspicion of quasi-forced\nindecent assault against a woman in her 30s by\nmixing sleeping pills into a drink at a restaurant\nin Sakutsuki City."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "都内在住の男が昨日未明に逮捕されました———"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2014,21 +2014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内ニュース>\\C[24]——周辺では精神疾患と疑われる症状が"
+                                "\\n<In-car news>\\C[24]--There have been multiple reports of\nsymptoms suspected to be mental disorders in the\nsurrounding area, and the city has requested the\nMinistry of the Environment--"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "相次いで報告されており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "市は環境省に対し———"
+                                ""
                             ]
                         },
                         {
@@ -2057,7 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>おっと…なんだ…？"
+                                "\\n<Detective>Oh... what's this...?"
                             ]
                         },
                         {
@@ -2074,76 +2074,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『本部より指令。"
+                                "Headquarters orders. Upon arrival at the site,\npromptly begin the investigation and make every\neffort to quickly identify and resolve the cause."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現地到着後は速やかに調査を開始し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早急な原因究明と解決に尽力せよ。』"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…いきなり派遣されてそんな事言われても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "科捜研が分からない事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺が分かるわけないだろ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<車内ニュース>\\C[24]——の犯罪率は近年上昇傾向にあり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警察は捜査本部を立ち上げ———"
+                                ""
                             ]
                         },
                         {
@@ -2160,7 +2105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>...Being suddenly dispatched and told something\nlike that, there's no way I would know things that\nthe forensic science laboratory knows..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2177,21 +2136,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日、急に出た辞令。"
+                                "\\n<In-car news>The crime rate in \\C[24]—— has been on the rise in\nrecent years, prompting the police to establish an\ninvestigation headquarters———"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]朔晦市（タチゴリ）\\C[0]周辺で頻発している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]狂人化現象\\C[0]。"
+                                "\\n<Detective>......"
                             ]
                         },
                         {
@@ -2208,21 +2177,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その調査に派遣される事になったはいいものの、"
+                                "Yesterday, I suddenly received a transfer order.\nThere have been frequent occurrences of a\nphenomenon called madness in the vicinity of\nSakutsuki City (Tachigori)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "管轄から離れた地で起きている現象を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一から捜査するのは容易ではない。"
+                                ""
                             ]
                         },
                         {
@@ -2239,14 +2208,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、噂によれば動員された捜査員の中の数名も"
+                                "It's not easy to investigate the phenomenon\noccurring in a distant place from my jurisdiction,\neven though I've been dispatched for that\ninvestigation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同様の症状が現れて今は精神病院に入っていると聞く。"
+                                "However, according to rumors, several of the\nmobilized investigators have also shown similar\nsymptoms and are now hospitalized in a mental\ninstitution."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2297,14 +2297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内アナウンス>この電車は、水鏡線内回り"
+                                "\\n<In-car announcement>This train is bound for Tenmantsuki on the\nMizukagami Line."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "天満月ゆきです。\\|"
+                                ""
                             ]
                         },
                         {
@@ -2321,14 +2321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内アナウンス>次は、\\C[18]朔晦(タチゴリ)\\C[0]"
+                                "\\n<In-car announcement>Next stop is \\C[18]Sakutsuki (Tachigori)\\C[0],\nSakutsuki. The exit is on the left side."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朔晦、お出口は左側です。"
+                                ""
                             ]
                         },
                         {
@@ -2359,14 +2359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>さて…まずはどういう状況か"
+                                "\\n<Detective>Well then... let's first take a look at the\nsituation, shall we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見てみるとするか。"
+                                ""
                             ]
                         },
                         {

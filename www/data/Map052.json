@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "蟒?ン繝ｫ縺ｮ蜈･蜿｣",
+    "displayName": "Python Forest",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -3790,14 +3790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだこれは…！？"
+                                ""
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>クスクスクス…"
+                                "\\n<???>Hehehe..."
                             ]
                         },
                         {
@@ -3831,14 +3831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…あの少女の仕業か…？"
+                                "\\n<Detective>...Is this the work of that girl...? But how...did\nsomething like this happen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがこんな事…どうやって…"
+                                ""
                             ]
                         },
                         {
@@ -3855,14 +3855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…とにかく、"
+                                "\\n<Detective>...Anyway, let's first go to a place we can go to."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずは行けるところに行ってみよう…。"
+                                ""
                             ]
                         },
                         {
@@ -4043,7 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…"
+                                "\\n<Detective>..."
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…"
+                                "\\n<Detective>..."
                             ]
                         },
                         {

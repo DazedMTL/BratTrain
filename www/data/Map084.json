@@ -2247,7 +2247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何故また君が…"
+                                "\\n<Detective>Why are you here again..."
                             ]
                         },
                         {
@@ -2264,7 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>………"
+                                "\\n<???>........."
                             ]
                         },
                         {
@@ -2281,14 +2281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…おい、大丈夫か？\\!"
+                                "\\n<Detective>...Hey, are you okay? ...Luna...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ルナ…？"
+                                ""
                             ]
                         },
                         {
@@ -2335,14 +2335,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……ルナ………\\!"
+                                "\\n<???>......Luna.........Luna......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルナ……"
+                                ""
                             ]
                         },
                         {
@@ -2359,21 +2359,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…！？\\!"
+                                "\\n<Detective>(...!? What... it's the same as before... no, even\nmore pressure...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだ…またさっきの…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いやそれ以上の圧力が…！）"
+                                ""
                             ]
                         },
                         {
@@ -2402,28 +2402,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\\c[18]繝ｫ繝翫?√←縺薙↓縺?ｋ繧薙□窶ｦ\\!"
+                                "\\n<???>\\c[18]Why... did you come back here again? I told\nyou to stay away from me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "縺顔宛縺輔ｓ縺?窶ｦ\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "鬆ｼ繧?縺九ｉ蟋ｿ繧定ｦ九○縺ｦ縺上ｌ窶ｦ\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "縺ｲ縺ｨ縺薙→縲∬ｬ昴ｉ縺帙※縺上ｌ窶ｦ"
+                                ""
                             ]
                         },
                         {
@@ -2440,21 +2440,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\\c[18]繝ｫ繝岩?ｦ繝ｫ繝岩?ｦ"
+                                "\\n<???>\\c[18]Luna... Luna... Luna... Luna... Luna...\nLuna..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "繝ｫ繝岩?ｦ繝ｫ繝岩?ｦ繝ｫ繝岩?"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ｦ繝ｫ繝翫Ν繝岩?ｦ繝ｫ繝!"
+                                ""
                             ]
                         },
                         {
@@ -2471,21 +2471,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>クッ…！"
+                                "\\n<Detective>Damn...! I'm not sure what's going on, but... this\nisn't the Luna from earlier...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだかよく分からないが…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっきのルナではない…！"
+                                ""
                             ]
                         },
                         {
@@ -2502,14 +2502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\\c[18]霑斐○縲∫ｧ√?繝ｫ繝翫ｒ窶ｦ"
+                                "\\n<???>\\c[18]Why... did you come back here...? I told you\nto stay away from me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遘√?螽倥ｒ霑斐○?"
+                                ""
                             ]
                         },
                         {
@@ -2526,21 +2526,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>明らかに敵意があるな…\\!"
+                                "\\n<Detective>There is clearly hostility... I don't think we can\ncommunicate, we need to do something...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "話が通じるとも思えない、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんとかしなければ…！"
+                                ""
                             ]
                         },
                         {
@@ -2557,14 +2557,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\\c[18]谿ｺ縺励※繧?ｋ窶ｦ"
+                                "\\n<???>\\c[18]Why... did you come back here...? I told you\nto stay away from me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遘√?繝ｫ繝翫ｒ螂ｪ縺?ｂ縺ｮ蜈ｨ縺ｦ窶ｦ"
+                                ""
                             ]
                         },
                         {
@@ -2793,14 +2793,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>\\c[18]繝ｫ繝岩?ｦ"
+                                "\\n<???>\\c[18]Aria... Aria... why did you come back...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "繝ｫ繝翫ｒ霑斐＠縺ｦ縺上ｌ窶ｦ"
+                                ""
                             ]
                         },
                         {
@@ -2817,14 +2817,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>クソッ…まだ動けるのか…\\!"
+                                "\\n<Detective>Damn... You can still move... My stamina... is\nalready...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…もう…体力が…！"
+                                ""
                             ]
                         },
                         {
@@ -2841,7 +2841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>もういいよ、パパ。"
+                                "\\n<???>It's fine now, Papa."
                             ]
                         },
                         {
@@ -3073,7 +3073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>\\c[18]ルナ…"
+                                "\\n<???>Luna..."
                             ]
                         },
                         {
@@ -3136,7 +3136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…この人は…"
+                                "\\n<Detective>...This person..."
                             ]
                         },
                         {
@@ -3153,45 +3153,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>\\c[18]ルナ…"
+                                "\\n<???>\\c[18]Luna... \\c[2]Luna... \\c[0]...I'm sorry...\nI've always..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]ルナ…\\c[0]…ごめん…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は…ずっとお前に…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor16",
-                                2,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<???>良いんだよ、パパ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ、全部思い出した…。"
+                                ""
                             ]
                         },
                         {
@@ -3208,14 +3184,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>寂しい時もあったけど…"
+                                "\\n<???>It's okay, Papa. Luna, I remember everything\nnow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、最期は一緒にいてくれた。"
+                                ""
                             ]
                         },
                         {
@@ -3232,21 +3208,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>それだけで十分幸せだったよ…。\\!"
+                                "\\n<???>There were times when I felt lonely... but in the\nend, you were there with me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor16",
+                                2,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナもあの時、酷いこと言ってごめんなさい…。\\!"
+                                "\\n<???>Just that was enough to make me happy... Luna, I'm\nsorry for saying terrible things back then... I've\nalways wanted to apologize."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ずっと、謝りたかった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3263,90 +3263,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>良いんだ、そんな事…\\!"
+                                "\\n<???>It's okay, things like that... I... we... as long\nas Luna is happy... if you could keep smiling..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は…私達は…ルナが幸せなら…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ずっと、笑ってくれていたら…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor16",
-                                2,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<???>ごめんね、置いて行っちゃって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頑張ってくれたのに…ッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "応えられなくて……。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                2,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<???>いいんだ、もう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうしてまた会えた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "沢山間違いを犯してしまったけど…\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでも、一目会えたから…"
+                                ""
                             ]
                         },
                         {
@@ -3363,21 +3294,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>…ホントだよ。もう…。"
+                                "\\n<???>I'm sorry, for leaving you behind... You worked\nso hard... but I couldn't respond..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、ルナも悪いこと沢山しちゃったから…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一緒にママに怒られよ？"
+                                ""
                             ]
                         },
                         {
@@ -3394,14 +3325,83 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>は…ハハ…"
+                                "\\n<???>It's okay, now... We were able to meet like this\nagain... I made a lot of mistakes... but still,\nbecause we could see each other with just one\nglance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor16",
+                                2,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ、そうだね…。"
+                                "\\n<???>...It's true. I mean... But Luna, you've done a\nlot of bad things too, so let's get scolded by\nMama together, okay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                2,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<???>Haha... Ah, that's right..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3456,28 +3456,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>本当に…すみませんでした…。"
+                                "\\n<???>I'm truly... sorry... This device... will stop\nsoon... It was only moving based on my thoughts,\nso if I disappear, the device will also stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この装置は…間もなく停止します…。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の思念を核に動いていただけなので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私が消えれば装置も止まる。"
+                                ""
                             ]
                         },
                         {
@@ -3494,21 +3494,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…えぇ、まったくです。\\!"
+                                "\\n<Detective>...Yes, exactly. Get along with your daughter... I\nwill take care of the rest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "娘さんと仲良く…。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "後は私が始末を付けます。"
+                                ""
                             ]
                         },
                         {
@@ -3525,21 +3525,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>フフフ…♥"
+                                "\\n<???>Hehehe...♥ You're really kind, Uncle. Maybe I've\nfallen in love♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やっぱり優しいね、おじさん。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "惚れちゃったかも♥"
+                                ""
                             ]
                         },
                         {
@@ -3587,14 +3587,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>なに…！？\\!"
+                                "\\n<???>What...!? Luna, what on earth is going on!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルナ、それは一体どういう事だ！"
+                                ""
                             ]
                         },
                         {
@@ -3611,14 +3611,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>こらこら、お父さんの前でやめなさい。\\!"
+                                "\\n<Detective>Hey hey, stop that in front of your father. You\ntoo, behave mischievously in moderation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君も、悪戯はほどほどにな。"
+                                ""
                             ]
                         },
                         {
@@ -3635,14 +3635,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>うん、"
+                                "\\n<???>Yeah, thank you so much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ホントにありがとね…。"
+                                ""
                             ]
                         },
                         {
@@ -3690,7 +3690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>…ありがとうございます…。"
+                                "\\n<???>...Thank you very much..."
                             ]
                         },
                         {
@@ -4089,7 +4089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……あぁ。"
+                                "\\n<Detective>......Ah."
                             ]
                         },
                         {
@@ -4206,7 +4206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうしてまた、その街からひとりの狂人が生まれた。"
+                                "And so, another madman was born from that town."
                             ]
                         },
                         {
@@ -4223,14 +4223,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "朔晦市はその後狂人の街として衰退の一途を辿り、"
+                                "The city of Sakuhai continued to decline as a city\nof madmen, and eventually the government\nprohibited entry into it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やがて政府によって立ち入りを禁じられた。"
+                                ""
                             ]
                         },
                         {
@@ -4247,14 +4247,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "狂人化現象が発生した地の中心には、"
+                                "In the center of the place where the phenomenon of\nmadness occurred, a deep darkness still spreads..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今もまだ深い闇が広がっている…。"
+                                ""
                             ]
                         },
                         {

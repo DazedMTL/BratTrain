@@ -2323,14 +2323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -2575,14 +2575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -2827,38 +2827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年の男>この店もダメか。"
+                                "\\n<Middle-aged man>Is this shop also no good? It won't be long before\nthis block is completely wiped out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近い内にこのブロックも全滅だな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<中年の男>元々天下の”緋皇”グループの恩恵で発展した街。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緋皇が手を引けば脆いもんだな。"
+                                ""
                             ]
                         },
                         {
@@ -2875,21 +2851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年の男>まぁ、緋皇は今や空中分解寸前の企業。"
+                                "\\n<Middle-aged man>This town originally developed thanks to the\nblessings of the Hikou Group. It's fragile if\nHikou were to withdraw their support."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "代替わりしてからはグダグダもいいとこだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街の再建に乗り出す事は確実にないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -2906,21 +2875,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年の男>さて、となると投資先は再開発事業より"
+                                "\\n<Middle-aged man>Well, Hikou is now a company on the verge of\ndisintegration. Since the change of leadership,\nit's been a complete mess, and it's certain that\nthey won't embark on the reconstruction of this\ntown."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解体事業の方にシフトすべきだな。"
+                                "\\n<Middle-aged man>Well, in that case, we should shift our investment\nfocus from redevelopment projects to dismantling\nprojects. Now, let's see... how should we allocate\nthe administrative allowance..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どれ、行政手当の配分は…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2997,14 +2997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -3081,14 +3081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -3165,7 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（規制線が張られている）"
+                                "\\n<Detective>(There is a restricted area.)"
                             ]
                         },
                         {
@@ -3182,7 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"警視庁　KEEP OUT　立入禁止\""
+                                "Restricted Area - No Entry Allowed"
                             ]
                         },
                         {
@@ -3259,7 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（規制線が張られている）"
+                                "\\n<Detective>(There is a restricted area.)"
                             ]
                         },
                         {
@@ -3276,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"警視庁　KEEP OUT　立入禁止\""
+                                "Restricted Area - No Entry Allowed"
                             ]
                         },
                         {
@@ -3353,7 +3353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（規制線が張られている）"
+                                "\\n<Detective>(There is a restricted area.)"
                             ]
                         },
                         {
@@ -3370,7 +3370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"警視庁　KEEP OUT　立入禁止\""
+                                "Restricted Area - No Entry Allowed"
                             ]
                         },
                         {
@@ -3447,7 +3447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（規制線が張られている）"
+                                "\\n<Detective>(There is a restricted area.)"
                             ]
                         },
                         {
@@ -3464,7 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"警視庁　KEEP OUT　立入禁止\""
+                                "Restricted Area - No Entry Allowed"
                             ]
                         },
                         {

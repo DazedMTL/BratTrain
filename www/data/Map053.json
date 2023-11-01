@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "駅ホーム",
+    "displayName": "Station Platform",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3355,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3372,7 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Toto Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3466,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Toto Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3543,14 +3543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Freckles, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3567,14 +3567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's dermatology clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3651,14 +3651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Freckles, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3675,14 +3675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's dermatology clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -3836,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -3913,14 +3913,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3937,14 +3937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -4021,14 +4021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -4045,14 +4045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -4129,7 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4206,7 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4283,7 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4360,21 +4360,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4451,21 +4451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4542,21 +4542,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4633,14 +4633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再開発の影響でかなり発展していたが…）"
+                                ""
                             ]
                         },
                         {
@@ -4717,14 +4717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment, but...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再開発の影響でかなり発展していたが…）"
+                                ""
                             ]
                         },
                         {
@@ -4801,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この先は暗すぎて進めそうにない…"
+                                "\\n<Detective>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この先は暗すぎて進めそうにない…"
+                                "\\n<Detective>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5017,7 +5017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この先は暗すぎて進めそうにない…"
+                                "\\n<Detective>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5125,7 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この先は暗すぎて進めそうにない…"
+                                "\\n<Detective>It's too dark ahead, I can't proceed..."
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…地下への階段が気になる…。"
+                                "\\n<Detective>...I'm curious about the stairs leading to the\nbasement..."
                             ]
                         },
                         {
@@ -5350,7 +5350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…地下への階段が気になる…。"
+                                "\\n<Detective>...I'm curious about the stairs leading to the\nbasement..."
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…他の所を探してみよう。"
+                                "\\n<Detective>...Let's try searching elsewhere."
                             ]
                         },
                         {
@@ -5526,14 +5526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…駅の中は普通…"
+                                "\\n<Detective>...The inside of the station is\nnormal...no...there's something off about it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや…何か違和感があるぞ…。"
+                                ""
                             ]
                         },
                         {
@@ -5550,7 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…探索してみよう。"
+                                "\\n<Detective>...Let's investigate."
                             ]
                         },
                         {
@@ -5686,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>戻る必要はない。"
+                                "\\n<Detective>There's no need to go back."
                             ]
                         },
                         {
@@ -5794,7 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>戻る必要はない。"
+                                "\\n<Detective>There's no need to go back."
                             ]
                         },
                         {
@@ -5902,14 +5902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -6047,38 +6047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -6095,14 +6071,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6239,14 +6239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -6398,38 +6398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -6446,14 +6422,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6590,14 +6590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -6763,38 +6763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -6811,14 +6787,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6955,14 +6955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -7114,38 +7114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -7162,14 +7138,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7306,14 +7306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -7479,38 +7479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -7527,14 +7503,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7671,14 +7671,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -7858,38 +7858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>地下への階段…？"
+                                "\\n<Detective>Stairs leading underground...? Did something like\nthis exist...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなものあったか…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>いや、確実に無かったはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも朔晦には地下鉄などないはず…"
+                                ""
                             ]
                         },
                         {
@@ -7906,14 +7882,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…確実に何かあるな。\\!"
+                                "\\n<Detective>No, there definitely shouldn't be! In the first\nplace, there shouldn't be any underground subway\nin Sakuhai..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行ってみよう。"
+                                "\\n<Detective>...There's definitely something here. Let's go and\ncheck it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

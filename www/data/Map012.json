@@ -4039,14 +4039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティドア>\\c[2]セキュリティキー\\c[24]を認証できませんでした。"
+                                "\\n<Security Door>Failed to authenticate \\C[24]\\c[2]security\nkey\\c[24]. Access denied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入室を拒否します。"
+                                ""
                             ]
                         },
                         {
@@ -4063,14 +4063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]セキュリティキー？\\c[0]\\!"
+                                "\\n<Detective>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "またどこかに鍵が隠されているのか…"
+                                ""
                             ]
                         },
                         {
@@ -4163,21 +4163,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -4185,8 +4185,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4524,14 +4524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティドア>\\c[2]セキュリティキー\\c[24]を認証できませんでした。"
+                                "\\n<Security door>Failed to authenticate \\C[24]\\c[2]security\nkey\\c[24]. Access denied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入室を拒否します。"
+                                ""
                             ]
                         },
                         {
@@ -4548,14 +4548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]セキュリティキー？\\c[0]\\!"
+                                "\\n<Detective>\\C[2]Security key? \\c[0]Is there another key\nhidden somewhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "またどこかに鍵が隠されているのか…"
+                                ""
                             ]
                         },
                         {
@@ -4648,21 +4648,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -4670,8 +4670,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5021,14 +5021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5355,14 +5355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スタート地点に戻りますか？"
+                                "Do you want to return to the starting point?"
                             ]
                         },
                         {
@@ -5598,8 +5598,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5833,14 +5833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチB\\C[24]が"
+                                "\\n<Security System>Security Switch B has become active."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]アクティブ\\C[24]になりました。"
+                                ""
                             ]
                         },
                         {
@@ -5994,14 +5994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メモに何か書かれているな。"
+                                "There's something written in the memo. Let's\nsee..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どれどれ…。…。"
+                                ""
                             ]
                         },
                         {
@@ -6018,14 +6018,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先は\\c[18]秘密の隠し部屋\\c[0]！」"
+                                "This way is a secret hidden room! Only Cocoa can\nenter!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ココ以外は入っちゃだめだからな！」"
+                                ""
                             ]
                         },
                         {
@@ -6042,14 +6042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロッカーの扉の向こうに"
+                                "There is a suspicious button placed beyond the\nlocker door."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あやしいボタンが置かれている。"
+                                ""
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしいボタンを押しますか？"
+                                "Do you want to press the suspicious button?"
                             ]
                         },
                         {
@@ -6074,8 +6074,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6159,14 +6159,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "罠の可能性もある…うかつに"
+                                "There might be a trap... It seems better not to\ntouch it carelessly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "触らない方が良さそうだ…。"
+                                ""
                             ]
                         },
                         {
@@ -6244,7 +6244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボタンを押しますか？"
+                                "Shall I press the button?"
                             ]
                         },
                         {
@@ -6252,8 +6252,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6462,14 +6462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>コノ先"
+                                "\\n<Device>\\C[24]This is the area of Lord Koko."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ココ様　ノ　領域　デス"
+                                ""
                             ]
                         },
                         {
@@ -6570,21 +6570,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>セーブ　ハ"
+                                "\\n<Device>\\C[24]Saving regularly is common sense in an\nadventure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コマメニ　行ウ　コト"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コレ　冒険　ノ　常識　デス"
+                                ""
                             ]
                         },
                         {
@@ -6879,21 +6879,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>倉庫ニハ　ココ様ノ"
+                                "\\n<Device>\\C[24]There is a hidden room in the warehouse.\nHave you noticed it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隠サレタ　部屋　ガ　存在シマス"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アナタ　ニ　見ツケラレマスカ？"
+                                ""
                             ]
                         },
                         {
@@ -6994,14 +6994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>明日　カラ　放送開始　ノ"
+                                "\\n<Device>\\C[24]The late-night anime starting from tomorrow\nhas been fully reserved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "深夜アニメ　ハ　全テ　予約完了　デス"
+                                ""
                             ]
                         },
                         {
@@ -7162,14 +7162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>巡回ドローン　ノ"
+                                "\\n<Device>\\C[24]Patrol drone status is all green."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "状態　オールグリーン　デス"
+                                ""
                             ]
                         },
                         {
@@ -7270,14 +7270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>ドローン　ノ　タイプ　ハ"
+                                "\\n<Device>\\C[24]The type of drone is a general-purpose type,\neither a walking type or a deviant type."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "汎用タイプ　ノ　【歩行型】 【非行型】"
+                                ""
                             ]
                         },
                         {
@@ -7294,14 +7294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>ココ様　ノ　護衛　ヲ　任サレル"
+                                "\\n<Device>\\C[24]There are three types of [MazerDrone] that\nare responsible for protecting Cocoa-sama."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "【マザードローン】　三種　ガ　存在　シマス"
+                                ""
                             ]
                         },
                         {
@@ -7601,28 +7601,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチ\"A\"、\"B\"\\C[24]が"
+                                "\\n<Security System>Security switches A and B have become active.\nUnlocking the lock of α-1. Also, activating the\nsecurity drone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]アクティブ\\C[24]になりました。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[20]α-1\\C[24]のロックを解除。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "同、\\C[20]セキュリティードローン\\C[24]を起動します。"
+                                ""
                             ]
                         },
                         {
@@ -7639,21 +7639,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…スイッチ式の扉のロックは"
+                                "\\n<Detective>So, this means that the lock on the switch-\noperated door has been released. Let's head\ntowards Room \\C[2]α-1\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これで解除されたという事か。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]\"α-1\"\\C[0]の部屋に向かおう。"
+                                ""
                             ]
                         },
                         {

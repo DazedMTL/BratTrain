@@ -3091,14 +3091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -3190,14 +3190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>敵性勢力　認識"
+                                "\\n<Device>\\C[24]Enemy forces recognized and isolated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隔離　シマス"
+                                ""
                             ]
                         },
                         {
@@ -3289,14 +3289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ロックがかかっていて開かない…"
+                                "\\n<Detective>It's locked and won't open..."
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ロックがかかっていて開かない…"
+                                "\\n<Detective>It's locked and won't open..."
                             ]
                         },
                         {
@@ -4419,14 +4419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4518,14 +4518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>敵性勢力　認識"
+                                "\\n<Device>\\C[24]Enemy forces recognized and isolated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隔離　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4617,14 +4617,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4843,14 +4843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4942,14 +4942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>敵性勢力　認識"
+                                "\\n<Device>\\C[24]Enemy forces recognized and isolated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隔離　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5041,14 +5041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5149,14 +5149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5248,14 +5248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>敵性勢力　認識"
+                                "\\n<Device>\\C[24]Enemy forces recognized and isolated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隔離　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5347,14 +5347,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5905,38 +5905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>敵性勢力　認識"
+                                "\\n<Device>\\C[24]Enemy forces recognized and isolated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隔離　シマス"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>クソッ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閉じ込められたか…"
+                                ""
                             ]
                         },
                         {
@@ -5953,14 +5929,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>部屋の中を探索してみよう…。"
+                                "\\n<Detective>Shit...! I've been trapped..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかに出口があるはずだ。"
+                                "\\n<Detective>Let's search the room... There should be an exit\nsomewhere."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

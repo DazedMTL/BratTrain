@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -41,7 +41,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "刑事",
+        "name": "Detective",
         "nickname": "",
         "note": "これが本体。\nあとの【おっさん】はダミー",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -133,7 +133,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -156,7 +156,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -179,7 +179,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -202,7 +202,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさん",
+        "name": "Old man",
         "nickname": "",
         "note": "ダミー",
         "profile": ""
@@ -248,10 +248,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アリア",
+        "name": "Aria",
         "nickname": "",
         "note": "",
-        "profile": "如月亜里愛"
+        "profile": "Kisaragi Aria"
     },
     {
         "id": 12,
@@ -274,7 +274,7 @@
         "name": "sine:ω",
         "nickname": "",
         "note": "",
-        "profile": "喜遊名心"
+        "profile": "Cocoa Kiyuna"
     },
     {
         "id": 13,
@@ -294,10 +294,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "",
-        "profile": "愛洲美彌子"
+        "profile": "Aisu Miyako"
     },
     {
         "id": 14,
@@ -317,10 +317,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "",
-        "profile": "冬至つづみ"
+        "profile": "Tuzumi Tohji"
     },
     {
         "id": 15,
@@ -340,10 +340,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "",
-        "profile": "柵瀬愛色"
+        "profile": "Ai Sakurai"
     },
     {
         "id": 16,
@@ -363,10 +363,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "",
-        "profile": "陰平小鞠"
+        "profile": "Komari Kagehira"
     },
     {
         "id": 17,
@@ -386,10 +386,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "",
-        "profile": "訓覇一縷"
+        "profile": "Ichiru Kurube"
     },
     {
         "id": 18,
@@ -409,10 +409,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "？？？",
+        "name": "???",
         "nickname": "",
         "note": "①ホーム＿初回イベントで名前を定義",
-        "profile": "緋皇月"
+        "profile": "Luna Hisube"
     },
     {
         "id": 19,
@@ -432,7 +432,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "女の子A",
+        "name": "Girl A",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -455,7 +455,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "女の子B",
+        "name": "Girl B",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -478,7 +478,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "性欲の狂人",
+        "name": "Maniac of Lust",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -501,7 +501,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "スクショの民",
+        "name": "Screenshot Citizen",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1007,7 +1007,7 @@
         "traits": [],
         "initialLevel": 99,
         "maxLevel": 99,
-        "name": "繝代ル繝?す繝｣繝ｼ",
+        "name": "Detective",
         "nickname": "",
         "note": "",
         "profile": "One batch, two batch. Penny and dime."
@@ -2272,7 +2272,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "～アイテム名称～",
+        "name": "~Item Name~",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2295,7 +2295,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "▼ココステージ▼",
+        "name": "▼Coco Stage▼",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -2341,7 +2341,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "キーA",
+        "name": "Key A",
         "nickname": "",
         "note": "キーA",
         "profile": ""
@@ -2387,10 +2387,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セキュリティカード",
+        "name": "Security Card",
         "nickname": "",
         "note": "ココ部屋のセキュリティーキー",
-        "profile": "Γ-1から向かえる\nココの部屋のセキュリティーカードだ。"
+        "profile": "You can access from Γ-1. This is the security card for Cocoa's room."
     },
     {
         "id": 105,

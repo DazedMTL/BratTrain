@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "謇玖｡灘ｮ､",
+    "displayName": "Kanku Bay",
     "encounterList": [],
     "encounterStep": 30,
     "height": 19,
@@ -2199,7 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>やぁ、ようやく逢えたな。"
+                                "\\n<Detective>Hey, we finally meet."
                             ]
                         },
                         {
@@ -2247,14 +2247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>うん♥\\!"
+                                "\\n<???>Yeah♥ I've been waiting for you, old man♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待ちくたびれたよ、おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -2283,14 +2283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>さぁ、約束通り教えてもらおう。"
+                                "\\n<Detective>Now, as promised, tell me the cause and how to\nstop the \\c[2]phenomenon of madness\\c[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]狂人化現象\\c[0]の原因、そして止め方を。"
+                                ""
                             ]
                         },
                         {
@@ -2307,14 +2307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ん？"
+                                "\\n<???>Huh? Did I promise you something like that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルナそんな事約束したっけ？"
+                                ""
                             ]
                         },
                         {
@@ -2331,14 +2331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>なっ……、"
+                                "\\n<Detective>N-No... Well, since I've come this far..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、ここまで来たんだから…"
+                                ""
                             ]
                         },
                         {
@@ -2355,21 +2355,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>また逢えたら直接遊んであげる♥"
+                                "\\n<???>I promised that we would play together next time\nwe meet♥ That's why you came, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは約束したよ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから来たんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -2386,14 +2386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>くっ…！"
+                                "\\n<Detective>Ugh...! Then what do I have to do to get an\nanswer!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なら何をしたら答えるんだ！？"
+                                ""
                             ]
                         },
                         {
@@ -2410,52 +2410,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>フフフ♥今までと同じ♥\\!"
+                                "\\n<???>Hehehe♥ If you have something you want to ask,\njust make sure to \\c[2]make me understand\\c[0],\njust like before♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞きたいことがあるなら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと\\c[2]わからせて\\c[0]からだよ♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…なら約束だ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂人化現象の止め方、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに君達は一体何者なのか。"
+                                ""
                             ]
                         },
                         {
@@ -2472,7 +2441,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>君が負けたら答えてもらおう。"
+                                "\\n<Detective>...Then it's a promise. How to stop the phenomenon\nof madness, and just who exactly are you all?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>If you lose, I'll make you give me the answer."
                             ]
                         },
                         {
@@ -2489,21 +2489,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>２つもお願いするんだから、"
+                                "\\n<???>I'm asking for two things, so it would be tough if\nI lose, you know? ♥ Are you really okay with that?\n♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "負けたら大変だよ？♥\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ホントにいいの？♥"
+                                ""
                             ]
                         },
                         {
@@ -2520,14 +2520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…ここまで来ればもう引き下がる訳にはいかん。\\!"
+                                "\\n<Detective>...If I've come this far, there's no way I can\nback down. If I lose, I'll do as you wish."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もし負けたら望み通りにしよう。"
+                                ""
                             ]
                         },
                         {
@@ -2544,21 +2544,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ホントに勝つ気なんだ♥"
+                                "\\n<???>You really intend to win, huh? Alright, it's a\npromise. Let's have a real match, old man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいよ、約束♥\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当の勝負をしよう、おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -2582,21 +2582,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…この子で最後…！"
+                                "\\n<Detective>...This is the last one...! I need to focus, I\nabsolutely have to stop it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気を引き締めよう、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必ず止めなければならないんだ…！"
+                                ""
                             ]
                         },
                         {
@@ -2670,83 +2670,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>やるじゃないおじさん♥"
+                                "ルナ\\SE[default]\\n<???>You're doing great, old man♥ Your faithful\ndedication to desire is so cool♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "欲望に忠実な姿、カッコイイよ♥"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 1,
-                            "parameters": [
-                                "skit unFocus 18_luna t"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<Detective>…ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "効いてない…だと…！？"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 1,
-                            "parameters": [
-                                "skit focus 18_luna t"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[default]\\n<???>ん～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "効いてるよ？♥\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちゃんとおじさんの愛は伝わったもの♥"
+                                ""
                             ]
                         },
                         {
@@ -2770,14 +2701,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…クソッ…"
+                                "\\n<Detective>...It's not working...you say...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一体何者なんだ君は…。"
+                                ""
                             ]
                         },
                         {
@@ -2801,21 +2732,90 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>…フフフ、効いたけど"
+                                "ルナ\\SE[default]\\n<???>Hmm? Is it working? ♥ The love of an old man has\nsurely been conveyed, right? ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "skit unFocus 18_luna t"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだちょっと物足りないかな？♥"
+                                "\\n<Detective>...Damn it...Who the hell are you...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "skit focus 18_luna t"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ラストチャンス、この状態でまだ理性を保てたら…♥"
+                                "ルナ\\SE[default]\\n<???>...Hehehe, it seems to have an effect, but it's\nstill a little unsatisfying, isn't it? ♥ This is\nyour last chance, if you can still maintain your\nsanity in this state... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2896,14 +2896,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…！？"
+                                "\\n<Detective>...!? Damn it...tsu!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しまった…ﾂ！"
+                                ""
                             ]
                         },
                         {
@@ -2927,21 +2927,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>理性か、本能か。"
+                                "ルナ\\SE[default]\\n<???>Reason or instinct. I'll show you the old man's\nseriousness ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさんの”本気”♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "見させてもらうね♥"
+                                ""
                             ]
                         },
                         {
@@ -2965,14 +2965,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…く……ッ！"
+                                "\\n<Detective>...Ugh...I won't...regret it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "後悔…するんじゃないぞ…ッ！"
+                                ""
                             ]
                         },
                         {
@@ -2996,7 +2996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>…♥"
+                                "ルナ\\SE[default]\\n<???>...♥"
                             ]
                         },
                         {
@@ -3074,21 +3074,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>はぁ…♥\\!"
+                                "ルナ\\SE[default]\\n<???>Ahh...♥ Hehehe, it felt good, didn't it, old man♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フフフ、気持ち良かったね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -3112,21 +3112,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…すまない、"
+                                "\\n<Detective>...I'm sorry, when reason flies out the window, I\ncan't control myself... Is your body okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "理性が飛ぶと抑えが効かなくなって…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "身体は大丈夫か？"
+                                ""
                             ]
                         },
                         {
@@ -3162,14 +3162,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>気にする必要がないもん、"
+                                "ルナ\\SE[default]\\n<???>You don't need to worry, it's okay ♥ Thank you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫だよ♥　ありがと。"
+                                ""
                             ]
                         },
                         {
@@ -3193,14 +3193,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…君は…\\!"
+                                "\\n<Detective>...Are you...are you causing the phenomenon of\nmadness?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君が狂人化現象を引き起こしているのか？"
+                                ""
                             ]
                         },
                         {
@@ -3224,21 +3224,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[surprise]\\n<???>ん？　あぁ、約束だもんね。\\!"
+                                "ルナ\\SE[surprise]\\n<???>Hm? Ah, it's a promise, right? Well, I guess it's\nhalf right and half wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "う～ん、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "半分正解で半分ハズレ　かな？"
+                                ""
                             ]
                         },
                         {
@@ -3262,14 +3262,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…半分…？"
+                                "\\n<Detective>...Half...? What exactly do you mean...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一体どういう意味だ…？"
+                                ""
                             ]
                         },
                         {
@@ -3293,21 +3293,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>万有引力の法則って知ってる？\\!"
+                                "ルナ\\SE[default]\\n<???>Do you know the law of universal gravitation? An\nobject with a larger mass has a corresponding\ngravitational force according to its size."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "物体の質量が大きい物は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その大きさに相応する引力を持つ。"
+                                ""
                             ]
                         },
                         {
@@ -3331,14 +3331,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…学生の頃に授業で習った程度なら…"
+                                "\\n<Detective>...If it's just something I learned in school as a\nstudent...does it have any relevance?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それが何か関係あるのか？"
+                                ""
                             ]
                         },
                         {
@@ -3362,21 +3362,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>じゃあ、「魂の重さ」は知ってる？"
+                                "ルナ\\SE[default]\\n<???>Well then, do you know about the weight of the\nsoul? It's the theory proposed by Dr. Duncan\nMacDougall that the weight of a human soul is 21\ngrams."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「人間の魂の重さは21グラム」って、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダンカン・マクドゥーガル医師が提唱したやつ。"
+                                ""
                             ]
                         },
                         {
@@ -3400,14 +3400,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…魂に重さ…？"
+                                "\\n<Detective>...Weight of the soul...? Does such a thing exist?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんなものあるのか？"
+                                ""
                             ]
                         },
                         {
@@ -3431,28 +3431,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>クスクス♥　さぁ？\\!"
+                                "ルナ\\SE[default]\\n<???>Hehehe♥ Well? It seems that they measured the\nweight ratio between before and immediately after\ndeath, but there's also a theory that says it\nbecame lighter due to evaporation because body\ntemperature temporarily rises when life activity\nstops."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "生前と死の直後の重量比で測定したらしいけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "生命活動が停止すると一時的に体温が上昇するから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "揮発で軽くなったっていう説もあるみたいだね。"
+                                ""
                             ]
                         },
                         {
@@ -3476,14 +3476,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…それで…、それとこれと"
+                                "\\n<Detective>...So...what exactly is the connection between all\nof this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一体何の関係が…。"
+                                ""
                             ]
                         },
                         {
@@ -3507,21 +3507,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>むう、せっかちだなぁ。\\!"
+                                "ルナ\\SE[cry]\\n<???>Hmm, you're so impatient. For example, if we\nassume that there is a substance called a soul,\nthen as a material, it must have mass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "例えば、”魂”という物質があったとすれば、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "物質である以上必ず質量が存在する。"
+                                ""
                             ]
                         },
                         {
@@ -3538,21 +3538,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>仮に、魂が集まる世界。"
+                                "ルナ\\SE[default]\\n<???>Let's say, hypothetically, that there is a world\nwhere souls gather. In other words, a space\nsimilar to the afterlife exists. What do you think\nwould happen if a large mass were to occur there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "つまりは”あの世”に類する空間があったとして、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そこに大きな質量が発生するとどうなると思う？"
+                                ""
                             ]
                         },
                         {
@@ -3576,7 +3576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…？？？"
+                                "\\n<Detective>...???"
                             ]
                         },
                         {
@@ -3600,14 +3600,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…おじさん、"
+                                "ルナ\\SE[cry]\\n<???>...Uncle, you were definitely sleeping during\nclass, right...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "絶対授業中に居眠りしてたでしょ…？"
+                                ""
                             ]
                         },
                         {
@@ -3624,21 +3624,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>\"引力は物体の質量に比例する\"。"
+                                "ルナ\\SE[default]引力は物体の質量に比例する。つまり、”\\c[2]質量の大きな魂\\c[0]”は\\c[2]質量の小さな魂\\c[0]\\n<???>It has the power to pull."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "つまり、”\\c[2]質量の大きな魂\\c[0]”は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\"\\c[2]質量の小さな魂\\c[0]\"を引く力があるの。"
+                                ""
                             ]
                         },
                         {
@@ -3662,14 +3662,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…つまり…"
+                                "\\n<Detective>...So...in other words...the story is that your\nsoul has a large mass...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君の魂は質量が大きい…という話か…？"
+                                ""
                             ]
                         },
                         {
@@ -3700,28 +3700,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>”結果的にそうなった”"
+                                "ルナ\\SE[default]”結果的にそうなった”そして、それこそがこの現象の要因となってるんだよ。\\!\\c[2]ルナの死後\\c[0]\\n<???>There was someone who gave Luna's soul mass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そして、それこそがこの現象の要因となってるんだよ。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]ルナの死後\\c[0]に、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルナの魂に質量を与えちゃった人がいてね。"
+                                ""
                             ]
                         },
                         {
@@ -3745,14 +3745,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…！？\\!"
+                                "\\n<Detective>...!? ...What kind of joke is this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…な…何の冗談だ…？"
+                                ""
                             ]
                         },
                         {
@@ -3788,21 +3788,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…おじさん、こんな変な現象"
+                                "ルナ\\SE[cry]\\n<???>...Uncle, did you think this strange phenomenon\nwas caused by some kind of virus or bacteria...?\nWell, it's understandable if you find it hard to\nbelieve."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ウイルスや細菌で引き起こしたとでも思ってたの…？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、信じられないのも無理ないけどね。"
+                                ""
                             ]
                         },
                         {
@@ -3819,28 +3819,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…ルナがここにいるのは、"
+                                "ルナ\\SE[cry]…ルナがここにいるのは、\\c[2]”死者をこの世に蘇らせる”\\!\\c[0]\\n<???>It's because there was someone who, unbelievably,\ntook that ridiculous idea seriously and actually\nsucceeded in executing that plan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]”死者をこの世に蘇らせる”\\!\\c[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな馬鹿げた事を本気でやろうとして…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "奇しくもその計画を成功させた人がいるからなんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -3864,21 +3864,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…まさか…"
+                                "\\n<Detective>...Could it be...then the documents that fell\nearlier...and this underground facility..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあさっき落ちていた書類…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それにこの地下施設は…"
+                                ""
                             ]
                         },
                         {
@@ -3902,38 +3902,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>\"狂気が無ければ、成功はあり得ない\"\\!"
+                                "ルナ\\SE[cry]\\n<???>Without madness, success would be impossible.\nThat person remained obsessed with that plan until\nthe end and succeeded..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その人は最後までその計画に執着し、成功させた…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>でも、成功した事を知らなければ意味がない。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼の失敗は、ルナがもう顕現していると気付かなかった事。"
+                                ""
                             ]
                         },
                         {
@@ -3950,21 +3926,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>ルナが失った記憶の断片を集めて、"
+                                "ルナ\\SE[cry]\\n<???>But, it's meaningless if you don't know about the\nsuccess. His failure was not realizing that Luna\nhad already manifested."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それに気付いた時にはもう遅かった。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今やあの人はルナにとって巨大な重力そのもの。"
+                                ""
                             ]
                         },
                         {
@@ -3981,21 +3950,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>止めようと近付けば取り込まれて壊れる。\\!"
+                                "ルナ\\SE[cry]\\n<???>By gathering the fragments of Luna's lost\nmemories, it was already too late when they\nrealized it. Now, that person is like a massive\ngravity for Luna."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうなればもっと収集が付かなくなるから…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルナには止める事も近付くこともできないの。"
+                                ""
                             ]
                         },
                         {
@@ -4012,21 +3981,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…でも、ルナは……。\\!"
+                                "ルナ\\SE[cry]\\n<???>If you try to stop or get close, you'll be\nabsorbed and broken. If that happens, it will be\neven harder to gather the fragments... I can't\nstop Luna or get close to her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…とにかく、現象の直接的原因はこの先の装置。"
+                                "ルナ\\SE[cry]\\n<???>...But, Luna... Anyway, the direct cause of the\nphenomenon is this device ahead. It's called the\nManifestation Device."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\"顕霊装置\"が始まり。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4050,7 +4050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…顕霊…装置…"
+                                "\\n<Detective>...Manifestation...Device..."
                             ]
                         },
                         {
@@ -4074,59 +4074,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>死者をこの世に顕現する装置…。"
+                                "ルナ\\SE[cry]\\n<???>A device created as part of a plan to eventually\nbring the dead back to life and manifest them in\nthis world... It was made and used as a stepping\nstone for the resurrection of the deceased."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やがて成そうとした”死者蘇生”の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "足掛かりとする計画で作られて、使われた装置。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>当然、危険が伴う計画だった。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大きすぎる力は、完全に制御する手段がない限りは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "触れるべきではない。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな当たり前の事から、目を逸らしてしまったから…。"
+                                ""
                             ]
                         },
                         {
@@ -4143,66 +4105,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>”魂”の在処とされる"
+                                "ルナ\\SE[cry]\\n<???>Of course, it was a plan that came with danger.\nUnless there is a means to completely control such\nimmense power, one should not touch it. It's\nbecause we ended up averting our eyes from such\nobvious things..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "”\\c[2]普遍的無意識領域\\c[0]”、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "簡単に言えば、普段知覚してないし、知覚する事も出来ない"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]無意識の領域\\c[0]の事だね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>ここに物理的に干渉するという事は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "認識していなかった危険性に干渉する事でもある。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無意識下にある欲望、願望、強い思念。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "触れればたちまち取り込まれるような強力な力。"
+                                ""
                             ]
                         },
                         {
@@ -4219,21 +4143,97 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>ここまで来たらわかるでしょ？\\!"
+                                "ルナ\\SE[cry]”魂”の在処とされる”\\c[2]普遍的無意識領域\\c[0]”、簡単に言えば、普段知覚してないし、知覚する事も出来ない\\c[2]無意識の領域\\c[0]\\n<???>It's about that, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]狂人化現象\\c[0]とは、この\\c[2]無意識の海\\c[0]に"
+                                "ルナ\\SE[cry]\\n<???>Physically interfering here is also interfering\nwith the danger that we did not recognize. It's a\npowerful force that immediately engulfs you if you\ncome into contact with it, like unconscious\ndesires, wishes, and strong thoughts."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "物理的に干渉した事で起こる現象。"
+                                "ルナ\\SE[cry]ここまで来たらわかるでしょ？\\!\\c[2]狂人化現象\\c[0]とは、この\\c[2]無意識の海\\c[0]\\n<???>The phenomenon that occurs by physically\ninterfering."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4257,28 +4257,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…\\c[2]無意識を実体化させる装置\\c[0]…。\\!"
+                                "\\n<Detective>...A device that materializes the unconscious...\nAnd a phenomenon where one is absorbed by the\npower generated by it, and their sanity is\ndestroyed... That is the phenomenon of madness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そして\\c[2]それによって発生した力に取り込まれ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "理性が破壊される現象\\c[0]。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それが\\c[2]狂人化現象\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -4302,45 +4302,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>そう、ルナ達はただの\\c[2]”きっかけ”\\c[0]。\\!"
+                                "ルナ\\SE[cry]そう、ルナ達はただの\\c[2]”きっかけ”\\c[0]\\n<???>The materialized unconscious that melts away the\nreason of those who touch it, leading them into\nthe sea of the unconscious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "触れたものの理性を溶かして、無意識の海に誘う"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "実体化した無意識。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>でも、あくまでもルナ達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "顕霊装置によって顕現した現象のきっかけに過ぎない。"
+                                ""
                             ]
                         },
                         {
@@ -4357,28 +4333,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>つまり現象を止める方法は、"
+                                "ルナ\\SE[cry]\\n<???>However, Luna and the others are merely the\ncatalysts for the phenomenon manifested by the\nManifestation Device."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]装置を止める\\c[0]事。\\!"
+                                "ルナ\\SE[cry]つまり現象を止める方法は、\\c[2]装置を止める\\c[0]\\n<???>Now, the answer to another question. What is Luna\nand the others' true identity..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もう一つの質問の答え、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルナ達の正体は…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4402,14 +4402,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>まさか…君と同じ…"
+                                "\\n<Detective>No way... Are you... the soul of the deceased...\njust like you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "死者の魂……？"
+                                ""
                             ]
                         },
                         {
@@ -4433,59 +4433,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>そうとも限らない。\\!"
+                                "ルナ\\SE[cry]そうとも限らない。\\!確かにルナは\\c[2]死後に無意識の海に沈んだ魂を核\\c[0]\\n<???>Because they have been materialized, they possess\nclear personalities, wills, and physical forms."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "確かにルナは\\c[2]死後に無意識の海に沈んだ魂を核\\c[0]にしてるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鮮明な人格や意思、実体を持ってる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>でも、現実世界で\"自我\"によって切り離された記憶や感情は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "単一の\\c[2]”思念”\\c[0]として形成される事があるの。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "顕霊装置は、こういった魂や思念を実体化するもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それをあの人達は\\c[2]\"思念体\"\\c[0]と呼んでいた。"
+                                ""
                             ]
                         },
                         {
@@ -4502,28 +4464,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>顕現した”思念体”の根源が"
+                                "ルナ\\SE[cry]でも、現実世界で自我によって切り離された記憶や感情は単一の\\c[2]”思念”\\c[0]として形成される事があるの。\\!顕霊装置は、こういった魂や思念を実体化するもの、それをあの人達は\\c[2]思念体\\c[0]\\n<???>They called me [N_1]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]魂\\c[0]なのか単一の\\c[2]思念\\c[0]なのかはルナにも分からない。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "強い思念でないとあそこまでハッキリとは現れないから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "受け入れ難い\\c[2]何か\\c[0]があったのは間違いないけどね。"
+                                ""
                             ]
                         },
                         {
@@ -4540,28 +4502,66 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>この世界は、"
+                                "ルナ\\SE[cry]顕現した”思念体”の根源が\\c[2]魂\\c[0]なのか単一の\\c[2]思念\\c[0]なのかはルナにも分からない。\\!強い思念でないとあそこまでハッキリとは現れないから、受け入れ難い\\c[2]何か\\c[0]\\n<???>There's no doubt that it happened."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "歪んだ思念が生んだ願望によって形成されてるの。\\!"
+                                "ルナ\\SE[cry]この世界は、歪んだ思念が生んだ願望によって形成されてるの。\\!でも、思念の元になる\\c[2]人\\c[0]\\n<???>They definitely existed somewhere, whether in the\npast or the future is uncertain, but it is certain\nthat they existed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、思念の元になる\\c[2]人\\c[0]は必ずどこかに居るか居たか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "過去か未来かは定かじゃないけど、存在したのは確かだよ"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4585,21 +4585,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…なるほど…。\\!"
+                                "\\n<Detective>I see... So the cause of the phenomenon of madness\nis the Manifestation Device, and you all are the\nmanifested thought forms created by that device."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "狂人化現象の原因は\\c[2]”顕霊装置”\\c[0]、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君達はその装置によって顕現した\\c[2]”思念体”\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -4616,21 +4616,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>いずれにせよ、元凶は”顕霊装置”。"
+                                "\\n<Detective>In any case, the root cause is the Manifestation\nDevice. If we stop it, the phenomenon will\ncease... You all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それを止めれば、現象は止まり…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君達は…"
+                                ""
                             ]
                         },
                         {
@@ -4654,66 +4654,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>ルナ達は消える。\\!"
+                                "ルナ\\SE[cry]\\n<???>Luna and the others will disappear. To be precise,\nthey will return to the realm of universal\nunconsciousness. However, the fact that they are\nmanifesting in this way itself is unnatural, so\nthis is the correct form."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "正しくは、普遍的無意識領域にまた戻る。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも、こうやって顕現している事自体不自然なんだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それが正しい形だよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>消える事に恐怖はないし、悔いもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちはただの思念体だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "普通の人みたいに生に向かう感情はないんだよ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "断片が作り出した虚像に過ぎないからね。"
+                                ""
                             ]
                         },
                         {
@@ -4730,21 +4692,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>でも…一つだけ…。"
+                                "ルナ\\SE[cry]\\n<???>There is no fear or regret in disappearing.\nBecause we are just thought forms, we don't have\nthe emotions that normal people have towards life.\nWe are nothing more than illusions created by\nfragments."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おじさんにお願いしたい事はある。\\!"
+                                "ルナ\\SE[cry]\\n<???>But... there is one thing... I want to ask of you,\nsir... Will you listen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…聞いてくれる？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4768,7 +4768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…なんだ？"
+                                "\\n<Detective>...What is it?"
                             ]
                         },
                         {
@@ -4792,21 +4792,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…この先に、きっといる…。"
+                                "ルナ\\SE[cry]\\n<???>...There is definitely someone ahead... I want you\nto stop that person. Like I said earlier, Luna\ncannot do it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あの人を止めて欲しいの。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきも言った通り、それはルナには出来ない事。"
+                                ""
                             ]
                         },
                         {
@@ -4830,7 +4830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…しかし、どうやって…"
+                                "\\n<Detective>...However, how..."
                             ]
                         },
                         {
@@ -4854,52 +4854,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>この空間はルナの意識の中の虚空。\\!"
+                                "ルナ\\SE[cry]\\n<???>This space is the void within Luna's\nconsciousness. From now on, we will return to the\nreal world, to the true underground facility,\nwhere we should be able to meet that person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今から現実世界の、本当の地下施設に戻すから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そこであの人に会えるはず。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>気を付けて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの人はルナや今までの子達のような思念体でも無ければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ただ狂人化した人でもない。"
+                                ""
                             ]
                         },
                         {
@@ -4916,52 +4885,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>最初の狂人であり、"
+                                "ルナ\\SE[cry]\\n<???>Be careful. That person is neither a thought form\nlike Luna and the others, nor just a person who\nhas gone mad."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "二つの世界を跨る強力な思念…　ううん、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "怨念の塊。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ\\SE[cry]\\n<???>ここまで辿り着いた貴方にしか頼めない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "止められない存在…。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからお願い……。"
+                                ""
                             ]
                         },
                         {
@@ -4978,21 +4916,83 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナ\\SE[cry]\\n<???>…力を使いすぎたみたい…。\\!"
+                                "ルナ\\SE[cry]\\n<???>The first madman, a powerful thought that spans\ntwo worlds... no, a mass of grudges."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ね、　最後のお願い…。"
+                                "ルナ\\SE[cry]\\n<???>Only you who have come this far can stop it... an\nunstoppable existence... so please..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしくね。"
+                                "ルナ\\SE[cry]\\n<???>...It seems like I used too much power... um, one\nlast request... please take care of it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5223,7 +5223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>………"
+                                "\\n<Detective>........."
                             ]
                         },
                         {
@@ -5309,7 +5309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうしてまた、その街からひとりの狂人が生まれた。"
+                                "And so, another madman was born from that town."
                             ]
                         },
                         {
@@ -5326,14 +5326,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "朔晦市はその後狂人の街として衰退の一途を辿り、"
+                                "The city of Sakuhai continued to decline as a city\nof madmen, and eventually the government\nprohibited entry into it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やがて政府によって立ち入りを禁じられた。"
+                                ""
                             ]
                         },
                         {
@@ -5350,14 +5350,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "狂人化現象が発生した地の中心には、"
+                                "At the center of the place where the phenomenon of\nmadness occurred, there is still a deep darkness\nspreading..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今もまだ深い闇が広がっている…。"
+                                ""
                             ]
                         },
                         {

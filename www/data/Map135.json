@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "渡り廊下",
+    "displayName": "Crosswalk",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2662,7 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -2679,14 +2679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -2781,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -2798,14 +2798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -2900,7 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -2917,14 +2917,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -3019,7 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -3036,14 +3036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -3147,14 +3147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みのゴムや"
+                                "Used condoms and crumpled tissues are being thrown\naway..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "丸まったティッシュが捨てられている…"
+                                ""
                             ]
                         },
                         {
@@ -3249,7 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -3266,14 +3266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {

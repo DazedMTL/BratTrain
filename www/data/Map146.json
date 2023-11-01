@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "物置部屋",
+    "displayName": "Storage Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 8,
@@ -752,14 +752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…なんだ…？"
+                                "\\n<Detective>...What...? Where am I...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは…？"
+                                ""
                             ]
                         },
                         {
@@ -816,7 +816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>キャッ…！"
+                                "\\n<???>Kyaa...!"
                             ]
                         },
                         {
@@ -842,7 +842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！？"
+                                "\\n<Detective>What?!"
                             ]
                         },
                         {
@@ -859,14 +859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で、"
+                                "I bumped into something soft and warm in the\ndarkness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か柔らかくて暖かいものにぶつかった。"
+                                ""
                             ]
                         },
                         {
@@ -883,14 +883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>すまない！"
+                                "\\n<Detective>I'm sorry! Are you okay? I can't see well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫か？　よく見えなくて…。"
+                                ""
                             ]
                         },
                         {
@@ -907,38 +907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…パパ？"
+                                "\\n<???>...Daddy?...Are you daddy...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…パパなの…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>（…この声…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子…？）"
+                                ""
                             ]
                         },
                         {
@@ -955,7 +931,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？"
+                                "\\n<Detective>(...This voice...a girl...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>...What?!"
                             ]
                         },
                         {
@@ -1048,7 +1048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>痛ッ…！"
+                                "\\n<Detective>Ouch...!"
                             ]
                         },
                         {
@@ -1065,14 +1065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の身体に触れている事に気付きとっさに離れるが、"
+                                "I noticed that I was touching the girl's body and\nquickly pulled away, but it seems like I\naccidentally hit my head on something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこかに頭をぶつけてしまったようだ。"
+                                ""
                             ]
                         },
                         {
@@ -1089,21 +1089,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>パパ！？\\!"
+                                "\\n<???>Daddy?! I heard a loud noise! Are you okay? Did\nyou get hurt?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "凄い音したよ？大丈夫？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "怪我してない？"
+                                ""
                             ]
                         },
                         {
@@ -1120,14 +1120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いたた…"
+                                "\\n<Detective>Ouch... I'm sorry, it seems like I hit my head."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すまない、頭をぶつけたようだ。"
+                                ""
                             ]
                         },
                         {
@@ -1144,14 +1144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>大変…！"
+                                "\\n<???>Oh no...! Come over here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "来て、こっち。"
+                                ""
                             ]
                         },
                         {

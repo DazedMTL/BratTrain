@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "書斎",
+    "displayName": "Study",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3798,7 +3798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーヒーを手に入れた！"
+                                "I got some coffee!"
                             ]
                         },
                         {
@@ -4144,7 +4144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {
@@ -4587,7 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食べかけのアメを手に入れた！"
+                                "I got a half-eaten candy!"
                             ]
                         },
                         {
@@ -4723,7 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた本がしまわれている。"
+                                "The torn book is being stored."
                             ]
                         },
                         {
@@ -4859,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた本がしまわれている。"
+                                "The torn book is being stored."
                             ]
                         },
                         {
@@ -4995,7 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた本がしまわれている。"
+                                "The torn book is being stored."
                             ]
                         },
                         {
@@ -5131,7 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた本がしまわれている。"
+                                "The torn book is being stored."
                             ]
                         },
                         {
@@ -5267,7 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロになった漫画がしまわれている。"
+                                "The manga that became tattered is being stored."
                             ]
                         },
                         {
@@ -5403,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロになった漫画がしまわれている。"
+                                "The manga that became tattered is being stored."
                             ]
                         },
                         {
@@ -5539,7 +5539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた通知表が挟まっている。"
+                                "A torn report card is stuck in between."
                             ]
                         },
                         {
@@ -5675,14 +5675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れたプリントが挟まっている。"
+                                "There's a torn print stuck in here. It seems to be\na notice for a parent-teacher meeting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”懇談会のお知らせ”と書いているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -5818,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みのコンドームが放り込まれている…。"
+                                "There's a used condom thrown in here..."
                             ]
                         },
                         {
@@ -5954,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -6031,7 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期日の過ぎた請求書が挟みこまれている…。"
+                                "There's an overdue invoice stuck in here..."
                             ]
                         },
                         {
@@ -6108,7 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期日の過ぎた請求書が挟みこまれている…。"
+                                "There's an overdue invoice stuck in here..."
                             ]
                         },
                         {

@@ -1483,7 +1483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]＞....."
+                                "\\C[24]>....."
                             ]
                         },
                         {
@@ -1507,7 +1507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]＞あなたの名前を選択してください。"
+                                "\\C[24]>Please select your name."
                             ]
                         },
                         {
@@ -1549,7 +1549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]＞....."
+                                ">....."
                             ]
                         },
                         {
@@ -1566,7 +1566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]＞セーブしますか？"
+                                "\\C[24]>Do you want to save?"
                             ]
                         },
                         {
@@ -1651,14 +1651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>はぁ…これで報告書は終わり…。"
+                                "\\N<Detective>*sigh* With this, the report is finished... Now I\njust have to convey the matters to the Board of\nEducation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あとは教育委員会の伝達事項を…"
+                                ""
                             ]
                         },
                         {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>ん…？"
+                                "\\N<Detective>Huh...?"
                             ]
                         },
                         {
@@ -1730,14 +1730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\N<≪美咲≫>娘の誕生日にもお仕事大変だね。"
+                                "\\N<Misaki>\\C[24]It must be tough to have work on your\ndaughter's birthday. I hate being a dad."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パパなんて大嫌い。"
+                                ""
                             ]
                         },
                         {
@@ -1754,14 +1754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>誕生日…！"
+                                "\\N<Detective>Birthday...!...I forgot.......sigh...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…しまった……。はぁ…。"
+                                ""
                             ]
                         },
                         {
@@ -1823,14 +1823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\N<≪妻≫>美咲と外食してるから"
+                                "\\N<≪Wife≫>\\C[24]Since I'm out eating with Misaki, please\nhave the curry in the cupboard for dinner."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "晩御飯は戸棚のカレーを食べてください。"
+                                ""
                             ]
                         },
                         {
@@ -1859,14 +1859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\N<≪妻≫>先に寝るから帰る時は"
+                                "\\N<≪Wife≫>\\C[24]I'm going to bed first, so please don't make\nany noise when you come back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音を立てないでくださいね。"
+                                ""
                             ]
                         },
                         {
@@ -1892,7 +1892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…今日もまたカレーか…。"
+                                "\\N<Detective>...Curry again today..."
                             ]
                         },
                         {
@@ -1921,38 +1921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…ですので、通学路の舗装は"
+                                "\\N<Detective>...So, the paving of the school route is the\nresponsibility of the administration, not the\nschool..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "学校ではなく行政の…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<？？？>通学路の管理監督責任は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校側にあるのが常識でしょう！"
+                                ""
                             ]
                         },
                         {
@@ -1969,38 +1945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>おかげでうちの子がケガしたのよ！"
+                                "\\N<???>It's common sense that the responsibility for\nmanaging and supervising the school route lies\nwith the school, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どう責任を取るつもりなのよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<？？？>うわ、教頭またモンペの対応？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドンマイ過ぎる～。"
+                                ""
                             ]
                         },
                         {
@@ -2017,14 +1969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>最近また増えたよな～。"
+                                "\\N<???>Thanks to you, my child got injured! How do you\nplan to take responsibility for this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カワイソ～。"
+                                ""
                             ]
                         },
                         {
@@ -2041,7 +1993,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…\\|"
+                                "\\N<???>Ugh, the vice principal dealing with another\nidiotic situation? That's just too much."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<???>It seems like there have been more of them\nlately~. Poor things~."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "..."
                             ]
                         },
                         {
@@ -2058,14 +2058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…先生、今朝来ていた保護者の対応ですが、"
+                                "\\N<Detective>...Regarding the response of the guardian who came\nthis morning, as a general rule, the handling of\nthe guardian of the assigned student..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "原則として担当生徒の保護者対応は…"
+                                ""
                             ]
                         },
                         {
@@ -2082,14 +2082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>いやー、親御さんが上の者出せって言うから。"
+                                "\\N<???>Oh well, the parents are demanding to speak to\nsomeone higher up. Ah, it's already quitting time\nso I'll be leaving now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、もう定時なのでお先ですー。"
+                                ""
                             ]
                         },
                         {
@@ -2106,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>いやしかし…"
+                                "\\N<Detective>Well, however..."
                             ]
                         },
                         {
@@ -2123,7 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>なんすか？パワハラっすか？"
+                                "\\N<???>What's this? Is it harassment?"
                             ]
                         },
                         {
@@ -2140,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\|"
+                                "......"
                             ]
                         },
                         {
@@ -2157,21 +2157,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>教頭先生。"
+                                "\\N<???>Vice Principal... We've been receiving complaints\nfrom the parents regarding your handling."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…先生の対応について保護者の方から"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クレームが相次いでいるんですが"
+                                ""
                             ]
                         },
                         {
@@ -2188,7 +2188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>教員の指導は教頭先生の業務なのですから…"
+                                "\\N<???>The guidance of the teachers is the responsibility\nof the vice principal..."
                             ]
                         },
                         {
@@ -2205,7 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>すみません…"
+                                "\\N<Detective>I'm sorry..."
                             ]
                         },
                         {
@@ -2222,7 +2222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………\\|"
+                                "........."
                             ]
                         },
                         {
@@ -2239,31 +2239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>はぁ…僕に一体どうしろと…"
+                                "\\N<Detective>Sigh... What on earth am I supposed to do... Hm?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ん？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<？？？>教頭って何か頼りないよな～"
+                                ""
                             ]
                         },
                         {
@@ -2280,14 +2263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>あんなんが上司だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちの士気が落ちるよな。"
+                                "\\N<???>The vice principal seems unreliable, don't you\nthink~"
                             ]
                         },
                         {
@@ -2304,14 +2280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>仕事も遅いしな～。"
+                                "\\N<???>If someone like that is our boss, it really brings\ndown our morale."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "判断力がないんだよ判断力がｗ"
+                                ""
                             ]
                         },
                         {
@@ -2328,14 +2304,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>判断が遅い！"
+                                "\\N<???>He's slow at work too~. He lacks judgment, you\nknow, judgment skills lol."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ってなｗ"
+                                "\\N<???>He's slow at judgment! Lol"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2352,7 +2352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>……。"
+                                "\\N<Detective>......."
                             ]
                         },
                         {
@@ -2369,7 +2369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………\\|"
+                                "..............."
                             ]
                         },
                         {
@@ -2391,45 +2391,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>（言う事を聞かない生徒に理不尽な保護者。"
+                                "\\N<Detective>(An unreasonable guardian who doesn't listen to\nwhat I say, teachers who use harassment as an\nexcuse to slack off, and a principal who shifts\nthe blame onto others.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ハラスメントを盾に仕事をサボる教員に、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "責任をなすりつける校長。）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Detective>（挙句の果てに妻や娘からも嫌われて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘とはここ数年、ろくに話もしていない。）"
+                                ""
                             ]
                         },
                         {
@@ -2446,14 +2422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>「…一体どうして、"
+                                "\\N<Detective>(To top it all off, I'm even disliked by my wife\nand daughter... I haven't had a proper\nconversation with my daughter in years.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうなったんだろうなぁ…。」"
+                                ""
                             ]
                         },
                         {
@@ -2470,14 +2446,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>はぁ…"
+                                "\\N<Detective>...I wonder how it all came to this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえずこれを終わらせて…"
+                                "\\N<Detective>Sigh... Let's just finish this for now..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2535,21 +2535,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>さて…これで終わりだ…。"
+                                "\\N<Detective>Well... this is the end... Oh no! I missed the\nlast train!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…まずい！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "終電が！！"
+                                ""
                             ]
                         },
                         {

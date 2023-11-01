@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "屋根裏　６",
+    "displayName": "Attic 6",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2771,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "500\\G 手に入れた！"
+                                "500G obtained!"
                             ]
                         },
                         {

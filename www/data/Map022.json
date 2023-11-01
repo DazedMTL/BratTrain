@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>あああ"
+                                "ルナ\\SE[default]\\n<???>Ahhh"
                             ]
                         },
                         {
@@ -1436,7 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>ああああ"
+                                "アリア\\SE[default]\\n<Aria>Ahhh"
                             ]
                         },
                         {
@@ -1453,7 +1453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SA[121]\\SE[default]\\n<???>あああ"
+                                "ルナ\\SA[121]\\SE[default]\\n<???>Ahhh"
                             ]
                         },
                         {
@@ -1470,7 +1470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SA[122]\\SE[default]\\n<Aria>ああああ"
+                                "アリア\\SA[122]\\SE[default]\\n<Aria>Ahhh"
                             ]
                         },
                         {
@@ -1494,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>\\E[2]\\{\\{\\{あああ"
+                                "ココ\\SE[default]\\E[2]\\n<sine:ω>ω: Ahhh"
                             ]
                         },
                         {
@@ -1518,7 +1518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコ\\SE[default]\\n<???>あああ"
+                                "ミヤコ\\SE[default]\\n<???>Ahhh"
                             ]
                         },
                         {
@@ -1535,7 +1535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコ\\SP[shadow]\\n<???>あああ"
+                                "\\n<???>Ahhh"
                             ]
                         },
                         {

@@ -1950,14 +1950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…ようやく会えたな。"
+                                "\\n<Detective>...Finally, we meet. Now, shall I ask you a few\nthings?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さて、色々と聞かせてもらおうか。"
+                                ""
                             ]
                         },
                         {
@@ -2032,14 +2032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>クスクスｗ\\!"
+                                "アリア\\SE[joy]\\n<Aria>Hehe, it seems like you were having quite a bit of\nfun, old man ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "随分楽しんでたみたいだね、おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -2056,14 +2056,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>ちゃんと忘れ物も持ってきてるね♥"
+                                "アリア\\SE[joy]\\n<Aria>You've brought everything you need, haven't you?\nI'm relieved that this time we have a capable\nperson ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今回のは使える子で安心したよ♥"
+                                ""
                             ]
                         },
                         {
@@ -2080,7 +2080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ほかほかパンツ\\C[0]を失った。"
+                                "I lost my warm panties."
                             ]
                         },
                         {
@@ -2114,14 +2114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! (When did you...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（いつの間に…）"
+                                ""
                             ]
                         },
                         {
@@ -2138,14 +2138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>…ニヒヒ…\\!"
+                                "アリア\\SE[joy]\\n<Aria>...Nihhi... Did you happen to sniff or lick them,\nby any chance?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかして嗅いだり舐めたりした？\\|"
+                                ""
                             ]
                         },
                         {
@@ -2162,38 +2162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…なっ！？"
+                                "\\n<Detective>...Wha?! I...I'm not joking around!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "か…からかうんじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>…キャハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな必死に否定したらマジっぽいよ？♥"
+                                ""
                             ]
                         },
                         {
@@ -2210,21 +2186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>でも、まぁ"
+                                "アリア\\SE[joy]\\n<Aria>...Kyahaha! If you deny it so desperately, it\nseems really serious, you know? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんとお遣いも出来た事だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束通り遊んであげる♥　おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -2241,21 +2210,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>何がしたい？"
+                                "アリア\\SE[joy]\\n<Aria>But since you were able to do your errands\nproperly, I'll play with you as promised, old man\n♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手コキ？フェラ？本番？それともアナル？"
+                                "アリア\\SE[joy]\\n<Aria>What do you want? Handjob? Blowjob? Sex? Or maybe\nanal? I'll do anything you like ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でも好きな事してあげるよ♥"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2279,21 +2279,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…それより、\"狂人化現象\"について。"
+                                "\\n<Detective>...Anyway, let's talk about the phenomenon of\nmadness. And then, tell me what you know about\nthat girl who was here in the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それから、最初に居たあの少女について"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知ってる事を聞かせてもらおうか。"
+                                ""
                             ]
                         },
                         {
@@ -2317,14 +2317,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>ツれないな～、そんなんじゃモテないよ？"
+                                "アリア\\SE[joy]\\n<Aria>You're so cold~ You won't be popular like that,\nyou know? Besides, I can't tell you everything\nwith just one piece of information ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに、その情報はこんなのひとつじゃ教えられない♥"
+                                ""
                             ]
                         },
                         {
@@ -2348,14 +2348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！"
+                                "\\n<Detective>If you come to my place, I'll tell you...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君の元まで来たら教えると…！"
+                                ""
                             ]
                         },
                         {
@@ -2379,14 +2379,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>何必死になってんの？ｗ"
+                                "アリア\\SE[joy]\\n<Aria>Why are you so desperate? (laughs) Did you really\nthink I would tell you something so important for\nfree?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかそんな大事なコト、タダで教えてあげると思ったの？"
+                                ""
                             ]
                         },
                         {
@@ -2403,21 +2403,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>最初に言ったよね？"
+                                "アリア\\SE[joy]\\n<Aria>You said it first, right? The rule here for Aria\nand the others is Whoever makes the other cum\nfirst wins ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここじゃアリア達がルール。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしてここのルールは、「イかせたら勝ち」♥"
+                                ""
                             ]
                         },
                         {
@@ -2441,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…つまり君も…という事か"
+                                "\\n<Detective>...So that means you too..."
                             ]
                         },
                         {
@@ -2465,14 +2465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>当然♥"
+                                "アリア\\SE[joy]\\n<Aria>Of course ♥ Let me have a little fun, okay ♥ Old\nman ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少しは楽しませてね♥おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -2583,7 +2583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Aria>（ヤバ…♥ダメ♥イクっ！♥♥♥）"
+                                "\\n<Aria>(Oh no...♥ No ♥ I'm cumming! ♥♥♥)"
                             ]
                         },
                         {
@@ -2642,38 +2642,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>はぁ…♥はぁ…♥"
+                                "アリア\\SE[joy]\\n<Aria>Haa...♥ Haa...♥ I guess I underestimated you a\nlittle too much ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "流石にちょっとナメ過ぎたね♥"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>ヘンタイおじさんが開き直ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここまでテク出すと思ってなかったよ♥"
+                                ""
                             ]
                         },
                         {
@@ -2690,14 +2666,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>まぁ、いいよ、"
+                                "アリア\\SE[joy]\\n<Aria>I didn't expect the perverted old man to be so\nshameless and show off his skills like this ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "約束は約束だしね♥"
+                                "アリア\\SE[default]\\n<Aria>Well, alright. A promise is a promise, after all ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2721,7 +2721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ふー…ふー…っ！"
+                                "\\n<Detective>Hoo...hoo...!"
                             ]
                         },
                         {
@@ -2745,21 +2745,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>（…！"
+                                "アリア\\SE[default]\\n<Aria>(...! This old man is pretty close to his limit\ntoo ♥ Even now, I could still...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このおじさんも結構限界近いじゃん♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まだ今からでも…）"
+                                ""
                             ]
                         },
                         {
@@ -2776,21 +2776,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>クスクス♥"
+                                "アリア\\SE[default]\\n<Aria>Hehe ♥ But before that... it seems like you're\nstill feeling a little dizzy, so I'll help you\nsober up ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でもその前に…まだコーフンしてるみたいだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "諫めてあげる♥"
+                                ""
                             ]
                         },
                         {
@@ -2814,14 +2814,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! Hey, what about our promise...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おい、約束が…！"
+                                ""
                             ]
                         },
                         {
@@ -2845,14 +2845,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>いーからいーから♥"
+                                "アリア\\SE[default]\\n<Aria>It's fine, it's fine ♥ Look, don't struggle ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほら、暴れないで♥"
+                                ""
                             ]
                         },
                         {
@@ -2923,38 +2923,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お疲れ様でした！"
+                                "Thank you for playing! This is the end of the demo\nversion!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "体験版はここまでとなります！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "製品版は夏発売予定で鋭意制作進行中でございますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "続報をお待ちください！"
+                                ""
                             ]
                         },
                         {
@@ -2971,21 +2947,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "引き続き、メスガキTRAINの応援"
+                                "The full version is scheduled to be released in\nsummer and is currently being actively developed,\nso please look forward to further updates!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よろしくおねがいいたします！"
+                                "I'll continue to support Mesugaki TRAIN! -Fukami\nWorkshop-"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　＿深海工房＿"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3076,14 +3076,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>あ～あ、負けちゃった。"
+                                "アリア\\SE[default]\\n<Aria>Ahh, I lost. I was confident that I could seduce a\nman though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "男を堕とすのは自信あったんだけどな～"
+                                ""
                             ]
                         },
                         {
@@ -3107,7 +3107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう言って少し悲しげに笑うアリア。"
+                                "Aria says that and smiles a little sadly."
                             ]
                         },
                         {
@@ -3124,21 +3124,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どこか影のあるその姿は、"
+                                "The figure with a shadow somewhere was different\nfrom the condescending attitude until now, and it\nwas that of a girl appropriate for her age."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これまでの見下すような態度とは違い、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "年相応の少女のそれだった。"
+                                ""
                             ]
                         },
                         {
@@ -3155,14 +3155,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…何があったのかは知らないが、"
+                                "\\n<Detective>...I don't know what happened, but please stop\ndoing this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もうこういう事はやめなさい。"
+                                ""
                             ]
                         },
                         {
@@ -3186,14 +3186,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[cry]\\n<Aria>…これしか知らないんだよ。\\!"
+                                "アリア\\SE[cry]\\n<Aria>...This is the only thing I know. A way for\nsomeone like me to be recognized..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私なんかが、誰かに認めて貰える方法なんて…"
+                                ""
                             ]
                         },
                         {
@@ -3210,14 +3210,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>…なんて、"
+                                "アリア\\SE[default]\\n<Aria>...Gosh, saying things like that in such a gloomy\nway is kinda creepy, huh? LOL"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ちょっと病みな感じでキモイよねｗ"
+                                ""
                             ]
                         },
                         {
@@ -3241,21 +3241,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…強がりでも、"
+                                "\\n<Detective>...Not everyone has the strength to pretend and\nlaugh like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そうやって笑っていられる強さは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "誰もが持っているものではない。"
+                                ""
                             ]
                         },
                         {
@@ -3272,14 +3272,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>自分の武器を惜しみなく使える"
+                                "\\n<Detective>I find a strong woman who can use her weapons\nwithout hesitation to be attractive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "強かな女性は、私は魅力的だと思うよ。"
+                                ""
                             ]
                         },
                         {
@@ -3303,7 +3303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[surprise]\\n<Aria>…"
+                                "アリア\\SE[surprise]\\n<Aria>..."
                             ]
                         },
                         {
@@ -3320,21 +3320,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[joy]\\n<Aria>クスッ♥"
+                                "アリア\\SE[joy]\\n<Aria>Hehe ♥ What? Have you fallen for me? Because\nyou're a lolicon, right, old man ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何？惚れちゃった？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ロリコンだもんね、おじさん♥"
+                                ""
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…茶化すんじゃない。"
+                                "\\n<Detective>...Don't make fun of me."
                             ]
                         },
                         {
@@ -3382,14 +3382,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>フフ♥…ありがと。\\!"
+                                "アリア\\SE[default]\\n<Aria>Hehe ♥...Thank you. You really are a better guy\nthan I thought ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "やっぱ思ったよりイイ男だね♥"
+                                ""
                             ]
                         },
                         {
@@ -3406,14 +3406,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>じゃ、約束通り。"
+                                "アリア\\SE[default]\\n<Aria>Well then, as promised. Since it's Aria's loss,\nyou can proceed from here if you want."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アリアの負けだから、この先に進んでも良いよ。"
+                                ""
                             ]
                         },
                         {
@@ -3437,14 +3437,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…待て、その前にこの電車の事、"
+                                "\\n<Detective>...Wait, before that, tell me more about this\ntrain and that girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それからあの少女の事を詳しく…"
+                                ""
                             ]
                         },
                         {
@@ -3468,14 +3468,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[cry]\\n<Aria>ごめんね、"
+                                "アリア\\SE[cry]ごめんね、アリアは\\C[2]ルナちゃん\\C[0]に引き寄せられたただの\\C[2]粒子\\C[0]\\n<Aria>."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アリアは\\C[2]ルナちゃん\\C[0]に引き寄せられたただの\\C[2]粒子\\C[0]。"
+                                ""
                             ]
                         },
                         {
@@ -3492,14 +3492,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>知ってる事があるとすれば…"
+                                "アリア\\SE[default]知ってる事があるとすれば…\\C[2]狂人化\\C[0]\\n<Aria>It's just fragments about her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]狂人化\\C[0]についての断片だけなんだ。"
+                                ""
                             ]
                         },
                         {
@@ -3523,21 +3523,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! That's enough. What on earth is this\n\\C[2]madness\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "それだけでも良い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一体何なんだ、\\C[2]狂人化\\C[0]とは…"
+                                ""
                             ]
                         },
                         {
@@ -3566,38 +3566,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>この電車の中、"
+                                "アリア\\SE[default]\\n<Aria>I think you already know this, but this train is\nnot just an ordinary train."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "分かってると思うけどただの電車じゃないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "アリア\\SE[default]\\n<Aria>ここではその人の本質が露わになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "隠している本心、本性、欲望。"
+                                ""
                             ]
                         },
                         {
@@ -3614,38 +3590,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>普段はそれらに蓋をしてる枷が、"
+                                "アリア\\SE[default]\\n<Aria>Here, the true nature of that person is revealed.\nTheir hidden true feelings, true nature, and\ndesires."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ここでは簡単に壊れちゃうの。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "アリア\\SE[default]\\n<Aria>\\C[2]狂人化\\C[0]っていうのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この世界で完全にタガが外れた者の成れの果て。"
+                                ""
                             ]
                         },
                         {
@@ -3662,21 +3614,69 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>アリアだけじゃない、"
+                                "アリア\\SE[default]\\n<Aria>Normally, the restraints that keep those things\nsuppressed easily break here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "この先に待ち構えてる子達はみんな、"
+                                "アリア\\SE[default]\\C[2]狂人化\\C[0]\\n<Aria>It means the end result of someone in this world\ncompletely losing their restraints."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おじさんの理性を壊そうとしてくるはずだよ。"
+                                "アリア\\SE[default]\\n<Aria>It's not just me, but all the girls waiting ahead\nare going to try to break your self-control,\nmister."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>どうしてそんな事を…"
+                                "\\n<Detective>Why would something like that..."
                             ]
                         },
                         {
@@ -3724,52 +3724,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>う～ん、正直よくわからない…。\\!"
+                                "アリア\\SE[default]\\n<Aria>Hmm, honestly, I don't really understand... When I\nthink about it calmly, I don't even know why Aria\nis here in the first place, or where I belong, or\nif I even want to go back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "冷静に考えたら、そもそもアリアがなんでここにいるのか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "帰る場所も、帰りたいかどうかもね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "アリア\\SE[default]\\n<Aria>ともかく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "おじさんの\\C[2]\"狂人化\"\\C[0]は確かに強力だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[2]何度もあの力を使ったらいずれは戻れなくなる\\C[0]からね。"
+                                ""
                             ]
                         },
                         {
@@ -3786,14 +3755,45 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>それがルナちゃんの目的だろうし"
+                                "アリア\\SE[default]ともかく、おじさんの\\C[2]狂人化\\C[0]は確かに強力だけど\\C[2]何度もあの力を使ったらいずれは戻れなくなる\\C[0]\\n<Aria>From me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "特に気をつけてね。"
+                                "アリア\\SE[default]\\n<Aria>That's Luna-chan's objective, so be especially\ncareful."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3817,14 +3817,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Detective>（狂人化…全容はまだ見えないが"
+                                "\\n<Detective>(Madness... I still can't see the whole picture,\nbut I definitely have to pursue that girl.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "やはり\\C[2]あの少女\\C[0]を追わないといけないな）"
+                                ""
                             ]
                         },
                         {
@@ -3848,14 +3848,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>聞きたい事はそれだけ？"
+                                "アリア\\SE[default]\\n<Aria>Is that the only thing you want to know? Should I\nexplain it again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もう一回説明する？"
+                                ""
                             ]
                         },
                         {
@@ -3863,8 +3863,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "もう一度聞く",
-                                    "もういい"
+                                    "Ask again",
+                                    "Enough"
                                 ],
                                 1,
                                 0,
@@ -3939,14 +3939,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>いや、もういい。"
+                                "\\n<Detective>No, it's fine. Anyway, it seems like I have no\nchoice but to pursue that girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ともかく、あの少女を追う他ないようだな。"
+                                ""
                             ]
                         },
                         {
@@ -3970,14 +3970,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>…ルナちゃんもそうだけど、"
+                                "アリア\\SE[default]…ルナちゃんもそうだけど、ルナちゃん以外にもまだ\\C[2]5人\\C[0]\\n<Aria>Because I'm here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ルナちゃん以外にもまだ\\C[2]5人\\C[0]いるからね。"
+                                ""
                             ]
                         },
                         {
@@ -3994,14 +3994,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アリア\\SE[default]\\n<Aria>とりあえず次の部屋にいる子は、"
+                                "アリア\\SE[default]とりあえず次の部屋にいる子は、\\C[2]見た目ほどバカじゃないから\\C[0]\\n<Aria>Be careful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]見た目ほどバカじゃないから\\C[0]気を付けて。"
+                                ""
                             ]
                         },
                         {
@@ -4042,7 +4042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...!"
                             ]
                         },
                         {
@@ -4059,14 +4059,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<アリア>じゃあね、おじさん♥\\!"
+                                "\\n<Aria>Well then, see you later, mister ♥ Let's meet\nagain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "また会おうね。"
+                                ""
                             ]
                         },
                         {

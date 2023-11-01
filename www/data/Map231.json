@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[surprise]\\n<???>あの人…"
+                                "ルナ\\SE[surprise]\\n<???>That person..."
                             ]
                         },
                         {
@@ -1429,14 +1429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>ふ～ん、そっか♥\\!"
+                                "ルナ\\SE[default]\\n<???>Hmm, I see. Hehe... Then let's go with that old\nman today ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クスクス…じゃあ今日はあのおじさんにしよ♥"
+                                ""
                             ]
                         },
                         {

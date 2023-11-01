@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "応接室",
+    "displayName": "Reception Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -2267,7 +2267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期日の過ぎた請求書が挟みこまれている…。"
+                                "There's an overdue invoice stuck in here..."
                             ]
                         },
                         {
@@ -2344,7 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {
@@ -2581,7 +2581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかの部屋の鍵３を手に入れた！"
+                                "I obtained Key 3 for a certain room!"
                             ]
                         },
                         {
@@ -2717,7 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜか男物のパンツが出てきた。"
+                                "For some reason, men's underwear appeared."
                             ]
                         },
                         {
@@ -2853,7 +2853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "沢山の書類がしまわれている。"
+                                "There are many documents stored."
                             ]
                         },
                         {
@@ -2989,7 +2989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期日の過ぎた請求書が挟みこまれている…。"
+                                "There's an overdue invoice stuck in here..."
                             ]
                         },
                         {

@@ -2920,14 +2920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>……\\!"
+                                "\\n<???>...............!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "………！\\!"
+                                ""
                             ]
                         },
                         {
@@ -2944,14 +2944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<駅員>………！\\!"
+                                "\\n<Station Attendant>.........! Um... are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もし…～し！　大丈夫ですか？"
+                                ""
                             ]
                         },
                         {
@@ -2973,14 +2973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>Detectiveさん！　Detectiveさん！\\!"
+                                "\\n<White-haired Detective>Detective-san! Detective-san! Are you okay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫ですか！？"
+                                ""
                             ]
                         },
                         {
@@ -3143,14 +3143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ここは…\\!"
+                                "\\n<Detective>This place...! The device...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……！\\!　装置は！"
+                                ""
                             ]
                         },
                         {
@@ -3167,14 +3167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>装置…？\\!"
+                                "\\n<White-haired Detective>The device...? Um, are you really okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの、本当に大丈夫ですか？"
+                                ""
                             ]
                         },
                         {
@@ -3242,14 +3242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>え…あぁ……。"
+                                "\\n<Detective>Uh... Ah... I'm fine... Where am I...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です……ここは…？"
+                                ""
                             ]
                         },
                         {
@@ -3266,28 +3266,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>朔晦駅ですよ。\\!"
+                                "\\n<White-haired Detective>We're at Sakuhai Station. I heard from the station\nattendant that you collapsed inside the station,\nso I rushed over... What happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駅員さんから構内で倒れていると聞いて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駆けつけたんですが…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何があったんですか？"
+                                ""
                             ]
                         },
                         {
@@ -3304,45 +3304,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…調査をしていて…\\!"
+                                "\\n<Detective>...I was investigating...on the train... No,\nunderground..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電車に… いや、地下に…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<白髪の刑事>地下…あぁ、そうだ！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらこの駅、地下に巨大な施設があると証言を得て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたにも伝えようと思っていたんです。"
+                                ""
                             ]
                         },
                         {
@@ -3359,21 +3328,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>昨晩までその施設の一部装置から、"
+                                "\\n<White-haired Detective>Underground... Ah, that's right! I had received\ntestimony that there is a huge facility\nunderground at this station, and I was planning to\ninform you about it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シグナルが発せられていたそうですが…\\!"
+                                "\\n<White-haired Detective>It seems that until last night, signals were being\nemitted from a device in that facility, but this\nmorning, it disappeared as if nothing had\nhappened."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今朝になって何事もなかったかのように消えたと。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3390,14 +3390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あぁ…そうでしたか…。\\!"
+                                "\\n<Detective>Ah... I see... Well, that's a relief then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…なら安心ですね…。"
+                                ""
                             ]
                         },
                         {
@@ -3414,21 +3414,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>…安心？\\!"
+                                "\\n<White-haired Detective>...Relief? No, with that, I will contact the\nstation management company and proceed with the\nsearch of the underground facility..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それでこれから駅の管理会社と連絡を取って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下施設への捜索を…"
+                                ""
                             ]
                         },
                         {
@@ -3445,21 +3445,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…えぇ。ですがさほど急ぐ必要はありません。\\!"
+                                "\\n<Detective>...Well, there's no need to hurry so much. Most\nlikely, the phenomenon of people going insane\nshould stop by now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "恐らくもう、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "狂人化現象は止まるはずですから。"
+                                ""
                             ]
                         },
                         {
@@ -3476,7 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<白髪の刑事>…本当に大丈夫ですか…？"
+                                "\\n<White-haired Detective>...Are you really okay...?"
                             ]
                         },
                         {
@@ -3505,45 +3505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして、朔晦市を混乱に陥れた"
+                                "And so, the phenomenon of \\c[2]people going\ninsane\\c[0] that plunged Sakuhai City into chaos\ndrastically decreased in reported cases from that\nday onwards."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]狂人化現象\\c[0]はその日を境に発症報告が激減した。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またあの後、事情聴取を受けることとなったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの夜の出来事を説明したところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も理解するはずもない。"
+                                ""
                             ]
                         },
                         {
@@ -3560,21 +3529,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"地下施設\"の捜索も結局、"
+                                "After that, I was scheduled to undergo\nquestioning, but even if I were to explain the\nevents of that night, no one would understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にコンクリートによって埋め立てられていた事が発覚し"
+                                "The search for the underground facility ultimately\nrevealed that it had already been filled with\nconcrete, and shortly thereafter the search was\ncalled off."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "間もなく捜索打ち切りとなった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -125,7 +125,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -158,7 +158,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -179,12 +179,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "検証用",
+        "description": "Verification",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "検証用：体力を1割にする薬",
+        "name": "Test: Medicine that reduces HP by 10%",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -283,7 +283,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "TPを50上げる",
+        "description": "Increase TP by 50.",
         "effects": [
             {
                 "code": 13,
@@ -295,7 +295,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "TPあっぷ50",
+        "name": "TP Up 50",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -316,7 +316,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "テスト用",
+        "description": "Test use",
         "effects": [
             {
                 "code": 43,
@@ -340,7 +340,7 @@
         "hitType": 0,
         "iconIndex": 16,
         "itypeId": 1,
-        "name": "エロスキル習得",
+        "name": "Eroskill Acquisition",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -392,7 +392,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ワロス",
+        "name": "Waros",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -860,7 +860,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ワロス",
+        "name": "Waros",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1219,12 +1219,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "【デバッグ用】\n敵を一撃でわからせる、デバッグ用アイテムです♥",
+        "description": "This is a debug item that instantly reveals the enemy's weakness ♥",
         "effects": [],
         "hitType": 0,
         "iconIndex": 221,
         "itypeId": 1,
-        "name": "デバッグ用：わからせ棒",
+        "name": "Debug Stick",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1380,7 +1380,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "隠し部屋の鍵",
+        "name": "Hidden Room Key",
         "note": "アリアのアイテム部屋の鍵",
         "occasion": 3,
         "price": 0,
@@ -1406,7 +1406,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "～スキルアイテム～",
+        "name": "~Skill Item~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1427,7 +1427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "スキル「10」について記されたアイテム。",
+        "description": "Item that describes Skill 10.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 189,
@@ -2415,12 +2415,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "まだ温もりが残るほかほかパンツ♥\nいい匂いがする。",
+        "description": "The warm and cozy pants still have a lingering warmth ♥ They smell good.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 149,
         "itypeId": 2,
-        "name": "ほかほかパンツ",
+        "name": "Warm Pants",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2680,7 +2680,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 1,
-        "name": "～キーアイテム系～",
+        "name": "~Key Item Series~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2706,7 +2706,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "ロックキーA",
+        "name": "Rock Key A",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2732,7 +2732,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "ロックキーB",
+        "name": "Rock Key B",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2758,7 +2758,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "ロックキーC",
+        "name": "Rock Key C",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2779,12 +2779,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「Γ-3のアクセスキー」\nと刻印されたカードキー。",
+        "description": "Card key with the inscription Access Key to Gamma-3.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "キーA",
+        "name": "Key A",
         "note": "キーA",
         "occasion": 3,
         "price": 0,
@@ -2805,12 +2805,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「sine:ω」\nと刻印されたカードキー。",
+        "description": "Card key engraved with sine:ω.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "セキュリティーカード",
+        "name": "Security Card",
         "note": "ココ部屋セキュリティーキー",
         "occasion": 3,
         "price": 0,
@@ -2831,7 +2831,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「Γ-2のパスコード：1000011」",
+        "description": "Passcode for Γ-2: 1000011",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
@@ -2857,7 +2857,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「β-2のパスコード：1001011」",
+        "description": "Passcode for β-2: 1001011",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
@@ -2883,12 +2883,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "カギは３つ。\nひとつはリビング、ひとつは……室、ひとつは2階の……",
+        "description": "The key is three. One is the living room, one is... a room, and one is on the second\nfloor...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "廊下で拾ったメモ",
+        "name": "Memo picked up in the hallway",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2921,7 +2921,7 @@
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "ホロフレーム",
+        "name": "Holo Frame",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2942,12 +2942,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\"Past\"と書かれた鍵。",
+        "description": "Key with the word Past written on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "どこかの部屋の鍵　１",
+        "name": "Key to a Certain Room 1",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2968,12 +2968,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\"Present\"と書かれた鍵。",
+        "description": "Key with the word Present written on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "どこかの部屋の鍵　２",
+        "name": "Key to a Certain Room 2",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2994,12 +2994,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\"Future\"と書かれた鍵。",
+        "description": "Key with the word Future written on it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "どこかの部屋の鍵　３",
+        "name": "Key to a Certain Room 3",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3025,7 +3025,7 @@
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 2,
-        "name": "ヒューズ",
+        "name": "Fuse",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3051,7 +3051,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "ミヤコの部屋の鍵④",
+        "name": "Miyako's Room Key ④",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3072,12 +3072,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "小さな南京錠の鍵。\nボロボロのぬいぐるみの首がぶら下がっている…。",
+        "description": "A small padlock key. The head of a tattered stuffed animal is hanging...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "南京錠の鍵",
+        "name": "Padlock Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3098,12 +3098,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "”ヒューズ”は1階の浴室\n”電源スイッチ”はバルコニーに……た",
+        "description": "The fuse is in the first floor bathroom. The power switch is on the balcony...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "走り書きのメモ",
+        "name": "Scribbled Memo",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3124,12 +3124,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "科学捜査などで用いるALSライト。\n血液を浮かび上がせるアタッチメントが付いている…。",
+        "description": "ALS light used in scientific investigations, etc. It has an attachment that makes blood\nfloat up...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "ブラックライト",
+        "name": "Blacklight",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3233,7 +3233,7 @@
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 2,
-        "name": "ヒューズ",
+        "name": "Fuse",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3259,7 +3259,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "搬送用キー",
+        "name": "Transport Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3285,7 +3285,7 @@
         "hitType": 0,
         "iconIndex": 295,
         "itypeId": 2,
-        "name": "角材",
+        "name": "Corner piece",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3311,7 +3311,7 @@
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "3人組ボス部屋の鍵",
+        "name": "Key to the Trio Boss Room",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3344,7 +3344,7 @@
         "hitType": 0,
         "iconIndex": 190,
         "itypeId": 2,
-        "name": "廃ビルの案内図",
+        "name": "Abandoned Building Map",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -5294,7 +5294,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "～特殊アイテム系～",
+        "name": "~Special Item Series~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5320,7 +5320,7 @@
         "hitType": 0,
         "iconIndex": 146,
         "itypeId": 2,
-        "name": "魔除け",
+        "name": "Amulet",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7109,7 +7109,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n敵単体に防御無視ダメージと確率で麻痺を与えられる。",
+        "description": "New skill can be obtained with steroids. Can inflict damage that ignores defense and\nparalysis with a chance on a single enemy.",
         "effects": [
             {
                 "code": 44,
@@ -7121,7 +7121,7 @@
         "hitType": 0,
         "iconIndex": 165,
         "itypeId": 1,
-        "name": "スキルステロイド：A",
+        "name": "Skill Steroid: A",
         "note": "",
         "occasion": 2,
         "price": 300,
@@ -7142,7 +7142,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n敵3体ランダムにダメージ。",
+        "description": "Steroid drugs that grant new skills. Deal damage to 3 random enemies.",
         "effects": [
             {
                 "code": 44,
@@ -7154,7 +7154,7 @@
         "hitType": 0,
         "iconIndex": 163,
         "itypeId": 1,
-        "name": "スキルステロイド：B",
+        "name": "Skill Steroid: B",
         "note": "",
         "occasion": 2,
         "price": 400,
@@ -7175,7 +7175,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n敵全体にダメージを与える。",
+        "description": "Steroids that grant new skills. Inflicts damage to all enemies.",
         "effects": [
             {
                 "code": 44,
@@ -7187,7 +7187,7 @@
         "hitType": 0,
         "iconIndex": 163,
         "itypeId": 1,
-        "name": "スキルステロイド：C",
+        "name": "Skill Steroid: C",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -7208,7 +7208,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n敵単体に確率で暗闇付与。",
+        "description": "New skill is obtained with steroids. Chance to inflict darkness on a single enemy.",
         "effects": [
             {
                 "code": 44,
@@ -7220,7 +7220,7 @@
         "hitType": 0,
         "iconIndex": 163,
         "itypeId": 1,
-        "name": "スキルステロイド：D",
+        "name": "Skill Steroid: D",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -7241,7 +7241,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n敵全体に確率で暗闇付与。",
+        "description": "New skill is obtained with steroids. Chance to inflict darkness on all enemies.",
         "effects": [
             {
                 "code": 44,
@@ -7253,7 +7253,7 @@
         "hitType": 0,
         "iconIndex": 162,
         "itypeId": 1,
-        "name": "スキルステロイド：E",
+        "name": "Skill Steroid: E",
         "note": "",
         "occasion": 2,
         "price": 700,
@@ -7274,7 +7274,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "新たなスキルが手に入るステロイド剤。\n使用者の体力を半分回復し、射精ゲージを半減させる。",
+        "description": "New skill-acquiring steroid. It restores half of the user's health and reduces the\nejaculation gauge by half.",
         "effects": [
             {
                 "code": 44,
@@ -7286,7 +7286,7 @@
         "hitType": 0,
         "iconIndex": 162,
         "itypeId": 1,
-        "name": "スキルステロイド：F",
+        "name": "Skill Steroid: F",
         "note": "",
         "occasion": 2,
         "price": 800,
@@ -7676,7 +7676,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "～スキル習得アイテム～",
+        "name": "Skill Acquisition Item",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7697,7 +7697,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "精力を媒体とする新たなスキルが手に入るステロイド剤。\n敵単体に防御無視ダメージを与えられるようになる。",
+        "description": "A new skill that uses energy as a medium and grants access to steroids. It allows you to\ndeal damage to a single enemy while ignoring their defense.",
         "effects": [
             {
                 "code": 44,
@@ -7709,7 +7709,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 1,
-        "name": "スキルステロイドS：α",
+        "name": "Skill Steroid S: α",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -7730,7 +7730,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "精力を媒体とする新たなスキルが手に入るステロイド剤。\nランダム敵１体に通常の2倍ダメージを与える事ができる。",
+        "description": "New steroid drugs that enhance energy and grant new skills. It allows you to deal double\nthe normal damage to a random enemy.",
         "effects": [
             {
                 "code": 44,
@@ -7742,7 +7742,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 1,
-        "name": "スキルステロイドS：β",
+        "name": "Skill Steroid S: β",
         "note": "",
         "occasion": 2,
         "price": 1500,
@@ -7763,7 +7763,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "精力を媒体とする新たなスキルが手に入るステロイド剤。\n敵全体に防御無視で威力2倍のダメージを与える事ができる。",
+        "description": "New steroids that serve as a medium for energy, granting access to a new skill. It allows\nyou to deal double damage to all enemies, ignoring their defense.",
         "effects": [
             {
                 "code": 44,
@@ -7775,7 +7775,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 1,
-        "name": "スキルステロイドS：γ",
+        "name": "Skill Steroid S: γ",
         "note": "",
         "occasion": 2,
         "price": 2000,
@@ -7957,7 +7957,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "　～HP回復～",
+        "name": "~HP Recovery~",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -7978,7 +7978,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを250回復する。\n「一杯のコーヒーが人生を豊かにするのだ」",
+        "description": "Recover 250 HP. 'A cup of coffee enriches life.'",
         "effects": [
             {
                 "code": 11,
@@ -7990,7 +7990,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "コーヒー",
+        "name": "Coffee",
         "note": "HP回復（小）",
         "occasion": 0,
         "price": 50,
@@ -8011,7 +8011,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを500回復する。\n「飲めば翼を授けてくれる…そんな気がする」",
+        "description": "Restore 500 HP. It feels like it grants wings when you drink it...",
         "effects": [
             {
                 "code": 11,
@@ -8044,7 +8044,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを100回復し、４ターンの間ＨＰを10％回復。\n「その食感はまるで少女の乳房の如く！」",
+        "description": "Restore HP by 100 and recover HP by 10% for 4 turns. 'The texture is just like a young\ngirl's breasts!'",
         "effects": [
             {
                 "code": 11,
@@ -8062,7 +8062,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "パイチュー",
+        "name": "Pichu",
         "note": "HP回復（大）",
         "occasion": 1,
         "price": 200,
@@ -8083,7 +8083,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。\n「甘辛く味付けされた、ボリューム満点のお弁当だ」",
+        "description": "Fully restore HP. It's a bento with a perfectly balanced sweet and savory flavor.",
         "effects": [
             {
                 "code": 11,
@@ -8095,7 +8095,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "すき焼き弁当",
+        "name": "Sukiyaki Bento",
         "note": "HP完全回復",
         "occasion": 0,
         "price": 450,
@@ -8116,7 +8116,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "ＨＰを300ポイント回復する代わりに射精ゲージが50増加。\n「まだ…暖かい」",
+        "description": "In exchange for restoring 300 HP, the ejaculation gauge increases by 50. 'It's still...\nwarm.'",
         "effects": [
             {
                 "code": 11,
@@ -8134,7 +8134,7 @@
         "hitType": 0,
         "iconIndex": 211,
         "itypeId": 1,
-        "name": "食べかけのアメ",
+        "name": "Half-eaten candy",
         "note": "HP回復（大）\nEP増大\n\nデメリット有り系アイテム",
         "occasion": 1,
         "price": 250,
@@ -8155,7 +8155,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "精力を80する。\n「つながる挿入(とき)に　アヘ・コーラ」",
+        "description": "Increase energy by 80. 'Ah-heh Cola' for connected insertion.",
         "effects": [
             {
                 "code": 12,
@@ -8167,7 +8167,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "アへ・コーラ",
+        "name": "Ahh Cola",
         "note": "HP継続回復",
         "occasion": 0,
         "price": 50,
@@ -8188,7 +8188,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を回復する。",
+        "description": "Recover from all status ailments except for incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -8254,7 +8254,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "　～MP回復～",
+        "name": "~MP Recovery~",
         "note": "",
         "occasion": 0,
         "price": 90,
@@ -8275,7 +8275,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "精力を完全回復し、4ターンの間、精力を少量継続回復する。\n「滋養強壮に、マラ・マムシ！」",
+        "description": "Fully recover energy and continue to recover a small amount of energy for 4 turns. For\nvitality, Marah Mamushi!",
         "effects": [
             {
                 "code": 12,
@@ -8293,7 +8293,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マラ・マムシ",
+        "name": "Mara Mambushi",
         "note": "MP回復（小）",
         "occasion": 1,
         "price": 250,
@@ -8314,7 +8314,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "あらゆる状態異常を回復する。",
+        "description": "Recovers from any abnormal status.",
         "effects": [
             {
                 "code": 22,
@@ -8374,7 +8374,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -8395,7 +8395,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "瓶にはドクロのマークが書かれている…。\n飲むと致命的な大ダメージを食らう。",
+        "description": "The bottle is marked with a skull... Drinking it will cause fatal damage.",
         "effects": [
             {
                 "code": 21,
@@ -8407,7 +8407,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "♥♥♥万能薬♥♥♥",
+        "name": "♥♥♥Universal Medicine♥♥♥",
         "note": "即死アイテム",
         "occasion": 1,
         "price": 4,
@@ -8428,7 +8428,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Reduce encounter rate with enemies by half for a while.",
         "effects": [
             {
                 "code": 21,
@@ -8461,7 +8461,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Increase the drop rate of items and rewards obtained in battles for a while.",
         "effects": [
             {
                 "code": 21,
@@ -8494,7 +8494,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "強制的に暴走状態にするアブナイ薬。\n既に暴走状態の時には効果がない。",
+        "description": "Dangerous drug that forcibly induces a state of rampage. It has no effect when already in\na state of rampage.",
         "effects": [
             {
                 "code": 44,
@@ -8512,7 +8512,7 @@
         "hitType": 0,
         "iconIndex": 7,
         "itypeId": 1,
-        "name": "　～状態回復～",
+        "name": "~Status Recovery~",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -8533,7 +8533,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increase maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -8566,7 +8566,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increase maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -8599,7 +8599,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increase attack power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8632,7 +8632,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increase defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8665,7 +8665,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increase magic power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8698,7 +8698,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increase magic defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8731,7 +8731,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increase agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8764,7 +8764,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increase luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -8823,12 +8823,12 @@
         "id": 323,
         "animationId": 67,
         "consumable": true,
-        "description": "敵単体に炎属性のダメージを与える。",
+        "description": "Inflicts fire attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
         "itypeId": 1,
-        "name": "　～強化アイテム～",
+        "name": "~Enhancement Item~",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -8857,7 +8857,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "強制的に狂人化するアブナイ薬。\n既に狂人状態の時には効果がない。",
+        "description": "Dangerous drug that forcibly induces madness. It has no effect when already in a state of\nmadness.",
         "effects": [
             {
                 "code": 44,
@@ -8875,7 +8875,7 @@
         "hitType": 0,
         "iconIndex": 7,
         "itypeId": 1,
-        "name": "狂人薬",
+        "name": "Madman's Medicine",
         "note": "",
         "occasion": 1,
         "price": 444,
@@ -8889,7 +8889,7 @@
         "id": 325,
         "animationId": 77,
         "consumable": true,
-        "description": "敵単体に雷属性のダメージを与える。",
+        "description": "Deals thunder attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 66,
@@ -8916,7 +8916,7 @@
         "id": 326,
         "animationId": 81,
         "consumable": true,
-        "description": "敵単体に炎属性のダメージを与える。",
+        "description": "Inflicts fire attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 67,
@@ -8943,7 +8943,7 @@
         "id": 327,
         "animationId": 87,
         "consumable": true,
-        "description": "敵単体に土属性のダメージを与える。",
+        "description": "Deals earth attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 68,
@@ -8970,7 +8970,7 @@
         "id": 328,
         "animationId": 92,
         "consumable": true,
-        "description": "敵単体に風属性のダメージを与える。",
+        "description": "Deals wind attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 69,
@@ -8997,7 +8997,7 @@
         "id": 329,
         "animationId": 97,
         "consumable": true,
-        "description": "敵単体に光属性のダメージを与える。",
+        "description": "Deals light attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -9024,7 +9024,7 @@
         "id": 330,
         "animationId": 102,
         "consumable": true,
-        "description": "敵単体に闇属性のダメージを与える。",
+        "description": "Deals dark attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 161,
@@ -9096,7 +9096,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "　～特殊系～",
+        "name": "~Special Series~",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -9117,7 +9117,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Reduce encounter rate with enemies by half for a while.",
         "effects": [
             {
                 "code": 21,
@@ -9129,7 +9129,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウナー",
+        "name": "Encounter Downer",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -9150,7 +9150,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Increase the drop rate of items and rewards obtained in battles for a while.",
         "effects": [
             {
                 "code": 21,
@@ -9162,7 +9162,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ドロップアッパー",
+        "name": "Drop Upper",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -9183,7 +9183,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "1度だけ完全復活する（パッシブ）",
+        "description": "Only resurrect once (Passive)",
         "effects": [
             {
                 "code": 11,
@@ -9195,7 +9195,7 @@
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "フェニックスの羽（仮）",
+        "name": "Phoenix Feather (Temporary)",
         "note": "<ReviveItem>",
         "occasion": 3,
         "price": 0,
@@ -10885,7 +10885,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "～サンプルアイテム～",
+        "name": "~Sample Item~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -10911,7 +10911,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----回復系",
+        "name": "Recovery Type",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -10932,7 +10932,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを５００ポイント回復する。",
+        "description": "Restore 500 points of HP.",
         "effects": [
             {
                 "code": 11,
@@ -10944,7 +10944,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -10965,7 +10965,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを１５００ポイント回復する。",
+        "description": "Restore 1500 points of HP.",
         "effects": [
             {
                 "code": 11,
@@ -10977,7 +10977,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "Hi-Potion",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -10998,7 +10998,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。",
+        "description": "Fully restore HP.",
         "effects": [
             {
                 "code": 11,
@@ -11010,7 +11010,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "フルポーション",
+        "name": "Full Potion",
         "note": "",
         "occasion": 0,
         "price": 450,
@@ -11031,7 +11031,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを３００ポイント回復する。",
+        "description": "Restore 300 points of MP.",
         "effects": [
             {
                 "code": 12,
@@ -11043,7 +11043,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -11064,7 +11064,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "戦闘不能から復活させる。（ＨＰ半分回復）",
+        "description": "Revive from incapacitation. (Restore half of HP)",
         "effects": [
             {
                 "code": 22,
@@ -11076,7 +11076,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 250,
@@ -11097,7 +11097,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒、麻痺状態を治療する。",
+        "description": "Treats poison and paralysis status.",
         "effects": [
             {
                 "code": 22,
@@ -11115,7 +11115,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "アンチドーテ",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 30,
@@ -11136,7 +11136,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を回復する。",
+        "description": "Recover from all status ailments except for incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -11202,7 +11202,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 90,
@@ -11223,7 +11223,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを半分回復する。",
+        "description": "Restore HP and MP by half.",
         "effects": [
             {
                 "code": 11,
@@ -11241,7 +11241,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ミラクルドロップ",
+        "name": "Miracle Drop",
         "note": "",
         "occasion": 0,
         "price": 600,
@@ -11262,7 +11262,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。",
+        "description": "Fully restore HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -11280,7 +11280,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -11306,7 +11306,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----特殊系",
+        "name": "-----Special Type",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11327,7 +11327,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Reduce encounter rate with enemies by half for a while.",
         "effects": [
             {
                 "code": 21,
@@ -11339,7 +11339,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウナー",
+        "name": "Encounter Downer",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -11360,7 +11360,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Increase the drop rate of items and rewards obtained in battles for a while.",
         "effects": [
             {
                 "code": 21,
@@ -11372,7 +11372,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ドロップアッパー",
+        "name": "Drop Upper",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -11398,7 +11398,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----強化系",
+        "name": "-----Enhancement",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -11419,7 +11419,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increase maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -11431,7 +11431,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11452,7 +11452,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increase maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -11464,7 +11464,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11485,7 +11485,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increase attack power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11497,7 +11497,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11518,7 +11518,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increase defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11530,7 +11530,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11551,7 +11551,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increase magic power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11563,7 +11563,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11584,7 +11584,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increase magic defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11596,7 +11596,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11617,7 +11617,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increase agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11629,7 +11629,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11650,7 +11650,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increase luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -11662,7 +11662,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Lockup",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -11687,7 +11687,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----戦闘用",
+        "name": "Battle-ready",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -11709,12 +11709,12 @@
         "id": 424,
         "animationId": 67,
         "consumable": true,
-        "description": "敵単体に炎属性のダメージを与える。",
+        "description": "Inflicts fire attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
         "itypeId": 1,
-        "name": "炎の魔石",
+        "name": "Flame Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11736,12 +11736,12 @@
         "id": 425,
         "animationId": 72,
         "consumable": 1,
-        "description": "敵単体に氷属性のダメージを与える。",
+        "description": "Deals ice attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 65,
         "itypeId": 1,
-        "name": "氷の魔石",
+        "name": "Ice Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11763,12 +11763,12 @@
         "id": 426,
         "animationId": 77,
         "consumable": 1,
-        "description": "敵単体に雷属性のダメージを与える。",
+        "description": "Deals thunder attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 1,
-        "name": "雷の魔石",
+        "name": "Thunder Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11790,12 +11790,12 @@
         "id": 427,
         "animationId": 81,
         "consumable": true,
-        "description": "敵単体に炎属性のダメージを与える。",
+        "description": "Inflicts fire attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 67,
         "itypeId": 1,
-        "name": "水の魔石",
+        "name": "Water Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11817,12 +11817,12 @@
         "id": 428,
         "animationId": 87,
         "consumable": true,
-        "description": "敵単体に土属性のダメージを与える。",
+        "description": "Deals earth attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 68,
         "itypeId": 1,
-        "name": "土の魔石",
+        "name": "Earth Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11844,12 +11844,12 @@
         "id": 429,
         "animationId": 92,
         "consumable": 1,
-        "description": "敵単体に風属性のダメージを与える。",
+        "description": "Deals wind attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 69,
         "itypeId": 1,
-        "name": "風の魔石",
+        "name": "Wind Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 200,
@@ -11871,12 +11871,12 @@
         "id": 430,
         "animationId": 97,
         "consumable": true,
-        "description": "敵単体に光属性のダメージを与える。",
+        "description": "Deals light attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
         "itypeId": 1,
-        "name": "光の魔石",
+        "name": "Magic Stone of Light",
         "note": "",
         "occasion": 1,
         "price": 300,
@@ -11898,12 +11898,12 @@
         "id": 431,
         "animationId": 102,
         "consumable": true,
-        "description": "敵単体に闇属性のダメージを与える。",
+        "description": "Deals dark attribute damage to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 161,
         "itypeId": 1,
-        "name": "闇の魔石",
+        "name": "Dark Magic Stone",
         "note": "",
         "occasion": 1,
         "price": 300,
@@ -11936,7 +11936,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----予備",
+        "name": "Reserve",
         "note": "",
         "occasion": 2,
         "price": 10,
@@ -25412,7 +25412,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "～チュートリアル～",
+        "name": "~Tutorial~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -25445,7 +25445,7 @@
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 2,
-        "name": "狂化について",
+        "name": "About Madness",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -25471,7 +25471,7 @@
         "hitType": 0,
         "iconIndex": 87,
         "itypeId": 1,
-        "name": "狂化薬について",
+        "name": "About the Berserk Potion",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -26700,7 +26700,7 @@
         "hitType": 0,
         "iconIndex": 7,
         "itypeId": 1,
-        "name": "暴走薬",
+        "name": "Rampage Drug",
         "note": "<condition_item:actor=3:state!=31>",
         "occasion": 0,
         "price": 0,
@@ -26721,7 +26721,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "強制的に暴走状態にするアブナイ薬。\n既に暴走状態の時には効果がない。",
+        "description": "Dangerous drug that forcibly induces a state of rampage. It has no effect when already in\na state of rampage.",
         "effects": [
             {
                 "code": 44,
@@ -26739,7 +26739,7 @@
         "hitType": 0,
         "iconIndex": 7,
         "itypeId": 1,
-        "name": "暴走薬",
+        "name": "Rampage Drug",
         "note": "",
         "occasion": 1,
         "price": 0,

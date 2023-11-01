@@ -3051,21 +3051,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】Ahead is a boss battle! If you are\ndefeated, it will result in a game over after the\nevent. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -3073,8 +3073,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵がかかっている…"
+                                "The door is locked..."
                             ]
                         },
                         {
@@ -3491,21 +3491,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -3513,8 +3513,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3644,7 +3644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵がかかっている…"
+                                "It's locked..."
                             ]
                         },
                         {
@@ -3775,7 +3775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…中には入らないでおこう。"
+                                "Let's not go inside..."
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -3969,14 +3969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -4071,7 +4071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -4088,14 +4088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -4190,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -4207,14 +4207,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -4309,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓の外には朔晦市の風景が広がっている…"
+                                "Outside the window, the scenery of Sakutsuki City\nstretches out..."
                             ]
                         },
                         {
@@ -4326,14 +4326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>どうなってる…"
+                                "\\N<Detective>What's going on... This should be inside the\ntrain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは電車の中のはずだろう…"
+                                ""
                             ]
                         },
                         {
@@ -4565,7 +4565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>あれ～？もう着いたんだ♥"
+                                "\\n<Aria>Oh? We're already here ♥"
                             ]
                         },
                         {
@@ -4582,21 +4582,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>でもまだ開けられないな～♥"
+                                "\\n<Aria>But we still can't open it~♥ If you want to see\nAria, you better bring the \\C[10]offering\\C[0]\nproperly♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アリアに会いたいなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと\\C[10]献上品\\C[0]を持ってこないとね♥"
+                                ""
                             ]
                         },
                         {
@@ -4613,14 +4613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>(…クソ。"
+                                "\\N<Detective>(...Damn it... Maybe I should search some other\nrooms a little longer...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…もう少し他の部屋を探してみるか…)"
+                                ""
                             ]
                         },
                         {
@@ -4760,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>あれ～？もう着いたんだ♥"
+                                "\\n<Aria>Oh? We're already here ♥"
                             ]
                         },
                         {
@@ -4777,21 +4777,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>でもまだ開けられないな～♥"
+                                "\\n<Aria>But we still can't open it~♥ If you want to see\nAria, you better bring the \\C[10]offering\\C[0]\nproperly♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アリアに会いたいなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと\\C[10]献上品\\C[0]を持ってこないとね♥"
+                                ""
                             ]
                         },
                         {
@@ -4808,14 +4808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>(…クソ。"
+                                "\\N<Detective>(...Damn it... Maybe I should search some other\nrooms a little longer...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…もう少し他の部屋を探してみるか…)"
+                                ""
                             ]
                         },
                         {
@@ -5169,14 +5169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>クスクス♥"
+                                "\\n<Aria>Hehe ♥ Finally getting into the mood, huh~ ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっとノッてきたね～♥"
+                                ""
                             ]
                         },
                         {
@@ -5193,14 +5193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aria>いいよ♥"
+                                "\\n<Aria>It's fine ♥ Come all the way here, mister ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここまでおいで、おじさん♥"
+                                ""
                             ]
                         },
                         {

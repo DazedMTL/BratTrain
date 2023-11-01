@@ -87,7 +87,7 @@
                 "skillId": 226
             }
         ],
-        "name": "警部補",
+        "name": "Detective Sergeant",
         "note": "対女の子用",
         "params": [
             [
@@ -980,7 +980,7 @@
                 "skillId": 500
             }
         ],
-        "name": "陬∝ｮ壻ｺｺ",
+        "name": "Unknown",
         "note": "",
         "params": [
             [
@@ -1858,7 +1858,7 @@
                 "skillId": 9
             }
         ],
-        "name": "シャドウステージ用",
+        "name": "Shadow Stage",
         "note": "",
         "params": [
             [
@@ -2736,7 +2736,7 @@
                 "skillId": 8
             }
         ],
-        "name": "僧侶",
+        "name": "Monk",
         "note": "",
         "params": [
             [
@@ -3609,7 +3609,7 @@
                 "skillId": 51
             }
         ],
-        "name": "アリア",
+        "name": "Aria",
         "note": "",
         "params": [
             [
@@ -4522,7 +4522,7 @@
                 "skillId": 231
             }
         ],
-        "name": "警部補（対物）",
+        "name": "Detective Assistant (Anti-Material)",
         "note": "対女の子以外",
         "params": [
             [
@@ -8031,7 +8031,7 @@
                 "skillId": 998
             }
         ],
-        "name": "スクショ用",
+        "name": "Screenshot use",
         "note": "",
         "params": [
             [
@@ -16747,7 +16747,7 @@
                 "skillId": 22
             }
         ],
-        "name": "巡査部長",
+        "name": "Chief Inspector",
         "note": "対女の子用(暴走)",
         "params": [
             [
@@ -17660,7 +17660,7 @@
                 "skillId": 22
             }
         ],
-        "name": "巡査部長",
+        "name": "Chief Inspector",
         "note": "対人外用(暴走)",
         "params": [
             [

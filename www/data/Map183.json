@@ -2671,7 +2671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -2922,7 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -2939,7 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -3206,7 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3223,7 +3223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三井ガスは安心安全な生活をサポートします"
+                                "Mitsui Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3300,7 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3317,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Toto Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3394,14 +3394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Pores, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3418,14 +3418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's Dermatology Clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3502,14 +3502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Freckles, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3526,14 +3526,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's dermatology clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3610,14 +3610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3634,14 +3634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3718,14 +3718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3742,14 +3742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰もいないようだ…"
+                                "It seems like there's no one here..."
                             ]
                         },
                         {
@@ -3903,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰もいないようだ…"
+                                "It seems like there's no one here..."
                             ]
                         },
                         {
@@ -3980,7 +3980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰もいないようだ…"
+                                "It seems like no one is here..."
                             ]
                         },
                         {
@@ -4057,14 +4057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間外だからだろうか、"
+                                "It's probably because it's outside of operating\nhours, the ticket vending machine isn't working."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "券売機は動いていない。"
+                                ""
                             ]
                         },
                         {
@@ -4141,14 +4141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間外だからだろうか、"
+                                "It's probably because it's outside of operating\nhours, the ticket vending machine isn't working."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "券売機は動いていない。"
+                                ""
                             ]
                         },
                         {
@@ -4225,14 +4225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間外だからだろうか、"
+                                "It's probably because it's outside of operating\nhours, the ticket vending machine isn't working."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "券売機は動いていない。"
+                                ""
                             ]
                         },
                         {
@@ -4309,14 +4309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このコインロッカーが空いてるところは"
+                                "I've never seen this coin locker empty before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がない…"
+                                ""
                             ]
                         },
                         {
@@ -4393,14 +4393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このコインロッカーが空いてるところは"
+                                "I've never seen this coin locker empty before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がない…"
+                                ""
                             ]
                         },
                         {
@@ -4477,14 +4477,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このコインロッカーが空いてるところは"
+                                "I've never seen this coin locker empty before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がない…"
+                                ""
                             ]
                         },
                         {
@@ -4561,7 +4561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は特に欲しいものはない。"
+                                "I don't particularly want anything right now."
                             ]
                         },
                         {
@@ -4638,7 +4638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は特に欲しいものはない。"
+                                "I don't particularly want anything right now."
                             ]
                         },
                         {

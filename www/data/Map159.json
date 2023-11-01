@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "屋根裏　１",
+    "displayName": "Attic 1",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2852,7 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[default]\\n<???>…逃ガサナイ…"
+                                "\\n<???>\\SE[default]...Don't run away..."
                             ]
                         },
                         {
@@ -2887,7 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…電灯が不安定になっている…"
+                                "...The lights are becoming unstable..."
                             ]
                         },
                         {
@@ -3524,14 +3524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”\\C[2]”ヒューズ”\\C[0]は1階の浴室"
+                                "\\C[2]Fuse\\C[0] is on the first floor, the power\nswitch for the bathroom is on the balcony..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]”電源スイッチ”\\C[0]はバルコニーに……た”"
+                                ""
                             ]
                         },
                         {
@@ -3548,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>一体なんの事だ…？"
+                                "\\n<Detective>What on earth are you talking about...?"
                             ]
                         },
                         {
@@ -3565,7 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”走り書きのメモ”を手に入れた！"
+                                "I obtained a scribbled memo!"
                             ]
                         },
                         {
@@ -3740,7 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>よく見ると足元に靴跡がある…"
+                                "\\n<Detective>If you look closely, there are shoe prints at the\nfoot..."
                             ]
                         },
                         {
@@ -3757,14 +3757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>となりの部屋に通じてる…？"
+                                "\\n<Detective>Does it lead to the next room...? Let's follow it\nfor a bit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し辿ってみよう。"
+                                ""
                             ]
                         },
                         {

@@ -48,7 +48,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "暴走モード突入"
+                            "Berserk mode activated."
                         ]
                     },
                     {
@@ -345,7 +345,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>な…ななな…"
+                            "\\N<Detective>N...Nana..."
                         ]
                     },
                     {
@@ -362,7 +362,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>なにをしてるんだ君達は！"
+                            "\\N<Detective>What are you all doing?!"
                         ]
                     },
                     {
@@ -379,7 +379,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『まだ状況わかんないの？』"
+                            "\\n<Aria>\\C[24]Don't you understand the situation yet?"
                         ]
                     },
                     {
@@ -396,14 +396,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『クスクス…おじさんそんなだと"
+                            "\\n<Aria>\\C[24]Hehe... If you're like that, can you even do\nyour job? lol"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "仕事も出来ないんじゃないの？ｗ』"
+                            ""
                         ]
                     },
                     {
@@ -420,336 +420,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl A>…ぷっ…クスクス…"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor19",
-                            2,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\n<Girl B>やだぁ、図星ついちゃダメだよ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "アリアちゃんｗ"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor03",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\N<Detective>（こ…この…"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "大人を馬鹿にしやがって…）"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『ねぇ、わかってる？』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『おじさんがそのまま攻め続けられたら"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "カラッカラに絞りつくされるまで"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "絞り尽くされちゃうんだよ？ｗ』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor03",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\N<Detective>こ…子どもだからと…"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『力づくで引き剥がす？』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『か弱い女の子たちにそんな事するんだ？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ロリコンの上にボーリョクまで振るうなんて、』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『サイテーな犯罪者だね♡"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ツーホーしなくちゃ♡』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor03",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\N<Detective>（この…！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "なんて生意気な…！）"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『ボーリョクじゃなくて”性技”なら"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "セーフだよ♡』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『ツーホーもしないし、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "おじさんも気持ちよくなれる♡"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "win-winでしょ♡』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor03",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\N<Detective>そ…そんな事できるわけがないだろう！"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            2,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『…\\|あっそ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ホントつまんないね。』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『いいよみんな。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "やる気ないオモチャなんていらないから。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "あげる。』"
+                            "\\n<Girl A>*giggle* Hehe..."
                         ]
                     },
                     {
@@ -766,7 +437,336 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl B>え～、私もいらないんだけど…"
+                            "\\n<Girl B>Nooo, you can't hit the nail on the head like\nthat, Aria-chan! lol"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor03",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\N<Detective>(Y-You... You dare to mock an adult...)"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]Hey, do you understand?"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]If the detective keeps attacking like that,\nhe'll be squeezed dry until he's completely\ndrained, you know? lol"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor03",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\N<Detective>B-Because... they're just children..."
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]Are you going to forcibly strip it off?"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]You're doing such things to weak little\ngirls? To top it off, you're even using violence,\nyou lolicon!"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]You're such a terrible criminal, aren't\nyou? Gotta report you to the police~♡"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor03",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\N<Detective>(How...! Such insolence...!)"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]It's not violence, it's a sexual technique,\nso it's safe♡"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]It's a win-win situation where neither of\nus lose, and the uncle can feel good too♡ Isn't it\ngreat♡"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor03",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\N<Detective>Th-There's no way something like that can be done!"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            2,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>...Oh, I see. How boring."
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Aria>\\C[24]It's okay everyone. We don't need useless\ntoys that have no motivation. I'll give it to\nyou."
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor19",
+                            2,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 1,
+                        "parameters": [
+                            "\\n<Girl B>Ehh, I don't need it either..."
                         ]
                     },
                     {
@@ -783,7 +783,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl A>私は勃ってたら使えるから別にいいけど～"
+                            "\\n<Girl A>It's fine as long as I'm aroused and can use it~"
                         ]
                     },
                     {
@@ -859,45 +859,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>くっ…！"
+                            "\\N<Detective>Damn it...! This... is getting out of hand...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "この…いい加減に…！"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『言っとくけどさ～、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ヤラれてダウンしてそのまま終わり～"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "って考えてるなら、甘いよ。』"
+                            ""
                         ]
                     },
                     {
@@ -914,21 +883,52 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『アリア達みんなと遊んで、"
+                            "\\n<Aria>\\C[24]Just so you know, if you think you can just\nget off and it'll be over, you're in for a\nsurprise."
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "アリア達みんなが満足するまで"
+                            "\\n<Aria>\\C[24]I can't go home until I play with everyone\nand make sure everyone is satisfied, so there you\ngo~"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "おじさん帰れないからｗ』"
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
                         ]
                     },
                     {
@@ -945,14 +945,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>！"
+                            "\\N<Detective>What does this mean...?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "どういう意味だ…？"
+                            ""
                         ]
                     },
                     {
@@ -969,38 +969,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『そのまんまだよ。"
+                            "\\n<Aria>\\C[24]That's exactly right. Didn't Luna-chan tell\nyou?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "ルナちゃんが言ってたでしょ？』"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor11",
-                            1,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\C[24]\\n<Aria>『これは”ルナちゃんの”ゲーム。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "おじさんに選択肢はないって♡』"
+                            ""
                         ]
                     },
                     {
@@ -1017,14 +993,38 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『アリアやルナちゃんと遊び終わるまで、"
+                            "\\n<Aria>\\C[24]This is Luna-chan's game. Uncle doesn't\nhave any choices ♡"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor11",
+                            1,
+                            0,
+                            2
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "おじさんは一生ここから出れないよ♡』"
+                            "\\n<Aria>\\C[24]Uncle won't be able to leave here for the\nrest of his life until he finishes playing with\nAria and Luna-chan ♡"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
                         ]
                     },
                     {
@@ -1041,7 +1041,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>！？"
+                            "\\N<Detective>!?"
                         ]
                     },
                     {
@@ -1058,14 +1058,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『ずっと遊んでたいならそれでもいいよ～♡"
+                            "\\n<Aria>\\C[24]If you want to keep playing forever, that's\nfine with me~ ♡ I'll squeeze you dry over and over\nagain and make you mine ♡"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "何回も搾り取ってドレイにしてあげる♡』"
+                            ""
                         ]
                     },
                     {
@@ -1082,14 +1082,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『仕事も行かずにずーっとセックスできるよ♡"
+                            "\\n<Aria>\\C[24]You can keep having sex without going to\nwork forever ♡ Oh, is that what you wanted? LOL"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あ、それが望みだった？ｗ』"
+                            ""
                         ]
                     },
                     {
@@ -1106,7 +1106,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>…くっ…"
+                            "\\N<Detective>...Damn it..."
                         ]
                     },
                     {
@@ -1123,7 +1123,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl A>クスクス…"
+                            "\\n<Girl A>*giggles*"
                         ]
                     },
                     {
@@ -1140,31 +1140,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl B>ヤダー、"
+                            "\\n<Girl B>No way, you're the worst kind of adult ♡"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "サイテーな大人だね♡"
-                        ]
-                    },
-                    {
-                        "code": 101,
-                        "indent": 1,
-                        "parameters": [
-                            "Actor03",
-                            0,
-                            0,
-                            2
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\N<Detective>（そうだ…これはこの状況を打開するために…）"
+                            ""
                         ]
                     },
                     {
@@ -1181,14 +1164,31 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\N<Detective>（決してやましい気持ちではなく…"
+                            "\\N<Detective>(That's right... This is to break through this\nsituation...)"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 1,
+                        "parameters": [
+                            "Actor03",
+                            0,
+                            0,
+                            2
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "それにこの子達に大人の恐さというものを…）"
+                            "\\N<Detective>(It's not a guilty feeling... And to teach these\nchildren the fear of adults...)"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 1,
+                        "parameters": [
+                            ""
                         ]
                     },
                     {
@@ -1205,14 +1205,14 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\n<Girl A>え…"
+                            "\\n<Girl A>Eek... Kyaa!!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "きゃっ！！"
+                            ""
                         ]
                     },
                     {
@@ -1229,21 +1229,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[24]\\n<Aria>『…クスクス…"
+                            "\\n<Aria>\\C[24] ...Hehe... That's right, it's fine like\nthat ♡ Just make sure you don't wither away ♡"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "そう、それでいいんだよ♡"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "せいぜい枯らされないようにね♡』"
+                            ""
                         ]
                     },
                     {
@@ -1473,7 +1473,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -1501,21 +1501,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The state of madness\\C[0] has been activated.\nIf it goes into \\C[10]\\V[7] more instances of\n\\C[0]out of control, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -1542,21 +1542,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "It has entered a state of madness. If it goes into\na state of madness again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -1693,14 +1693,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Aria>アリアをあの子達と一緒にしないでね♥"
+                            "\\n<Aria>Please don't compare me to those girls ♥ With\nAria's techniques, any man will instantly fall for\nme in just two panels ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "アリアのテクに掛かればどんな男も即オチ２コマだから♥"
+                            ""
                         ]
                     },
                     {
@@ -1741,14 +1741,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Aria>んぅッ…！♥"
+                            "\\n<Aria>Nngh...! ♥... You're... you're good, old man ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "…や…やるじゃんおじさん♥"
+                            ""
                         ]
                     },
                     {
@@ -1765,21 +1765,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Aria>ちょっとナメ過ぎてたかな？\\!"
+                            "\\n<Aria>Did you underestimate me a little? But don't think\nyou've won with just this ♥ The real deal starts\nnow ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "でも、これぐらいで勝ったと思わないでね♥"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "こっからが本番だから♥"
+                            ""
                         ]
                     },
                     {
@@ -1915,7 +1915,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -1943,21 +1943,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -1984,21 +1984,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage \\C[10]again\\C[0], it will result\nin a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -2299,7 +2299,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -2327,21 +2327,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they go into a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -2368,21 +2368,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey go into a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -2677,7 +2677,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -2705,21 +2705,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -2746,21 +2746,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage \\C[10]again\\C[0], it will result\nin a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -3521,7 +3521,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -3549,21 +3549,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they enter a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -3590,21 +3590,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey enter a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -3923,7 +3923,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -3951,21 +3951,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they enter a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -3992,21 +3992,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey enter a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -4269,7 +4269,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -4297,21 +4297,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -4338,21 +4338,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage [Var_0] more times, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -4640,7 +4640,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -4668,21 +4668,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -4709,21 +4709,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -4992,21 +4992,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<sine:ω>キシシ！"
+                            "\\n<sine:ω>ω: Kishishi! We won't be able to damage Cocoa\nunless we defeat the drone!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "\\c[2]ドローンを倒さない限り"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "ココにダメージを与えることはできない\\c[0]ぞ！"
+                            ""
                         ]
                     },
                     {
@@ -5023,14 +5023,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<sine:ω>ココの完璧なフォーメーションを"
+                            "\\n<sine:ω>ω: I wonder if we can break through Cocoa's\nperfect formation?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "突破することができるかな？"
+                            ""
                         ]
                     },
                     {
@@ -5217,21 +5217,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<sine:ω>\\{ボクのドローンが！？\\!"
+                            "\\n<sine:ω>ω: {My drone!?} Ah... a-ahh... wait...! Hold on a\nsecond!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "\\}あ…あわわ…"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "ちょ…ちょっと待って…！\\!　一回タンマ！"
+                            ""
                         ]
                     },
                     {
@@ -5248,7 +5248,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>ダメだ。"
+                            "\\n<Detective>It's no use."
                         ]
                     },
                     {
@@ -5265,21 +5265,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<sine:ω>…オニ！　アクマ！\\!"
+                            "\\n<sine:ω>...Demon! Devil! If it's come to this... I'll take\ncare of it myself...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "こ…こうなったら…\\|"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "ボク自ら相手してやる…！"
+                            ""
                         ]
                     },
                     {
@@ -5378,7 +5378,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -5406,21 +5406,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -5447,21 +5447,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -5735,7 +5735,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -5763,21 +5763,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -5804,21 +5804,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6021,14 +6021,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>んぅッ♥\\!"
+                            "\\n<???>Mmm, it feels good, Papa. Keep it up."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "いいよ、パパ♥　その調子♥"
+                            ""
                         ]
                     },
                     {
@@ -6045,14 +6045,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>でも、まだ足りない…"
+                            "\\n<???>But, it's still not enough... Shall we play more,\nPapa? ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "もっと遊ぼ？　パパ♥"
+                            ""
                         ]
                     },
                     {
@@ -6147,7 +6147,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -6175,21 +6175,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6216,21 +6216,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6433,14 +6433,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>ッ…！♥"
+                            "\\n<???>Ah...! ♥...F-Fuhi...♥ It feels so good, Papa ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "…フ…フヒ…♥　気持ちいいよ、パパ♥"
+                            ""
                         ]
                     },
                     {
@@ -6457,14 +6457,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>お返しに、"
+                            "\\n<???>As a return, I'll make you feel really good ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "沢山気持ちよくしてあげる♥"
+                            ""
                         ]
                     },
                     {
@@ -6559,7 +6559,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -6587,21 +6587,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they go into a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6628,21 +6628,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey go into a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6899,7 +6899,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -6927,21 +6927,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -6968,21 +6968,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -7394,7 +7394,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -7422,21 +7422,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -7463,21 +7463,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -7734,7 +7734,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -7762,21 +7762,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -7803,21 +7803,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage again, it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -8080,7 +8080,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -8108,21 +8108,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they enter a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -8149,21 +8149,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey enter a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -8463,7 +8463,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -8491,21 +8491,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]The character has entered a state of\nmadness\\C[0]. If they enter a state of rampage\n\\V[7] more times\\C[0], it will result in a game\nover. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -8532,21 +8532,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "The character has entered a state of rampage. If\nthey enter a state of rampage again, it will\nresult in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -8748,14 +8748,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>うぅ…怖いぃ…\\!"
+                            "\\n<???>Ugh... I'm scared... Is it not enough to just\ncheer?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "応援するだけじゃダメ…？"
+                            ""
                         ]
                     },
                     {
@@ -8772,7 +8772,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>はぁ…ダルいなぁ。"
+                            "\\n<???>Ugh... I'm so tired."
                         ]
                     },
                     {
@@ -8789,21 +8789,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>おいテメェら！"
+                            "\\n<???>Hey, you guys! Get fired up! If you're gonna\nfight, do it seriously or it'll be disrespectful\nto your opponent!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "気合い入れやがれ！\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "喧嘩は本気でやらなきゃ相手に失礼だろうが！"
+                            ""
                         ]
                     },
                     {
@@ -8820,7 +8820,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>喧嘩のつもりはないんだが…"
+                            "\\n<Detective>I don't intend to fight..."
                         ]
                     },
                     {
@@ -8930,21 +8930,21 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>チッ…"
+                            "\\n<???>Tch... Sorry, both of you... I'll leave the rest\nto you..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "悪ぃな二人とも…\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "あとは任せた…。"
+                            ""
                         ]
                     },
                     {
@@ -8961,14 +8961,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>イチルちゃん！！"
+                            "\\n<???>Ichiru-chan!! No way..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "そんな…"
+                            ""
                         ]
                     },
                     {
@@ -8985,14 +8985,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>……コマリ、しゃんとして。\\!"
+                            "\\n<???>...Komari, pull yourself together... I'll do it."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…やるよ。"
+                            ""
                         ]
                     },
                     {
@@ -9054,21 +9054,21 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>チッ…"
+                            "\\n<???>Tch... Sorry, Komari... I'll leave the rest to\nyou..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "悪ぃなコマ…\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "あとは頼む…。"
+                            ""
                         ]
                     },
                     {
@@ -9085,14 +9085,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>イチルちゃん！！\\!"
+                            "\\n<???>Ichiru-chan!! ...I won't forgive you anymore...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…ッ……　もう許さない…！"
+                            ""
                         ]
                     },
                     {
@@ -9154,14 +9154,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>チッ…！"
+                            "\\n<???>Tch...! Is this... the end...?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "ここまで…か…。"
+                            ""
                         ]
                     },
                     {
@@ -9223,14 +9223,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>チッ…！"
+                            "\\n<???>Tch...! Is this... the end...?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "ここまで…か…。"
+                            ""
                         ]
                     },
                     {
@@ -9247,14 +9247,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>……え…あたし一人…？\\!"
+                            "\\n<???>...Me alone...? ...How bothersome."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "……ダル。"
+                            ""
                         ]
                     },
                     {
@@ -9349,14 +9349,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>あ、ごめんもう無理そ。\\!"
+                            "\\n<???>Ah, sorry, I can't do it anymore. You two, please\ntake care of the rest~."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "二人とも、あとはよろしくね～。"
+                            ""
                         ]
                     },
                     {
@@ -9373,21 +9373,21 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>あッ!\\!"
+                            "\\n<???>Ah! Hey, Ai! You better be telling the truth!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "おいアイ！"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "てめぇそれホントだろうな！"
+                            ""
                         ]
                     },
                     {
@@ -9404,14 +9404,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ふえぇ…　アイちゃん…。"
+                            "\\n<???>Eek... Ai-chan... is... doing her best, Ichiru-\nchan...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "が…頑張ろイチルちゃん…！"
+                            ""
                         ]
                     },
                     {
@@ -9473,14 +9473,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ん～、ごめんもう無理そ。\\!"
+                            "\\n<???>Mmm, sorry, I can't do it anymore. Well then, I'll\nleave the rest to you, Rin-pon."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "じゃ、あと頼んだリンぽん。"
+                            ""
                         ]
                     },
                     {
@@ -9497,21 +9497,21 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>アイちゃん！！"
+                            "\\n<???>Ai-chan!!... *sniffle* It's Komari... *sob* What\nshould I do all by myself...?"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…ふえぇ…”コマリ”だよ…。\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "うぅ…ひとりでどうすればいいのぉ…？"
+                            ""
                         ]
                     },
                     {
@@ -9573,14 +9573,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>あ～、ごめん二人とも、"
+                            "\\n<???>Ah~ Sorry, both of you. I tried my best, but it\nwas just impossible."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "頑張ったけど普通に無理だったわ。"
+                            ""
                         ]
                     },
                     {
@@ -9642,14 +9642,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>……じゃあとよろしくねイチル。"
+                            "\\n<???>......Well then, please take care of it,\nIchiru.... Fight~."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…ふぁいと～。"
+                            ""
                         ]
                     },
                     {
@@ -9666,21 +9666,21 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>真面目にやったんだろうなテメェ！\\!"
+                            "\\n<???>You really did your best, didn't you? Damn it...\nFine, I'll do it myself even if it's just me!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "クソッ…"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "上等だ、オレひとりでもやってやる！"
+                            ""
                         ]
                     },
                     {
@@ -9775,14 +9775,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ごめんなさい…\\!"
+                            "\\n<???>I'm sorry... I... I can't take it anymore..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "も…もう無理ぃ…"
+                            ""
                         ]
                     },
                     {
@@ -9799,14 +9799,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>コマリ！\\!"
+                            "\\n<???>Komari! How dare you do something like this..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "テメェ、よくもやってくれやがったな…。"
+                            ""
                         ]
                     },
                     {
@@ -9823,14 +9823,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>…イチル、油断しないで。\\!"
+                            "\\n<???>...Ichiru, don't let your guard down. I'm more\ncapable than you think, young man."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "思ったよりやるよ、このおじさん。"
+                            ""
                         ]
                     },
                     {
@@ -9892,14 +9892,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ごめんなさいアイちゃん…\\!"
+                            "\\n<???>I'm sorry, Aichan... Komari... I can't take it\nanymore..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "コマリ…もう無理ぃ…"
+                            ""
                         ]
                     },
                     {
@@ -9916,14 +9916,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>え～…あたしひとりかぁ…\\!"
+                            "\\n<???>Ugh... I'm all alone... It's so boring..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…ダル…。"
+                            ""
                         ]
                     },
                     {
@@ -9985,14 +9985,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ごめんなさい…ふたりとも…\\!"
+                            "\\n<???>I'm sorry... Both of you... I couldn't win against\nKomari after all..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "やっぱりコマリじゃ勝てなかったよ…"
+                            ""
                         ]
                     },
                     {
@@ -10054,14 +10054,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>ごめんなさい…イチルちゃん…\\!"
+                            "\\n<???>I'm sorry... Ichiru-chan... I... can't... take it\nanymore..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "もう…無理ぃ…"
+                            ""
                         ]
                     },
                     {
@@ -10078,14 +10078,14 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "\\n<???>コマリ！\\!"
+                            "\\n<???>Komari!... Fine, I'll do it myself even if I'm\nalone!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 2,
                         "parameters": [
-                            "…上等だ、オレひとりでもやってやる！"
+                            ""
                         ]
                     },
                     {
@@ -10386,7 +10386,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "…！"
+                            "...!"
                         ]
                     },
                     {
@@ -10414,21 +10414,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "\\C[2]狂化状態\\C[0]となりました。"
+                            "\\C[2]You have entered a state of madness\\C[0]. If\nyou go into a rampage state \\V[7] more times\\C[0],\nit will result in a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "あと\\C[10]\\V[7]回\\C[0]暴走状態となるとゲームオーバーになります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -10455,21 +10455,21 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "暴走状態となりました。"
+                            "I have entered a state of rampage. If I enter a\nstate of rampage \\C[10]again\\C[0], it will result\nin a game over. Please be careful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "次に暴走状態となると\\C[10]ゲームオーバー\\C[0]となります。"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 1,
                         "parameters": [
-                            "注意してください。"
+                            ""
                         ]
                     },
                     {
@@ -10639,7 +10639,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>お手並み拝見、だね♥"
+                            "\\n<???>Let's see what you've got ♥"
                         ]
                     },
                     {
@@ -10656,7 +10656,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>上等だ…。"
+                            "\\n<Detective>Excellent..."
                         ]
                     },
                     {
@@ -10697,14 +10697,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>あんッ…！♥"
+                            "\\n<???>Ahh...! You're good, mister♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "やるね、おじさん♥"
+                            ""
                         ]
                     },
                     {
@@ -10721,14 +10721,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>でも、これで終わりじゃないんでしょ？♥\\!"
+                            "\\n<???>But this isn't the end, right? Show me more,\nUncle's power♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "もっと見せてみてよ、おじさんのチカラ♥"
+                            ""
                         ]
                     },
                     {
@@ -10769,21 +10769,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>んッ…！♥"
+                            "\\n<???>Nn...! ♥ Hehehe ♥ You've trained properly, haven't\nyou, old man? ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "フフフ♥　いいじゃんおじさん♥\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "ちゃんと鍛えてきたみたいだね♥"
+                            ""
                         ]
                     },
                     {
@@ -10800,14 +10800,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<???>なら、ルナも本気で応えてあげなきゃね♥"
+                            "\\n<???>Well then, Luna will have to respond seriously\ntoo, right? Are you ready, old man? ♥"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "覚悟はいい？　おじさん♥"
+                            ""
                         ]
                     },
                     {
@@ -10935,7 +10935,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<？？？>霑斐○窶ｦ遘√?螽倥ｒ霑斐○窶ｦ"
+                            "\\n<???>What are you talking about? I don't understand."
                         ]
                     },
                     {
@@ -10952,21 +10952,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>凄まじい殺気だ…\\!"
+                            "\\n<Detective>Such an intense killing intent... She may look the\nsame, but... she's like a completely different\nperson... no, something else entirely."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "見た目だけはあの子だが…まるで別人…"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "いや、別の”何か”だ。"
+                            ""
                         ]
                     },
                     {
@@ -10983,14 +10983,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>本気で戦おう…。\\!"
+                            "\\n<Detective>Let's fight for real... Otherwise, we'll be done\nfor."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "さもなくばこちらがやられる。"
+                            ""
                         ]
                     },
                     {
@@ -11031,7 +11031,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<？？？>縺薙?遞句ｺｦ縺ｧ邨ゅｏ繧翫〒縺ｯ縺ｪ縺?□繧阪≧縺ｪ?"
+                            "\\n<???>I'm sorry, but I don't understand what you're\ntrying to say."
                         ]
                     },
                     {
@@ -11048,21 +11048,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>少しは体力を削れたか…？"
+                            "\\n<Detective>Did I manage to wear you down a bit...? But you're\nstill going strong... I need to wear you down even\nmore...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "だがまだピンピンしている…\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "もっと削らないとダメだ…！"
+                            ""
                         ]
                     },
                     {
@@ -11103,14 +11103,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<？？？>濶ｯ縺?□繧阪≧縲"
+                            "\\n<???>I'm sorry, but I can't understand what you're\nsaying."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "縺薙％縺九ｉ縺ｯ譛ｬ豌励□縲"
+                            ""
                         ]
                     },
                     {
@@ -11127,21 +11127,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>…！"
+                            "\\n<Detective>...! The atmosphere has changed... I should be\ncareful."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "雰囲気が変わった…。\\!"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "注意しよう。"
+                            ""
                         ]
                     },
                     {
@@ -11182,14 +11182,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<？？？>縺ゅ＝窶ｦ繝ｫ繝岩?ｦ"
+                            "\\n<???>I'm sorry, but I can't understand what you're\ntrying to say."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "縺顔宛縺輔ｓ繧定ｨｱ縺励※縺上ｌ窶ｦ"
+                            ""
                         ]
                     },
                     {
@@ -11206,21 +11206,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\n<Detective>…はぁ…はぁ…！\\!"
+                            "\\n<Detective>...Haa...haa...! The enemy is quite\nexhausted...just a little more...!"
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "敵も随分消耗している…"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "あと少しだ…！"
+                            ""
                         ]
                     },
                     {

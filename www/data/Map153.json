@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サンルーム",
+    "displayName": "Sunroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 12,
@@ -1449,14 +1449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "3人家族を描いた絵のようだ…"
+                                "It's like a painting depicting a family of\nthree... The mother's face is blurred out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "母親の顔は塗りつぶされている…"
+                                ""
                             ]
                         },
                         {
@@ -1701,7 +1701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何も入っていなかった…"
+                                "There was nothing inside..."
                             ]
                         },
                         {
@@ -1829,14 +1829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供用の服がしまわれている。"
+                                "There are children's clothes stored here. It seems\nthat some socks are missing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "靴下がいくつか揃っていないようだ…"
+                                ""
                             ]
                         },
                         {
@@ -1972,7 +1972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みのコンドームが放り込まれている…"
+                                "There's a used condom thrown in here..."
                             ]
                         },
                         {
@@ -2108,7 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた子ども服が放り込まれている。"
+                                "Torn children's clothes are being thrown in."
                             ]
                         },
                         {
@@ -2244,7 +2244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "枯れかけの花が咲いている…"
+                                "A withered flower is blooming..."
                             ]
                         },
                         {

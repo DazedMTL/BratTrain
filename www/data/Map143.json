@@ -1628,14 +1628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アリア撃破」"
+                                "Do you want to view Aria Defeated?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -1643,8 +1643,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1869,14 +1869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「尋問足コキプレイ」"
+                                "Would you like to view the 'Interrogation Footjob\nPlay'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -1884,8 +1884,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2103,14 +2103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アリアに敗北」"
+                                "Would you like to view Aria's Defeat?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2118,8 +2118,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2337,14 +2337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ココ撃破」"
+                                "Do you want to view 'Cocoa Defeated'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2352,8 +2352,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル画面にもどりますか？"
+                                "Return to the title screen?"
                             ]
                         },
                         {
@@ -2519,8 +2519,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル画面にもどりますか？"
+                                "Return to the title screen?"
                             ]
                         },
                         {
@@ -2677,8 +2677,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2894,14 +2894,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ココに敗北」"
+                                "Do you want to view 'Defeat Here'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -2909,8 +2909,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3061,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル画面にもどりますか？"
+                                "Return to the title screen?"
                             ]
                         },
                         {
@@ -3069,8 +3069,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3219,21 +3219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このスイッチでは、"
+                                "With this switch, you can confirm the BGM change\nin the flashback room and check images such as\nrough drafts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]回想ルームのBGM変更\\c[0]か"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]没ラフなどのイメージを確認\\c[0]できます。"
+                                ""
                             ]
                         },
                         {
@@ -3241,9 +3241,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "回想ルームのBGMを変える",
-                                    "没ラフを見る",
-                                    "やめる"
+                                    "Change the BGM in the flashback room",
+                                    "View rough drafts",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -3264,9 +3264,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常BGM",
-                                    "メスガキ音頭",
-                                    "そのまま"
+                                    "Normal BGM",
+                                    "Masculine Brat March",
+                                    "Leave it as is"
                                 ],
                                 2,
                                 0,
@@ -3471,7 +3471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル画面にもどりますか？"
+                                "Return to the title screen?"
                             ]
                         },
                         {
@@ -3479,8 +3479,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3641,7 +3641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル画面にもどりますか？"
+                                "Return to the title screen?"
                             ]
                         },
                         {
@@ -3649,8 +3649,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4899,14 +4899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「3人組撃破」"
+                                "Do you want to view 'Defeat the Trio'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4914,8 +4914,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5140,14 +5140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「3人組撃破」"
+                                "Do you want to view 'Defeat the Trio'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -5155,8 +5155,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5564,14 +5564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミヤコ撃破」"
+                                "Do you want to view 'Defeat Miyako'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -5579,8 +5579,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5805,14 +5805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミヤコに敗北」"
+                                "Would you like to view Defeat by Miyako?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -5820,8 +5820,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6039,14 +6039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ルナ撃破」"
+                                "Do you want to view 'Luna Defeated'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6054,8 +6054,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6287,14 +6287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ルナに敗北」"
+                                "Do you want to view 'Defeat Luna'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を閲覧しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6302,8 +6302,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6454,21 +6454,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このスイッチは全回想シーンの解放スイッチです！\\!"
+                                "This switch is the unlock switch for all the\nflashback scenes! Once it's turned \\c[2]ON, you\ncan't go back to the way it was\\c[0]. Will you\nunlock it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]ONにすると元には戻せません\\c[0]が、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "解放しますか？"
+                                ""
                             ]
                         },
                         {
@@ -6476,8 +6476,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "全開放！",
-                                    "やめとく…"
+                                    "Unlock all!",
+                                    "I'll pass"
                                 ],
                                 1,
                                 0,
@@ -6661,7 +6661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全シーン解放！"
+                                "Unlock all scenes!"
                             ]
                         },
                         {
@@ -6775,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想シーンは全開放済みです。"
+                                "All flashback scenes have been unlocked."
                             ]
                         },
                         {
@@ -6855,7 +6855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…\\|回想シーンはもう全部解放済みだって言ってるのに…"
+                                "...They're saying that all the flashback scenes\nhave already been unlocked..."
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに物足りないんですか…？"
+                                "Is it really that unsatisfying...?"
                             ]
                         },
                         {
@@ -6880,8 +6880,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6911,28 +6911,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかりました、"
+                                "Alright, then let's unlock the switch to change\nthe BGM in the flashback room to an original song,\nas well as release the collection of rough images\nand other unreleased materials!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでは特別に…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]回想ルームのBGMをオリジナル曲に変更するスイッチ\\c[0]と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]没ラフなどのイメージ集\\c[0]を解放しましょう！"
+                                ""
                             ]
                         },
                         {
@@ -7044,21 +7044,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想シーンは全部解放済みです。"
+                                "All flashback scenes have been unlocked. There's\nreally nothing else, so please don't press\nanything. The lever will come off."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう本当に何もありませんので押さないでください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レバーが取れてしまいます。"
+                                ""
                             ]
                         },
                         {

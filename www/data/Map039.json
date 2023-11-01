@@ -2671,7 +2671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -2796,7 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -2813,7 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3022,7 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Toto Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3099,7 +3099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3116,7 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Toto Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3193,14 +3193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Freckles, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3217,14 +3217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's dermatology clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3301,14 +3301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Pores, wrinkles, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3325,14 +3325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "Dr. Kitahara's Dermatology Clinic, let's start\nwith a consultation about your concerns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3409,14 +3409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3433,14 +3433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3517,14 +3517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3541,14 +3541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Tokyo - HGI Clean City Project"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3625,7 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -3750,7 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -3827,7 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -3904,21 +3904,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -3995,21 +3995,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4086,21 +4086,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(I haven't used a ticket machine in a while since\nI started using an IC card.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4177,14 +4177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（コインロッカーが空いてるところって"
+                                "\\n<Detective>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がないな…）"
+                                ""
                             ]
                         },
                         {
@@ -4261,14 +4261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再開発の影響でかなり発展していたが…）"
+                                ""
                             ]
                         },
                         {
@@ -4345,14 +4345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（コインロッカーが空いてるところって"
+                                "\\n<Detective>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がないな…）"
+                                ""
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4506,7 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4667,7 +4667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -4792,7 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -4809,7 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -4917,7 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（変だな…誰もいない…）"
+                                "\\n<Detective>(This is strange... No one is here...)"
                             ]
                         },
                         {
@@ -4995,7 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だかとても嫌な予感がする…"
+                                "I have a really bad feeling about this..."
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず外に出よう…"
+                                "Let's just go outside for now..."
                             ]
                         },
                         {
@@ -5188,14 +5188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. It had developed quite a bit\ndue to redevelopment...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再開発の影響でかなり発展していたが…）"
+                                ""
                             ]
                         },
                         {

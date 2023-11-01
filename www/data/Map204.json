@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "３F　配電室",
+    "displayName": "3F Power Distribution Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2129,7 +2129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ヒューズ\\C[0]を手に入れた！"
+                                "I obtained the \\C[2]Fuse\\C[0]!"
                             ]
                         },
                         {
@@ -2146,14 +2146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これがあれば"
+                                "\\n<Detective>With this, even places that are not electrified\nwill move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]通電していない所も動くだろう。"
+                                ""
                             ]
                         },
                         {
@@ -2268,14 +2268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>どこかの配電盤のようだが…"
+                                "\\n<Detective>It looks like some kind of distribution panel...\nbut for some reason, the door is open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何故か扉が開いている。"
+                                ""
                             ]
                         },
                         {
@@ -2292,14 +2292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]ヒューズ\\C[0]が取り付けられているが、"
+                                "\\n<Detective>\\C[2]Fuses\\C[0] are installed here, but if you\nremove them, it should stop supplying power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これを抜けば通電しなくなるだろう。"
+                                ""
                             ]
                         },
                         {
@@ -2378,7 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>......"
                             ]
                         },
                         {
@@ -2395,14 +2395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何故かどうしても"
+                                "\\n<Detective>For some reason, I just can't stop thinking about\nthis \\C[2]fuse\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この\\C[2]ヒューズ\\C[0]が気になる…。"
+                                ""
                             ]
                         },
                         {
@@ -2419,14 +2419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……\\!"
+                                "\\n<Detective>...Should I give it a try...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "取ってみようか…？"
+                                ""
                             ]
                         },
                         {
@@ -2434,8 +2434,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヒューズを抜き取る",
-                                    "そのままにする"
+                                    "Remove the fuse",
+                                    "Leave it as it is"
                                 ],
                                 1,
                                 0,
@@ -2495,7 +2495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……。"
+                                "\\n<Detective>......."
                             ]
                         },
                         {
@@ -2531,7 +2531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ヒューズ\\C[0]を手に入れた！"
+                                "I obtained the \\C[2]fuse\\C[0]!"
                             ]
                         },
                         {
@@ -2548,7 +2548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…刑事の勘を信じよう。"
+                                "\\n<Detective>...I'll trust my detective's intuition."
                             ]
                         },
                         {
@@ -2586,14 +2586,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…いや、何を考えているんだ。"
+                                "\\n<Detective>...No, what am I thinking. Let's stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やめておこう。"
+                                ""
                             ]
                         },
                         {

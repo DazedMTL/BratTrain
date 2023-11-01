@@ -1424,14 +1424,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>ねぇ、おじさんが最後に快楽を感じたのは、"
+                                "ルナ\\SE[default]\\n<???>Hey, when was the last time you felt pleasure, old\nman?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつ？"
+                                ""
                             ]
                         },
                         {
@@ -1455,7 +1455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…！？"
+                                "\\N<Detective>...!?"
                             ]
                         },
                         {
@@ -1472,21 +1472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女は踵を返すと同時に、"
+                                "The girl quickly turns on her heel and closes the\ndistance, wearing a fearless smile that makes her\nbreath catch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "吐息が掛かるほどの距離までつめて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不敵な笑みを浮かべる。"
+                                ""
                             ]
                         },
                         {
@@ -1503,21 +1503,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリとなびく長い髪から"
+                                "The body instinctively reacts to the faint sweet\nscent, reminiscent of flowers, that wafts from her\nlong hair swaying gracefully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほのかに香る花のような甘い匂いに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "思わず身体が反応する。"
+                                ""
                             ]
                         },
                         {
@@ -1534,14 +1534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>なっ！何を…！"
+                                "\\N<Detective>Wha-! What are you...! S-Stay away!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "は…離れなさい！"
+                                ""
                             ]
                         },
                         {
@@ -1605,14 +1605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブA\\SE[default]\\n<Girl A>ヤダあのおじさん、"
+                                "モブA\\SE[default]\\n<Girl A>Oh no, that old man's face is all red~ lol"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顔真っ赤～ｗ"
+                                ""
                             ]
                         },
                         {
@@ -1643,14 +1643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブB\\SE[default]\\n<Girl B>そりゃ”ルナ様”相手じゃ"
+                                "モブB\\SE[default]\\n<Girl B>Well, anyone would instantly fall for Luna-sama,\nright? lol"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰でも即オチっしょｗ"
+                                ""
                             ]
                         },
                         {
@@ -1674,21 +1674,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜中の電車にも関わらず、"
+                                "The train is filled with girls, bustling like a\nschool bus, despite it being late at night."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まるでスクールバスの如く賑わいを見せる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少女だらけの電車内。"
+                                ""
                             ]
                         },
                         {
@@ -1705,14 +1705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらを見ながらクスクスと笑う少女たちを前に、"
+                                "In front of the girls who laugh softly while\nlooking at me, a mixture of confusion and a hint\nof anger seeps in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "混乱と僅かな怒りが滲む。"
+                                ""
                             ]
                         },
                         {
@@ -1729,31 +1729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…この車両は一体なんだ…？"
+                                "\\N<Detective>...What is going on with this train car? Why are\nyou all...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君達はなぜ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナ\\SE[default]\\n<???>そんな事はどうでもいいじゃない♡"
+                                ""
                             ]
                         },
                         {
@@ -1770,14 +1753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>今、何がしたいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、何を楽しいと思うか。"
+                                "ルナ\\SE[default]\\n<???>Who cares about that kind of thing♡"
                             ]
                         },
                         {
@@ -1794,21 +1770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>明日も明後日もその先も、"
+                                "ルナ\\SE[default]\\n<???>What do you want to do now? What do you find\nenjoyable now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "来るかどうかなんて分からないんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前の快楽を楽しまないと…。"
+                                ""
                             ]
                         },
                         {
@@ -1825,7 +1794,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>そう、\\C[10]私達\\C[0]のように♡"
+                                "ルナ\\SE[default]\\n<???>Since I don't know if I'll be here tomorrow, the\nday after tomorrow, or beyond that, I should enjoy\nthe pleasure right in front of me..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ルナ\\SE[default]そう、\\C[10]私達\\C[0]\\n<???>Like that♡"
                             ]
                         },
                         {

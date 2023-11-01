@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２F　廊下",
+    "displayName": "2F Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 12,
@@ -2777,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が掛かっている…"
+                                "The door is locked..."
                             ]
                         },
                         {
@@ -2794,14 +2794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]鍵穴は３つ\\C[0]ある。"
+                                "There are three keyholes. It seems that all of\nthem need to be aligned in order to open it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら全て揃えないと開かないようだ。"
+                                ""
                             ]
                         },
                         {
@@ -2887,7 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を差し込んだ！"
+                                "I inserted the key!"
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>どこ行くの…？"
+                                "\\n<???>Where are you going...?"
                             ]
                         },
                         {
@@ -3007,7 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>迎えに来てくれるって言ったのに…"
+                                "\\n<???>I said I would come to pick you up..."
                             ]
                         },
                         {
@@ -3024,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>どうしてまた置いて行くの…？"
+                                "\\n<???>Why are you leaving me behind again...?"
                             ]
                         },
                         {
@@ -3041,14 +3041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……ずっと一緒にいよ？…"
+                                "\\n<???>...Let's stay together forever, Papa♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パパ♡"
+                                ""
                             ]
                         },
                         {
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>……きゃっ…！"
+                                "\\n<???>...Kyaa...!"
                             ]
                         },
                         {
@@ -3258,14 +3258,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>……どうして…？"
+                                "\\n<???>...Why...? Papa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "パパ…"
+                                ""
                             ]
                         },
                         {
@@ -3282,14 +3282,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>す…すまない！"
+                                "\\n<Detective>S-Sorry! Did I hit you somewhere...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どこか打っていないか…？"
+                                ""
                             ]
                         },
                         {
@@ -3306,7 +3306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>……ふ…くふふ…"
+                                "\\n<???>......Hm...hehehe..."
                             ]
                         },
                         {
@@ -3416,14 +3416,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……\\!"
+                                "\\n<Detective>...Where did they go...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どこに行った…？"
+                                ""
                             ]
                         },
                         {
@@ -3440,14 +3440,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>...A-anyway, let's move forward from here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "と…とにかくこの先に進もう。"
+                                ""
                             ]
                         },
                         {
@@ -3525,14 +3525,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（ダメだ…！"
+                                "\\n<Detective>(No...! Let's temporarily move away from here...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ひとまずここから離れよう…！）"
+                                ""
                             ]
                         },
                         {
@@ -3554,14 +3554,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>あっ…！待って…！\\!"
+                                "\\n<???>Ah...! Wait...!..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……"
+                                ""
                             ]
                         },
                         {
@@ -3578,21 +3578,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<???>ふふ…また鬼ごっこ…？"
+                                "\\n<???>Hehe... Another game of tag...? Sure, let's play,\nPapa♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "良いよ、遊ぼ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "パパ♥"
+                                ""
                             ]
                         },
                         {
@@ -3699,14 +3699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を差す暇がない…！"
+                                "I don't have time to lock the door...! I have to\nrun away!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "逃げないと！！"
+                                ""
                             ]
                         },
                         {
@@ -4967,7 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>な…なんだここは…"
+                                "\\n<Detective>W-What is this place..."
                             ]
                         },
                         {
@@ -5191,7 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…どこ行くの、パパ？"
+                                "\\n<???>...Where are we going, Papa?"
                             ]
                         },
                         {
@@ -5208,7 +5208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>パパ…？一体何のことだ…？"
+                                "\\n<Detective>Papa...? What on earth is going on...?"
                             ]
                         },
                         {
@@ -5225,14 +5225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>何言ってるの？"
+                                "\\n<???>What are you talking about? I'm not your papa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パパはパパじゃない。"
+                                ""
                             ]
                         },
                         {
@@ -5249,14 +5249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ね、ちゃんと手当てしてあげるから"
+                                "\\n<???>Hey, once I take care of that for you... will you\npraise me a lot?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが終わったら…沢山褒めてくれる？"
+                                ""
                             ]
                         },
                         {
@@ -5273,21 +5273,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何を言ってるんだ君は…"
+                                "\\n<Detective>What are you talking about... What is this\nplace...? Where is the exit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは一体何なんだ…？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "出口は…"
+                                ""
                             ]
                         },
                         {
@@ -5304,21 +5304,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……\\!"
+                                "\\n<???>...Are you leaving me behind again...? Hey, Papa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また置いて行くの…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ねぇ、パパ。"
+                                ""
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（なんなんだこの子は…）"
+                                "\\n<Detective>(What is this child...)"
                             ]
                         },
                         {
@@ -5375,28 +5375,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコ\\SE[default]\\n<???>どうして離れるの？\\!"
+                                "ミヤコ\\SE[default]\\n<???>Why are you leaving? Why are you trying to escape?\nWhy are you abandoning me? Why? Why? Why? Why?\nWhy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうして逃げようとするの？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうして捨てるの？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうして？\\!どうして？どうして？どうして？どうして？"
+                                ""
                             ]
                         },
                         {
@@ -5420,21 +5420,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…!\\!"
+                                "\\n<Detective>(...I don't know what's going on, but this\natmosphere is bad...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何だかわからんが…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この雰囲気はマズイ…！）"
+                                ""
                             ]
                         },
                         {
@@ -5730,7 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\\|逃がさない…"
+                                "\\n<???>I won't let you escape..."
                             ]
                         },
                         {
@@ -6039,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "片目が取れかかったぬいぐるみが不気味に佇んでいる…"
+                                "A one-eyed stuffed animal is standing ominously..."
                             ]
                         },
                         {
@@ -6286,7 +6286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首から綿が飛び出したぬいぐるみが置かれている…"
+                                "There is a stuffed animal with cotton sticking out\nfrom its neck..."
                             ]
                         },
                         {
@@ -6422,7 +6422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぎはぎだらけのぬいぐるみが置かれている…"
+                                "There are stuffed animals patched up all over the\nplace..."
                             ]
                         },
                         {

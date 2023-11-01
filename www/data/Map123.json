@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "朔晦駅",
+    "displayName": "Sakuhai Station",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3846,7 +3846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "I have no business with you."
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "I have no business with you."
                             ]
                         },
                         {
@@ -4169,7 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都経済新聞――"
+                                "Tokyo Economic Newspaper--"
                             ]
                         },
                         {
@@ -4200,14 +4200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――グループは次期経営者について"
+                                "The group is still refraining from making a formal\nannouncement regarding the next CEO."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未だ正式な発表は控え、"
+                                ""
                             ]
                         },
                         {
@@ -4238,14 +4238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "関係者の話では"
+                                "According to the people involved, it seems that\nthe influence of -- can be seen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――の――が影響しているもの見られる。"
+                                ""
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この影響により株価は――"
+                                "Due to this influence, the stock price has--"
                             ]
                         },
                         {
@@ -4353,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "週刊東都――"
+                                "Weekly Toto--"
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――組の抗争勃発か！？"
+                                "Is a conflict between factions about to break\nout?!"
                             ]
                         },
                         {
@@ -4408,14 +4408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――組による――組構成員に対する銃撃事件から1年。"
+                                "One year has passed since the shooting incident\ntargeting members of the -- group. Amid concerns\nof retaliation by the -- group,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――会による報復が懸念される中で"
+                                ""
                             ]
                         },
                         {
@@ -4453,21 +4453,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――で行われていた交渉が――されていたが、"
+                                "Negotiations that were taking place in --- were\nsuspended, as it was reported by a certain\ninformant that --- announced the termination of\nthe negotiations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――が交渉の打ち切りを表明したと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とある情報筋から―――"
+                                ""
                             ]
                         },
                         {
@@ -4551,7 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都新聞――"
+                                "Tokyo News--"
                             ]
                         },
                         {
@@ -4575,7 +4575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厚労省が――年度の――――相談対応件数の推移を発表"
+                                "The Ministry of Health, Labour and Welfare has\nannounced the trend in the number of consultations\nhandled for the fiscal year --."
                             ]
                         },
                         {
@@ -4606,14 +4606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近年問題となっている―――対策について"
+                                "As various measures are being taken to address the\nissue of ---, which has become a problem in recent\nyears,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――が様々な――を進める中、"
+                                ""
                             ]
                         },
                         {
@@ -4644,14 +4644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――は――年度の――――相談対応件数の速報値を発表。"
+                                "--- has announced the preliminary value of the\nnumber of consultations handled for the fiscal\nyear --, showing an increase of -% compared to the\nprevious year."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前年に比較して―%の増加を見せ、"
+                                ""
                             ]
                         },
                         {
@@ -4682,14 +4682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中でも、――――に係る件数はおよそ1万―――増加、"
+                                "Among them, the number of cases related to ----\nhas shown an increase of approximately 10,000,\nwith an increase of approximately 7,000 cases from\n-- notifications."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――等からの通告の増加がおよそ7千件という推移を見せ、"
+                                ""
                             ]
                         },
                         {
@@ -4720,14 +4720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――――によると、"
+                                "According to ----, the recent situation has led to\na ---- in ----."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昨今の情勢に伴う―――な――"
+                                ""
                             ]
                         },
                         {
@@ -4804,14 +4804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<酔っ払い？>むにゃむにゃ…"
+                                "\\n<Drunkard?>Mumbling... *hiccup*... Hey, bring me some\nalcohol!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヒック……おーい、酒を持って来ーい！"
+                                ""
                             ]
                         },
                         {
@@ -4828,14 +4828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（酔っ払いか…？"
+                                "\\n<Detective>(Is he drunk...? What a nuisance...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はた迷惑な奴だ…。）"
+                                ""
                             ]
                         },
                         {
@@ -5045,45 +5045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<酔っ払い？>私は地球だァ！"
+                                "\\n<Drunkard?>I am the Earth! Hmm... mumble mumble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うーん…むにゃむにゃ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<駅員>はいはい、危ないから早く退いてください。\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとアナタどういう恰好してるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっていますか？"
+                                ""
                             ]
                         },
                         {
@@ -5100,14 +5069,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<酔っ払い？>うるさい！"
+                                "\\n<Station Attendant>Yes, yes, please move away quickly as it's\ndangerous. Also, do you realize how you're\ndressed?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家族以外が私に触るな！"
+                                "\\n<Drunkard?>Shut up! Don't touch me unless you're family!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5124,21 +5124,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（一体"
+                                "\\n<Detective>(How much did you drink to end up like this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何をどれ程飲んだら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうなるんだ…）"
+                                ""
                             ]
                         },
                         {
@@ -5215,45 +5215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<酔っ払い？>私は地球だァ！"
+                                "\\n<Drunkard?>Am I a drunkard? I am the Earth! Hmm... mumble\nmumble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うーん…むにゃむにゃ…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<駅員>はいはい、危ないから早く退いてください。\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとアナタどういう恰好してるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっていますか？"
+                                ""
                             ]
                         },
                         {
@@ -5270,14 +5239,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<酔っ払い？>うるさい！"
+                                "\\n<Station Attendant>Yes, yes, please move away quickly, it's\ndangerous. Also, do you know what kind of attire\nyou're wearing?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家族以外が私に触るな！"
+                                "\\n<Drunkard?>Shut up! Don't touch me if you're not family!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5294,21 +5294,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（一体"
+                                "\\n<Detective>(How much do you have to drink to end up like\nthis...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何をどれ程飲んだら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうなるんだ…）"
+                                ""
                             ]
                         },
                         {
@@ -5387,14 +5387,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女の子>最近なんかヤバい奴多いなこの街…"
+                                "\\n<Girl>There have been a lot of dangerous people in this\ntown lately... Maybe I should move..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "引っ越そうかな…"
+                                ""
                             ]
                         },
                         {
@@ -5411,14 +5411,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（まったくだ…"
+                                "\\n<Detective>(Seriously... What on earth is happening in this\nplace...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体どうなってるんだここは…）"
+                                ""
                             ]
                         },
                         {
@@ -5495,14 +5495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おばあさん>いやだわぁ…"
+                                "\\n<Grandma>Ugh... Lately, there have been a lot of strange\nthings around this station."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近この駅の周辺は変なのが多いのよ。"
+                                ""
                             ]
                         },
                         {
@@ -5519,21 +5519,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おばあさん>あら、あなた見ない顔ねぇ。"
+                                "\\n<Grandma>Oh, I haven't seen your face before. I won't say\nanything bad, but if you came here for\nsightseeing, it's better to stop right here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "悪い事は言わないわ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "観光で来たならここは止めといた方がいいわよ。"
+                                ""
                             ]
                         },
                         {
@@ -5559,14 +5559,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あはは…"
+                                "\\n<Detective>Ahaha... It's work-related... It's not exactly\nlike that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕事関係でして…そういうわけにも。"
+                                ""
                             ]
                         },
                         {
@@ -5583,14 +5583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（俺だって出来る事なら"
+                                "\\n<Detective>(If I could, I would prefer to be assigned to a\ndifferent location...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の任地の方が良いんだけどな…）"
+                                ""
                             ]
                         },
                         {
@@ -5824,7 +5824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "I have no business with you."
                             ]
                         },
                         {
@@ -6110,38 +6110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（！？"
+                                "\\n<Detective>(!?... What is this guy...!?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…なんだコイツは…！？）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<クマ…？>例のウイルスの脅威が迫る中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は完璧な感染対策が何かを考え続けた…"
+                                ""
                             ]
                         },
                         {
@@ -6158,21 +6134,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<クマ…？>その最終形態がこれだ！\\!"
+                                "\\n<Kuma...?>As the threat of the infamous virus loomed, I\ncontinued to ponder what the perfect measures\nagainst infection would be..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フハハハハ！どうだ矮小なるウイルス共め！\\!"
+                                "\\n<Kuma...?>This is its final form! Fuhahahaha! How about it,\nyou puny viruses! If there's anything that can\ninvade this body, then come and try it!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この玉体に侵入できるものならやってみろ！！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6189,14 +6189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…心配すべきなのは感染症ではなく"
+                                "\\n<Detective>(...What we should be worried about is not the\ninfection, but the sickness of the mind...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭の病気だろう…）"
+                                ""
                             ]
                         },
                         {
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "I have no business with you."
                             ]
                         },
                         {
@@ -6896,7 +6896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "I have no business with you."
                             ]
                         },
                         {
@@ -6983,7 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（おいおい、またぶっ飛んだのがいるな…）"
+                                "\\n<Detective>(Oh boy, looks like we've got another weirdo...)"
                             ]
                         },
                         {
@@ -7000,7 +7000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<王様？>…おい貴様！"
+                                "\\n<King?>Hey, you!"
                             ]
                         },
                         {
@@ -7017,7 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>は…はい、なんでしょう…？"
+                                "\\n<Detective>Y-Yes, what is it...?"
                             ]
                         },
                         {
@@ -7034,14 +7034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<王様？>余を誰と心得る。"
+                                "\\n<King?>Who do you think I am? Hurry up and guide me to\nthe royal castle!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっさと王城まで案内せぬか！"
+                                ""
                             ]
                         },
                         {
@@ -7058,14 +7058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…あの、おじいさん。"
+                                "\\n<Detective>Um, excuse me, sir..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "失礼ですが…"
+                                ""
                             ]
                         },
                         {
@@ -7082,21 +7082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<王様？>わしはキングじゃ！"
+                                "\\n<King?>I am the King! How dare you speak to me like that!\nListen, I am the rightful heir to that kingdom..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴様先ほどからその口の聞き方はなんじゃ！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいか、わしはかの王国の正当なる後継者として…"
+                                ""
                             ]
                         },
                         {
@@ -7113,21 +7113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…なんだかよく分からないが"
+                                "\\n<Detective>(...I'm not quite sure what's going on, but it\nseems better to step away while they're enjoying\nthemselves...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよさそうに話している間に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "離れた方が良さそうだ…）"
+                                ""
                             ]
                         },
                         {
@@ -7204,48 +7204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今度は魔法使い…か？"
+                                "\\n<Detective>(Now it's a magician...? Is this town hosting a\ncosplay event or something?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コスプレ大会でもやってるのかこの街は…）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<魔法使い？>\\{\\{アブラケタブラ！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>！！"
+                                ""
                             ]
                         },
                         {
@@ -7262,21 +7228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い？>ヒャハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んだ死んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒーヒヒヒヒ！"
+                                "\\n<Magician?>Abracadabra!"
                             ]
                         },
                         {
@@ -7293,7 +7245,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（帰りたい…）"
+                                "\\n<Detective>!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Magician?>Hyahaha! You're dead, dead! Heeheehee!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>(I want to go home...)"
                             ]
                         },
                         {

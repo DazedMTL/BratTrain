@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "リビング",
+    "displayName": "Living Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -5005,7 +5005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜか少女の下着が挟まっている…"
+                                "For some reason, a girl's underwear is stuck..."
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>大丈夫だ、このぐらいすぐ治る。"
+                                "\\n<Detective>Don't worry, this will heal quickly."
                             ]
                         },
                         {
@@ -5158,14 +5158,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ダメだよ、バイ菌が入ったら大変。"
+                                "\\n<???>No, it's not good. It'll be a big problem if\nbacteria gets in. Wait, I'll go get the first aid\nkit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待ってて、救急箱取ってくるから。"
+                                ""
                             ]
                         },
                         {
@@ -5483,14 +5483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…しかし、"
+                                "\\n<Detective>...But, are we really inside a train here...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは本当に電車の中なのか…？"
+                                ""
                             ]
                         },
                         {
@@ -5507,14 +5507,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…とりあえず"
+                                "\\n<Detective>...For now, let's wait for that girl to come back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの少女が戻るのを待とう。"
+                                ""
                             ]
                         },
                         {
@@ -5774,7 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…戻ってこない…"
+                                "\\n<Detective>...She's not coming back..."
                             ]
                         },
                         {
@@ -5791,14 +5791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>一体どこに行ったんだ…？"
+                                "\\n<Detective>Where on earth did she go...? Let's search around\na bit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -6430,7 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {
@@ -6657,7 +6657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "AVが無造作にしまわれている。"
+                                "The AV is carelessly stored away."
                             ]
                         },
                         {
@@ -6793,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は蹴られたような跡がついている。"
+                                "The door has marks as if it was kicked."
                             ]
                         },
                         {
@@ -6929,7 +6929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた本がしまわれている…"
+                                "The torn book is being stored..."
                             ]
                         },
                         {
@@ -7065,7 +7065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "割れた食器がしまわれている…"
+                                "The broken dishes are stored away..."
                             ]
                         },
                         {
@@ -7201,7 +7201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨に混じって生ごみが入っている…"
+                                "There's garbage mixed in with the miscellaneous\ngoods..."
                             ]
                         },
                         {
@@ -7347,7 +7347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかの部屋の鍵１を手に入れた！"
+                                "I obtained Key 1 from somewhere in the room!"
                             ]
                         },
                         {
@@ -8203,7 +8203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8280,7 +8280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8357,7 +8357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8434,7 +8434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8588,7 +8588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8905,7 +8905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -8982,7 +8982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -9059,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -9136,7 +9136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -9213,7 +9213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {
@@ -9290,7 +9290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空の食器だけが並べられている…。"
+                                "Only empty dishes are lined up..."
                             ]
                         },
                         {

@@ -4664,14 +4664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチA\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch A."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
+                                ""
                             ]
                         },
                         {
@@ -4697,14 +4697,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ふむ…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -4721,14 +4721,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>一体何の事だ…？\\!"
+                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…兎に角、今はここからは通れなさそうだな。"
+                                ""
                             ]
                         },
                         {
@@ -4849,14 +4849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチB\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch B."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
+                                ""
                             ]
                         },
                         {
@@ -4882,14 +4882,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ふむ…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -4906,14 +4906,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -4949,14 +4949,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>一体何の事だ…？\\!"
+                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…兎に角、今はここからは通れなさそうだな。"
+                                ""
                             ]
                         },
                         {
@@ -5034,14 +5034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチ\"A\"と\"B\"\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch A and B."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
+                                ""
                             ]
                         },
                         {
@@ -5067,14 +5067,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ふむ…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -5091,14 +5091,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "探してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -5143,14 +5143,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>一体何の事だ…？\\!"
+                                "\\n<Detective>What on earth is going on...? Anyway, it seems\nlike I can't pass through here for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…兎に角、今はここからは通れなさそうだな。"
+                                ""
                             ]
                         },
                         {
@@ -5405,38 +5405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>さて、"
+                                "\\n<Detective>Well, I need to quickly find the next clue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早く次の手がかりを探さなくては。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[24]\\n<sine:ω>ムググ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このsine:ω様をバカにしやがって…"
+                                ""
                             ]
                         },
                         {
@@ -5453,14 +5429,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>だ…だけどここは、ボクの領域！\\!"
+                                "\\n<sine:ω>ω: \\C[24]Mugu... How dare you underestimate me,\nSine:ω-sama..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                1,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主導権は全部ボクが握っているんだ！"
+                                "\\n<sine:ω>ω: \\C[24]B-But this is my territory! I have\ncomplete control over the situation!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5477,21 +5477,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>フン！"
+                                "\\n<sine:ω>ω: \\C[24]Hmph!... It's pitiful that you can't even\nunderstand the situation you're in, you old man♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…自分の置かれてる状況も理解できないなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かわいそうな、じじぃだな♡"
+                                ""
                             ]
                         },
                         {
@@ -5508,21 +5508,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>まずはたっぷりと"
+                                "\\n<sine:ω>ω: \\C[24]First, I'll thoroughly instill the fear\nof sine:ω-sama into you!! Kishi... Kyahaha!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "sine:ω様の恐ろしさを叩き込んでやる！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キシシ…キャハハハ！！"
+                                ""
                             ]
                         },
                         {
@@ -6137,14 +6137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！！\\!"
+                                "\\n<Detective>What is this poorly designed robot with such a\nstrange hobby!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだこの趣味の悪いロボットは！"
+                                ""
                             ]
                         },
                         {
@@ -6250,14 +6250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>扉までロックされたか…\\!"
+                                "\\n<Detective>The door is locked... Damn... This is bad."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くっ…マズいな。"
+                                ""
                             ]
                         },
                         {
@@ -6325,21 +6325,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>このロボットの数…\\!"
+                                "\\n<Detective>There are so many of these robots... It seems\ndifficult to fight them alone. I need something\nthat can be used as a weapon...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一人で戦うには厳しそうだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か武器になるものは…！"
+                                ""
                             ]
                         },
                         {
@@ -6456,14 +6456,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！\\!"
+                                "\\n<Detective>...! This is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -6489,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>さぁ、前に出ろ！"
+                                "\\n<sine:ω>ω: \\C[24]Now, step forward!"
                             ]
                         },
                         {
@@ -6918,21 +6918,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<ドローン>ギギギ…\\!"
+                                "\\n<Drone>\\C[24]Gigi... Stop Cocoa-sama's legs... Stop\nCocoa-sama's legs..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ココ様　ノ　足止メ…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ココ様　ノ　足止メ…"
+                                ""
                             ]
                         },
                         {
@@ -6949,14 +6949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>さっきはお前の戦略に乗せられちゃったけど"
+                                "\\n<sine:ω>ω: \\C[24]I may have fallen for your strategy\nearlier, but it won't work next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次はそうはいかないからな！"
+                                ""
                             ]
                         },
                         {
@@ -7148,45 +7148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>ほらほら♪"
+                                "\\n<sine:ω>ω: \\C[24]Look, look♪ The drones are getting\ncloser♪ There's no escape now~? lol"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ドローンたちが近づいてくる♪\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう後がないぞ～？ｗ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>戦略って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君がパニックになっただけだろう…！"
+                                ""
                             ]
                         },
                         {
@@ -7203,14 +7179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（クソッ…この数は本当にマズイ…！\\!"
+                                "\\n<Detective>Strategy... You were just panicking, weren't\nyou...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっき拾ったこれは…発煙筒か？）"
+                                ""
                             ]
                         },
                         {
@@ -7227,14 +7203,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（イチかバチかだ…！"
+                                "\\n<Detective>(Shit... This number is really bad...! Is this\nthing I picked up earlier... a smoke grenade?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目を逸らすぐらいの効果はあるだろう…！）"
+                                "\\n<Detective>(It's a gamble...! It should have enough of an\neffect to divert their attention...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7300,14 +7300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>しまった！？"
+                                "\\n<Detective>Damn it!? It's blowing out on its own...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勝手に吹き出して…！"
+                                ""
                             ]
                         },
                         {
@@ -7364,14 +7364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！？"
+                                "\\n<Detective>...!? Shit...! This is...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クソッ…！これは…！"
+                                ""
                             ]
                         },
                         {
@@ -7388,14 +7388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>ヤバい！"
+                                "\\n<sine:ω>ω: \\C[24]Dangerous! Attack command! Hurry and..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "攻撃コマンド！早くそいつを…"
+                                ""
                             ]
                         },
                         {
@@ -7412,7 +7412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>フンッ！！！"
+                                "\\n<Detective>Hmph!!!"
                             ]
                         },
                         {
@@ -7617,69 +7617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>ココのドローンが…！"
+                                "\\n<sine:ω>ω: \\C[24]Why are Cocoa's drones...! How can they\nbe exposed to the madness gas and still remain\nsane!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんで、狂化ガスをモロに受けて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正気でいられるんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                6,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[24]\\n<sine:ω>並みの人間は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに狂人化して廃人になるはずなのに…！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>狂人化…狂化ガス…廃人…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は…何か知っているようだな…？"
+                                ""
                             ]
                         },
                         {
@@ -7696,7 +7648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>ひっ…！"
+                                "\\n<sine:ω>ω: \\C[24]Ordinary people should quickly become\ninsane and turn into invalids...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7713,21 +7672,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>君といいあの少女といい…"
+                                "\\n<Detective>Madness...Madness gas...Invalids...You seem to\nknow something, don't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                6,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人をオモチャのように扱うのは"
+                                "\\n<sine:ω>ω: \\C[24]Ah...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                1,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけない事だ。"
+                                "\\n<Detective>It's wrong to treat people like toys, both you and\nthat girl..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7744,7 +7744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>…だったらなにさ？"
+                                "\\n<sine:ω>ω: \\C[24]...Then what?"
                             ]
                         },
                         {
@@ -7761,21 +7761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>ここは、ボクの空間。"
+                                "\\n<sine:ω>ω: \\C[24]This is my space. It's up to me how I\nhandle my toys!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクのオモチャをどう扱おうと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクの勝手だ！"
+                                ""
                             ]
                         },
                         {
@@ -7792,21 +7792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>このまま無事に帰れると思うなよ？"
+                                "\\n<sine:ω>ω: \\C[24]Don't think you can safely go back just\nlike this. I, the genius gamer, will make you\ntaste every last bit of the game I created, down\nto the core of your bones!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "天才ゲーマーであるボクが作ったゲーム、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "骨の髄まで味合わせてやる！"
+                                ""
                             ]
                         },
                         {
@@ -7868,45 +7868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これは…"
+                                "\\n<Detective>Is this...a timer...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "タイマー…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                7,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[24]\\n<sine:ω>言っただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはボクのゲーム！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームは制限があるから面白い！"
+                                ""
                             ]
                         },
                         {
@@ -7923,21 +7892,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>もしこのカウントを超えれば…"
+                                "\\n<sine:ω>ω: \\C[24]Didn't I tell you? This is my game! Games\nare interesting because they have limitations!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                7,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の犯罪のしょーこを、"
+                                "\\n<sine:ω>ω: \\C[24]If you exceed this countdown... I'll\nexpose your crimes to the whole world!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全世界にばら撒いてやるからな！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7954,7 +7954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>なっ！？"
+                                "\\n<Detective>What!?"
                             ]
                         },
                         {
@@ -7971,14 +7971,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<sine:ω>さぁ、ゲームスタートだ！"
+                                "\\n<sine:ω>ω: \\C[24]Now, let the game begin! Do your best to\nentertain me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "せいぜいボクを楽しませてみるんだな！"
+                                ""
                             ]
                         },
                         {
@@ -7995,21 +7995,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…クソッ…"
+                                "\\n<Detective>...Damn it... There's not much time... I need to\nhurry and go to her...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それほど時間はない…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "急いであの子の所へ向かおう…！"
+                                ""
                             ]
                         },
                         {
@@ -8266,14 +8266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -8365,14 +8365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -8452,14 +8452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-1\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -8539,14 +8539,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ト　\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] and \\C[2]Γ-1\\C[24]\nswitches have not been unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -8861,14 +8861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -8960,14 +8960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] switch cannot be\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -9047,14 +9047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-1\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -9134,14 +9134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ト　\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] and \\C[2]Γ-1\\C[24]\nswitches have not been unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -9218,7 +9218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回復しますか？"
+                                "Will you recover?"
                             ]
                         },
                         {
@@ -9226,8 +9226,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9360,14 +9360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -9468,14 +9468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -9576,7 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]ERROR\\C[24]"
+                                "\\n<Device>\\C[24]\\C[2]ERROR\\C[24]"
                             ]
                         },
                         {
@@ -9665,7 +9665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]ERROR\\C[24]"
+                                "\\n<Device>\\C[24]\\C[2]ERROR\\C[24]"
                             ]
                         },
                         {
@@ -9742,7 +9742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ロックがかかっていて開かない…"
+                                "\\n<Detective>It's locked and won't open..."
                             ]
                         },
                         {
@@ -9819,7 +9819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スタート地点に戻りますか？"
+                                "Do you want to return to the starting point?"
                             ]
                         },
                         {
@@ -9827,8 +9827,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9980,7 +9980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ホロフレーム\\C[0] を入手した。"
+                                "\\C[2]Obtained\\C[0] a Holoframe."
                             ]
                         },
                         {
@@ -10007,14 +10007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これは何だ…？\\!"
+                                "\\n<Detective>What is this...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…！"
+                                ""
                             ]
                         },
                         {
@@ -10059,14 +10059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…どうやらこのフロアのマップのようだな。"
+                                "\\n<Detective>...It seems to be a map of this floor. I'll\ngratefully make use of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがたく使わせてもらおう。"
+                                ""
                             ]
                         },
                         {
@@ -10095,14 +10095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]フロアマップはアイテムの「たいせつなもの」"
+                                "You can check the floor map from the Important\nItems in the items menu."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "から確認できます。"
+                                ""
                             ]
                         },
                         {

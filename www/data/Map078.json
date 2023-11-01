@@ -1574,14 +1574,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（もうこの先に用はない。"
+                                "\\n<Detective>(There's no need to go any further. Let's get off\nthe train.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車から出よう。）"
+                                ""
                             ]
                         },
                         {
@@ -1668,7 +1668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デバッグ用。進行度変数をアリアステージに。"
+                                "Debug. Progress variable to Aria Stage."
                             ]
                         },
                         {
@@ -1823,14 +1823,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（もうこの先に用はない。"
+                                "\\n<Detective>(There's no need to go any further. Let's get off\nthe train.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "電車から出よう。）"
+                                ""
                             ]
                         },
                         {
@@ -2266,7 +2266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（扉はロックが掛かっている…）"
+                                "\\n<Detective>(The door is locked...)"
                             ]
                         },
                         {
@@ -2374,7 +2374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（扉はロックが掛かっている…）"
+                                "\\n<Detective>(The door is locked...)"
                             ]
                         },
                         {
@@ -2530,7 +2530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリアに関するあれこれ"
+                                "Aria-related things"
                             ]
                         },
                         {
@@ -2658,7 +2658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココに関するあれこれ"
+                                "Regarding Cocoa, there are various things."
                             ]
                         },
                         {
@@ -2786,7 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコに関するあれこれ"
+                                "Regarding Miyako, there are various things."
                             ]
                         },
                         {
@@ -2921,52 +2921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ミヤコの情報によると、"
+                                "\\n<Detective>According to Miyako's information, it seems that\nthere is a daughter of the \\C[2]Kurube Group\\C[0]\nup ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先には\\C[2]訓覇組の娘\\C[0]がいるらしい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>指定暴力団”訓覇組”。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココから受け取ったリストにも載っていた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂人化現象が起きた時期に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動きが活発化していた組織。"
+                                ""
                             ]
                         },
                         {
@@ -2983,21 +2945,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>組長の一人娘なら"
+                                "\\n<Detective>The organization that was active during the period\nwhen the phenomenon of madness occurred, which was\nalso listed in the list I received from the\ndesignated yakuza group, the Kurube Group."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か情報を握っている可能性もある。"
+                                "\\n<Detective>If she's the daughter of the boss, there's a\npossibility that she has some information. Let's\ntry to find Kurube's daughter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訓覇の娘を探してみよう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3105,52 +3105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ミヤコの情報によると、"
+                                "\\n<Detective>According to Miyako's information, it seems that\nthere is a daughter of the \\C[2]Kurube Group\\C[0]\nup ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先には\\C[2]訓覇組の娘\\C[0]がいるらしい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>指定暴力団”訓覇組”。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココから受け取ったリストにも載っていた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂人化現象が起きた時期に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動きが活発化していた組織。"
+                                ""
                             ]
                         },
                         {
@@ -3167,21 +3129,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>組長の一人娘なら"
+                                "\\n<Detective>The organization that was active during the period\nwhen the phenomenon of madness occurred, which was\nalso listed in the list I received from the\ndesignated yakuza group, the Kurube Group."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か情報を握っている可能性もある。"
+                                "\\n<Detective>If she's the daughter of the boss, there's a\npossibility that she has some information. Let's\ntry to find Kurube's daughter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訓覇の娘を探してみよう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3289,52 +3289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ミヤコの情報によると、"
+                                "\\n<Detective>According to Miyako's information, it seems that\nthere is a daughter of the \\C[2]Kurube Group\\C[0]\nup ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先には\\C[2]訓覇組の娘\\C[0]がいるらしい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>指定暴力団”訓覇組”。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココから受け取ったリストにも載っていた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂人化現象が起きた時期に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動きが活発化していた組織。"
+                                ""
                             ]
                         },
                         {
@@ -3351,21 +3313,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>組長の一人娘なら"
+                                "\\n<Detective>The organization that was active during the period\nwhen the phenomenon of madness occurred, which was\nalso listed in the list I received from the\ndesignated yakuza group, the Kurube Group."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か情報を握っている可能性もある。"
+                                "\\n<Detective>If she's the daughter of the boss, there's a\npossibility that she has some information. Let's\ntry to find Kurube's daughter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訓覇の娘を探してみよう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3526,7 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...!"
                             ]
                         },
                         {
@@ -3543,14 +3543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（減速…いや…\\!"
+                                "\\n<Detective>(Slowing down... No... Are we stopping...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "停車してる…？）"
+                                ""
                             ]
                         },
                         {
@@ -3752,7 +3752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ひとまず…降りてみよう。"
+                                "\\n<Detective>For now... let's get off."
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…"
+                                "\\n<Detective>...This is..."
                             ]
                         },
                         {
@@ -3905,21 +3905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"おじさんへ"
+                                "To Detective \\c[2]Cocoa-chan\\c[0],\ncongratulations on your conquest♥ I've prepared a\nwonderful reward for you this time too♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]ココちゃん\\c[0]攻略おめでとう♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今回もステキなご褒美を用意したよ♥\""
+                                ""
                             ]
                         },
                         {
@@ -3936,28 +3936,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"ところで、捜査は順調に進んでる？♥"
+                                "By the way, is the investigation going smoothly?♥\nOnce you make a little more progress, I'll meet up\nwith you, so keep working hard and investigating♥\nFrom Luna♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もうちょっとイイ線まで行ったら会ってあげるから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと頑張って調べてね♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　ルナより♥\""
+                                ""
                             ]
                         },
                         {
@@ -3993,14 +3993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]700\\G\\c[0]と"
+                                "\\c[2]I got 700G and Red:MONSTER!\\c[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Red:MONSTER\\c[0]を手に入れた！"
+                                ""
                             ]
                         },
                         {
@@ -4017,7 +4017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（やはりどこかで見ていたのか…？）"
+                                "\\n<Detective>(So you were watching somewhere after all...?)"
                             ]
                         },
                         {
@@ -4153,7 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…"
+                                "\\n<Detective>...This is..."
                             ]
                         },
                         {
@@ -4170,21 +4170,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"おじさんへ"
+                                "To Detective, first of all, congratulations on\nconquering Aria-chan! This is your reward ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずは\\c[2]アリアちゃん\\c[0]攻略おめでとう♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはご褒美だよ♥\""
+                                ""
                             ]
                         },
                         {
@@ -4201,28 +4201,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"次の子もひと癖ある子だけど、"
+                                "The next girl is a bit quirky, but make sure to\nfollow the rules and have fun playing with her,\njust like you said. From Luna ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと言う通りのルールを守って、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽しく遊んであげてね♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　ルナより♥\""
+                                ""
                             ]
                         },
                         {
@@ -4258,14 +4258,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]500\\G\\c[0]と"
+                                "I obtained 500G and coffee!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]コーヒー\\c[0]を手に入れた！"
+                                ""
                             ]
                         },
                         {
@@ -4282,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……。"
+                                "\\n<Detective>......."
                             ]
                         },
                         {
@@ -4418,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…"
+                                "\\n<Detective>...This is..."
                             ]
                         },
                         {
@@ -4435,21 +4435,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"おじさんへ"
+                                "To Detective, congratulations on capturing\nMiyako-chan ♥ I've prepared a wonderful reward for\nyou this time too ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]ミヤコちゃん\\c[0]攻略おめでとう♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今回もステキなご褒美を用意したよ♥\""
+                                ""
                             ]
                         },
                         {
@@ -4466,28 +4466,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"喜んで、あと少しでルナに会えるよ♥"
+                                "I'm glad, just a little more and I'll be able to\nmeet Luna ♥ The daughter of Kurube who holds\nLuna's key...! I wonder what kind of child she\nis~? ♥ Do your best! ♥ Luna"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルナのカギを握る\"訓覇の娘\"…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体どんな子なんだろうね～？♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってね！♥　　　　　　　　　　　　　ルナ\""
+                                ""
                             ]
                         },
                         {
@@ -4523,14 +4523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]700\\G\\c[0]と"
+                                "\\c[2]Got \\c[0]700G\\c[2] and \\c[2]Red:MONSTER\\c[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Red:MONSTER\\c[0]を手に入れた！"
+                                ""
                             ]
                         },
                         {
@@ -4547,21 +4547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（完全にこちらの動きは把握してるな…"
+                                "\\n<Detective>(They completely understand our movements...\nHowever, there is no interference. What exactly\nare they planning...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、妨害はない。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体どういうつもりだ…？）"
+                                ""
                             ]
                         },
                         {
@@ -4697,7 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これは…"
+                                "\\n<Detective>This is..."
                             ]
                         },
                         {
@@ -4726,14 +4726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は\\c[2]回想ルーム\\c[0]に通じています。"
+                                "This path leads to the \\c[2]flashback room\\c[0].\nWould you like to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4741,8 +4741,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4898,14 +4898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は\\c[2]回想ルーム\\c[0]に通じています。"
+                                "This way leads to the \\c[2]Flashback Room\\c[0].\nWould you like to go there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4913,8 +4913,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5067,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…"
+                                "\\n<Detective>...This is..."
                             ]
                         },
                         {
@@ -5084,21 +5084,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"送る者の語る言葉は溢れて在ろうとも、"
+                                "Even if the words spoken by the sender overflow,\nthere is no one who knows the true intention of\nthe one who has gone before. The wall that\nseparates the eternal world from the present world\nremains unknown."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先立ちし者の真意を知る者は在らず。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "常世と隔てる壁は現世において未知故に。”"
+                                ""
                             ]
                         },
                         {
@@ -5134,14 +5134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]700\\G\\c[0]と"
+                                "\\c[2]Got \\c[0]700\\G\\c[2] and\n\\c[2]Red:MONSTER\\c[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]Red:MONSTER\\c[0]を手に入れた！"
+                                ""
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……？"
+                                "\\n<Detective>......?"
                             ]
                         },
                         {

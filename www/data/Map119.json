@@ -6379,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボス"
+                                "Boss"
                             ]
                         },
                         {
@@ -6387,8 +6387,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "勝ったことにする",
-                                    "キャンセル"
+                                    "Claim victory",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -8437,7 +8437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カウントダウン開始"
+                                "Countdown start."
                             ]
                         },
                         {
@@ -8531,7 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カウントダウン終了"
+                                "Countdown finished."
                             ]
                         },
                         {
@@ -8683,7 +8683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時間延長＋3秒"
+                                "Time extension +3 seconds"
                             ]
                         },
                         {
@@ -8767,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイマーの一時停止"
+                                "Pause the timer."
                             ]
                         },
                         {
@@ -8851,7 +8851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイマーの再開"
+                                "Timer resumed."
                             ]
                         },
                         {

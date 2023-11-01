@@ -3846,7 +3846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "No need for you to be here."
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "No need for you to be here."
                             ]
                         },
                         {
@@ -4096,7 +4096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都経済新聞――"
+                                "Tokyo Economic Newspaper--"
                             ]
                         },
                         {
@@ -4127,14 +4127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――グループは次期経営者について"
+                                "--The group is still refraining from making an\nofficial announcement regarding the next CEO."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未だ正式な発表は控え、"
+                                ""
                             ]
                         },
                         {
@@ -4165,14 +4165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "関係者の話では"
+                                "According to the people involved, it seems that\nthe influence of [N_1] is being observed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――の――が影響しているもの見られる。"
+                                ""
                             ]
                         },
                         {
@@ -4196,7 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この影響により株価は――"
+                                "Due to this influence, the stock price has--"
                             ]
                         },
                         {
@@ -4280,7 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "週刊東都――"
+                                "Weekly Toto"
                             ]
                         },
                         {
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――組の抗争勃発か！？"
+                                "--Is there a gang war starting?!"
                             ]
                         },
                         {
@@ -4335,14 +4335,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――組による――組構成員に対する銃撃事件から1年。"
+                                "--It has been a year since the shooting incident\ntargeting members of the -- gang. With concerns of\nretaliation from the -- gang"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――会による報復が懸念される中で"
+                                ""
                             ]
                         },
                         {
@@ -4380,21 +4380,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――で行われていた交渉が――されていたが、"
+                                "Negotiations that were taking place in --- were\ninterrupted, as --- announced the termination of\nthe negotiations, according to a certain\ninformant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――が交渉の打ち切りを表明したと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とある情報筋から―――"
+                                ""
                             ]
                         },
                         {
@@ -4478,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都新聞――"
+                                "Tokyo News--"
                             ]
                         },
                         {
@@ -4502,7 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厚労省が――年度の――――相談対応件数の推移を発表"
+                                "The Ministry of Health, Labour and Welfare has\nannounced the trend in the number of consultation\ncases for the fiscal year --."
                             ]
                         },
                         {
@@ -4533,14 +4533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近年問題となっている―――対策について"
+                                "In the midst of various measures being taken to\naddress the issue that has become a problem in\nrecent years,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――が様々な――を進める中、"
+                                ""
                             ]
                         },
                         {
@@ -4571,14 +4571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――は――年度の――――相談対応件数の速報値を発表。"
+                                "--- has announced the preliminary value of the\nnumber of consultation cases for the fiscal year\n--, showing an increase of --% compared to the\nprevious year."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前年に比較して―%の増加を見せ、"
+                                ""
                             ]
                         },
                         {
@@ -4609,14 +4609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中でも、――――に係る件数はおよそ1万―――増加、"
+                                "Among them, the number of cases related to ----\nhas shown an increase of approximately 10,000,\nwith an increase of about 7,000 cases due to --\nnotifications."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "――等からの通告の増加がおよそ7千件という推移を見せ、"
+                                ""
                             ]
                         },
                         {
@@ -4647,14 +4647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―――――によると、"
+                                "According to ----, due to the recent situation,\nthere has been a ---- in --."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昨今の情勢に伴う―――な――"
+                                ""
                             ]
                         },
                         {
@@ -5072,14 +5072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…さて、今日は養護施設に行って"
+                                "\\n<Detective>Well, today I'm going to the foster care facility\nto introduce Miyako-chan to her father..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]美彌子\\c[0]ちゃんに父親と会わせて…。"
+                                ""
                             ]
                         },
                         {
@@ -5096,14 +5096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>そのあとは孤児院と学校をハシゴか。\\!"
+                                "\\n<Detective>After that, I'll be visiting the orphanage and the\nschool. It's going to be busy, but well, a promise\nis a promise."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "忙しいが、まぁ約束は約束だからな。"
+                                ""
                             ]
                         },
                         {
@@ -5141,14 +5141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…\\c[2]ココ\\c[0]からのイタズラ電話か。"
+                                "\\n<Detective>...A prank call from \\c[2]Cocoa\\c[0], huh. Heh...\nThat guy sure knows how to cause trouble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ…あいつにも困ったものだな。"
+                                ""
                             ]
                         },
                         {
@@ -5265,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…さぁ、行くか。"
+                                "\\n<Detective>...Well, let's go."
                             ]
                         },
                         {
@@ -5490,7 +5490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "No need for you to be here."
                             ]
                         },
                         {
@@ -6105,7 +6105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "No need for you to be here."
                             ]
                         },
                         {
@@ -6400,7 +6400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちに用はない。"
+                                "No need for you to be here."
                             ]
                         },
                         {

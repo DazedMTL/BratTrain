@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１F　廃墟の繁華街",
+    "displayName": "1F Ruined Downtown",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -10368,7 +10368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マラ・マムシを手に入れた！"
+                                "I got the Mara Mamushi!"
                             ]
                         },
                         {
@@ -11110,7 +11110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>鍵がかかっていて開かない…"
+                                "\\n<Detective>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -11187,7 +11187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>鍵がかかっていて開かない…"
+                                "\\n<Detective>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -11264,7 +11264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>鍵がかかっていて開かない…"
+                                "\\n<Detective>The door is locked and won't open..."
                             ]
                         },
                         {
@@ -13408,7 +13408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これは…"
+                                "\\n<Detective>This is..."
                             ]
                         },
                         {
@@ -13425,7 +13425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ビルの案内図\\C[0]を手に入れた！"
+                                "I obtained the map of the building!"
                             ]
                         },
                         {
@@ -13480,14 +13480,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>このビルのフロアマップのようだが…"
+                                "\\n<Detective>It seems to be a floor map of this building... but\nit looks like someone has written various\ninformation on it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かが色々と情報を書き込んだようだ。"
+                                ""
                             ]
                         },
                         {
@@ -13504,14 +13504,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>随分と広い所のようだから、"
+                                "\\n<Detective>It seems to be quite a large place, so if you get\nlost, let's check it out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "迷ったら確認してみよう。"
+                                ""
                             ]
                         },
                         {
@@ -13540,14 +13540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]フロアマップはアイテムの「たいせつなもの」"
+                                "You can check the floor map from the Important\nItems menu."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "から確認できます。"
+                                ""
                             ]
                         },
                         {
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>また随分広いな…"
+                                "\\n<Detective>It's quite spacious again..."
                             ]
                         },
                         {
@@ -16090,100 +16090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>チッ、"
+                                "\\n<???>\\c[24]Tch, don't you know that being persistent is\ndisliked?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しつこい野郎は嫌われるって知らねぇのか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>刑事なのでね。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう簡単に引き下がっていちゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解決できるものも解決しない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>…元々サツは嫌いだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめぇはズバ抜けてるな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>そんなに姐さんの事知りたきゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはオレ達の所まで来てみな。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男らしく根性見せたら考えてやるよ。"
+                                ""
                             ]
                         },
                         {
@@ -16200,55 +16114,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>一体どこにいる？\\!"
+                                "\\n<Detective>As a detective, you see, I can't just back down so\neasily. If I do, I won't be able to solve\nanything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この広さでは探すのも…"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>\\c[2]３階のゲームセンター\\c[24]で待っててやる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Komari",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>ふえぇええ！？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして言っちゃうの、イチルちゃん！？"
+                                ""
                             ]
                         },
                         {
@@ -16265,14 +16145,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>うるせぇ！"
+                                "\\n<???>...I originally dislike cops, but you're\nexceptional."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漢なら、勝負は正面から堂々とだろうが！"
+                                "\\n<???>If you really want to know about Onee-san that\nmuch, first come to our place. Show some manly\nspirit and then we'll consider it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>Where on earth are they? It's difficult to search\nin this spaciousness..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<???>I'll wait for you at the game center on the 3rd\nfloor."
                             ]
                         },
                         {
@@ -16289,14 +16241,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>こんな大きいおっぱい付けて"
+                                "\\n<???>\\c[24]Eeek! Why would you say that, Ichiru-chan!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何言ってるの！？"
+                                "\\n<???>\\c[24]Shut up! If you're a man, then the battle\nshould be face-to-face and honorable!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Komari",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<???>\\c[24]What are you saying with such big breasts!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16325,14 +16325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>うるせぇ！"
+                                "\\n<???>\\c[24]Shut up! I'll punch you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶん殴んぞ！"
+                                ""
                             ]
                         },
                         {
@@ -16349,14 +16349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>うぅ…"
+                                "\\n<???>\\c[24]Ugh...don't punch while you're talking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言いながらゲンコツしないでぇ…"
+                                ""
                             ]
                         },
                         {
@@ -16394,14 +16394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…\\C[2]3階のゲームセンター\\c[0]か…\\!"
+                                "\\n<Detective>...The game center on the \\C[2]3rd floor\\c[0],\nhuh... For now, let's head there first."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず、まずは向かってみよう。"
+                                ""
                             ]
                         },
                         {

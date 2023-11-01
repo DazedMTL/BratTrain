@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "蝠?ｺ苓｡暦ｼ亥､懶ｼ",
+    "displayName": "Bat Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 44,
@@ -11431,14 +11431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>さっきの商店街か…？"
+                                "\\n<Detective>The shopping district earlier...? In that case,\nlet's head towards the \\c[2] station."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なら、\\c[2]駅に向かってみよう\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -11607,7 +11607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…"
+                                "\\n<Detective>..."
                             ]
                         },
                         {
@@ -12036,14 +12036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…駅…だったはずだが…"
+                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何なんだこれは…"
+                                ""
                             ]
                         },
                         {
@@ -12060,7 +12060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…い…\\c[2]行ってみる\\c[0]しかない。"
+                                "\\n<Detective>...I have no choice but to go and see for myself."
                             ]
                         },
                         {
@@ -12206,14 +12206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…駅…だったはずだが…"
+                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何なんだこれは…"
+                                ""
                             ]
                         },
                         {
@@ -12230,7 +12230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…い…\\c[2]行ってみる\\c[0]しかない。"
+                                "\\n<Detective>...I have no choice but to go and see for myself."
                             ]
                         },
                         {
@@ -12367,7 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>こんなもの、さっきまであったか？"
+                                "\\n<Detective>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12444,7 +12444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>こんなもの、さっきまであったか？"
+                                "\\n<Detective>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12521,7 +12521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>こんなもの、さっきまであったか？"
+                                "\\n<Detective>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -12598,7 +12598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>こんなもの、さっきまであったか？"
+                                "\\n<Detective>Did something like this exist until just now?"
                             ]
                         },
                         {
@@ -18790,14 +18790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…駅…だったはずだが…"
+                                "\\n<Detective>...It was supposed to be the station... What on\nearth is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何なんだこれは…"
+                                ""
                             ]
                         },
                         {
@@ -18814,7 +18814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…い…\\c[2]行ってみる\\c[0]しかない。"
+                                "\\n<Detective>...I have no choice but to go and see for myself."
                             ]
                         },
                         {

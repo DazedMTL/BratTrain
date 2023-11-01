@@ -1416,7 +1416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "理性を保った状態で戦闘開始"
+                                "Engage in combat while maintaining your composure."
                             ]
                         },
                         {
@@ -1490,21 +1490,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "暴走変数をリセット。"
+                                "Resetting the runaway variable. Current runaway\nindex: \\V[3]. Current runaway counter: \\V[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "現在の暴走指数：\\V[3]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "現在の暴走カウンター：\\V[4]"
+                                ""
                             ]
                         },
                         {
@@ -1521,14 +1521,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "強い武器が貰えて、エロシーンも始まる"
+                                "You receive a powerful weapon, and the erotic\nscene begins. However, your composure gradually\nstarts to fade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ただし、理性が徐々に失われていく"
+                                ""
                             ]
                         },
                         {
@@ -1562,21 +1562,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "体力上限プラスの特典に加え、"
+                                "In addition to the bonus of increased maximum\nhealth, you will receive many items. However,\nthere will be no erotic scenes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "アイテムがたくさん貰える"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ただし、エロシーンはなし"
+                                ""
                             ]
                         },
                         {
@@ -1613,7 +1613,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北エロイベント"
+                                "Defeat Erotic Event"
                             ]
                         },
                         {
@@ -1630,7 +1630,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コンテニュー"
+                                "Continue"
                             ]
                         },
                         {
@@ -1674,7 +1674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走モードの状態で戦闘開始"
+                                "Start the battle in berserk mode."
                             ]
                         },
                         {
@@ -1731,21 +1731,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "暴走変数をリセット。"
+                                "Resetting the runaway variable. Current runaway\nindex: \\V[3]. Current runaway counter: \\V[4]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "現在の暴走指数：\\V[3]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "現在の暴走カウンター：\\V[4]"
+                                ""
                             ]
                         },
                         {
@@ -1762,14 +1762,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "強い武器が貰えて、エロシーンも始まる"
+                                "You receive a powerful weapon, and the erotic\nscene begins. However, your composure gradually\nstarts to fade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ただし、理性が徐々に失われていく"
+                                ""
                             ]
                         },
                         {
@@ -1796,7 +1796,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北エロイベント"
+                                "Defeat Erotic Event"
                             ]
                         },
                         {
@@ -1813,7 +1813,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コンテニュー"
+                                "Continue"
                             ]
                         },
                         {
@@ -1927,7 +1927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブキャラを全部倒してから出直してね♡"
+                                "Defeat all the mob characters and then come\nback♡"
                             ]
                         },
                         {
@@ -2055,7 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPを残り１まで下げますか？"
+                                "Do you want to lower the HP to 1?"
                             ]
                         },
                         {
@@ -2063,8 +2063,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2370,7 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罠にかかると暴走値＋１"
+                                "When caught in a trap, the rampage value increases\nby 1."
                             ]
                         },
                         {
@@ -2458,7 +2458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暴走回数を上げますか？"
+                                "Do you want to increase the number of rampages?"
                             ]
                         },
                         {
@@ -2466,8 +2466,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2508,14 +2508,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【テスト用】"
+                                "【Test】Increase Rampage Counter (Current Rampage\nCounter: \\C[17]\\V[4]\\C[0])"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "暴走カウンター上昇（現在の暴走カウンター：\\C[17]\\V[4]\\C[0]）"
+                                ""
                             ]
                         },
                         {
@@ -2532,14 +2532,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走モードは10回を超えると警告が発せられ、"
+                                "When the rampage mode exceeds 10 times, a warning\nwill be issued, and on the 20th time, it will be\ngame over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "20回目でゲームオーバーになります。"
+                                ""
                             ]
                         },
                         {
@@ -2785,7 +2785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暴走薬などを手に入れた！"
+                                "I obtained some rampage drugs!"
                             ]
                         },
                         {
@@ -2941,21 +2941,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走値をリセット"
+                                "Resetting the rampage value. Current rampage\nvalue: \\V[3]. Current rampage counter: \\V[4] (+1)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走値：\\V[3]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走カウンター：\\V[4]（＋１）"
+                                ""
                             ]
                         },
                         {
@@ -2998,7 +2998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "通常バトル開始"
+                                "Normal battle start."
                             ]
                         },
                         {
@@ -3072,7 +3072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走バトルモード"
+                                "Rampage Battle Mode"
                             ]
                         },
                         {
@@ -3372,21 +3372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの現在の"
+                                "Your current rampage value: \\C[18]\\V[3]\\C[0]\nRampage counter: \\C[18]\\V[4]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暴走値：\\C[18]\\V[3]\\C[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暴走カウンター：\\C[18]\\V[4]"
+                                ""
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罠にかかると暴走値＋１"
+                                "When caught in a trap, the rampage value increases\nby 1."
                             ]
                         },
                         {
@@ -4059,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罠にかかると暴走値＋１"
+                                "When caught in a trap, the rampage value increases\nby 1."
                             ]
                         },
                         {
@@ -4175,21 +4175,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走値をリセット"
+                                "Resetting the rampage value. Current rampage\nvalue: \\V[3]. Current rampage counter: \\V[4] (+1)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走値：\\V[3]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走カウンター：\\V[4]（＋１）"
+                                ""
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "通常バトル開始"
+                                "Normal battle start."
                             ]
                         },
                         {
@@ -4306,7 +4306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走バトルモード"
+                                "Rampage Battle Mode"
                             ]
                         },
                         {
@@ -4634,21 +4634,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走値をリセット"
+                                "Resetting the rampage value. Current rampage\nvalue: \\V[3]. Current rampage counter: \\V[4] (+1)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走値：\\V[3]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の暴走カウンター：\\V[4]（＋１）"
+                                ""
                             ]
                         },
                         {
@@ -4691,7 +4691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "通常バトル開始"
+                                "Normal battle start."
                             ]
                         },
                         {
@@ -4765,7 +4765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴走バトルモード"
+                                "Rampage Battle Mode"
                             ]
                         },
                         {
@@ -5065,7 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "進行度を弄るぞ！"
+                                "I'll manipulate the progress!"
                             ]
                         },
                         {
@@ -5073,9 +5073,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１（デフォルト）",
-                                    "２（バグ）",
-                                    "３（クリア後）"
+                                    "1 (Default)",
+                                    "2 (Bug)",
+                                    "3 (After Clearing)"
                                 ],
                                 1,
                                 0,
@@ -5116,7 +5116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "進行度変数を\\V[17]に変更したぞ！"
+                                "I changed the progress variable to \\V[17]!"
                             ]
                         },
                         {
@@ -5157,7 +5157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "進行度変数を\\V[17]に変更したぞ！"
+                                "I changed the progress variable to \\V[17]!"
                             ]
                         },
                         {
@@ -5198,7 +5198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "進行度変数を\\V[17]に変更したぞ！"
+                                "I changed the progress variable to \\V[17]!"
                             ]
                         },
                         {

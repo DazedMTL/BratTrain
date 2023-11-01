@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バルコニー",
+    "displayName": "Balcony",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1780,7 +1780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒューズを差し込んだ！"
+                                "I inserted the fuse!"
                             ]
                         },
                         {
@@ -1896,7 +1896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒューズの差し込み口がある…！"
+                                "There's a fuse insertion port...!"
                             ]
                         },
                         {

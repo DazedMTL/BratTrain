@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴室",
+    "displayName": "Bathroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2754,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒューズを手に入れた！"
+                                "I obtained the fuse!"
                             ]
                         },
                         {

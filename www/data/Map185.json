@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "廃ビルの入口",
+    "displayName": "Abandoned Building Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの少女達を追わないと…"
+                                "\\n<Detective>I have to chase after those girls..."
                             ]
                         },
                         {
@@ -3859,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの少女達を追わないと…"
+                                "\\n<Detective>I have to chase after those girls..."
                             ]
                         },
                         {
@@ -4338,7 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Red:MONSTERを手に入れた！"
+                                "Red: I got the MONSTER!"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…やっぱりここにいた。"
+                                "\\n<???>...As I thought, you were here."
                             ]
                         },
                         {
@@ -5358,7 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ、さっきの子。"
+                                "\\n<Detective>Ah, the girl from earlier."
                             ]
                         },
                         {
@@ -5437,21 +5437,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ぴゃあ！？\\!"
+                                "\\n<???>Pyaa!?...A...Aria-chan....Wh...wh...why are you\nwith that person..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ア…\\c[2]アイ\\c[0]ちゃん…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ど…ど…ど…どうしてその人と…"
+                                ""
                             ]
                         },
                         {
@@ -5476,7 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…なんかマリリンに用があるんだってさ。"
+                                "\\n<???>...I heard you have something to do with Marilyn."
                             ]
                         },
                         {
@@ -5493,14 +5493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ア…アイちゃん…"
+                                "\\n<???>A...Aria-chan...Don't call Komari in a weird\nway..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]コマリ\\c[0]のこと変な風に呼ばないで…"
+                                ""
                             ]
                         },
                         {
@@ -5525,14 +5525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…じゃ、私案内したから。\\!"
+                                "\\n<???>...Well then, I've shown you the way... The rest\nis up to you two."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…あとは2人でよろしく。"
+                                ""
                             ]
                         },
                         {
@@ -5852,21 +5852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>え…えええええぇぇ！？\\!"
+                                "\\n<???>E...Eeeeeeh!? A...Aria-chan...!! Don't leave\nKomari aloneeee!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ア…アイちゃん…！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コマリをひとりにしないでぇええ！"
+                                ""
                             ]
                         },
                         {
@@ -5883,7 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>や…やぁ。"
+                                "\\n<Detective>H...Hello."
                             ]
                         },
                         {
@@ -5968,14 +5968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ぴゃああ！？\\!"
+                                "\\n<???>Pyaa!?...Wh...wh...what is it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……な…な…何ですか…？"
+                                ""
                             ]
                         },
                         {
@@ -5992,21 +5992,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ…、いや"
+                                "\\n<Detective>Ah... well, like I heard earlier, it's about\nthat... Ichiru girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっき聞いた通り、その…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]イチル\\c[0]という子について…"
+                                ""
                             ]
                         },
                         {
@@ -6023,21 +6023,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>イ…イチルちゃんに何するつもりですか！？\\!"
+                                "\\n<???>W-What are you planning to do to Ichiru-chan!?\nD-Don't tell me... s-something lewd..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま…まさか……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "え…エッチな事…"
+                                ""
                             ]
                         },
                         {
@@ -6054,14 +6054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いやちょっと待て、"
+                                "\\n<Detective>Wait a minute, as a police officer, I need to talk\nto you for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は警察として少し話を…"
+                                ""
                             ]
                         },
                         {
@@ -6078,14 +6078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>け…ケーサツ！？\\!"
+                                "\\n<???>P-Police!? You're not planning to arrest Ichiru-\nchan, are you!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかイチルちゃんをタイホするんですか！？"
+                                ""
                             ]
                         },
                         {
@@ -6102,14 +6102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いやいや、そうじゃなくて…"
+                                "\\n<Detective>No, no, it's not that... I want to talk to you\nabout the incident for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し事件の事を…"
+                                ""
                             ]
                         },
                         {
@@ -6126,28 +6126,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>事件！？　容疑者！？\\!"
+                                "\\n<???>Incident!? Suspect!?... Could it be a false\naccusation...!? H...How terrible... Ichiru-chan\nhasn't done anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…まさか冤罪…！？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひ…酷い…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イチルちゃん何もしてないのに…"
+                                ""
                             ]
                         },
                         {
@@ -6164,7 +6164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いやちょっと冷静に私の話を…"
+                                "\\n<Detective>No, please calm down and listen to what I have to\nsay..."
                             ]
                         },
                         {
@@ -6188,21 +6188,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>うわーーーん！"
+                                "\\n<???>Uwaaaah! Ichiru-chaaaan! Scary adults... corrupt\npolice officers are threatening meee!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イチルちゃーーん！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "怖い大人が…悪徳警官が脅してくるー！"
+                                ""
                             ]
                         },
                         {
@@ -6549,21 +6549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…なんて足の速さだ…\\!"
+                                "\\n<Detective>...What speed... but now is not the time to be\nimpressed. For now, I need to chase after them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "って、関心している場合じゃないな…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず彼女達を追いかけよう…。"
+                                ""
                             ]
                         },
                         {
@@ -7184,7 +7184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>もしかして…君が…"
+                                "\\n<Detective>Could it be... you..."
                             ]
                         },
                         {
@@ -7201,14 +7201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>てめぇか？\\!"
+                                "\\n<???>Who the hell are you? The bastard who bullied my\nKomari."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちのコマリを虐めたクソ野郎は。"
+                                ""
                             ]
                         },
                         {
@@ -7225,14 +7225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…ん？　そうなの？\\!"
+                                "\\n<???>...Huh? Is that so? You're quick, old man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手早いね、おじさん。"
+                                ""
                             ]
                         },
                         {
@@ -7249,14 +7249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ち…違うよイチルちゃん…\\!"
+                                "\\n<???>N-No, it's not like that, Ichiru-chan... This\nperson came to protect you, Ichiru-chan..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この人、イチルちゃんの事をタイホしに…"
+                                ""
                             ]
                         },
                         {
@@ -7281,45 +7281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（\\c[2]イチル\\c[0]…！？"
+                                "\\n<Detective>(Ichiru...!? So, it must be this child after\nall...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあやはりこの子が…）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>タイホ…？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレはもうあのクソ親父とは関係ねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組の連中とも無関係だ。"
+                                ""
                             ]
                         },
                         {
@@ -7336,28 +7305,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>人をカネで売るような外道のカス野郎共とは"
+                                "\\n<???>Detective...? I have nothing to do with that old\nbastard anymore. I have no connection with the\ngang either."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "縁を切ったからな。\\!"
+                                "\\n<???>I've cut ties with those scumbags who sell people\nfor money. So if you're trying to arrest me,\nyou're barking up the wrong tree."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "って訳で、オレを逮捕しようってんなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お門違いってもんだ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7374,69 +7374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いや、違う。"
+                                "\\n<Detective>No, that's not it. It's not that I want to ask\nabout that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そういう事で聞きたいのではなく…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>朔晦市で起きている\\c[2]狂人化現象\\c[0]、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに関与が疑われる\\c[2]参考人\\c[0]について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調査しているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>…朔晦市の開発事業に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訓覇組が関わってた事もか？"
+                                ""
                             ]
                         },
                         {
@@ -7453,14 +7398,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あぁ、それについても"
+                                "\\n<Detective>I'm investigating the \\c[2]phenomenon of people\ngoing insane\\c[0] that's happening in Sakuhai\nCity, and the \\c[2]suspects\\c[0] who are suspected\nto be involved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知っている事があれば…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7477,21 +7429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>知らねぇよ。"
+                                "\\n<???>...Was the Kureha Group involved in the\ndevelopment project in Sakuhai City?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、仁義よりカネを選ぶ外道のやる事だ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想像通りの事はやってたんだろうな。"
+                                ""
                             ]
                         },
                         {
@@ -7508,7 +7453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…では、\\c[2]ルナ\\c[0]という少女の事は？"
+                                "\\n<Detective>Ah, if you happen to know anything about that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7525,14 +7477,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！"
+                                "\\n<???>I don't know. But it's the kind of thing that\nscumbags who prioritize money over honor would do.\nThey probably did exactly what I expected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…なんで姐さんの事を？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7549,14 +7508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>姐さん…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか君達…"
+                                "\\n<Detective>...Then, what about the girl named \\c[2]Luna\\c[0]?"
                             ]
                         },
                         {
@@ -7573,14 +7525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>なるほど、"
+                                "\\n<???>!...Why are you asking about Onee-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前姐さんを止める気だな？"
+                                ""
                             ]
                         },
                         {
@@ -7597,28 +7549,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>Onee-san...? Could it be you guys..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあやはり彼女が…。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止めなければ街は狂人で溢れ返る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は刑事として…"
+                                ""
                             ]
                         },
                         {
@@ -7635,14 +7573,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>狂人化を調べるのはてめぇらの仕事だ。"
+                                "\\n<???>I see, so you're trying to stop Onee-san, huh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを止めるつもりはねぇ。"
+                                "\\n<Detective>...! Then, if she... isn't stopped, the city will\nbe overrun with lunatics! As a detective..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7659,28 +7635,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>だがオレ達は姐さんに恩義がある。\\!"
+                                "\\n<???>Investigating the phenomenon of people going\ninsane is your job. I have no intention of\nstopping that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "害を成そうとする野郎が目の前にいて、"
+                                "\\n<???>But we owe a debt of gratitude to Onee-san. We\ncan't just stay silent when there's a guy right in\nfront of us trying to cause harm. Ai! Komari!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "黙ってるような恩知らずじゃねぇんだ。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アイ！　コマリ！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7728,14 +7728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…ん。"
+                                "\\n<???>...Hmm. In that case, I'll get ready."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ準備する。"
+                                ""
                             ]
                         },
                         {
@@ -7783,21 +7783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ぴゃッ！？\\!"
+                                "\\n<???>Pya! Ugh... Don't scream out of nowhere...\nAlright, I'll go let everyone know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うぅ…いきなり叫ばないでぇ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…じゃあ、皆に知らせてくる。"
+                                ""
                             ]
                         },
                         {
@@ -7916,21 +7916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>待て！"
+                                "\\n<Detective>Wait! I'm not planning on resorting to violent\nmeasures! I just need to find a way to stop this\nphenomenon...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に手荒な真似をするわけじゃない！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただこの現象を止める手立てを…！"
+                                ""
                             ]
                         },
                         {
@@ -7978,59 +7978,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>知ったこっちゃねぇよ。\\!"
+                                "\\n<???>I couldn't care less. I never said what Onee-san\nis doing is a good thing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に姐さんがやってる事を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良い事だなんて言うつもりもねぇがな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<???>ただオレ達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姐さんがくれた恩に報いるだけだ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]クソったれな大人から逃げて来た\\c[0]、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行き場のないオレ達を救ってくれた姐さんにな。"
+                                ""
                             ]
                         },
                         {
@@ -8047,21 +8009,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>姐さんに辿り着きたきゃ"
+                                "\\n<???>We're just repaying the debt of gratitude to Onee-\nsan. She saved us, who had nowhere else to go,\nfrom those damn adults."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺達をノしてからにしな。\\!"
+                                "\\n<???>If you want to reach Onee-san, you'll have to get\npast us first. If you can, that is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "できるもんならな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8135,21 +8135,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…クソッ！\\!"
+                                "\\n<Detective>...Damn it!...Where am I...an abandoned building?\nAnyway, I have no choice but to keep chasing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…なんだここは…　廃ビル？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とにかく、また追いかけるしかないな。"
+                                ""
                             ]
                         },
                         {

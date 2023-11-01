@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "B1　地下室",
+    "displayName": "B1 Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1735,7 +1735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大量の弾薬が詰められている…。"
+                                "There is a large amount of ammunition packed\ninside..."
                             ]
                         },
                         {
@@ -1823,14 +1823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これが鍵か。\\!"
+                                "\\n<Detective>So this is the key... I'll have to ask them\nvarious things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…彼女たちには色々と聞かなくてはな。"
+                                ""
                             ]
                         },
                         {
@@ -2105,21 +2105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"火気厳禁\""
+                                "It says 'No open flames'... Well, that's to be\nexpected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "と書かれている…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはそうだろう。"
+                                ""
                             ]
                         },
                         {
@@ -2316,7 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火薬や爆弾が箱いっぱいに詰められている…。"
+                                "The box is filled with gunpowder and bombs..."
                             ]
                         },
                         {
@@ -2393,14 +2393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で正式採用されている"
+                                "It's a military assault rifle that is officially\nadopted in a certain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の自動小銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -2477,7 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大量の弾薬が詰められている…。"
+                                "There is a large amount of ammunition packed\ninside..."
                             ]
                         },
                         {
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このマーク…　まさか化学兵器…？"
+                                "This mark... Could it be a chemical weapon...?"
                             ]
                         },
                         {
@@ -3051,14 +3051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で使用されている軍用の榴弾が"
+                                "There is a box full of military grenades used in a\ncertain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "箱いっぱいに詰まっている…。"
+                                ""
                             ]
                         },
                         {
@@ -3135,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用銃の試作品のようだ…。"
+                                "It seems to be a prototype of a military gun..."
                             ]
                         },
                         {
@@ -3212,7 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用のライフル銃だ…。"
+                                "It's a military rifle..."
                             ]
                         },
                         {
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "A military rifle... and it's a custom model\ntoo..."
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "A military rifle... and it's a custom model\ntoo..."
                             ]
                         },
                         {
@@ -3563,7 +3563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "Military rifle... and it's a custom model too..."
                             ]
                         },
                         {
@@ -3640,7 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "A military rifle... and it's a custom model\ntoo..."
                             ]
                         },
                         {
@@ -3717,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "A military rifle... and it's a custom model\ntoo..."
                             ]
                         },
                         {
@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軍用ライフル…それもカスタムモデルだ…。"
+                                "A military rifle... and it's a custom model\ntoo..."
                             ]
                         },
                         {
@@ -3871,14 +3871,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で正式採用されている"
+                                "It's a military assault rifle that is officially\nadopted in a certain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の自動小銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -3955,14 +3955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で正式採用されている"
+                                "It's a military assault rifle that is officially\nadopted in a certain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の自動小銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4039,14 +4039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で正式採用されている"
+                                "It's a military assault rifle that is officially\nadopted in a certain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の自動小銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4183,14 +4183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で正式採用されている"
+                                "It's a military assault rifle that is officially\nadopted in a certain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の自動小銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4267,14 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国によっては流通を禁止されている"
+                                "It's a military shotgun that is prohibited from\ncirculation in some countries..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "軍用の散弾銃だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4351,14 +4351,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で使用されている軍用の榴弾が"
+                                "There is a box full of military grenades used in a\ncertain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "箱いっぱいに詰まっている…。"
+                                ""
                             ]
                         },
                         {
@@ -4435,7 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく見ると血のようなものが付着している…"
+                                "Upon closer inspection, there seems to be\nsomething resembling blood stuck to it..."
                             ]
                         },
                         {
@@ -4512,14 +4512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で使用されている軍用の榴弾が"
+                                "There is a box full of military grenades used in a\ncertain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "箱いっぱいに詰まっている…。"
+                                ""
                             ]
                         },
                         {
@@ -4596,14 +4596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "某国で使用されている軍用の榴弾が"
+                                "There is a box full of military grenades used in a\ncertain country..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "箱いっぱいに詰まっている…。"
+                                ""
                             ]
                         },
                         {
@@ -4680,28 +4680,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～取引履歴～"
+                                "~Transaction History~ Black Star x50... Sanoukai\nRed Star x20... Sanoukai Renkon x100... Kurokai-\ngumi"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "黒星　×５０　…三王会"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "赤星　×２０　…三王会"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レンコン　×１００　…黒海組”"
+                                ""
                             ]
                         },
                         {
@@ -4718,52 +4718,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～予算～"
+                                "~Budget~ Offering... Sanoukai 30 million yen\ndeposit... Kurokai-gumi 10 million yen\nfinancing... Hikou 200 million yen"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "上納　…三納会　3千万"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下付　…黒海組　1千万"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "融資　…緋皇　2億”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>三納会に黒海組…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪名高い闇の組織だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4780,14 +4756,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>だが…緋皇…？"
+                                "\\n<Detective>Sanoukai and Kurokai-gumi... They are notorious\nunderground organizations..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな組織あったか…？"
+                                "\\n<Detective>But... Luna...? Was there such an organization...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4863,28 +4863,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～取引履歴～"
+                                "~Transaction History~ Black Star x50... Sanoukai\nRed Star x20... Sanoukai Renkon x100... Kurokai-\ngumi"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "黒星　×５０　…三王会"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "赤星　×２０　…三王会"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レンコン　×１００　…黒海組”"
+                                ""
                             ]
                         },
                         {
@@ -4901,52 +4901,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～予算～"
+                                "~Budget~ Offering... Sanoukai 30 million yen\ndeposit... Kurokai-gumi 10 million yen\nfinancing... Hikou 200 million yen"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "上納　…三納会　3千万"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下付　…黒海組　1千万"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "融資　…緋皇　2億”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>三納会に黒海組…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪名高い闇の組織だ…。"
+                                ""
                             ]
                         },
                         {
@@ -4963,14 +4939,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>だが…緋皇…？"
+                                "\\n<Detective>Sanoukai and Kurokai-gumi... Infamous dark\norganizations..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな組織あったか…？"
+                                "\\n<Detective>But... Luna...? Was there such an organization...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5047,28 +5047,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～三納会からの見合いの要請について～"
+                                "Regarding the request for a matchmaking meeting\nfrom the Sanoukai, I have been approached by the\nChairman to arrange a meeting between the future\nyoung head and the young lady. Therefore, I would\nlike to hold a gathering once with the young lady\npresent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "親父へ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会長から時期若頭とお嬢の見合いを打診されてます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つきましては、一度お嬢を交えた会合を開きたく、”"
+                                ""
                             ]
                         },
                         {
@@ -5085,28 +5085,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”日程については親父が日本に帰ってきた"
+                                "The schedule is planned for when my father returns\nto Japan on [Date]. It will be an important\nmeeting to strengthen the bond between the\nSanoukai and the Kurube Group, so please make sure\nto attend."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "●月●日を予定しています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "三納会と訓覇組の結束を高める意味でも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "重要な会合になるので是非よろしくお願いします。”"
+                                ""
                             ]
                         },
                         {
@@ -5123,28 +5123,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>三納会の若頭と言えば、"
+                                "\\n<Detective>Speaking of the young head of the Sanoukai, he\nshould be around 45 years old and quite capable.\nAnd the young lady from the Kurube Group... Could\nit be... Is that what this is about?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確か45ぐらいのやり手だったはず。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それと訓覇組のお嬢…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか…　そういう事か。"
+                                ""
                             ]
                         },
                         {
@@ -5220,28 +5220,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～三納会からの見合いの要請について～"
+                                "-Regarding the arranged marriage request from the\nSanoukai- I have been approached by the Chairman\nto arrange a meeting between the future head and\nthe young lady. Therefore, I would like to hold a\ngathering with the young lady present."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "親父へ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会長から時期若頭とお嬢の見合いを打診されてます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つきましては、一度お嬢を交えた会合を開きたく、”"
+                                ""
                             ]
                         },
                         {
@@ -5258,28 +5258,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”日程については親父が日本に帰ってきた"
+                                "The schedule is planned for when my father returns\nto Japan on [Date]. It will be an important\nmeeting to strengthen the bond between the\nSanoukai and the Kurube Group, so please make sure\nto attend."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "●月●日を予定しています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "三納会と訓覇組の結束を高める意味でも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "重要な会合になるので是非よろしくお願いします。”"
+                                ""
                             ]
                         },
                         {
@@ -5296,28 +5296,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>三納会の若頭と言えば、"
+                                "\\n<Detective>Speaking of the Sanoukai's future head, he should\nbe around 45 years old and quite capable. And the\nyoung lady from the Kurube Group... Could it be...\nIs that what this is about?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確か45ぐらいのやり手だったはず。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それと訓覇組のお嬢…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか…　そういう事か。"
+                                ""
                             ]
                         },
                         {
@@ -5394,59 +5394,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>なんだこの部屋は…！\\!"
+                                "\\n<Detective>What is this room...! Handguns, rifles, even\ngrenade launchers... The Kurube Group... What an\nunbelievable organization."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "拳銃に小銃に…擲弾砲まで…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訓覇組…とんでもない組織だな。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>だが、これほどの兵器…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抗争で使うには過激すぎる。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アジアを拠点とする密売組織の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "倉庫にしていたんだろう。"
+                                ""
                             ]
                         },
                         {
@@ -5463,21 +5425,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>とすれば…巨額の金が流れていたはずだ。"
+                                "\\n<Detective>However, these weapons are too extreme for use in\na conflict. It seems this was a warehouse for a\nsmuggling organization based in Asia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この街で起きている事と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "関連しているかも知れない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5494,14 +5463,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何かが分かるかもしれない。"
+                                "\\n<Detective>If that's the case... There should have been a\nhuge amount of money involved. It might be related\nto what's happening in this town."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探ってみよう。"
+                                "\\n<Detective>I might be able to find something out. Let's\ninvestigate."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5637,14 +5637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "禁止薬物の容器だ…。"
+                                "It's a container for prohibited drugs... Anything\ngoes, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく何でもアリだな…。"
+                                ""
                             ]
                         },
                         {
@@ -5721,7 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "弾の入った銃が無造作に置かれている…。"
+                                "There is a loaded gun casually placed..."
                             ]
                         },
                         {
@@ -5798,28 +5798,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～朔晦市の都市開発事業について～"
+                                "We have confirmed that the representative of the\nSakuhai Residents' Association, who had been\nleading the opposition movement against the urban\ndevelopment project in Sakuhai City, has agreed to\npersuasion and has also confirmed the stamping\nof the reconciliation document."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち退きの反対運動を主導していた、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「朔晦住民団」の代表については\"説得\"に応じて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "和解文書の押印も確認しました。”"
+                                ""
                             ]
                         },
                         {
@@ -5836,52 +5836,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”緋皇の連中からの要請で、"
+                                "At the request of the Hisube group, we are\nselecting properties that can be used for\ntransactions because we are not allowed to enter\nthe underground, but we have been given some\nflexibility regarding certain properties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\"地下\"には立ち入れませんが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくつかの物件については融通利かせてもらったので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "取引に使える物件を選定しています。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>やはり都市開発事業には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり強引な手を使ったようだな…。"
+                                ""
                             ]
                         },
                         {
@@ -5898,21 +5874,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>しかし…"
+                                "\\n<Detective>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”緋皇”…　それに”地下”\\!"
+                                "\\n<Detective>However... Hisube... and something about the\nunderground..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か引っかかる…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5988,28 +5988,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～朔晦市の都市開発事業について～"
+                                "We have confirmed that the representative of the\nSakuhai Residents' Association, who had been\nleading the opposition movement against the urban\ndevelopment project in Sakuhai City, has agreed to\nbe persuaded and has also confirmed the stamping\nof the reconciliation document."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち退きの反対運動を主導していた、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「朔晦住民団」の代表については\"説得\"に応じて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "和解文書の押印も確認しました。”"
+                                ""
                             ]
                         },
                         {
@@ -6026,52 +6026,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”緋皇の連中からの要請で、"
+                                "At the request of the Hisube group, we are\nselecting properties that can be used for\ntransactions because we are not allowed to enter\nthe underground, but we have been given some\nflexibility regarding certain properties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\"地下\"には立ち入れませんが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくつかの物件については融通利かせてもらったので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "取引に使える物件を選定しています。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>やはり都市開発事業には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり強引な手を使ったようだな…。"
+                                ""
                             ]
                         },
                         {
@@ -6088,21 +6064,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>しかし…"
+                                "\\n<Detective>It seems they have indeed resorted to quite\nforceful methods in the urban development\nproject..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”緋皇”…　それに”地下”\\!"
+                                "\\n<Detective>However... Hisube... and something about the\nunderground..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か引っかかる…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

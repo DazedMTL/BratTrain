@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<???>あああ"
+                                "ルナ\\SE[default]\\n<???>Ahhh"
                             ]
                         },
                         {
@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？の影>テスト"
+                                "\\n<???'s Shadow>Test"
                             ]
                         },
                         {
@@ -1446,7 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SA[121]\\SE[default]\\n<???>あああ"
+                                "ルナ\\SA[121]\\SE[default]\\n<???>Ahhh"
                             ]
                         },
                         {
@@ -1620,7 +1620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てｓｔ"
+                                "Test"
                             ]
                         },
                         {
@@ -1706,7 +1706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動禁止ON"
+                                "Movement Restriction ON"
                             ]
                         },
                         {
@@ -1791,7 +1791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動禁止OFF"
+                                "Movement Restriction OFF"
                             ]
                         },
                         {
@@ -1948,7 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘"
+                                "Battle"
                             ]
                         },
                         {
@@ -2164,7 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フェニックスの羽（仮）を手に入れた！"
+                                "I obtained the Phoenix Feather (temporary)!"
                             ]
                         },
                         {

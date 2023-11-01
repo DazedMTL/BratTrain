@@ -4016,38 +4016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチA\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch A."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>ふむ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -4064,14 +4040,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探してみよう。"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4159,38 +4159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチB\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch B."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>ふむ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -4207,14 +4183,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探してみよう。"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something like that\\C[0] somewhere... Let me\nsearch for it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4302,38 +4302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]セキュリティスイッチ\"A\"と\"B\"\\C[24]を"
+                                "\\n<Security System>Please activate Security Switch A and B."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]アクティブに\\C[24]してください。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>ふむ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カードやパスワードではなく\\C[2]スイッチ\\C[0]か…"
+                                ""
                             ]
                         },
                         {
@@ -4350,14 +4326,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\C[2]どこかにあった\\C[0]ような気が…"
+                                "\\n<Detective>Hmmm... Not a card or password, but a\n\\C[2]switch\\C[0], huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探してみよう。"
+                                "\\n<Detective>I have a feeling that there might be\n\\C[2]something\\C[0] somewhere... Let me search for\nit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4463,7 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スタート地点に戻りますか？"
+                                "Do you want to return to the starting point?"
                             ]
                         },
                         {
@@ -4471,8 +4471,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4609,14 +4609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -4962,14 +4962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5086,21 +5086,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]この先は\\C[2]ココ様の領域。\\c[24]"
+                                "\\n<Security System>\\C[24]\\C[20]This area is \\C[2]Cocoa-sama's\nterritory. \\c[24]We have detected the possibility\nof unauthorized access, so we will conduct a\nsimple intelligence test."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正アクセスの可能性を検知しましたので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単な知能テストを行います。"
+                                ""
                             ]
                         },
                         {
@@ -5117,14 +5117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>なんだこれは…"
+                                "\\n<Detective>What is this... a quiz...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!クイズ…？"
+                                ""
                             ]
                         },
                         {
@@ -5153,28 +5153,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは\\c[2]何問かのクイズが出題されます。\\!"
+                                "Here, you will be given several quiz questions. If\nyou answer incorrectly, there will be a penalty of\nminus \\c[0]count, but whether you answer correctly\nor incorrectly, you can proceed \\c[0]either way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正解の際にはカウントがマイナス\\c[0]される"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ペナルティが発生しますが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]正解でも不正解でも先に進めます\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -5191,7 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、\\c[2]全問正解した際にはご褒美\\c[0]があります。"
+                                "Furthermore, there will be a reward when you\nanswer all the questions correctly."
                             ]
                         },
                         {
@@ -5227,7 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<モニター>tan1°は有理数か。"
+                                "\\n<Monitor>Is \\C[24]tan1° a rational number?"
                             ]
                         },
                         {
@@ -5235,8 +5235,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "有理数である",
-                                    "無理数である"
+                                    "Is it a rational number?",
+                                    "Irrational number"
                                 ],
                                 1,
                                 0,
@@ -5285,14 +5285,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]20 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]20秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5345,7 +5345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>正解"
+                                "\\n<Monitor>\\C[24]Correct."
                             ]
                         },
                         {
@@ -5391,14 +5391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<モニター>将兵15万人、戦車1500両、船舶5300隻、"
+                                "\\n<Monitor>\\C[24]150,000 soldiers, 1,500 tanks, 5,300 ships,\nand 12,000 aircraft were deployed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "航空機1万2000機が投入された"
+                                ""
                             ]
                         },
                         {
@@ -5415,28 +5415,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<モニター>アイゼンハワー将軍率いる英米連合軍が、"
+                                "\\n<Monitor>\\C[24]On what year, month, and day did the\noperation led by General Eisenhower of the Anglo-\nAmerican Allied Forces, which landed in a certain\nregion of northern France, take place? (Example:\nJanuary 1, 2000 = 20000101)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "北フランスのとある地方に上陸した作戦は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何年何月何日に決行された？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(例：2000年1月1日＝20000101)"
+                                ""
                             ]
                         },
                         {
@@ -5495,7 +5495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>正解"
+                                "\\n<Monitor>\\C[24]Correct."
                             ]
                         },
                         {
@@ -5541,14 +5541,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]30 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]30秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5594,28 +5594,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<モニター>「ある時点において作用している"
+                                "\\n<Monitor>\\C[24]The ability to completely grasp and analyze\nall mechanical and physical states that are acting\nat a certain point in time enables one to\ndefinitively know the entire motion of the\nuniverse, including the future."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての力学的・物理的な状態を完全に把握・解析する"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "能力を持つが故に、未来を含む宇宙の全運動までも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確定的に知りえる」"
+                                ""
                             ]
                         },
                         {
@@ -5632,14 +5632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<モニター>という超人的知性の事を指す、"
+                                "\\n<Monitor>What is the hypothesis proposed by a French\nmathematician that refers to the concept of\n\\C[24]superhuman intelligence?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フランスの数学者が提唱した仮説を何と呼ぶ？"
+                                ""
                             ]
                         },
                         {
@@ -5647,12 +5647,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "シュレッターの猫",
-                                    "シュレディンガーの猫",
-                                    "ユーハバッハの髭",
-                                    "ラ・フランスの悪魔",
-                                    "ラプラスの悪魔",
-                                    "全能の逆説"
+                                    "Shredder's Cat",
+                                    "Schrödinger's cat",
+                                    "Ichigo: Yhwach's beard",
+                                    "La France's Devil",
+                                    "Laplace's Demon",
+                                    "The Paradox of Omnipotence"
                                 ],
                                 1,
                                 0,
@@ -5701,14 +5701,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]40 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]40秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5757,14 +5757,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]40 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]40秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5813,14 +5813,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]40 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]40秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5869,14 +5869,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]40 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]40秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>正解"
+                                "\\n<Monitor>\\C[24]Correct."
                             ]
                         },
                         {
@@ -5978,14 +5978,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<モニター>不正解。"
+                                "\\n<Monitor>\\C[24]Incorrect. Remaining count decreased by\n\\C[20]40 seconds\\C[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残カウント\\C[20]40秒\\C[24]減少。"
+                                ""
                             ]
                         },
                         {
@@ -6042,14 +6042,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>お疲れ様ですココ様。"
+                                "\\n<Security System>\\C[24]Good job, Miss Cocoa. Please have a drink."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ドリンクをどうぞ。"
+                                ""
                             ]
                         },
                         {
@@ -6076,7 +6076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Red:MONSTER を２つ手に入れた。"
+                                "Red: I obtained two MONSTERs."
                             ]
                         },
                         {
@@ -6115,21 +6115,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>ココ様へ警告。\\!"
+                                "\\n<Security System>\\C[24]Warning to Miss Cocoa. Suspicion of\nunauthorized access. All units on high alert. All\nunits on high alert."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "不正アクセスの疑いあり。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "全機警戒。全機警戒。"
+                                ""
                             ]
                         },
                         {
@@ -6642,14 +6642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -6741,14 +6741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -6828,14 +6828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-1\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -6915,14 +6915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ト　\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] and \\C[2]Γ-1\\C[24]\nswitches have not been unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -7011,14 +7011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -7110,14 +7110,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -7197,14 +7197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-1\\C[24] switch has not been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -7284,14 +7284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[2]Γ-2\\C[24]　ト　\\C[2]Γ-1\\C[24]　ノ"
+                                "\\n<Device>The \\C[24]\\C[2]Γ-2\\C[24] and \\C[2]Γ-1\\C[24]\nswitches have not been unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチ　ガ　解除　サレテイマセン"
+                                ""
                             ]
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>ドアロック　ガ　解除　サレテイマセン"
+                                "\\n<Device>The door lock has not been released."
                             ]
                         },
                         {
@@ -7460,14 +7460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -7568,7 +7568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>ドアロック　ガ　解除　サレテイマセン"
+                                "\\n<Device>The door lock has not been released."
                             ]
                         },
                         {
@@ -7648,14 +7648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -7744,14 +7744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -7835,14 +7835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -7926,14 +7926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8017,14 +8017,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8624,14 +8624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8715,14 +8715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8806,14 +8806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8897,14 +8897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -8988,14 +8988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9079,14 +9079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9170,14 +9170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9261,14 +9261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9352,14 +9352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9443,14 +9443,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -9534,14 +9534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きなシャッターだ。"
+                                "It's a big shutter. I wonder if there are drones\nstored here too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここにもドローンが格納されているのだろうか。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "３F　アーケード街",
+    "displayName": "3F Arcade Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -8029,14 +8029,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -8113,14 +8113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -8197,14 +8197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -8281,14 +8281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\nit doesn't seem like it will open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -8365,14 +8365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -8753,45 +8753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…シャッターにも鍵が掛かっている…。"
+                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]どこかに鍵があるはずだが…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>そういえば…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内図によると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このビルには\\C[2]地下があるはず。"
+                                ""
                             ]
                         },
                         {
@@ -8808,21 +8777,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>残りの怪しい箇所と言えばそこだな。"
+                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段が塞がれているなら後は…"
+                                "\\n<Detective>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エレベーター\\C[0]しかない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8917,21 +8917,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -8939,8 +8939,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9242,7 +9242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]搬送用キー\\C[0]を手に入れた！"
+                                "I obtained the \\C[2]transportation key\\C[0]!"
                             ]
                         },
                         {
@@ -9259,21 +9259,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>これがあれば"
+                                "\\n<Detective>With this, it seems like we can go to places where\nwe couldn't go with the \\C[2]elevator."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エレベーターで行けなかった所にも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "行けそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -10015,45 +10015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…シャッターにも鍵が掛かっている…。"
+                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]どこかに鍵があるはずだが…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>そういえば…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内図によると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このビルには\\C[2]地下があるはず。"
+                                ""
                             ]
                         },
                         {
@@ -10070,21 +10039,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>残りの怪しい箇所と言えばそこだな。"
+                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段が塞がれているなら後は…"
+                                "\\n<Detective>If the stairs are blocked, then the only\nsuspicious place left is... the elevator."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エレベーター\\C[0]しかない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10179,21 +10179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -10201,8 +10201,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10582,45 +10582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…シャッターにも鍵が掛かっている…。"
+                                "\\n<Detective>...The shutter is locked too. There should be a\nkey somewhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]どこかに鍵があるはずだが…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>そういえば…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内図によると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このビルには\\C[2]地下があるはず。"
+                                ""
                             ]
                         },
                         {
@@ -10637,21 +10606,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>残りの怪しい箇所と言えばそこだな。"
+                                "\\n<Detective>By the way... according to the floor plan, there\nshould be a basement in this building."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段が塞がれているなら後は…"
+                                "\\n<Detective>If the stairs are blocked, the only suspicious\nplace left is... the elevator."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エレベーター\\C[0]しかない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10746,21 +10746,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -10768,8 +10768,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13002,69 +13002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>ようやく着いたようだな。\\!"
+                                "\\n<???>\\c[24]Looks like you finally made it. But\nunfortunately, I won't let you in so easily."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが残念、そう簡単には入れてやらねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ何かさせるつもりなのか！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>これは\\c[2]姐さんのゲーム\\c[24]でもあるんだ。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舎弟のオレらがしょっぱいステージ組んでたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姐さんに面目が立たねぇだろうが。"
+                                ""
                             ]
                         },
                         {
@@ -13081,7 +13026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…それで、今度は何を？"
+                                "\\n<Detective>...! Are you planning to make me do something\nelse?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13098,14 +13050,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>このビルには\\c[2]地下フロア\\c[24]もある。"
+                                "\\n<???>This is also Onee-san's game. If we, her\nunderlings, were to create a mediocre stage, it\nwould be a disgrace to Onee-san's reputation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "組の連中が極秘に使ってたフロアだ。"
+                                "\\n<Detective>...So, what now?"
                             ]
                         },
                         {
@@ -13122,28 +13098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>散々見て回って気付いてるだろうが、"
+                                "\\n<???>This building also has an underground floor. It's\na floor that the organization's members used\nsecretly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "階段では行けねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]専用のキー\\c[24]を使って、\\c[2]エレベーターでしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くことが出来ないフロア\\c[24]だ。"
+                                ""
                             ]
                         },
                         {
@@ -13160,21 +13122,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>まぁ、また色々探し回るのもダリィだろ。"
+                                "\\n<???>\\c[24]You've probably noticed after looking around\nso much, but you can't go through the stairs.\n\\c[2]You can only access this floor using a\n\\c[24]special key\\c[2] and taking the\n\\c[24]elevator\\c[2]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]カギは近くに転がってる\\c[24]から、"
+                                "\\n<???>Well, I guess it's fine for you to search around\nagain. The key is lying around nearby, so just\npick one up and use it as you please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "適当に拾って使いな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13203,14 +13203,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…カギか…。"
+                                "\\n<Detective>...A key, huh... For now, let's \\c[2]search around\nthis area\\c[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず\\c[2]この辺りを探してみよう。\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -13355,14 +13355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. It doesn't seem easy\nto open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単に開けれそうにないな。"
+                                ""
                             ]
                         },
                         {
@@ -13439,14 +13439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. It doesn't seem easy\nto open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単に開けれそうにないな。"
+                                ""
                             ]
                         },
                         {
@@ -13523,14 +13523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. It doesn't seem easy\nto open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単に開けれそうにないな。"
+                                ""
                             ]
                         },
                         {
@@ -13607,14 +13607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. It doesn't seem easy\nto open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単に開けれそうにないな。"
+                                ""
                             ]
                         },
                         {
@@ -13691,14 +13691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. It doesn't seem easy\nto open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "簡単に開けれそうにないな。"
+                                ""
                             ]
                         },
                         {
@@ -13775,14 +13775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -13859,14 +13859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\nit doesn't seem like it will open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -13943,14 +13943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\nit doesn't seem like it will open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -14027,14 +14027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\ndoesn't seem to open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {
@@ -14111,14 +14111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑丈な防火シャッターだ。"
+                                "It's a sturdy fire shutter. The door is rusty and\nit doesn't seem like it will open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "扉は錆びついていて、\\c[2]開く事はなさそう\\c[0]だ。"
+                                ""
                             ]
                         },
                         {

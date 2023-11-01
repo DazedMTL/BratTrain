@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…扉に何かが書かれている…"
+                                "\\n<Detective>...There's something written on the door..."
                             ]
                         },
                         {
@@ -2340,21 +2340,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"全ては月の為に。"
+                                "Everything is for the moon. Even if I have to\nsacrifice everything I have, I will never give\nup."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "例え私の持つ全てを犠牲にしようとも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "決して諦めない。\""
+                                ""
                             ]
                         },
                         {
@@ -2371,7 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>………。"
+                                "\\n<Detective>.........."
                             ]
                         },
                         {
@@ -3230,38 +3230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！？\\!"
+                                "\\n<Detective>!?...I don't feel the same pressure as before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…さっきまでの圧力を感じない…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…ルナが消えたのか…。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "………。"
+                                ""
                             ]
                         },
                         {
@@ -3278,14 +3254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>向こうに見える扉…"
+                                "\\n<Detective>...Luna disappeared..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "恐らくあの先に”顕現装置”が…。"
+                                ""
                             ]
                         },
                         {
@@ -3302,7 +3278,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>そして…”最初の狂人”が…。"
+                                "\\n<Detective>The door over there... Most likely, the\nmanifestation device is beyond that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>And...the first lunatic..."
                             ]
                         },
                         {
@@ -3472,7 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>硬い扉で塞がれている…"
+                                "\\n<Detective>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3580,7 +3580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>硬い扉で塞がれている…"
+                                "\\n<Detective>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3688,7 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>硬い扉で塞がれている…"
+                                "\\n<Detective>It's blocked by a hard door..."
                             ]
                         },
                         {
@@ -3796,59 +3796,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. Luna Hisube (Luna\nHisube) beacon has already captured the thought\nform. After the manifestation device is activated,\nbegin observation promptly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ビーコンは既に思念体を補足済み。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の稼働後、速やかに観測を開始”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”観測13日目"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象の観測波の消失を確認。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顕霊装置にも反応なし、対象座標の喪失と断定”"
+                                ""
                             ]
                         },
                         {
@@ -3865,28 +3834,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”観測後66日経過"
+                                "Observation Day 13, confirmed disappearance of the\nobserved waves. No response from the manifestation\ndevice, confirming the loss of the target\ncoordinates."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対象の再観測は未だ確認できず、"
+                                "After 66 days since the observation, the re-\nobservation of the target has not yet been\nconfirmed, and multiple malfunctions of the\nmanifestation device have been confirmed. We\npropose to cancel the plan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の不具合を複数確認。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画の中止を打診。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3903,14 +3903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>思念体…"
+                                "\\n<Detective>If it's a thought form... then what she was\nsaying..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ならあの子の言っていた事は…。"
+                                ""
                             ]
                         },
                         {
@@ -3986,59 +3986,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. Luna Hisube\n(Hisube Luna) Beacon has already captured the\nthought form. After the manifestation device is\nactivated, promptly begin observation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ビーコンは既に思念体を補足済み。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の稼働後、速やかに観測を開始”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”観測13日目"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象の観測波の消失を確認。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顕霊装置にも反応なし、対象座標の喪失と断定”"
+                                ""
                             ]
                         },
                         {
@@ -4055,28 +4024,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”観測後66日経過"
+                                "On the 13th day of observation, confirmed the\ndisappearance of the observed waves. No response\nfrom the manifestation device, confirming the loss\nof the target coordinates."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対象の再観測は未だ確認できず、"
+                                "66 days have passed since the observation. We have\nnot yet been able to confirm a re-observation of\nthe target, and have confirmed multiple\nmalfunctions in the manifestation device. We\npropose canceling the project."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の不具合を複数確認。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画の中止を打診。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4093,14 +4093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>思念体…"
+                                "\\n<Detective>If it's a thought form... then what she was\nsaying..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ならあの子の言っていた事は…。"
+                                ""
                             ]
                         },
                         {
@@ -4177,28 +4177,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. Luna Hisube (Luna\nHisube) uses the remains of the target as a medium\nfor the supplementary beacon. After that, the\nobservation waves were confirmed by the submersion\ndevice, so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "補足ビーコンには対象の遺骨を媒体として使用。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その後潜界装置により観測波を確認した為、”"
+                                ""
                             ]
                         },
                         {
@@ -4215,28 +4215,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”顕霊には生前の肉体の存在が不可欠と考えられる。"
+                                "The existence of the physical body during one's\nlifetime is considered essential for manifesting\nspirits. We are considering whether this\nphenomenon can be used to prove the connection\nbetween the physical body and the soul. The\nremaining task is to prove in the subsequent\nprocess whether the conditions for resurrection\nare as hypothesized."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "論文”肉体と魂魄の繋がり”の立証にこの現象が使えるか検討。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残るは、蘇りに必要な肉体の条件が仮説通りであるか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先のプロセスで証明する必要がある。”"
+                                ""
                             ]
                         },
                         {
@@ -4253,14 +4253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…遺骨…。"
+                                "\\n<Detective>...Using remains like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなものを使ってまで…"
+                                ""
                             ]
                         },
                         {
@@ -4336,28 +4336,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. Luna Hisube (Luna\nHisube) uses the remains of the target as a medium\nfor the supplementary beacon. After confirming the\nobservation waves,"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "補足ビーコンには対象の遺骨を媒体として使用。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その後観測波を確認した為、”"
+                                ""
                             ]
                         },
                         {
@@ -4374,28 +4374,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”顕霊には生前の肉体の存在が不可欠と考えられる。"
+                                "The presence of the physical body during\nmanifestation is considered essential. It also has\nthe potential to contribute to the proof of the\nconnection between the physical body and the soul.\nThe remaining task is to prove in the subsequent\nprocess whether the conditions for resurrection\nare as hypothesized."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "論文”肉体と魂魄の繋がり”の立証にも繋がる可能性。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残るは、蘇りに必要な肉体の条件が仮説通りであるか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先のプロセスで証明する必要がある。”"
+                                ""
                             ]
                         },
                         {
@@ -4412,14 +4412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…遺骨…。"
+                                "\\n<Detective>...Using the remains...to that extent..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなものを使ってまで…"
+                                ""
                             ]
                         },
                         {
@@ -4496,66 +4496,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. After the\ncessation of the Luna Hisube (Hisube Luna) spirit\ndevice, we received instructions from the chairman\nto restart and begin observation again using the\nSubterranean World device."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の停止後、会長より再始動の指示が入り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再度、潜界装置によって観測を開始。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかし、対象の観測波は完全にロスト。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビーコンも反応はなく、再度計画中止を打診。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取締役会との取り決めにより、50日間の猶予を持って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果が出なかった場合は計画の中止を決定。”"
+                                ""
                             ]
                         },
                         {
@@ -4572,28 +4534,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”再始動後、50日経過。"
+                                "However, the observation waves of the target are\ncompletely lost. There is no response from the\nbeacon, so we propose to cancel the plan again.\nAccording to the agreement with the board of\ndirectors, if there are no results within 50 days\nof grace period, we will decide to cancel the\nplan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらゆる手を試したが、対象の観測波は確認できず。"
+                                "After the restart, 50 days have passed. We tried\nevery possible method, but we couldn't confirm the\nobservation waves of the target. Additionally, the\nbeacon disappeared completely during the last\ntest. We have determined that further continuation\nis impossible and will terminate the plan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また、ビーコンは最後のテストで全て消失。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ以上の継続は不可能と判断し、計画を終了する。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4610,21 +4610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…計画は一度中止されたが、"
+                                "\\n<Detective>...The plan was once canceled, but they still\nwanted to continue... [Chairman]... This person..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでも続けようとした…。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]”会長”\\c[0]……この人物が…"
+                                ""
                             ]
                         },
                         {
@@ -4700,66 +4700,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～Project \\c[2]LUNA\\c[0]～"
+                                "~Project \\c[2]LUNA\\c[0]~ Target. After the\ncessation of the Luna Hisube (Luna Hisube) spirit\ndevice, we received instructions from the chairman\nto restart and begin observation again using the\nSubterranean World device."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象・緋皇 月(ヒスベ ルナ)"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置の停止後、会長より再始動の指示が入り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "再度、潜界装置によって観測を開始。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”しかし、対象の観測波は完全にロスト。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビーコンも反応はなく、再度計画中止を打診。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取締役会との取り決めにより、50日間の猶予を持って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果が出なかった場合は計画の中止を決定。”"
+                                ""
                             ]
                         },
                         {
@@ -4776,28 +4738,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”再始動後、50日経過。"
+                                "However, the observation waves of the target are\ncompletely lost. There is no response from the\nbeacon, so we propose to cancel the plan again.\nAccording to the agreement with the board of\ndirectors, if there are no results within 50 days\nof grace period, the plan will be decided to be\ncanceled."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらゆる手を試したが、対象の観測波は確認できず。"
+                                "After the restart, 50 days have passed. We tried\nevery possible method, but we couldn't confirm the\nobservation waves of the target. Additionally, the\nbeacon disappeared completely during the last\ntest. We have determined that further continuation\nis impossible and will terminate the plan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また、ビーコンは最後のテストで全て消失。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ以上の継続は不可能と判断し、計画を終了する。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4814,21 +4814,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…計画は一度中止されたが、"
+                                "\\n<Detective>...The plan was once canceled, but they still\nwanted to continue...the chairman...this person..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでも続けようとした…。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]”会長”\\c[0]……この人物が…"
+                                ""
                             ]
                         },
                         {
@@ -4905,59 +4905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”手記"
+                                "The student council president has completely gone\ncrazy. I feel sorry for them, but that behavior is\nabnormal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会長はもう完全にイカレちまった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そりゃ同情はするが、アレは異常だ。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”もうあの子を探す為の媒体もないってのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「血の繋がりがある自分の血肉で事足りる」だと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本人の遺骨でも補足できないのに、血縁者だからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捉えられる訳がない。”"
+                                ""
                             ]
                         },
                         {
@@ -4974,28 +4936,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”どの道、役員会が止めればこの計画はおしまいだ。"
+                                "Even though there is no longer any means to search\nfor that child, they say, My own flesh and blood\nis enough because we share a blood connection.\nEven if we can't even supplement with their\nremains, there is no way they can be considered a\nblood relative."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何百億掛けたのか知らねぇが、"
+                                "In any case, if the board members had stopped this\nplan, it would have been over. I don't know how\nmany billions were spent, but in the end, it's\nclear that bringing the dead back to this world is\nan absurd and impossible thing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局、”死者をこの世に呼び戻す”なんて荒唐無稽な事"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無理だったって事だ。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5012,14 +5012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…死者を呼び戻す…"
+                                "\\n<Detective>...To seriously try to bring back the dead..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本気でそんな事をしようとするとは…"
+                                ""
                             ]
                         },
                         {
@@ -5095,59 +5095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”手記"
+                                "The student council president has completely gone\ncrazy. I feel sorry for them, but that behavior is\nabnormal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会長はもう完全にイカレちまった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そりゃ同情はするが、アレは異常だ。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”もうあの子を探す為の媒体もないって言ったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「血の繋がりのある自分の血肉で事足りる」だと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本人の遺骨でも補足できないのに、血縁者だからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捉えられる訳がない。”"
+                                ""
                             ]
                         },
                         {
@@ -5164,28 +5126,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”どの道、役員会が止めればこの計画はおしまいだ。"
+                                "If I were to say that there is no longer any means\nto search for that child, they responded with, I\nam sufficient with my own flesh and blood, which\nshares a blood connection. Even if we were to\nsupplement with their own remains, it is\nimpossible to be considered as a blood relative."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何百億掛けたのか知らねぇが、"
+                                "In any case, if the board of directors were to\nstop, this plan would be over. I don't know how\nmany billions were spent, but in the end, it's\njust impossible to bring the dead back to this\nworld."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結局、”死者をこの世に呼び戻す”なんて荒唐無稽な事"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無理だったって事だ。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5202,14 +5202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…死者を呼び戻す…"
+                                "\\n<Detective>...Trying to bring back the dead...seriously\nattempting such a thing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本気でそんな事をしようとするとは…"
+                                ""
                             ]
                         },
                         {
@@ -5286,66 +5286,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～計画に関する結果報告書～"
+                                "~Report on the Results of the Project~ Conclusion:\nProject LUNA, the plan to manifest the deceased,\nhas failed. The plan will be immediately\nterminated and funding will be frozen. The planner\nof the project, Luna Hisube, will be dismissed\nfrom the board of directors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結論。Project LUNA、死者の顕現計画は失敗。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画は即時中止とし、資金は凍結。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画立案者、緋皇 伊邪那 は役員会より解任処分とする。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”計画に用いた地下研究施設及び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "潜界装置、顕霊装置への電力供給は本指令発布日より数えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "5日以内に完全停止するものとし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後地下施設はへの通行路は完全封鎖とする。”"
+                                ""
                             ]
                         },
                         {
@@ -5362,28 +5324,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”また、計画の停止に伴い緋皇グループは"
+                                "The power supply to the underground research\nfacility, as well as the Subterranean Boundary\nDevice and the Manifestation Device, used in the\nproject shall be completely halted within 5 days\nfrom the date of this directive. Afterward, all\naccess routes to the underground facility shall be\ncompletely sealed off."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朔晦市都市開発事業からの撤退を表明し、"
+                                "Furthermore, with the suspension of the project,\nthe Hikou Group has announced its withdrawal from\nthe Sakuhai City urban development project. As for\nfuture business operations, they will be\ntransferred to subsidiary companies, but the\nspecific transfer destination will be notified at\na later date."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "以降の事業については傘下企業に移譲するものとするが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "具体的な移譲先については後日通達するものとする。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5400,28 +5400,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！\\!"
+                                "\\n<Detective>...! Hikou Group...? I'm sure it was on Coco's\nlist... The business withdrawal should have been\nover half a year ago..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緋皇グループ…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かココのリストにもあったが…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "事業撤退は半年以上前のはず…"
+                                ""
                             ]
                         },
                         {
@@ -5438,21 +5438,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>だとすればもう既にこの施設は"
+                                "\\n<Detective>If that's the case, this facility should have\nalready been shut down... What's going on...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "停止しているはずなのに…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どういう事だ…？"
+                                ""
                             ]
                         },
                         {
@@ -5528,66 +5528,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～計画に関する結果報告書～"
+                                "~Report on the Results of the Project~ Conclusion:\nProject LUNA, the plan to manifest the deceased,\nhas failed. The plan will be immediately\nterminated and funding will be frozen. The planner\nof the project, Luna Hisube, will be dismissed\nfrom the board of directors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結論。Project LUNA、死者の顕現計画は失敗。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画は即時中止とし、資金は凍結。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画立案者、緋皇 伊邪那 は役員会より解任処分とする。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”計画に用いた地下研究施設及び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "潜界装置、顕霊装置への電力供給は本指令発布日より数えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "5日以内に完全停止し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後地下施設はへのアクセスは完全封鎖する。”"
+                                ""
                             ]
                         },
                         {
@@ -5604,28 +5566,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”また、計画の停止に伴い緋皇グループは"
+                                "The power supply to the underground research\nfacility, as well as the Subterranean Boundary\nDevice and the Manifestation Device used in the\nproject, must be completely shut down within 5\ndays from the date of this directive. After that,\naccess to the underground facility will be\ncompletely blocked."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朔晦市都市開発事業からの撤退を表明し、"
+                                "Furthermore, in light of the project's\ntermination, the Hikou Group has announced its\nwithdrawal from the Sakuhai City urban development\nproject. As for future business endeavors, they\nwill be transferred to subsidiary companies, with\nthe specific transfer destination to be notified\nat a later date."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "以降の事業については傘下企業に移譲するものとするが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "具体的な移譲先については後日通達するものとする。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5642,28 +5642,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！\\!"
+                                "\\n<Detective>...! Hikou Group...? I'm sure it was on Coco's\nlist too... Their business withdrawal should have\nbeen over half a year ago..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緋皇グループ…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かココのリストにもあったが…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "事業撤退は半年以上前のはず…"
+                                ""
                             ]
                         },
                         {
@@ -5680,21 +5680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>だとすればもう既にこの施設は"
+                                "\\n<Detective>If that's the case, this facility should have\nalready been shut down... What's going on...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "停止しているはずなのに…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どういう事だ…？"
+                                ""
                             ]
                         },
                         {
@@ -5771,59 +5771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕霊装置による想定外の影響について～"
+                                "The Unexpected Effects of the Manifestation Device\n- The manifestation device interferes with the\nuniversal unconscious realm, allowing access to\nsubmerged consciousness or souls."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置は普遍的無意識領域に干渉する事で、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その先に沈んだ”意識”、または”魂魄”にアクセスするもの。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”ユング心理学における”シャドウ”とは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに顕在するものなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その答えは、一説には普遍的無意識領域にあるとする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "論文も存在したが”"
+                                ""
                             ]
                         },
                         {
@@ -5840,28 +5802,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”計画開始直後から度々発生している不具合の原因は、"
+                                "In Jungian psychology, where does the shadow\nexist? According to one theory, there is a paper\nthat suggests it exists in the realm of the\ncollective unconscious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさにこのシャドウこそが根源ではないかと思慮される。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象の補足にはビーコンを使用するが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはあくまでも補足の為の装置であり、”"
+                                ""
                             ]
                         },
                         {
@@ -5878,28 +5840,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”未知の領域であった普遍的無意識領域に接続する事は"
+                                "The cause of the frequent malfunctions that have\nbeen occurring since the start of the plan is\nbelieved to be none other than this shadow itself.\nA beacon is used for supplementary purposes, but\nit is merely a device for supplementation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対象以外のシャドウに接続する事にも繋がらないだろうか。"
+                                "Connecting to the universal unconscious realm,\nwhich was an unknown territory, could it also lead\nto connecting with shadows other than the target?\nThere are too many individuals clearly\nexperiencing mental abnormalities. Seasonal\naffective disorder is believed to be the cause,\nbut it doesn't seem so."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "明らかに精神に異常をきたしている者が多すぎる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "季節性情動障害が原因とされているが、そうは思えない。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5916,14 +5916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>魂魄にアクセス…"
+                                "\\n<Detective>Accessing the soul... I never thought something\nlike this would be possible..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかこんな事を可能にするとは…"
+                                ""
                             ]
                         },
                         {
@@ -5999,59 +5999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕霊装置による想定外の影響について～"
+                                "The Unexpected Effects of the Manifestation Device\n- The manifestation device interferes with the\nuniversal unconscious realm, allowing access to\nsubmerged consciousness or souls."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顕霊装置は普遍的無意識領域に干渉する事で、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その先に沈んだ”意識”、または”魂魄”にアクセスするもの。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”ユング心理学における”シャドウ”とは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに顕在するものなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その答えは、一説には普遍的無意識領域にあるとする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "論文も存在したが”"
+                                ""
                             ]
                         },
                         {
@@ -6068,28 +6030,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”計画開始直後から度々発生している不具合の原因は、"
+                                "In Jungian psychology, where does the shadow\nexist? According to one theory, there is a paper\nthat suggests it exists in the realm of the\ncollective unconscious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさにこのシャドウこそが根源ではないかと思慮される。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "対象の補足にはビーコンを使用するが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはあくまでも補足の為の装置であり、”"
+                                ""
                             ]
                         },
                         {
@@ -6106,28 +6068,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”未知の領域であった普遍的無意識領域に接続する事は"
+                                "The cause of the frequent malfunctions that have\nbeen occurring since the start of the plan is\nbelieved to be none other than this shadow itself.\nA beacon is used for supplementary purposes, but\nit is merely a device for supplementation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対象以外のシャドウに接続する事にも繋がらないだろうか。"
+                                "Connecting to the universal unconscious realm,\nwhich was an unknown territory, could it also lead\nto connecting with shadows other than the target?\nThere are too many individuals clearly\nexperiencing mental abnormalities. Seasonal\naffective disorder is believed to be the cause,\nbut it doesn't seem so."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "明らかに精神に異常をきたしている者が多すぎる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "季節性情動障害が原因とされているが、そうは思えない。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6144,14 +6144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>魂魄にアクセス…"
+                                "\\n<Detective>Accessing the soul... I never thought something\nlike this would be possible..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさかこんな事を可能にするとは…"
+                                ""
                             ]
                         },
                         {
@@ -6228,66 +6228,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～集団幻覚症状に関する推察～"
+                                "~Speculation on the Collective Hallucination\nSymptoms~ Since the start of the project, there\nhave been numerous reports of hallucinations and\nvisions among the personnel in the underground\nfacility. Here are several hypotheses that have\nbeen compiled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画が始まって以降、地下施設の関係者を中心に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幻覚や幻視の症状を訴える者が多発している件について"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくつかの仮説をまとめてみた。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”症状として興味深いものの3例は次の通りである。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１、亡くなったはずの知り合いを見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２、家にいるはずの家族を見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３、会った事はないが他界しているはずの人物を見た”"
+                                ""
                             ]
                         },
                         {
@@ -6304,66 +6266,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”いずれもその場にいるはずのない人物の目撃、"
+                                "The three interesting examples of symptoms are as\nfollows: 1. Seeing an acquaintance who should be\ndeceased. 2. Seeing a family member who should be\nat home. 3. Seeing a person who should have passed\naway, even though they have never met before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "または声を聞いた、会話したなどの接触情報であり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "第三者の確認により、当人が知りえるはずのない情報を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幻覚によって得ていた事から信頼度は高いと考えられる。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”元より、顕霊装置は知覚不能な領域、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普遍的無意識領域に接続する装置であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その先にある記憶や意識と接触する事でどのような影響を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "及ぼすかは未知数であった。”"
+                                ""
                             ]
                         },
                         {
@@ -6380,28 +6304,104 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”もしアレをユングの言う”シャドウ”だと言うのであれば、"
+                                "These are reports of witnessing people who should\nnot be present at the scene, hearing their voices,\nand even having conversations with them. The\ncredibility is considered high because the\ninformation obtained through hallucinations\nincludes details that the individuals themselves\nshould not have known, as confirmed by third\nparties."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "合点は行くが、その結論は尚早であろうか。"
+                                "From the beginning, the apparition device was a\ndevice that connected to the imperceptible realm,\nthe universal unconscious realm, and it was\nunknown what kind of impact it would have by\ncoming into contact with memories and\nconsciousness that exist beyond."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしそうであるならば、古来より日本で伝えられてきた"
+                                "If we were to say that those are the shadows that\nJung speaks of, then it would make sense. However,\nit may be premature to come to that conclusion. If\nthat is the case, could it be that the death\nspirits and life spirits that have been passed\ndown in Japan since ancient times were referring\nto those beings?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "死霊や生霊とは、あの者達の事を指していたのだろうか。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6418,14 +6418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>死霊…生霊…。\\!"
+                                "\\n<Detective>Death spirits...life spirits...are there others\nlike them as well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女たちのような者が他にも…。"
+                                ""
                             ]
                         },
                         {
@@ -6501,66 +6501,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～集団幻覚症状に関する推察～"
+                                "~Speculation on the Collective Hallucination\nSymptoms~ Since the start of the project, there\nhave been numerous reports of hallucinations and\nvisions among the personnel in the underground\nfacility. Here are several hypotheses that have\nbeen compiled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "計画が始まって以降、地下施設の関係者を中心に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幻覚や幻視の症状を訴える者が多発している件について"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくつかの仮説をまとめてみた。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”症状として興味深いものの3例は次の通りである。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１、亡くなったはずの知り合いを見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２、家にいるはずの家族を見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３、会った事はないが他界しているはずの人物を見た”"
+                                ""
                             ]
                         },
                         {
@@ -6577,66 +6539,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”いずれもその場にいるはずのない人物の目撃、"
+                                "The three interesting examples of symptoms are as\nfollows: 1. Seeing an acquaintance who should be\ndeceased. 2. Seeing a family member who should be\nat home. 3. Seeing a person who should have passed\naway, even though they have never met before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "または声を聞いた、会話したなどの接触情報であり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "第三者の確認により、当人が知りえるはずのない情報を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幻覚によって得ていた事から信頼度は高いと考えられる。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”元より、顕霊装置は知覚不能な領域、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普遍的無意識領域に接続する装置であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その先にある記憶や意識と接触する事でどのような影響を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "及ぼすかは未知数であった。”"
+                                ""
                             ]
                         },
                         {
@@ -6653,28 +6577,104 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”もしアレをユングの言う”シャドウ”だと言うのであれば、"
+                                "These are reports of witnessing people who should\nnot be present at the scene, hearing their voices,\nand even having conversations with them. The\ncredibility is considered high because the\ninformation obtained through hallucinations\nincludes details that the individuals could not\nhave known, as confirmed by third parties."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "合点は行くが、その結論は尚早であろうか。"
+                                "From the beginning, the apparition device was a\ndevice that connected to the imperceptible realm,\nthe universal unconscious realm, and it was\nunknown what kind of impact it would have by\ncoming into contact with memories and\nconsciousness that exist beyond."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしそうであるならば、古来より日本で伝えられてきた"
+                                "If we were to say that those are the shadows that\nJung speaks of, then it would make sense. However,\nis it too early to come to that conclusion? If\nthat's the case, could it be that the death\nspirits and life spirits that have been passed\ndown in Japan since ancient times were referring\nto those beings?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "死霊や生霊とは、あの者達の事を指していたのだろうか。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6691,14 +6691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>死霊…生霊…。\\!"
+                                "\\n<Detective>Death spirits... life spirits... Are there others\nlike them..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女たちのような者が他にも…。"
+                                ""
                             ]
                         },
                         {

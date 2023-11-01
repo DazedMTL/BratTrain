@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１F　廊下",
+    "displayName": "1F Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3748,7 +3748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…君が…"
+                                "\\n<Detective>...You..."
                             ]
                         },
                         {
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコ\\SE[default]\\n<???>ぶつけたとこ、見せて…"
+                                "ミヤコ\\SE[default]\\n<???>Show me where you got hit..."
                             ]
                         },
                         {
@@ -3808,7 +3808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>いてて…こぶが出来てしまったかな…"
+                                "\\n<Detective>Ouch... I wonder if I got a bruise..."
                             ]
                         },
                         {
@@ -3832,21 +3832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミヤコ\\SE[default]\\n<???>大変、怪我してる。\\!"
+                                "ミヤコ\\SE[default]\\n<???>Oh no, you're injured. Look, this area is also a\nbit scraped... Come with me, I'll treat it for\nyou."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほら、ここもすこし擦り剝いてる。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ついてきて、手当するから。"
+                                ""
                             ]
                         },
                         {
@@ -4502,7 +4502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……"
+                                "\\n<???>......"
                             ]
                         },
                         {
@@ -4669,14 +4669,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…あの少女に見つかるとマズイな…"
+                                "\\n<Detective>...It would be bad if that girl finds me... I need\nto find an exit without being discovered..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何とか見つからないように出口を探そう…。"
+                                ""
                             ]
                         },
                         {
@@ -4965,14 +4965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（クソッ…"
+                                "\\n<Detective>(Damn it... I have to proceed carefully this\ntime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今度は慎重に進まなければ…）"
+                                ""
                             ]
                         },
                         {
@@ -5095,28 +5095,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギは３つ。"
+                                "The keys are three. One is for the living room,\none is for the... room, and one is for the second\nfloor..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとつは\\C[2]リビング\\C[0]、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとつは\\C[2]……室\\C[0]、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとつは\\C[2]2階の……\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -5133,14 +5133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…所々かすれて見えないが…"
+                                "\\n<Detective>(...It's a bit blurry in some places... Is it some\nkind of hint...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かのヒントか…？）"
+                                ""
                             ]
                         },
                         {
@@ -5157,7 +5157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "廊下で拾ったメモを手に入れた。"
+                                "I obtained the memo that I found in the hallway."
                             ]
                         },
                         {
@@ -5319,14 +5319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（クソッ…"
+                                "\\n<Detective>(Damn it... I have to proceed carefully this\ntime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今度は慎重に進まなければ…）"
+                                ""
                             ]
                         },
                         {

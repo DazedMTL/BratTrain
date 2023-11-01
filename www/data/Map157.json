@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "こども部屋",
+    "displayName": "Children's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -2096,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Red:MONSTERを手に入れた！"
+                                "Red: I got the MONSTER!"
                             ]
                         },
                         {
@@ -2366,7 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかの部屋の鍵２を手に入れた！"
+                                "I obtained Key 2 for a certain room!"
                             ]
                         },
                         {
@@ -2830,7 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壊れたおもちゃがしまわれている…"
+                                "Broken toys are stored away..."
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壊れたおもちゃがしまわれている…"
+                                "Broken toys are stored..."
                             ]
                         },
                         {

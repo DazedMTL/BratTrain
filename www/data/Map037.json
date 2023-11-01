@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "蜀崎ｵｷ蜍輔＠縺ｦ縺上□縺輔＞",
+    "displayName": "Shokuzaki Oki Zukufu @ In the above □",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -7898,7 +7898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蜀崎ｵｷ蜍輔＠縺ｦ縺上□縺輔＞"
+                                "Shokuzaki Oki, I'm counting on you."
                             ]
                         },
                         {
@@ -7975,7 +7975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[18]荳肴ｭ｣繧呈､懃衍縺励∪縺励◆"
+                                "\\C[18]The food at this restaurant is really\ndelicious."
                             ]
                         },
                         {
@@ -7992,7 +7992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[18]豁｣縺励＞繝??繧ｿ繧偵Μ繝ｭ繝ｼ繝峨＠縺ｦ縺上□縺輔＞"
+                                "The food at this restaurant is really delicious."
                             ]
                         },
                         {
@@ -8009,7 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[18]蠑輔″邯壹″繧ｲ繝ｼ繝?繧偵♀讌ｽ縺励∩縺上□縺輔＞"
+                                "The food at this restaurant is really delicious."
                             ]
                         },
                         {

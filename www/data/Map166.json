@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "屋根裏　８",
+    "displayName": "Attic 8",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2119,21 +2119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -2141,8 +2141,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2310,21 +2310,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]【注意】この先はBOSS戦となります！"
+                                "\\C[2]【Attention】This is a boss battle up ahead! If\nyou are defeated, it will result in a game over\nafter the event. Are you sure you want to proceed?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敗北するとイベント後にゲームオーバーとなります。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -2332,8 +2332,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎖と南京錠で厳重にロックされている…。"
+                                "It is securely locked with chains and a padlock..."
                             ]
                         },
                         {
@@ -3172,14 +3172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…鎖に"
+                                "\\n<Detective>(...there's a stuffed animal torso hanging from\nthe chains...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ぬいぐるみの胴体\\C[0]がぶら下がっている…）"
+                                ""
                             ]
                         },
                         {
@@ -3577,7 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎖と南京錠で厳重にロックされている…。"
+                                "It is securely locked with chains and a padlock..."
                             ]
                         },
                         {
@@ -3594,14 +3594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…鎖に"
+                                "\\n<Detective>(...there's a stuffed animal torso hanging from\nthe chains...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ぬいぐるみの胴体\\C[0]がぶら下がっている…）"
+                                ""
                             ]
                         },
                         {
@@ -5099,14 +5099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何かが反射してる…？\\!"
+                                "\\n<Detective>Something is reflecting...? What is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは…"
+                                ""
                             ]
                         },
                         {
@@ -5123,7 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”ブラックライト”を手に入れた！"
+                                "I obtained a blacklight!"
                             ]
                         },
                         {
@@ -5140,14 +5140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>科学捜査で使うブラックライト…？"
+                                "\\n<Detective>A blacklight used in forensic investigations...?\nIs Lamphead... for blood detection...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ランプヘッドは…血液視認用か…。"
+                                ""
                             ]
                         },
                         {
@@ -5164,14 +5164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何かに使えるかもしれない。"
+                                "\\n<Detective>It might be useful for something. I'll keep it\njust in case."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一応持っておこう。"
+                                ""
                             ]
                         },
                         {

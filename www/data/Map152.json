@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴室",
+    "displayName": "Bathroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2321,7 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男モノの歯ブラシが転がっている…"
+                                "There's a toothbrush for men rolling around..."
                             ]
                         },
                         {
@@ -2658,7 +2658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {
@@ -2816,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破れた子ども服が無造作に突っ込まれている…"
+                                "The torn children's clothes are carelessly stuffed\nin..."
                             ]
                         },
                         {
@@ -2952,14 +2952,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性モノの服と"
+                                "There are women's clothes and a large quantity of\ncondoms stored..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大量のコンドームがしまわれている…"
+                                ""
                             ]
                         },
                         {
@@ -3095,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みのコンドームが大量に放り込まれている…"
+                                "There are a large number of used condoms scattered\naround..."
                             ]
                         },
                         {
@@ -3350,7 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Red:MONSTERを手に入れた！"
+                                "Red: I got the MONSTER!"
                             ]
                         },
                         {
@@ -3478,7 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みのコンドームが放り込まれている。"
+                                "There is a used condom thrown in."
                             ]
                         },
                         {
@@ -3614,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僅かに残ったボトルが置かれている…"
+                                "There is a bottle left behind..."
                             ]
                         },
                         {
@@ -3750,7 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空のボトルが置かれている…"
+                                "There is an empty bottle placed..."
                             ]
                         },
                         {
@@ -3886,14 +3886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男物の服が放り込まれているが…"
+                                "There are men's clothes thrown in here... They\nhaven't been washed yet, so they smell a little..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ洗っていないのか少し匂う…"
+                                ""
                             ]
                         },
                         {

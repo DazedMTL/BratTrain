@@ -4279,7 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>\\C[20]パスコード\\C[24]を入力してください。"
+                                "\\n<Security System>Please enter the passcode."
                             ]
                         },
                         {
@@ -4305,21 +4305,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ここもか…\\!"
+                                "\\n<Detective>Here too... It seems to be a \\C[2]7-digit\npassword\\C[0], just like earlier..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきと同じように、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]7桁のパスワード\\C[0]のようだ…"
+                                ""
                             ]
                         },
                         {
@@ -4363,14 +4363,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…！\\! さっき見つけたPASSコードか。"
+                                "\\n<Detective>...! It's the passcode I found earlier. The code\nis... \\C[2]1001011\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "コードは…\\C[2]1001011\\C[0]だな。"
+                                ""
                             ]
                         },
                         {
@@ -4625,38 +4625,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>\\C[2]（またどこかに"
+                                "\\n<Detective>(I wonder if there's another hint hidden\nsomewhere...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ヒントを隠していないだろうか…？）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<Detective>\\C[2]（だが、ここまでのステージで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう怪しい所は…）"
+                                ""
                             ]
                         },
                         {
@@ -4673,14 +4649,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（\\C[2]まさか、\\C[2]この部屋のどこか\\c[0]に…？"
+                                "\\n<Detective>(However, even at this stage, there are already\nsuspicious parts...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]探してみよう\\C[0]。）"
+                                "\\n<Detective>(Could it be... somewhere in this room? Let's\nsearch.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4736,7 +4736,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>認証完了。"
+                                "\\n<Security System>\\C[24]Authentication complete."
                             ]
                         },
                         {
@@ -4961,14 +4961,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[24]\\n<セキュリティシステム>認証エラー。"
+                                "\\n<Security System>\\C[24]Authentication error. Please enter the\ncorrect passcode."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "正しいパスコードを入力してください。"
+                                ""
                             ]
                         },
                         {
@@ -5324,14 +5324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5432,14 +5432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5540,7 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[20]パスワード認証\\C[24]　ガ　確認　デキマセン"
+                                "\\n<Device>\\C[24]\\C[20]Password authentication\\C[24] cannot\nbe confirmed."
                             ]
                         },
                         {
@@ -5557,28 +5557,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>PassCode　=　y\\!"
+                                "\\n<Device>\\C[24]PassCode=y----------------------------------\n----------------------ASCCⅡ:Decimal\nNumber=75\\C[20]Binary Number=y"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "--------------------------------------------------------"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ASCCⅡ　\\!:　Decimal Number　\\!=　75"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]Binary Number　\\!=　\\!　y"
+                                ""
                             ]
                         },
                         {
@@ -5658,14 +5658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -5766,7 +5766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>\\C[20]パスワード認証\\C[24]　ガ　確認　デキマセン"
+                                "\\n<Device>\\C[24]\\C[20]Password authentication\\C[24] cannot\nbe confirmed."
                             ]
                         },
                         {
@@ -5783,28 +5783,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>PassCode　=　y\\!"
+                                "\\n<Device>\\C[24]PassCode=y----------------------------------\n----------------------ASCCⅡ:Decimal\nNumber=75\\C[20]Binary Number=y"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "--------------------------------------------------------"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ASCCⅡ　\\!:　Decimal Number　\\!=　75"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20]Binary Number　\\!=　\\!　y"
+                                ""
                             ]
                         },
                         {
@@ -5884,14 +5884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>認証　完了"
+                                "\\n<Device>\\C[24]Authentication complete. Permission to\nproceed granted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行　ヲ　許可　シマス"
+                                ""
                             ]
                         },
                         {
@@ -7147,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マラ・マムシを手に入れた！"
+                                "I got the Mara Mamushi!"
                             ]
                         },
                         {
@@ -7393,7 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "300\\G 手に入れた！"
+                                "300G obtained!"
                             ]
                         },
                         {
@@ -7639,7 +7639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "300\\G 手に入れた！"
+                                "300G obtained!"
                             ]
                         },
                         {
@@ -7886,7 +7886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すき焼き弁当を手に入れた！"
+                                "I got a sukiyaki bento!"
                             ]
                         },
                         {
@@ -8554,14 +8554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…？"
+                                "Huh...? There's a memo stuck in here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かメモが挟まれている…"
+                                ""
                             ]
                         },
                         {
@@ -8585,7 +8585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]\\n[103]\\C[0]を手に入れた。"
+                                "\\n[103] obtained \\C[0]."
                             ]
                         },
                         {
@@ -8680,14 +8680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒントは手に入れた。"
+                                "I obtained a clue. Let's go search for the next\nlead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次の手がかりも探しに行こう。"
+                                ""
                             ]
                         },
                         {

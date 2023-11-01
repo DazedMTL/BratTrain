@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バルコニー",
+    "displayName": "Balcony",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2225,7 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに入れば身を隠せられそうだ…"
+                                "It seems like I can hide myself if I enter here..."
                             ]
                         },
                         {
@@ -2668,7 +2668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水面に死んだ魚が浮かんでいる…"
+                                "There is a dead fish floating on the water's\nsurface..."
                             ]
                         },
                         {

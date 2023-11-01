@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２F　エレベーターホール",
+    "displayName": "2F Elevator Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1675,14 +1675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>このエレベーターは"
+                                "\\n<Detective>It seems like this elevator is not powered on..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通電していないようだ…"
+                                ""
                             ]
                         },
                         {
@@ -1699,14 +1699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>通電さえすれば動きそうだから…"
+                                "\\n<Detective>If we can just get it powered on, it should\nmove... Shall we try to find the distribution\npanel?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "配電盤を探してみるか…"
+                                ""
                             ]
                         },
                         {
@@ -1790,7 +1790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アナウンス>\\C[24]ご利用の階数を選択してください。"
+                                "\\n<Announcement>\\C[24]Please select the floor level you wish to\nuse."
                             ]
                         },
                         {
@@ -1800,7 +1800,7 @@
                                 [
                                     "3F",
                                     "B1",
-                                    "やめる"
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -1998,14 +1998,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>ん…？　このエレベーター"
+                                "\\n<Detective>Huh...? This elevator can only go between the\n\\c[2]1st and 3rd floors\\c[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]1階と3階しか行き来できない\\c[0]のか。"
+                                ""
                             ]
                         },
                         {
@@ -2022,14 +2022,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Detective>まぁ、目的は3階に行く事なんだ。"
+                                "\\n<Detective>Well, the goal is to go to the 3rd floor. Is there\nany problem in particular?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "特に問題はないか。"
+                                ""
                             ]
                         },
                         {
@@ -2065,7 +2065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アナウンス>\\C[24]ご利用の階数を選択してください。"
+                                "\\n<Announcement>\\C[24]Please select the floor level you wish to\nuse."
                             ]
                         },
                         {
@@ -2074,7 +2074,7 @@
                             "parameters": [
                                 [
                                     "3F",
-                                    "やめる"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -2305,14 +2305,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>電気がついた…"
+                                "\\n<Detective>The lights are on... The elevator should be\nworking now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\!これでエレベーターも動くはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -2365,14 +2365,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>配電盤のヒューズが壊れている…\\!"
+                                "\\n<Detective>The fuse in the distribution panel is broken... So\nwhat those kids were talking about earlier was\nthis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]さっきあの子達が言ってたのはこれか。"
+                                ""
                             ]
                         },
                         {
@@ -2389,21 +2389,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>どこかに\\C[2]ヒューズ\\C[0]はないか…？\\!"
+                                "\\n<Detective>Is there a \\C[2]fuse\\C[0] somewhere...? Or... if\nit's the \\c[2]distribution room\\c[0], it must be\nthere for sure..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あるいは…\\c[2]配電室\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "必ずありそうだが…"
+                                ""
                             ]
                         },
                         {
@@ -2490,14 +2490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ヒューズを挿した事で"
+                                "\\n<Detective>It's functioning properly now that I've inserted\nthe fuse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正常に動いている。"
+                                ""
                             ]
                         },
                         {
@@ -2773,7 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエレベーターは完全に停止しているようだ。"
+                                "It seems like this elevator is completely stopped."
                             ]
                         },
                         {

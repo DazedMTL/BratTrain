@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１F　噴水広場",
+    "displayName": "1F Fountain Plaza",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4053,14 +4053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4137,14 +4137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4221,14 +4221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4305,14 +4305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4389,14 +4389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4473,14 +4473,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4557,14 +4557,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4641,14 +4641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4725,14 +4725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4809,14 +4809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4893,14 +4893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -4977,14 +4977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -5061,14 +5061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -5145,14 +5145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -5229,14 +5229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {
@@ -5313,14 +5313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水が流れる音だけが"
+                                "Only the sound of flowing water echoes quietly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "静かに反響している。"
+                                ""
                             ]
                         },
                         {

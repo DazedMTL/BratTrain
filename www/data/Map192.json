@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２F　旧訓覇組事務所",
+    "displayName": "2F Former Kurube Group Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 55,
@@ -20721,7 +20721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>よし…この角材を橋の代わりに…"
+                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -20819,14 +20819,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>床に穴が空いてる…\\!"
+                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このままじゃ渡れそうにないな…"
+                                ""
                             ]
                         },
                         {
@@ -20864,38 +20864,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>床は抜けやすくなっておりますので"
+                                "\\n<???>\\c[24]The floor is easy to fall through, so please\nbe careful~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご注意くださ～い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[24]\\n<???>このビルは元々、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソ親父の所有物件だったんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -20912,21 +20888,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>だが今は放棄されて、"
+                                "\\n<???>\\c[24]This building originally belonged to a\nshitty old man."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見ての通りオレ達のたまり場になってる。\\!"
+                                "\\n<???>\\c[24]However, it has been abandoned now and as\nyou can see, it has become our hangout spot. If\nyou want to pass through there, \\c[2]find a way to\nget through\\c[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこを通りたきゃ、\\c[2]通る方法を探しな\\c[24]。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20983,7 +20983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>何か\\C[2]橋渡しになる頑丈なもの\\C[0]があれば…"
+                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {
@@ -21078,7 +21078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>よし…この角材を橋の代わりに…"
+                                "\\n<Detective>Alright... I'll use this piece of wood as a\nbridge..."
                             ]
                         },
                         {
@@ -21176,14 +21176,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>床に穴が空いてる…\\!"
+                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このままじゃ渡れそうにないな…"
+                                ""
                             ]
                         },
                         {
@@ -21221,38 +21221,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>床は抜けやすくなっておりますので"
+                                "\\n<???>\\c[24]Please be careful as the floor is easy to\nfall through~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご注意くださ～い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[24]\\n<???>このビルは元々、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソ親父の所有物件だったんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -21269,21 +21245,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>だが今は放棄されて、"
+                                "\\n<???>\\c[24]This building originally belonged to a\nshitty old man."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見ての通りオレ達のたまり場になってる。\\!"
+                                "\\n<???>\\c[24]However, it has been abandoned now and as\nyou can see, it has become our hangout spot. If\nyou want to pass through there, \\c[2]find a way to\ncross."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこを通りたきゃ、\\c[2]通る方法を探しな\\c[24]。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21340,7 +21340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>何か\\C[2]橋渡しになる頑丈なもの\\C[0]があれば…"
+                                "\\n<Detective>If there's something sturdy that can serve as a\nbridge..."
                             ]
                         },
                         {
@@ -21444,7 +21444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>よし…この角材を橋の代わりに…"
+                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -21553,14 +21553,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>床に穴が空いてる…\\!"
+                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このままじゃ渡れそうにないな…"
+                                ""
                             ]
                         },
                         {
@@ -21598,38 +21598,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>床は抜けやすくなっておりますので"
+                                "\\n<???>\\c[24]The floor is easy to fall through, so please\nbe careful~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご注意くださ～い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[24]\\n<???>このビルは元々、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソ親父の所有物件だったんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -21646,21 +21622,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>だが今は放棄されて、"
+                                "\\n<???>\\c[24]This building originally belonged to a\nshitty old man."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見ての通りオレ達のたまり場になってる。\\!"
+                                "\\n<???>\\c[24]However, it has been abandoned now and as\nyou can see, it has become our hangout spot. If\nyou want to pass through there, \\c[2]find a way to\nget through\\c[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこを通りたきゃ、\\c[2]通る方法を探しな\\c[24]。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21717,7 +21717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>何か\\C[2]橋渡しになる頑丈なもの\\C[0]があれば…"
+                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {
@@ -21812,7 +21812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>よし…この角材を橋の代わりに…"
+                                "\\n<Detective>Alright... I'll use this piece of wood as a\nsubstitute for the bridge..."
                             ]
                         },
                         {
@@ -21921,14 +21921,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>床に穴が空いてる…\\!"
+                                "\\n<Detective>There's a hole in the floor... I can't cross like\nthis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このままじゃ渡れそうにないな…"
+                                ""
                             ]
                         },
                         {
@@ -21966,38 +21966,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>床は抜けやすくなっておりますので"
+                                "\\n<???>\\c[24]The floor is easy to fall through, so please\nbe careful~."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご注意くださ～い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[24]\\n<???>このビルは元々、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソ親父の所有物件だったんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -22014,21 +21990,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[24]\\n<???>だが今は放棄されて、"
+                                "\\n<???>\\c[24]This building originally belonged to a\nshitty old man."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見ての通りオレ達のたまり場になってる。\\!"
+                                "\\n<???>\\c[24]However, it has been abandoned now and as\nyou can see, it has become our hangout spot. If\nyou want to pass through there, \\c[2]find a way to\nget through\\c[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこを通りたきゃ、\\c[2]通る方法を探しな\\c[24]。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -22085,7 +22085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>何か\\C[2]橋渡しになる頑丈なもの\\C[0]があれば…"
+                                "\\n<Detective>If there's something \\C[2]strong enough to serve\nas a bridge\\C[0]..."
                             ]
                         },
                         {

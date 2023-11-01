@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "エントランス",
+    "displayName": "Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12161,7 +12161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（扉はロックが掛かっている…）"
+                                "\\n<Detective>(The door is locked...)"
                             ]
                         },
                         {
@@ -12250,7 +12250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（扉はロックが掛かっている…）"
+                                "\\n<Detective>(The door is locked...)"
                             ]
                         },
                         {
@@ -12518,14 +12518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>随分と広いな…\\!"
+                                "\\n<Detective>Quite spacious, isn't it... Are you on the second\nfloor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "2階にいるのか？"
+                                ""
                             ]
                         },
                         {
@@ -12741,7 +12741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "割れた花瓶が入っている…"
+                                "There is a broken vase inside..."
                             ]
                         },
                         {
@@ -12877,7 +12877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壊れた電話が入っている…"
+                                "There's a broken phone inside..."
                             ]
                         },
                         {

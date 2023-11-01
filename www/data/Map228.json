@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "住宅街",
+    "displayName": "Residential area",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -10144,45 +10144,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>お疲れ様です。"
+                                "\\n<Detective>Good work. I heard that a severe madman was\nfound in this park..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この公園でも重度の「狂人」が見つかったと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞いたのですが…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<警察官>あぁ、刑事さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや本当に大変でしたよ…"
+                                ""
                             ]
                         },
                         {
@@ -10199,21 +10175,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>昼間だと言うのに"
+                                "\\n<Detective>Ah, Detective. It was really tough..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”狂人”同士で…乱交していたんです。"
+                                "\\n<Detective>Even though it's daytime, these madmen were...\nengaging in an orgy. Right in the middle of the\npark."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "公園のど真ん中で。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10230,45 +10230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…は…？"
+                                "\\n<Detective>...What? Orgy...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "乱交…って…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<警察官>それも男同士です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に人の性的趣向をどうこう言うつもりはありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公共の場では犯罪ですからね。"
+                                ""
                             ]
                         },
                         {
@@ -10285,21 +10254,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>通りがかった女性に襲い掛かろうとした所で"
+                                "\\n<Detective>And it was between men. I don't have any intention\nof judging people's sexual preferences, but it's a\ncrime in a public place, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通報によって駆け付けた我々で拘束、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "連行したんですが…"
+                                ""
                             ]
                         },
                         {
@@ -10316,21 +10285,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>何しろ力が強くて…"
+                                "\\n<Detective>We restrained and apprehended them with the help\nof a report when they were about to attack a\npassing woman..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一時は機動隊の出動まで検討したほどで、"
+                                "\\n<Detective>Their strength was incredible... We even\nconsidered mobilizing the riot police at one\npoint. They were truly madmen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさに狂人でしたよ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10347,21 +10347,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…理性を失うほどの性的衝動、"
+                                "\\n<Detective>...It's hard to believe that it was simply a\nmatter of losing control over their sexual\nimpulses without any underlying reason."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが単純に自制が利かなくなっただけとは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "考えにくいな。"
+                                ""
                             ]
                         },
                         {
@@ -10378,21 +10378,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>原因が何であれ、"
+                                "\\n<Detective>Regardless of the cause, if we don't resolve this\nquickly, it seems that this town will soon become\na ghost town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早期に解決しなければこの街は近いうちに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゴーストタウンと化すと思われます。"
+                                ""
                             ]
                         },
                         {
@@ -10468,21 +10468,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>この公園では昼間だと言うのに"
+                                "\\n<Detective>Even though it's daytime in this park, these\nlunatics were engaging in group sex... right in\nthe middle of the park, between men."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”狂人”同士で…乱交していたんです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男同士、公園のど真ん中で。"
+                                ""
                             ]
                         },
                         {
@@ -10499,21 +10499,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>原因が何であれ、"
+                                "\\n<Detective>Whatever the cause may be, if we don't resolve it\nquickly, this town will soon become a ghost town."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早期に解決しなければこの街は近いうちに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゴーストタウンと化すと思われます。"
+                                ""
                             ]
                         },
                         {
@@ -10710,38 +10710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おばあさん>シングルマザーの母親と娘さんがいたんだけど、"
+                                "\\n<Grandma>There was a single mother and her daughter, but\nthe mother was a terrible person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その母親がひどい人でね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<おばあさん>毎日違う男を入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘さんをほったらかして遊び回ってたのよ。"
+                                ""
                             ]
                         },
                         {
@@ -10758,21 +10734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おばあさん>それに、毎日のように怒鳴り声も聞こえてたし、"
+                                "\\n<Grandma>She would leave her daughter alone and go around\nplaying with different men every day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "近所では有名な家庭だったんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここ最近見なくてね。"
+                                ""
                             ]
                         },
                         {
@@ -10789,14 +10758,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おばあさん>明るくはなかったけど\\c[2]可愛いお嬢さん\\c[0]でね。"
+                                "\\n<Grandma>Besides, we used to hear shouting every day, and\nthey were a well-known family in the neighborhood,\nbut we haven't seen them recently."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの子、無事だと良いんだけど…。"
+                                "\\n<Grandma>She wasn't cheerful, but she was a cute girl. I\nhope that child is safe..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10873,38 +10873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<太った男>ぶふー！ぶふー！"
+                                "\\n<Fat man>Huh...huh...he's not here today either..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きょ…今日もいない…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<太った男>お…おかしいな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺に出没するって…板にか…書いてたのに…！"
+                                ""
                             ]
                         },
                         {
@@ -10921,14 +10897,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<太った男>ぜ…絶対に見つけてみせるぞ…"
+                                "\\n<Fat man>Huh...huh...this is strange...he was supposed to\nbe lurking around here...it was written on the\nboard...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メスガキエンジェル…\\c[2]アリア\\c[0]たん！！"
+                                "\\n<Fat man>I... I'll definitely find you... Little Angel...\nAria-chan!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11005,45 +11005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじいさん>おや、今日も来とらんのぉ。"
+                                "\\n<Grandfather>Oh, you're not coming today either, Miss Hat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]帽子のお嬢さん\\c[0]。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<おじいさん>あんた知っとるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]ぶかぶかの白衣を着た小さいお嬢さん\\c[0]なんじゃが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくそこのベンチで一人でいたんじゃ。"
+                                ""
                             ]
                         },
                         {
@@ -11060,45 +11029,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじいさん>大人しい子で、あまり喋らんから"
+                                "\\n<Grandfather>Do you know? There's a little girl wearing a baggy\nwhite coat who often sits alone on that bench over\nthere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何があったかはよう知らんのじゃが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "可哀そうに、痩せていて不憫な子でのぉ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<おじいさん>ご飯をあげて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老いぼれジジィの話相手になって貰ってたんじゃが…。"
+                                ""
                             ]
                         },
                         {
@@ -11115,14 +11060,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじいさん>そうか、もしかしたら"
+                                "\\n<Grandfather>She's a quiet child, and since she doesn't talk\nmuch, I don't really know what happened, but she\nlooks pitiful, thin and unfortunate."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他に居場所を見つけたのかもしれんのぉ。"
+                                "\\n<Grandfather>I was hoping you could give her some food and keep\nthis old man company..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Grandfather>I see, maybe she found another place to be."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11199,21 +11199,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>この前のミコミコ生放送みた？"
+                                "\\n<Student A>Did you watch the previous Mikomiko live\nbroadcast? It was the ★Supreme Dark Night★ and\n\\c[2]sine:ω (sign) \\c[0] Game King Championship!\n\\c[2]sine:ω\\c[0]-chan totally dominated, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "★覇王暗黒NIGHT★と\\c[2]sine:ω(サイン)\\c[0]のゲーム王決定戦！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]sine:ω\\c[0]ちゃんの圧勝だったよね～"
+                                ""
                             ]
                         },
                         {
@@ -11230,21 +11230,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>みたみた！"
+                                "\\n<Student B>I watched it! It's hard to believe that the\nundefeated tactics of the Game King, Haou-shi,\ndidn't work at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今まで無敗と言われた、覇王氏の戦術がまったく"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通用しないなんてなぁ…。"
+                                ""
                             ]
                         },
                         {
@@ -11261,7 +11261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（ネットゲームの話題だろうか…？）"
+                                "\\n<Detective>(Is this about an online game...?)"
                             ]
                         },
                         {
@@ -11278,7 +11278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>流星のごとく現れては、ランキング上位だからな…"
+                                "\\n<Student A>Like a shooting star, [Color_1]sine:ω[Color_0]\nappears in the top rankings..."
                             ]
                         },
                         {
@@ -11295,38 +11295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>ネットじゃ、もう彼女のこと知らない人なんて居ないかもね～"
+                                "\\n<Student A>On the internet, there might not be anyone who\ndoesn't know about her anymore~ Maybe I should\nbecome a fan of sine:ω-chan too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺も、sine:ωちゃんのファンになろうかな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<学生B>マジかよ…。確かに、ゲームの才能は一番だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優勝インタビューの態度がなぁ…。"
+                                ""
                             ]
                         },
                         {
@@ -11343,45 +11319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>なんかこう…人をバカにした発言が多くて"
+                                "\\n<Student B>Seriously... It's true that she has the most\ntalent in the game, but her attitude during the\nchampionship interview..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あまりいい気分にはなれないなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<学生A>その挑発が良いんだよｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煽られて動揺している相手を見ていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でか、\\c[2]sine:ω\\c[0]ちゃん側に行きたくなる感じ。"
+                                ""
                             ]
                         },
                         {
@@ -11398,7 +11343,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>う～ん…"
+                                "\\n<Student B>Somehow... I can't feel good when there are so\nmany condescending remarks towards others."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Student A>That provocation is so good, haha. When I see the\nopponent getting flustered by being provoked, for\nsome reason, I feel like siding with\n\\c[2]sine:ω\\c[0]-chan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Student B>Hmm..."
                             ]
                         },
                         {
@@ -11475,21 +11475,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>この前のミコミコ生放送みた？"
+                                "\\n<Student A>Did you watch the previous Mikomiko live\nbroadcast? It was the ★Supreme Dark Night★ and\n\\c[2]sine:ω (sign) \\c[0] Game King Championship!\n\\c[2]sine:ω\\c[0]-chan totally dominated, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "★覇王暗黒NIGHT★と\\c[2]sine:ω(サイン)\\c[0]のゲーム王決定戦！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]sine:ω\\c[0]ちゃんの圧勝だったよね～"
+                                ""
                             ]
                         },
                         {
@@ -11506,21 +11506,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>みたみた！"
+                                "\\n<Student B>I watched it! It's hard to believe that the\nundefeated tactics of the Game King, Haou-shi,\ndidn't work at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今まで無敗と言われた、覇王氏の戦術がまったく"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通用しないなんてなぁ…。"
+                                ""
                             ]
                         },
                         {
@@ -11537,7 +11537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（ネットゲームの話題だろうか…？）"
+                                "\\n<Detective>(Is this about an online game...?)"
                             ]
                         },
                         {
@@ -11554,7 +11554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>流星のごとく現れては、ランキング上位だからな…"
+                                "\\n<Student A>Like a shooting star, they appear and dominate the\nrankings..."
                             ]
                         },
                         {
@@ -11571,38 +11571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生A>ネットじゃ、もう彼女のこと知らない人なんて居ないかもね～"
+                                "\\n<Student A>On the internet, there might not be anyone who\ndoesn't know about her anymore~ Maybe I should\nbecome a fan of \\c[2]sine:ω\\c[0]-chan too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺も、\\c[2]sine:ω\\c[0]ちゃんのファンになろうかな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<学生B>マジかよ…。確かに、ゲームの才能は一番だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優勝インタビューの態度がなぁ…。"
+                                ""
                             ]
                         },
                         {
@@ -11619,45 +11595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>なんかこう…人をバカにした発言が多くて"
+                                "\\n<Student B>Seriously... It's true that she has the most\ntalent in the game, but her attitude during the\nchampionship interview..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あまりいい気分にはなれないなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<学生A>その挑発が良いんだよｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煽られて動揺している相手を見ていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でか、\\c[2]sine:ω\\c[0]ちゃん側に行きたくなる感じ。"
+                                ""
                             ]
                         },
                         {
@@ -11674,7 +11619,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生B>う～ん…"
+                                "\\n<Student B>Somehow... I can't feel good when there are so\nmany condescending remarks towards others."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Student A>That provocation is so good, haha. When I see the\nopponent getting flustered by being taunted, for\nsome reason, I feel like rooting for\n\\c[2]sine:ω\\c[0]-chan's side."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Student B>Hmm..."
                             ]
                         },
                         {
@@ -11751,14 +11751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -11835,14 +11835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -11919,14 +11919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12003,14 +12003,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12327,14 +12327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12411,14 +12411,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12495,14 +12495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12579,14 +12579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"再開発計画地"
+                                "No entry allowed in the redevelopment area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "立ち入り禁止\""
+                                ""
                             ]
                         },
                         {
@@ -12880,21 +12880,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -12971,21 +12971,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -13062,21 +13062,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -13153,21 +13153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -13244,21 +13244,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -13335,21 +13335,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>サラリーマンがよく利用するコンビニだ。"
+                                "\\n<Detective>This is a convenience store that salarymen often\nuse. The coffee here has a rich flavor and is\nperfect for the morning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのコーヒーは濃い味わいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝にはもってこいだ。"
+                                ""
                             ]
                         },
                         {
@@ -13426,14 +13426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>オシャレな雰囲気のカフェだ。"
+                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのサンドイッチはOLにも人気なようだ。"
+                                ""
                             ]
                         },
                         {
@@ -13510,14 +13510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>オシャレな雰囲気のカフェだ。"
+                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのサンドイッチはOLにも人気なようだ。"
+                                ""
                             ]
                         },
                         {
@@ -13594,14 +13594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>オシャレな雰囲気のカフェだ。"
+                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのサンドイッチはOLにも人気なようだ。"
+                                ""
                             ]
                         },
                         {
@@ -13678,14 +13678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>オシャレな雰囲気のカフェだ。"
+                                "\\n<Detective>This is a stylish cafe. It seems that the\nsandwiches here are popular even among office\nladies."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここのサンドイッチはOLにも人気なようだ。"
+                                ""
                             ]
                         },
                         {
@@ -13762,14 +13762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {
@@ -13846,14 +13846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {
@@ -13930,14 +13930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {
@@ -14014,14 +14014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {
@@ -14098,14 +14098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {
@@ -14182,14 +14182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>青色が目印のコンビニだ。"
+                                "\\n<Detective>It's a convenience store with a blue sign... I\nused to go there often with my friends when I was\na student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…俺も学生の頃はよく友人と行ったな。"
+                                ""
                             ]
                         },
                         {

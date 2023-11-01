@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "豺ｱ豺ｵ縺ｮ驕翫?蝣ｴ",
+    "displayName": "Unknown Location",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -6124,7 +6124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すき焼き弁当を手に入れた！"
+                                "I got a sukiyaki bento!"
                             ]
                         },
                         {
@@ -7826,66 +7826,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”手記"
+                                "The entry of the Hikou Group in the project has\naccelerated the urban development in Sakuhai City.\nHowever, there are various strange things about\nthis business."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緋皇グループの参入もあり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朔晦市の都市開発プロジェクトは加速の一途を辿っている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、この事業は色々とおかしい。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”明らかに裏社会の者達の協力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利益に合っているとは到底思えない多額の投資金、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表で公開されている資金情報の、軽く20倍は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”地下”に投入されている。”"
+                                ""
                             ]
                         },
                         {
@@ -7902,28 +7864,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”それに、大量の科学者や研究員も"
+                                "It is clear that a large amount of investment,\nwhich is completely inconceivable to be in line\nwith the cooperation and benefits of the\nunderworld, is being funneled underground, easily\ntwenty times more than the publicly disclosed\nfinancial information."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下の”何か”の製造に協力しているようだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電力の供給量も、都市の中心とはいえ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駅に配電する量を遥かに超えている。”"
+                                ""
                             ]
                         },
                         {
@@ -7940,28 +7902,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”この都市開発プロジェクトは、ただの隠れ蓑だ。"
+                                "In addition, it seems that a large number of\nscientists and researchers are also cooperating in\nthe production of something underground. The\namount of power supply also far exceeds the amount\ndistributed to the station, even though it is in\nthe center of the city."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らく本命は地下で作っている何か。"
+                                "This urban development project is just a cover.\nThey are probably making something underground.\nWhat exactly are they making? Why are they using\nurban development as a cover...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を作っている？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なぜ都市開発を隠れ蓑にしているんだ…？”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7978,21 +7978,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>都市開発の資金の20倍だと…！？"
+                                "\\n<Detective>It's 20 times the amount of urban development\nfunds...!? What on earth are they investing such a\nhuge amount for...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこまで巨額の投資をして"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を…？"
+                                ""
                             ]
                         },
                         {
@@ -8068,66 +8068,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”手記"
+                                "The entry of the Hikou Group in the project has\naccelerated the urban development in Sakuhai City.\nHowever, there are various strange things about\nthis business."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緋皇グループの参入もあり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朔晦市の都市開発プロジェクトは加速の一途を辿っている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、この事業は色々とおかしい。”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”明らかに裏社会の者達の協力、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利益に合っているとは到底思えない多額の投資金、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表で公開されている資金情報の、軽く20倍は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”地下”に投入されている。”"
+                                ""
                             ]
                         },
                         {
@@ -8144,28 +8106,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”それに、大量の科学者や研究員も"
+                                "It is clear that a large amount of investment,\nwhich is completely inconceivable to be in line\nwith the cooperation and benefits of the\nunderworld, is being funneled underground, easily\ntwenty times more than the publicly disclosed\nfinancial information."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下の”何か”の製造に協力しているようだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電力の供給量も、都市の中心とはいえ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駅に配電する量を遥かに超えている。”"
+                                ""
                             ]
                         },
                         {
@@ -8182,28 +8144,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”この都市開発プロジェクトは、ただの隠れ蓑だ。"
+                                "In addition, it seems that a large number of\nscientists and researchers are also cooperating in\nthe production of something underground. The\namount of power supply also far exceeds the amount\ndistributed to the station, even though it is in\nthe center of the city."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らく本命は地下で作っている何か。"
+                                "This urban development project is just a cover.\nThey are probably making something underground.\nWhat exactly are they making? Why are they using\nurban development as a cover...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を作っている？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なぜ都市開発を隠れ蓑にしているんだ…？”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8220,21 +8220,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>都市開発の資金の20倍だと…！？"
+                                "\\n<Detective>It's 20 times the amount of urban development\nfunds...!? What on earth are they investing such a\nhuge amount for...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこまで巨額の投資をして"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体何を…？"
+                                ""
                             ]
                         },
                         {
@@ -8311,66 +8311,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕霊装置に関する論文～"
+                                "Activating the apparition device that manifests\nspecific thoughts by using the subliminal device\nthat enables observation of the universal\nunconscious realm and the beacon that marks\nspecific thoughts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "普遍的無意識領域の観測を可能とする潜界装置と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特定の思念をマークするビーコンと併用して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特定の思念体を顕現する顕霊装置を作動すると”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”理論上は指定した思念体の顕現、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりは霊体との交信が可能となる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし、この装置は無意識の海に物理的に干渉する為"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周囲に大きな影響を及ぼす可能性がある。”"
+                                ""
                             ]
                         },
                         {
@@ -8387,21 +8349,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”また、装置は”思念の渦”の中に置く必要があり"
+                                "In theory, it becomes possible to communicate with\nthe specified apparition, in other words, the\nspirit. However, this device has the potential to\nhave a significant impact on its surroundings as\nit physically interferes with the sea of\nunconsciousness."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最適な設置個所の条件としては、"
+                                "Furthermore, as for the conditions for the optimal\nplacement of the device within the vortex of\nthoughts, it is suggested that a location in the\nheart of the city and its bustling crowds would be\nideal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "都市と人流の中心部となるような場所が挙げられる。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8418,14 +8418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…\\!"
+                                "\\n<Detective>...This is...no, it can't be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、まさか…"
+                                ""
                             ]
                         },
                         {
@@ -8501,66 +8501,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”～顕霊装置に関する論文～"
+                                "Activating the apparition device that manifests\nspecific thoughts by using the subliminal device\nthat enables observation of the universal\nunconscious realm and the beacon that marks\nspecific thoughts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "普遍的無意識領域の観測を可能とする潜界装置と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特定の思念をマークするビーコンと併用して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特定の思念体を顕現する顕霊装置を作動すると”"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "”理論上は指定した思念体の顕現、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりは霊体との交信が可能となる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし、この装置は無意識の海に物理的に干渉する為"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周囲に大きな影響を及ぼす可能性がある。”"
+                                ""
                             ]
                         },
                         {
@@ -8577,21 +8539,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”また、装置は”思念の渦”の中に置く必要があり"
+                                "In theory, it becomes possible to communicate with\nthe specified apparition, in other words, the\nspirit. However, this device has the potential to\nhave a significant impact on the surroundings as\nit physically interferes with the sea of\nunconsciousness."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最適な設置個所の条件としては、"
+                                "Furthermore, as for the conditions for the optimal\nplacement of the device within the vortex of\nthoughts, it is suggested that a location in the\ncenter of the city and human traffic be\nconsidered."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "都市と人流の中心部となるような場所が挙げられる。”"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8608,14 +8608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…これは…\\!"
+                                "\\n<Detective>...This is...no, it can't be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、まさか…"
+                                ""
                             ]
                         },
                         {
@@ -8692,28 +8692,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”日誌　●月●日"
+                                "On (Month) (Day), the patient's condition\nworsened. In addition to motor impairment,\nheadache, and loss of appetite, memory impairment\nhas also occurred. The vomiting has not stopped\nsince morning, and the vital signs are abnormal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "患者の容体が悪化。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "運動障害、頭痛、食欲不振に加えて記憶障害を併発。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝から嘔吐が止まらず、バイタルが異常値に。”"
+                                ""
                             ]
                         },
                         {
@@ -8730,28 +8730,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”患者の少女は目を覚ました後、"
+                                "The girl patient, after waking up, seemed to have\nlost several days of memory and her emotions\nbecame unstable. It's so pitiful... It seems she\ncan't even write her own name anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "数日の記憶を消失していたようで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "情緒が不安定化。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かわいそうに…もう自分の名前を書く事もできないようだ”"
+                                ""
                             ]
                         },
                         {
@@ -8768,7 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>誰かの日誌のようだ…。"
+                                "\\n<Detective>It seems like someone's diary..."
                             ]
                         },
                         {
@@ -8844,28 +8844,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”日誌　●月●日"
+                                "On (Month) (Day), the patient's condition\nworsened. In addition to motor impairment,\nheadache, and loss of appetite, memory impairment\nhas also occurred. The vomiting has not stopped\nsince morning, and the vital signs are abnormal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "患者の容体が悪化。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "運動障害、頭痛、食欲不振に加えて記憶障害を併発。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝から嘔吐が止まらず、バイタルが異常値に。”"
+                                ""
                             ]
                         },
                         {
@@ -8882,28 +8882,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”患者の少女は目を覚ました後、"
+                                "The girl patient, after waking up, seemed to have\nlost several days of memory and her emotions\nbecame unstable. It's so pitiful... It seems she\ncan't even write her own name anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "数日の記憶を消失していたようで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "情緒が不安定化。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かわいそうに…もう自分の名前を書く事もできないようだ”"
+                                ""
                             ]
                         },
                         {
@@ -8920,7 +8920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>誰かの日誌のようだ…。"
+                                "\\n<Detective>It seems like someone's diary..."
                             ]
                         },
                         {
@@ -8997,28 +8997,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”…の髄芽腫を始めとした合併症に関して"
+                                "...At the stage when we confirmed pediatric\nmalignant brain tumor, including medulloblastoma,\nthe complications had already progressed to stage\nIV. Symptoms such as headaches and walking\ndifficulties were prominent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小児悪性脳腫瘍を確認した段階では既にステージⅣに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入っており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭痛、歩行障害の症状が顕著であったが”"
+                                ""
                             ]
                         },
                         {
@@ -9035,28 +9035,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”症状進行に伴いせん妄の兆候を確認し、"
+                                "With the progression of symptoms, signs of\ndelirium were confirmed, and soon after, symptoms\nof hallucinations and auditory hallucinations\nappeared. Treatment was physically challenging and\nhad a low success rate, so the prognosis was\ndiagnosed as two months to live."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "間もなく幻覚や幻聴の症状が現れた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "治療は体力的にも困難で、また成功率も低い為"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "余命は2か月と診断した。”"
+                                ""
                             ]
                         },
                         {
@@ -9073,14 +9073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>誰かのカルテか…？\\!"
+                                "\\n<Detective>Someone's medical record...?...Two months to\nlive...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…余命2か月…。"
+                                ""
                             ]
                         },
                         {
@@ -9156,28 +9156,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”…の髄芽腫を始めとした合併症に関して"
+                                "...At the stage when we confirmed pediatric\nmalignant brain tumor, including medulloblastoma,\nthe complications had already progressed to stage\nIV. Symptoms such as headaches and walking\ndifficulties were prominent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小児悪性脳腫瘍を確認した段階では既にステージⅣに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入っており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭痛、歩行障害の症状が顕著であったが”"
+                                ""
                             ]
                         },
                         {
@@ -9194,28 +9194,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "”症状進行に伴いせん妄の兆候を確認し、"
+                                "With the progression of symptoms, signs of\ndelirium were confirmed, and soon after, symptoms\nof hallucinations and auditory hallucinations\nappeared. Treatment was physically challenging and\nhad a low success rate, so the prognosis was\ndiagnosed as two months to live."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "間もなく幻覚や幻聴の症状が現れた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "治療は体力的にも困難で、また成功率も低い為"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "余命は2か月と診断した。”"
+                                ""
                             ]
                         },
                         {
@@ -9232,14 +9232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>誰かのカルテか…？\\!"
+                                "\\n<Detective>Someone's medical record...?...Two months to\nlive...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…余命2か月…。"
+                                ""
                             ]
                         },
                         {
@@ -9676,7 +9676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…扉が開かない。"
+                                "\\n<Detective>...The door won't open."
                             ]
                         },
                         {
@@ -9784,7 +9784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…扉が開かない。"
+                                "\\n<Detective>...The door won't open."
                             ]
                         },
                         {
@@ -10453,38 +10453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…ッ！！\\!"
+                                "\\n<Detective>...Huh!! What... is this place...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだ…ここは…！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>空気が重い…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ…何がどうなっているんだ…"
+                                ""
                             ]
                         },
                         {
@@ -10501,21 +10477,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…ともかく、行き止まりでないなら"
+                                "\\n<Detective>The air feels heavy... Damn it... What the hell is\ngoing on..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの少女がいる可能性は高い…。\\!"
+                                "\\n<Detective>...Anyway, if this isn't a dead end, there's a\nhigh possibility that the girl is here... Let's\nproceed further."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと先に進んでみよう。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

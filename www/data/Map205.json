@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "非常階段",
+    "displayName": "Emergency Stairs",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -5779,28 +5779,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>2階の入り口か…\\!"
+                                "\\n<Detective>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "崩壊していて進めそうにない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]内階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -5877,28 +5877,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ここからは行けそうにない。\\!"
+                                "\\n<Detective>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "階段なら一度\\C[2]内階段で3階まで昇って、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう一度非常階段で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "1階まで下る\\C[0]しかなさそうだ。"
+                                ""
                             ]
                         },
                         {
@@ -8622,28 +8622,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>2階の入り口か…\\!"
+                                "\\n<Detective>The entrance on the second floor... it's collapsed\nand we can't proceed. If there's a staircase or an\nelevator, we might be able to move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "崩壊していて進めそうにない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]内階段\\c[0]か\\c[2]エレベーター\\c[0]なら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "移動できるか？"
+                                ""
                             ]
                         },
                         {
@@ -11488,28 +11488,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ここからは行けそうにない。\\!"
+                                "\\n<Detective>It doesn't seem like we can go any further from\nhere. If it's the stairs, we'll have to go up to\nthe 3rd floor using the indoor stairs \\C[2], and\nthen go down to the 1st floor using the emergency\nstairs \\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "階段なら一度\\C[2]内階段で3階まで昇って、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう一度非常階段で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "1階まで下る\\C[0]しかなさそうだ。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "B１　エレベーターホール",
+    "displayName": "B1 Elevator Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1675,7 +1675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アナウンス>\\C[24]ご利用の階数を選択してください。"
+                                "\\n<Announcement>\\C[24]Please select the floor level you wish to\nuse."
                             ]
                         },
                         {
@@ -1685,7 +1685,7 @@
                                 [
                                     "2F",
                                     "3F",
-                                    "やめる"
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -1977,7 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエレベーターは完全に停止しているようだ。"
+                                "It seems like this elevator is completely stopped."
                             ]
                         },
                         {

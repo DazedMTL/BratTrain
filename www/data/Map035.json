@@ -2934,7 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>It's locked..."
+                                "\\n<Device>\\C[24]It's locked..."
                             ]
                         },
                         {
@@ -3014,14 +3014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>Error..."
+                                "\\n<Device>\\C[24]Error...Unlocking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Unlocking..."
+                                ""
                             ]
                         },
                         {
@@ -3122,7 +3122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>It's locked..."
+                                "\\n<Device>\\C[24]It's locked..."
                             ]
                         },
                         {
@@ -3202,14 +3202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>Error..."
+                                "\\n<Device>\\C[24]Error...Unlocking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Unlocking..."
+                                ""
                             ]
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>It's locked..."
+                                "\\n<Device>\\C[24]It's locked..."
                             ]
                         },
                         {
@@ -3390,14 +3390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>Error..."
+                                "\\n<Device>\\C[24]Error...Unlocking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Unlocking..."
+                                ""
                             ]
                         },
                         {
@@ -3486,45 +3486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ふん、まさかここまでくるとはな。\\!"
+                                "\\n<sine:ω>ω: Hmph, I never expected it to come to this. But,\ntoo bad for you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "けど、残念だったな！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<sine:ω>この扉は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくつもセキュリティーをかけてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単な解析じゃ開かないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -3541,21 +3510,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>キシシシ！"
+                                "\\n<sine:ω>ω: This door has multiple layers of security, so\nit won't open with a simple analysis!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前がのんきに解析している間に、"
+                                "\\n<sine:ω>ω: Kishishi! While you were leisurely analyzing,\nI've gathered all the drones in the entire floor!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フロア全域のドローンたちを集結させてやる！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3652,7 +3652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！"
+                                "\\n<Detective>!"
                             ]
                         },
                         {
@@ -3669,7 +3669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>！？"
+                                "\\n<sine:ω>What?!"
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>......"
                             ]
                         },
                         {
@@ -3703,14 +3703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>なんで…扉が…\\!"
+                                "\\n<sine:ω>ω: Why... is the door... c...coming here!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "く…来るなぁぁ！！"
+                                ""
                             ]
                         },
                         {
@@ -3934,14 +3934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>何故カギが勝手に…？\\!"
+                                "\\n<Detective>Why did the door open by itself...? Well, never\nmind. Let's chase after it for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まぁ良い、とりあえず追いかけよう。"
+                                ""
                             ]
                         },
                         {
@@ -4202,7 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>It's locked..."
+                                "\\n<Device>\\C[24]It's locked..."
                             ]
                         },
                         {
@@ -4282,14 +4282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24]\\n<装置>Error..."
+                                "\\n<Device>\\C[24]Error...Unlocking..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Unlocking..."
+                                ""
                             ]
                         },
                         {
@@ -4390,21 +4390,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ぜぇ…ぜぇ…"
+                                "\\n<sine:ω>ω: *panting* Why is the lock... acting strange...\nthe system should be functioning properly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてロックが…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかしい…ちゃんとシステムは正常に…"
+                                ""
                             ]
                         },
                         {
@@ -4421,14 +4421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…さぁ、早く開けてくれないか？"
+                                "\\n<Detective>...Well, could you please open it quickly? Once I\nask what I want to ask, it's a different story..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聞きたいことを聞いたら別に…"
+                                ""
                             ]
                         },
                         {
@@ -4445,14 +4445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>うるさい！"
+                                "\\n<sine:ω>ω: Shut up! I absolutely won't forgive you\nanymore!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう、ぜ～ったいに許さないからな！"
+                                ""
                             ]
                         },
                         {
@@ -4469,14 +4469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>今日の生放送でお前の変態行為を"
+                                "\\n<sine:ω>ω: I'm going to expose your perverted actions to\nthe whole world on today's live broadcast!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全世界にバラまいてやる！"
+                                ""
                             ]
                         },
                         {
@@ -4524,21 +4524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>キシシシ！これでよし！"
+                                "\\n<sine:ω>ω: Kishishi! This should do it! I've double-locked\nit, so there's no way you can get in! Take that,\nyou damn old fart!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二重にロックを掛けたから絶対に入れない！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ざまぁみろクソジジィ！"
+                                ""
                             ]
                         },
                         {
@@ -4644,7 +4644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>えッ！？"
+                                "\\n<sine:ω>ω: Eh!?"
                             ]
                         },
                         {
@@ -4661,7 +4661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……"
+                                "\\n<Detective>......"
                             ]
                         },
                         {
@@ -4798,21 +4798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>なんで…ここも…"
+                                "\\n<sine:ω>Why... even here... the system is functioning\nnormally... Could it be... perhaps..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "システムは正常に……\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか…もしかして…"
+                                ""
                             ]
                         },
                         {
@@ -4971,14 +4971,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…さぁ、もう終わりのようだな。\\!"
+                                "\\n<Detective>...Well, it seems like it's over. Accept your\nfate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "観念しなさい。"
+                                ""
                             ]
                         },
                         {
@@ -5094,52 +5094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ふふふ…キシシシｗ"
+                                "\\n<sine:ω>ω: Hehehe... Kishishi *giggles* Kyahaha!! *laughs*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キャハハハ！！ｗ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor12",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<sine:ω>このボクにお説教なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分と余裕な態度だな！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上等だし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなったら本気で相手してあげる！"
+                                ""
                             ]
                         },
                         {
@@ -5156,7 +5118,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>\\c[2]マザードローン！　\\c[0]起動！"
+                                "\\n<sine:ω>ω: You have quite the relaxed attitude to lecture\nsomeone like me! That's fine by me! If that's how\nit is, I'll take you on seriously!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor12",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<sine:ω>ω: \\c[2]Mother Drone!\\c[0] Activate!"
                             ]
                         },
                         {
@@ -5418,21 +5418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>ボクを誰だと思ってるし？"
+                                "\\n<sine:ω>ω: Who do you think I am? I am the genius gamer\nand genius hacker, none other than \\c[2]Cocoa-\nsama\\c[0], also known as sine:ω!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "天才ゲーマーにして、天才ハッカー、\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "sine:ωこと\\c[2]ココ\\c[0]様だ！"
+                                ""
                             ]
                         },
                         {
@@ -5474,21 +5474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>このドローンは"
+                                "\\n<sine:ω>ω: This drone is a \\c[2]special creation\\c[0] that\nI meticulously designed! Don't think it's the same\nas any other drone up until now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクが丹精込めて設計した\\c[2]特別性\\c[0]！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今までのドローンと同じだと思うなよ！"
+                                ""
                             ]
                         },
                         {
@@ -5570,7 +5570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<sine:ω>そんな…ボクのドローンが…"
+                                "\\n<sine:ω>ω: No way... my drone..."
                             ]
                         },
                         {
@@ -5599,7 +5599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>ふーッ…ふーッ…"
+                                "\\n<Detective>*sigh*... *sigh*..."
                             ]
                         },
                         {
@@ -5616,14 +5616,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>（クソッ…なんだ！？"
+                                "\\n<Detective>(Damn it... What's this!? My heart is racing...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鼓動が…）"
+                                ""
                             ]
                         },
                         {
@@ -5694,14 +5694,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<sine:ω>ヒッ…\\!"
+                                "\\n<sine:ω>ω: H-h...uh...s-sorry...th-that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ…ご……ごめ……あの……"
+                                ""
                             ]
                         },
                         {
@@ -5777,38 +5777,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Detective>…散々煽ってくれたからには…"
+                                "\\n<Detective>...Since you've provoked me so much... I assume\nyou're prepared, right...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "覚悟は出来ているんだろう…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor12",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<sine:ω>ち…ちが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの……わた…ボ…ボクは…その…"
+                                ""
                             ]
                         },
                         {
@@ -5825,7 +5801,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<sine:ω>…ッ！？"
+                                "\\n<sine:ω>ω: I...I...th-that...I...I am...that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor12",
+                                4,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<sine:ω>ω: ...Huh!?"
                             ]
                         },
                         {
@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ココ」の敗北シーンを見ますか？"
+                                "Do you want to see Cocoa's defeat scene?"
                             ]
                         },
                         {
@@ -5906,8 +5906,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>うぅ…もうお嫁に行けない…"
+                                "ココ\\SE[cry]\\n<sine:ω>ω: Ugh... I can't get married anymore..."
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>すまない、少しやりすぎたか？"
+                                "\\n<Detective>I'm sorry, did I go a little too far?"
                             ]
                         },
                         {
@@ -6062,21 +6062,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[tere]\\n<sine:ω>……も…元はといえば"
+                                "ココ\\SE[tere]\\n<sine:ω>ω: ...Well... it's actually my fault for using the\ngas... so it's not a big deal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクがガス使ったのが原因だし……\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に…。"
+                                ""
                             ]
                         },
                         {
@@ -6093,21 +6093,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…あぁ、あのガスに"
+                                "\\n<Detective>...Ah, can you tell me more about that gas and the\nphenomenon of \\c[2]madness\\c[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それと\\c[2]狂人化\\c[0]現象について…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々と聞かせてもらって良いか？"
+                                ""
                             ]
                         },
                         {
@@ -6124,21 +6124,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>わ…分かった…。\\!"
+                                "ココ\\SE[cry]わ…分かった…。\\!狂人化について詳しい原理は知らないけど…あのガスの素は\\c[2]ルナ姉\\c[0]\\n<sine:ω>ω: I received it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "狂人化について詳しい原理は知らないけど…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あのガスの素は\\c[2]ルナ姉\\c[0]に貰ったんだよ…。"
+                                ""
                             ]
                         },
                         {
@@ -6155,38 +6155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！？"
+                                "\\n<Detective>!? So, that girl really is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあやはりあの少女が…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>全ての元凶が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナ姉なのは間違いないよ。"
+                                ""
                             ]
                         },
                         {
@@ -6203,21 +6179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>ゲームだって聞いたからボクも乗ったけど、"
+                                "ココ\\SE[cry]\\n<sine:ω>ω: There's no doubt that Luna-neechan is the\nmastermind behind everything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]ボクの反則行為\\c[0]を許さなかった所を見ると…\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはルナ姉が支配するゲームの盤上。"
+                                ""
                             ]
                         },
                         {
@@ -6234,21 +6203,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>\\c[2]この先にいる奴ら\\c[0]も含めて、"
+                                "ココ\\SE[cry]ゲームだって聞いたからボクも乗ったけど、\\c[2]ボクの反則行為\\c[0]\\n<sine:ω>ω: Looking at the place where I wasn't forgiven...\nthis is the game board controlled by Luna-neechan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全てはルナ姉が敷いたレールの上にあるゲーム。\\!"
+                                "ココ\\SE[cry]\\c[2]この先にいる奴ら\\c[0]\\n<sine:ω>ω: Including everything, it's a game that is set\non the rails laid by Luna-neechan. That's all I\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクが知ってるのはそれぐらいだよ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6265,14 +6265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ゲーム…ルール…。\\!"
+                                "\\n<Detective>The game... the rules... both you and that girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく君といいあの少女といい…。"
+                                ""
                             ]
                         },
                         {
@@ -6289,21 +6289,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>言っとくけど、他は何も知らないよ。"
+                                "ココ\\SE[cry]\\n<sine:ω>ω: Just so you know, I don't know anything else. I\ndidn't like being bound by rules made by others,\nso I did some probing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の作ったルール上にいるのが気に食わなくて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと探りを入れた事はあるけど…。"
+                                ""
                             ]
                         },
                         {
@@ -6320,7 +6320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>例えば？"
+                                "\\n<Detective>For example?"
                             ]
                         },
                         {
@@ -6337,14 +6337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "sine:ωはキーボードを取り出して"
+                                "sine:ω quickly took out a keyboard and started\ntyping something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素早く何かをタイピングし出した。"
+                                ""
                             ]
                         },
                         {
@@ -6361,21 +6361,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>狂人化現象は、"
+                                "ココ\\SE[cry]狂人化現象は、\\c[2]朔晦(タチゴリ)市\\c[0]\\n<sine:ω>ω: It's occurring frequently in the area. The\npolice have surely investigated this, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]朔晦(タチゴリ)市\\c[0]周辺で盛んに発生している。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは警察でも調べがついてるでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -6392,52 +6392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あぁ、だから捜査員は私も含め、"
+                                "\\n<Detective>Ah, that's why investigators, including myself,\nhave been dispatched intensively to this area."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この近辺へと集中的に派遣されている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>それで、現象が起き始めた時期に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この近辺で起きた他の事象がないか調べたの。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら、ある時期から色んな企業や団体がこの近辺の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]都市開発事業\\c[0]に多額の投資をしてた事が分かって…"
+                                ""
                             ]
                         },
                         {
@@ -6454,28 +6416,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>開発は一時、マスコミにも大きく取り上げられたし"
+                                "ココ\\SE[cry]それで、現象が起き始めた時期にこの近辺で起きた他の事象がないか調べたの。\\!そしたら、ある時期から色んな企業や団体がこの近辺の\\c[2]都市開発事業\\c[0]\\n<sine:ω>ω: I found out that he had made a large\ninvestment..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大成功だー、みたいに報じられてたけど\\!"
+                                "ココ\\SE[cry]\\n<sine:ω>ω: Development was once widely covered by the\nmedia and reported as a great success, but now the\ntown is in a depopulated state. The period of\ndecline coincided with the occurrence of the\nphenomenon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街は今や過疎状態。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "成功から一転して、傾いた時期が現象の発生時期と一致したの。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6492,45 +6492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>なぜ事業が傾いた…？"
+                                "\\n<Detective>Why did the business decline...? Are there reasons\nother than the phenomenon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現象以外にも理由が？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[tere]\\n<sine:ω>えーっとね…\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構ここのファイアーウォール分厚いな…。"
+                                ""
                             ]
                         },
                         {
@@ -6547,45 +6516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>キシシ！"
+                                "ココ\\SE[tere]\\n<sine:ω>ω: Um... huh? The firewall here is quite thick..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボクにそんな小細工は通用しないよ…っと！"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>……ほら出た、着工時は立ち退き反対派の連中が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "横断幕を掲げてる写真とか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抗議デモしてる写真がある！"
+                                ""
                             ]
                         },
                         {
@@ -6602,14 +6547,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>この写真の二人とか見るからに怪しいよね～ｗ"
+                                "ココ\\SE[default]\\n<sine:ω>ω: Kishishi! Your little tricks won't work on\nme...tto!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "反対派はコイツらが黙らせたんじゃない？"
+                                "ココ\\SE[default]\\n<sine:ω>ω: ...Look, there are photos of the anti-eviction\nprotesters holding banners during the construction\nphase, and photos of protest demonstrations!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ココ\\SE[default]\\n<sine:ω>ω: These two in the photo look suspicious, don't\nthey? It's like they silenced the opposition,\nright?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6626,14 +6626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初老の男性と強面の男性が"
+                                "An elderly man and a tough-looking man with a\nlarge family crest on their backs are standing\nside by side..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大きな家紋を背に肩を並べている…"
+                                ""
                             ]
                         },
                         {
@@ -6650,90 +6650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この家紋…”\\c[2]訓覇\\c[0]”…。"
+                                "\\n<Detective>This family crest... \\c[2]Kurube\\c[0]... The\n\\c[2]Kurube Group\\c[0], a designated organized\ncrime syndicate... To think they would come here\nand bring violence..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]広域指定暴力団\\c[0]の”\\c[2]訓覇組\\c[0]”か…。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここに来て暴力団とはな…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>これほどの事業をあれ程の短期間で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "資金もそうだけど、相当強引な手も使ってるはずだよ！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら見て、日本だけじゃなくて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えーっと？　ルースカヤ…？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや待て、もう大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめなさい。"
+                                ""
                             ]
                         },
                         {
@@ -6750,7 +6681,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>え！？　いまいいところなのに…"
+                                "ココ\\SE[default]\\n<sine:ω>ω: To accomplish such a large-scale business in\nsuch a short period of time, they must have used\nnot only a significant amount of funds, but also\nsome forceful methods! Look, not just in Japan...\numm? Rusukaya...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6767,21 +6719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>それ以上は危険だ。"
+                                "\\n<Detective>...! Wait, it's okay now. Stop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくら腕に自身があっても"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "世の中には絶対に触れない方がいいものもある。"
+                                ""
                             ]
                         },
                         {
@@ -6798,14 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[surprise]\\n<sine:ω>……ゴクリ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ…分かった…。"
+                                "ココ\\SE[default]\\n<sine:ω>ω: Huh?! But we were just getting to a good\npart..."
                             ]
                         },
                         {
@@ -6822,38 +6767,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…となると、相当な事をしていたはずだ…。"
+                                "\\n<Detective>It's dangerous to go any further. No matter how\nconfident you are in your abilities, there are\nthings in this world that you should never touch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしてそれが、狂人化現象の原因…。）"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>今調べられた範囲だけでいい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関与した企業や団体をリストアップできるか？"
+                                ""
                             ]
                         },
                         {
@@ -6870,69 +6798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[cry]\\n<sine:ω>それぐらい出来るけど…\\!"
+                                "ココ\\SE[surprise]\\n<sine:ω>ω: ......*gulp*...I...I understand..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいこれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor03",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Detective>…ありがとう。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君には才能がある、危ない火遊びはやめて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の力を真っ当に使いなさい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[tere]\\n<sine:ω>あ…当たり前だし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ…このボクを誰だと…"
+                                ""
                             ]
                         },
                         {
@@ -6949,52 +6822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>約束だ。"
+                                "\\n<Detective>(...If that's the case, they must have done\nsomething significant... And that something is the\ncause of the phenomenon of madness...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでも何かに巻き込まれそうになったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困った事があった時には連絡しなさい。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、これが電話番号だから…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                3,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>…ぷっ…キシシシ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イマドキ電話なんて使ってるの？w"
+                                ""
                             ]
                         },
                         {
@@ -7011,7 +6846,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…いらないなら別に構わんが。"
+                                "\\n<Detective>Is it possible to list the companies and\norganizations involved based on the scope of the\ninvestigation so far?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7028,28 +6870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[default]\\n<sine:ω>ふふーん！"
+                                "ココ\\SE[cry]\\n<sine:ω>ω: I can do something like that... Here you go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "天才のボクをなめるなよ！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一瞬でも見たものは覚えれるもん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日イタズラ電話してやるからな！"
+                                ""
                             ]
                         },
                         {
@@ -7066,14 +6894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…まったく…。"
+                                "\\n<Detective>...Thank you. You have talent, so stop engaging in\ndangerous games and use your abilities properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "程々にな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7090,14 +6925,179 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココ\\SE[tere]\\n<sine:ω>キシシ…え…へへ…。"
+                                "ココ\\SE[tere]\\n<sine:ω>ω: Ah... Of course! Wh... Who do you think I am..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃ、じゃあ扉開けるから…！"
+                                "\\n<Detective>It's a promise. If you ever feel like you're\ngetting involved in something or if you have any\ntrouble, contact me. Here, this is my phone\nnumber..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ココ\\SE[default]\\n<sine:ω>ω: ...Pfft...Kishishi...Who uses phones these\ndays? LOL"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>...If you don't need it, then it's fine."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ココ\\SE[default]\\n<sine:ω>ω: Hehe~ Don't underestimate the genius me! I can\nremember anything I see, even for a moment! I'll\nprank call you every day, just you wait!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor03",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Detective>...Honestly... Show some moderation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                3,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "ココ\\SE[tere]\\n<sine:ω>ω: Kishi...eh...hehe....then, then I'll open the\ndoor...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7250,21 +7250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>あ！言い忘れるところだった！"
+                                "\\n<sine:ω>ω: Ah! I almost forgot to mention! Be careful not\nto hurt your head in the next stage, \\c[2]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次のステージは\\c[2]頭ケガしないように\\c[0]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気を付けるんだぞ！"
+                                ""
                             ]
                         },
                         {
@@ -7281,14 +7281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>？？　"
+                                "\\n<Detective>Huh? Ah...alright, I'll keep that in mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…あぁ、気を付けておくよ。"
+                                ""
                             ]
                         },
                         {
@@ -7310,14 +7310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<sine:ω>むぅ…大丈夫かな…。"
+                                "\\n<sine:ω>ω: Mmm... I wonder if it'll be okay... It would be\nnice if I can escape \\c[2] properly... \\c[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと\\c[2]逃げきれたら\\c[0]いいけど…"
+                                ""
                             ]
                         },
                         {

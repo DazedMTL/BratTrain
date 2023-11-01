@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "２F　旧訓覇組事務所",
+    "displayName": "2F Former Kurube Group Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 55,
@@ -20738,7 +20738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ふぅ…これで渡れそうだな。"
+                                "\\n<Detective>Phew... Looks like I can cross here."
                             ]
                         },
                         {
@@ -20767,21 +20767,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>へぇ、考えたな。\\!"
+                                "\\n<???>\\c[24]Wow, you really thought about it. It would\nhave been a hassle to go the long way around.\nThanks for the repairs."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこ遠回りするのも面倒だったんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "修繕ありがとよ。"
+                                ""
                             ]
                         },
                         {
@@ -20798,55 +20798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>別に君達のためにしたんじゃない。\\!"
+                                "\\n<Detective>It's not like I did it for you guys. Now, where\nshould I go next?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さて、次はどこに行けば良いんだ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>オレが教えてやる義理はねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ai",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>…そこまで行ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後はエレベーターで来たら良いじゃん。"
+                                ""
                             ]
                         },
                         {
@@ -20863,7 +20822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>おい、なんで教えるんだよ。"
+                                "\\n<???>I don't have any obligation to tell you."
                             ]
                         },
                         {
@@ -20880,7 +20839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>どうせ\\c[2]行っても使えないし。"
+                                "\\n<???>\\c[24]...If you've come this far, why not just\ntake the elevator?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20897,7 +20863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>はぁ？　何で？"
+                                "\\n<???>\\c[24]Hey, why are you telling me?"
                             ]
                         },
                         {
@@ -20914,7 +20880,41 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>リンリンがさっきコッソリ止めてたよ。"
+                                "\\n<???>\\c[24]Anyway, \\c[2]even if you go, it's not\nusable."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<???>\\c[24]Huh? Why?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ai",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<???>\\c[24]Ling Ling secretly stopped it earlier."
                             ]
                         },
                         {
@@ -20931,21 +20931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>ふえぇええ！？"
+                                "\\n<???>\\c[24]Eeek!? I told you to keep it a secret,\nAichan! Or should I say, Komari! You only got the\nri part right!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "内緒にしてって言ったのにアイちゃん！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "っていうかコマリ！「リ」しか合ってないよ！"
+                                ""
                             ]
                         },
                         {
@@ -20962,21 +20962,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>てめぇ、コマ！！"
+                                "\\n<???>\\c[24]You, Komari!! I always tell you not to do\nsneaky things!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "姑息な事すんなって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつも言ってんだろうが！！"
+                                ""
                             ]
                         },
                         {
@@ -20993,38 +20993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>ぴゃあああ！"
+                                "\\n<???>\\c[24]Pyaaa! I'm so sorry!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいぃぃ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor_Ichiru",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[24]\\n<???>チッ…、このままじゃアンフェアだな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…止めたのは電気系統か。"
+                                ""
                             ]
                         },
                         {
@@ -21041,21 +21017,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>とりあえず"
+                                "\\n<???>\\c[24]Tch... It's unfair like this... The one who\nstopped it was the electrical system."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]この階のエレベーター\\c[24]に向かいな。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこで問題が何か分かるはずだ。"
+                                ""
                             ]
                         },
                         {
@@ -21072,28 +21041,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[24]\\n<???>コマの力じゃぶっ壊すのは無理だろ。"
+                                "\\n<???>\\c[24]For now, \\C[2]let's head to the elevator on\nthis floor\\c[24]. We should be able to figure out\nwhat the problem is there."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor_Ichiru",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]電気系統を復旧させれば\\c[24]多分動くだろうよ。\\!"
+                                "\\n<???>\\c[24]It's impossible for Komari's strength to\nbreak it. \\c[2]If we restore the electrical\nsystem, \\c[24]it will probably work. Or, \\c[2]if\nyou have any ideas, it might be good to patiently\nsearch for them\\c[24]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それか、\\c[2]何か心当たりがあるなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "根気よく探してみる\\c[24]のも良いかもな。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21122,14 +21122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>ふむ…\\c[2]この階のエレベーター\\c[0]か…"
+                                "\\n<Detective>Hmmm... \\c[2]The elevator on this floor,\n\\c[0]huh... It seems like it's not working, but\nlet's check it once."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動いてないらしいが、一度確認してみよう。"
+                                ""
                             ]
                         },
                         {

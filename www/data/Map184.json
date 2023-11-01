@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "商店街",
+    "displayName": "Shopping Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 44,
@@ -11597,7 +11597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅にはもう用はない…）"
+                                "\\n<Detective>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12233,7 +12233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅にはもう用はない…）"
+                                "\\n<Detective>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12341,7 +12341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅にはもう用はない…）"
+                                "\\n<Detective>(I have no more business at the station...)"
                             ]
                         },
                         {
@@ -12660,7 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの子は…"
+                                "\\n<Detective>That girl..."
                             ]
                         },
                         {
@@ -12804,14 +12804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ま…待って！"
+                                "\\n<???>W-Wait! Don't come any closer...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それ以上近付かないで…！"
+                                ""
                             ]
                         },
                         {
@@ -12828,21 +12828,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すまない、驚かせるつもりは…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し聞きたい事があるんだが、いいかい？"
+                                ""
                             ]
                         },
                         {
@@ -12859,7 +12859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……な…なに…？"
+                                "\\n<???>...Wha...What...?"
                             ]
                         },
                         {
@@ -12876,14 +12876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>私は警察の者なんだが、"
+                                "\\n<Detective>I am a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ある少女を探していてね。"
+                                ""
                             ]
                         },
                         {
@@ -12900,14 +12900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この少女、\\c[2]訓覇\\c[0]"
+                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "という少女なんだが、どこかで見たことは…"
+                                ""
                             ]
                         },
                         {
@@ -12924,21 +12924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！？\\!"
+                                "\\n<???>!?...Why...is a police officer...looking for\n\\c[2]Ichiru-chan\\c[0]...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…どうして…警察の人が…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]イチルちゃん\\c[0]を探してるの…？"
+                                ""
                             ]
                         },
                         {
@@ -12955,14 +12955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]イチル\\c[0]…？"
+                                "\\n<Detective>Ichiru...? Do you know her!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君、知ってるのか！？"
+                                ""
                             ]
                         },
                         {
@@ -12979,14 +12979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！！"
+                                "\\n<???>!! Ah... wrong..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…ちが……"
+                                ""
                             ]
                         },
                         {
@@ -13003,21 +13003,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ、すまない…"
+                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…この少女がどこにいるか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知っていることを…"
+                                ""
                             ]
                         },
                         {
@@ -13034,7 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>し…知らない！"
+                                "\\n<???>I... I don't know!"
                             ]
                         },
                         {
@@ -13051,7 +13051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あっ！"
+                                "\\n<Detective>Ah!"
                             ]
                         },
                         {
@@ -13190,14 +13190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの娘は…何か知っていそうだな…。"
+                                "\\n<Detective>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴重な手がかりだ、\\c[2]追いかけよう\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -14745,7 +14745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの子は…"
+                                "\\n<Detective>That girl..."
                             ]
                         },
                         {
@@ -14889,14 +14889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ま…待って！"
+                                "\\n<???>W-Wait! Don't come any closer...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それ以上近付かないで…！"
+                                ""
                             ]
                         },
                         {
@@ -14913,21 +14913,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask you, is that alright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すまない、驚かせるつもりは…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し聞きたい事があるんだが、いいかい？"
+                                ""
                             ]
                         },
                         {
@@ -14944,7 +14944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……な…なに…？"
+                                "\\n<???>...Wha...What...?"
                             ]
                         },
                         {
@@ -14961,14 +14961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>私は警察の者なんだが、"
+                                "\\n<Detective>I am a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ある少女を探していてね。"
+                                ""
                             ]
                         },
                         {
@@ -14985,14 +14985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この少女、\\c[2]訓覇\\c[0]"
+                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "という少女なんだが、どこかで見たことは…"
+                                ""
                             ]
                         },
                         {
@@ -15009,21 +15009,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！？\\!"
+                                "\\n<???>!?...Why...is a police officer...looking for\n\\c[2]Ichiru-chan\\c[0]...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…どうして…警察の人が…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]イチルちゃん\\c[0]を探してるの…？"
+                                ""
                             ]
                         },
                         {
@@ -15040,14 +15040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]イチル\\c[0]…？"
+                                "\\n<Detective>Ichiru...? Do you know her!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君、知ってるのか！？"
+                                ""
                             ]
                         },
                         {
@@ -15064,14 +15064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！！"
+                                "\\n<???>!! Ah... wrong..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…ちが……"
+                                ""
                             ]
                         },
                         {
@@ -15088,21 +15088,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ、すまない…"
+                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…この少女がどこにいるか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知っていることを…"
+                                ""
                             ]
                         },
                         {
@@ -15119,7 +15119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>し…知らない！"
+                                "\\n<???>I... I don't know!"
                             ]
                         },
                         {
@@ -15136,7 +15136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あっ！"
+                                "\\n<Detective>Ah!"
                             ]
                         },
                         {
@@ -15275,14 +15275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの娘は…何か知っていそうだな…。"
+                                "\\n<Detective>That girl... seems to know something. She could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴重な手がかりだ、\\c[2]追いかけよう\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -15459,7 +15459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの子は…"
+                                "\\n<Detective>That child..."
                             ]
                         },
                         {
@@ -15603,14 +15603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>ま…待って！"
+                                "\\n<???>W-Wait! Don't come any closer...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それ以上近付かないで…！"
+                                ""
                             ]
                         },
                         {
@@ -15627,21 +15627,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…！"
+                                "\\n<Detective>...! I'm sorry for startling you... There's\nsomething I want to ask, is that alright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すまない、驚かせるつもりは…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し聞きたい事があるんだが、いいかい？"
+                                ""
                             ]
                         },
                         {
@@ -15658,7 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……な…なに…？"
+                                "\\n<???>...Wha...What...?"
                             ]
                         },
                         {
@@ -15675,14 +15675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>私は警察の者なんだが、"
+                                "\\n<Detective>I'm a police officer, and I'm looking for a\ncertain girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ある少女を探していてね。"
+                                ""
                             ]
                         },
                         {
@@ -15699,14 +15699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>この少女、\\c[2]訓覇\\c[0]"
+                                "\\n<Detective>This girl, \\c[2]Kurube\\c[0], I feel like I've seen\nher somewhere before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "という少女なんだが、どこかで見たことは…"
+                                ""
                             ]
                         },
                         {
@@ -15723,21 +15723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！？\\!"
+                                "\\n<???>What...? Why is a police officer... looking for\nIchiru-chan...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…どうして…警察の人が…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]イチルちゃん\\c[0]を探してるの…？"
+                                ""
                             ]
                         },
                         {
@@ -15754,14 +15754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>\\c[2]イチル\\c[0]…？"
+                                "\\n<Detective>Ichiru...? Do you know something!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君、知ってるのか！？"
+                                ""
                             ]
                         },
                         {
@@ -15778,14 +15778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>！！"
+                                "\\n<???>!! Ah... wrong..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ…ちが……"
+                                ""
                             ]
                         },
                         {
@@ -15802,21 +15802,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ、すまない…"
+                                "\\n<Detective>Ah, I'm sorry... Do you know where this girl\nis...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…この少女がどこにいるか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知っていることを…"
+                                ""
                             ]
                         },
                         {
@@ -15833,7 +15833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>し…知らない！"
+                                "\\n<???>I... I don't know!"
                             ]
                         },
                         {
@@ -15850,7 +15850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あっ！"
+                                "\\n<Detective>Ah!"
                             ]
                         },
                         {
@@ -15989,14 +15989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの娘は…何か知っていそうだな…。"
+                                "\\n<Detective>That girl... seems to know something. It could be\na valuable clue. I'll pursue her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴重な手がかりだ、\\c[2]追いかけよう\\c[0]。"
+                                ""
                             ]
                         },
                         {
@@ -16287,7 +16287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>見失ったか…"
+                                "\\n<Detective>Did you lose sight of them..."
                             ]
                         },
                         {
@@ -16442,7 +16442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…。"
+                                "\\n<???>...."
                             ]
                         },
                         {
@@ -16519,14 +16519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>びっくりした…"
+                                "\\n<Detective>I was surprised... You are..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君は…"
+                                ""
                             ]
                         },
                         {
@@ -16543,7 +16543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……。"
+                                "\\n<???>......."
                             ]
                         },
                         {
@@ -16560,7 +16560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの…少しいいかな？"
+                                "\\n<Detective>Um... Can I ask you something?"
                             ]
                         },
                         {
@@ -16577,14 +16577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>………。\\!"
+                                "\\n<???>.............What?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…何？"
+                                ""
                             ]
                         },
                         {
@@ -16601,14 +16601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（なんだこの子は…"
+                                "\\n<Detective>(What's with this kid... always playing with their\nsmartphone... seriously...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっとスマホを弄って…　まったく…。）"
+                                ""
                             ]
                         },
                         {
@@ -16625,14 +16625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…あぁ、もしかして…"
+                                "\\n<???>...Ah, could it be... you're looking for the girl\nwearing a \\c[2]hat\\c[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]帽子被った女の子\\c[0]、探してるの？"
+                                ""
                             ]
                         },
                         {
@@ -16649,14 +16649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！"
+                                "\\n<Detective>!... Do you know about that girl?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…君はあの子の事知っているのか？"
+                                ""
                             ]
                         },
                         {
@@ -16673,14 +16673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…まぁね。\\!"
+                                "\\n<???>Well... I guess so... She ran away when I tried\ntalking to her, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…話しかけたら逃げちゃったんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -16697,7 +16697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ…あぁ。"
+                                "\\n<Detective>Ah... ah."
                             ]
                         },
                         {
@@ -16714,14 +16714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…あの子、男の人苦手だから。\\!"
+                                "\\n<???>...That child is afraid of men... so come with me.\nIt'll be fine as long as I'm here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ついてきて。　私がいれば大丈夫だから。"
+                                ""
                             ]
                         },
                         {
@@ -17025,7 +17025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…とにかく、彼女について行こう。"
+                                "\\n<Detective>Anyway, let's follow her."
                             ]
                         },
                         {
@@ -17256,7 +17256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>見失ったか…"
+                                "\\n<Detective>Did you lose sight of them..."
                             ]
                         },
                         {
@@ -17411,7 +17411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…。"
+                                "\\n<???>...."
                             ]
                         },
                         {
@@ -17488,14 +17488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>びっくりした…"
+                                "\\n<Detective>I was surprised... You are..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君は…"
+                                ""
                             ]
                         },
                         {
@@ -17512,7 +17512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>……。"
+                                "\\n<???>......."
                             ]
                         },
                         {
@@ -17529,7 +17529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あの…少しいいかな？"
+                                "\\n<Detective>Um... Can I ask you something?"
                             ]
                         },
                         {
@@ -17546,14 +17546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>………。\\!"
+                                "\\n<???>.............What?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…何？"
+                                ""
                             ]
                         },
                         {
@@ -17570,14 +17570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（なんだこの子は…"
+                                "\\n<Detective>(What's with this kid... always playing with their\nsmartphone... seriously...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっとスマホを弄って…　まったく…。）"
+                                ""
                             ]
                         },
                         {
@@ -17594,14 +17594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…あぁ、もしかして…"
+                                "\\n<???>...Ah, could it be... you're looking for the girl\nwearing a \\c[2]hat\\c[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]帽子被った女の子\\c[0]、探してるの？"
+                                ""
                             ]
                         },
                         {
@@ -17618,14 +17618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>！"
+                                "\\n<Detective>!... Do you know about that girl?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…君はあの子の事知っているのか？"
+                                ""
                             ]
                         },
                         {
@@ -17642,14 +17642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…まぁね。\\!"
+                                "\\n<???>Well... I guess she ran away when you tried\ntalking to her, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…話しかけたら逃げちゃったんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -17666,7 +17666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>あ…あぁ。"
+                                "\\n<Detective>Ah... ah."
                             ]
                         },
                         {
@@ -17683,14 +17683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…あの子、男の人苦手だから。\\!"
+                                "\\n<???>...That child is not good with men... so come with\nme. It'll be fine as long as I'm here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ついてきて。　私がいれば大丈夫だから。"
+                                ""
                             ]
                         },
                         {
@@ -17994,7 +17994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…とにかく、彼女について行こう。"
+                                "\\n<Detective>Anyway, let's follow her."
                             ]
                         },
                         {
@@ -18209,14 +18209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…ん、"
+                                "\\n<???>...Hmm, this way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こっち。"
+                                ""
                             ]
                         },
                         {
@@ -18348,7 +18348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……。"
+                                "\\n<Detective>......."
                             ]
                         },
                         {
@@ -18503,14 +18503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>…ん、"
+                                "\\n<???>...Hmm, this way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こっち。"
+                                ""
                             ]
                         },
                         {
@@ -18642,7 +18642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>……。"
+                                "\\n<Detective>......."
                             ]
                         },
                         {

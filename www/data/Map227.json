@@ -1426,7 +1426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アリア\\SE[cry2]\\n<アリア？>菴馴ｨ鍋沿縺ｧ縺ｯ繝励Ξ繧､縺ｧ縺阪∪縺帙ｓ"
+                                "アリア\\SE[cry2]\\n<Aria?>What are you doing? You seem to be staring at me\nwith a strange expression."
                             ]
                         },
                         {
@@ -1593,14 +1593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Detective>…！\\!"
+                                "\\N<Detective>...! Where am I?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは…？"
+                                ""
                             ]
                         },
                         {

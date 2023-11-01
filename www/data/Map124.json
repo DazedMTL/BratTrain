@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "朔晦駅＿改札",
+    "displayName": "Sakuhai Station - Ticket Gate",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2755,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こちらに用はない…）"
+                                "\\n<Detective>(I have no business here...)"
                             ]
                         },
                         {
@@ -2916,7 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -2933,7 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Tokyo Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3010,7 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガスのトラブル安心サポート！"
+                                "Gas Trouble Peace of Mind Support!"
                             ]
                         },
                         {
@@ -3027,7 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東都ガスは安心安全な生活をサポートします"
+                                "Tokyo Gas supports a safe and secure lifestyle."
                             ]
                         },
                         {
@@ -3104,14 +3104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Wrinkles, fine lines, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3128,14 +3128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "First, let's start with a consultation about your\nskin concerns at Kitahara Dermatology."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3212,14 +3212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しみ・しわ・ニキビ"
+                                "Wrinkles, fine lines, acne scars, moles, eczema."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アザ・ほくろ・アトピー"
+                                ""
                             ]
                         },
                         {
@@ -3236,14 +3236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北原皮フ科"
+                                "First, let's start with a consultation about your\nskin concerns at Kitahara Dermatology."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずはお悩み相談からどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -3320,14 +3320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3344,14 +3344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Higashi-To with the HGI Clean\nCity Project."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3428,14 +3428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつも綺麗にお使いいただき"
+                                "Thank you for always using it so beautifully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -3452,14 +3452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリーンな東都をつくる"
+                                "Creating a clean Higashi-To with the HGI Clean\nCity Project."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "―HGIクリーンシティープロジェクト"
+                                ""
                             ]
                         },
                         {
@@ -3536,21 +3536,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<クロずくめの男>良い事を教えてあげましょう。"
+                                "\\n<Man in all black>Let me teach you something good. \\C[2]Never level\nup or gain money illegally..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]間違ってもレベルを上げたり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正にお金を得てはいけません…。"
+                                ""
                             ]
                         },
                         {
@@ -3567,21 +3567,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<クロずくめの男>忠告はしましたよ？"
+                                "\\n<Man in all black>Did I give you a warning? If you break it... well,\nyou might be able to enjoy that in its own way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もし破ると…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まぁそれはそれでお楽しみ頂けるかもしれませんが…"
+                                ""
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（一体なんの事だ…？）"
+                                "\\n<Detective>(What on earth are you talking about...?)"
                             ]
                         },
                         {
@@ -3675,7 +3675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅員が慌ただしく働いている…）"
+                                "\\n<Detective>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -3692,14 +3692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（最近は変なのが増えたから"
+                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に大変なんだろうな）"
+                                ""
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅員が慌ただしく働いている…）"
+                                "\\n<Detective>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -3793,14 +3793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（最近は変なのが増えたから"
+                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に大変なんだろうな）"
+                                ""
                             ]
                         },
                         {
@@ -3877,21 +3877,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -3968,21 +3968,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4059,21 +4059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（券売機…\\!"
+                                "\\n<Detective>(Vending machines... I haven't used them for a\nwhile since I started using IC cards.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ICカードを使うようになってからは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらく使っていないな。）"
+                                ""
                             ]
                         },
                         {
@@ -4150,14 +4150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（コインロッカーが空いてるところって"
+                                "\\n<Detective>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がないな…）"
+                                ""
                             ]
                         },
                         {
@@ -4234,14 +4234,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その割には一昔前はかなり発展していたな。）"
+                                ""
                             ]
                         },
                         {
@@ -4318,14 +4318,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（コインロッカーが空いてるところって"
+                                "\\n<Detective>(I've never seen an empty coin locker before...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た事がないな…）"
+                                ""
                             ]
                         },
                         {
@@ -4402,7 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4479,7 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（今は特に欲しいものはない）"
+                                "\\n<Detective>(I don't particularly want anything right now)"
                             ]
                         },
                         {
@@ -4640,45 +4640,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>ちょっと早く捕まえてよコイツ…\\!"
+                                "\\n<Female Student>Hey, catch this guy quickly... Eek! He touched me\nagain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キャー！また触った！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<痴漢？>やかましい！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなスカート履いて…誘ってたんだろ？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触ってやって何が悪い！"
+                                ""
                             ]
                         },
                         {
@@ -4695,14 +4664,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>やめなさい！\\!"
+                                "\\n<Pervert?>Shut up! You're wearing a skirt like that... You\nwere asking for it, right? What's wrong with\ntouching you?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現行犯で逮捕する！"
+                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4719,14 +4719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（犯罪率が上がっているとは聞いたが…"
+                                "\\n<Detective>(I heard that the crime rate is increasing... but\nthis is something else...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはまた凄いな…）"
+                                ""
                             ]
                         },
                         {
@@ -4803,45 +4803,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>ちょっと早く捕まえてよコイツ…\\!"
+                                "\\n<Female Student>Hey, catch this guy quickly... Eek! He touched me\nagain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キャー！また触った！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<痴漢？>やかましい！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなスカート履いて…誘ってたんだろ？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触ってやって何が悪い！"
+                                ""
                             ]
                         },
                         {
@@ -4858,14 +4827,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>やめなさい！\\!"
+                                "\\n<Pervert?>Shut up! You're wearing a skirt like that... You\nwere asking for it, right? What's wrong with\ntouching you?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現行犯で逮捕する！"
+                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4882,14 +4882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（犯罪率が上がっているとは聞いたが…"
+                                "\\n<Detective>(I heard that the crime rate is increasing... but\nthis is something else...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはまた凄いな…）"
+                                ""
                             ]
                         },
                         {
@@ -4966,45 +4966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女生徒>ちょっと早く捕まえてよコイツ…\\!"
+                                "\\n<Female student>Hey, catch this guy quickly... Eek! He touched me\nagain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キャー！また触った！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<痴漢？>やかましい！\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなスカート履いて…誘ってたんだろ？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触ってやって何が悪い！"
+                                ""
                             ]
                         },
                         {
@@ -5021,14 +4990,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<警察官>やめなさい！\\!"
+                                "\\n<Pervert?>Shut up! You're wearing a skirt like that... You\nwere asking for it, right? What's wrong with\ntouching you?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現行犯で逮捕する！"
+                                "\\n<Detective>Stop it! I'm arresting you on the spot!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（凄まじい街だな…）"
+                                "\\n<Detective>(This is an intense city...)"
                             ]
                         },
                         {
@@ -5402,7 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（街の調査が終わってない。）"
+                                "\\n<Detective>(I haven't finished investigating the town.)"
                             ]
                         },
                         {
@@ -5479,7 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<老人>………"
+                                "\\n<Old man>........."
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>………？"
+                                "\\n<Detective>.........?"
                             ]
                         },
                         {
@@ -5513,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<老人>……ぐぅ…zzz"
+                                "\\n<Old man>......*snore*"
                             ]
                         },
                         {
@@ -5530,7 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>………"
+                                "\\n<Detective>........."
                             ]
                         },
                         {
@@ -5607,38 +5607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年男性>うるさい！"
+                                "\\n<Middle-aged man>Shut up! Do you have the right to restrict my\nactions?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴様に私の行動を制限する権利があるのか！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<駅員>いえ、ですから構内は全面禁煙となっていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条例でも定められた場所以外での喫煙は…"
+                                ""
                             ]
                         },
                         {
@@ -5655,14 +5631,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年男性>条例より憲法の方が上だと知らんのか！\\!"
+                                "\\n<Station Attendant>No, you see, smoking is completely prohibited\nwithin the station premises, and smoking outside\nof the designated areas is also regulated by the\nordinance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幸福を追及する権利は憲法によって認められていて…！"
+                                "\\n<Middle-aged man>Don't you know that the constitution takes\nprecedence over the ordinance? The right to pursue\nhappiness is recognized by the constitution...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5679,14 +5679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（人の迷惑も考えずに何が権利だ…"
+                                "\\n<Detective>(What rights do you have if you don't consider the\ninconvenience to others... honestly...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく…）"
+                                ""
                             ]
                         },
                         {
@@ -5763,38 +5763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年男性>うるさい！"
+                                "\\n<Middle-aged man>Shut up! Do you have the right to restrict my\nactions?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴様に私の行動を制限する権利があるのか！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<駅員>いえ、ですから構内は全面禁煙となっていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条例でも定められた場所以外での喫煙は…"
+                                ""
                             ]
                         },
                         {
@@ -5811,14 +5787,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<中年男性>条例より憲法の方が上だと知らんのか！\\!"
+                                "\\n<Station Attendant>No, you see, smoking is completely prohibited\nwithin the premises, and smoking outside of the\ndesignated areas is also regulated by the\nordinance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幸福を追及する権利は憲法によって認められていて…！"
+                                "\\n<Middle-aged man>Don't you know that the constitution takes\nprecedence over the ordinance? The right to pursue\nhappiness is recognized by the constitution...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5835,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（これは例の症状によるものなのか…？）"
+                                "\\n<Detective>(Is this due to the symptoms we've seen\nbefore...?)"
                             ]
                         },
                         {
@@ -5912,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（駅員が慌ただしく働いている…）"
+                                "\\n<Detective>(The station attendant is working frantically...)"
                             ]
                         },
                         {
@@ -5929,14 +5929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（最近は変なのが増えたから"
+                                "\\n<Detective>(It must be especially tough lately with all the\nweird things happening.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に大変なんだろうな）"
+                                ""
                             ]
                         },
                         {
@@ -6013,7 +6013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コスプレイヤー？>…。"
+                                "\\n<Cosplayer?>...."
                             ]
                         },
                         {
@@ -6030,7 +6030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こいつも\\C[2]例の現象\\C[0]の…？）"
+                                "\\n<Detective>(Is this also another one of those\n\\C[2]phenomena\\C[0]...?)"
                             ]
                         },
                         {
@@ -6047,14 +6047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コスプレイヤー？>…ちょ…ちょっと…"
+                                "\\n<Cosplayer?>U-um... E-excuse me... What are you looking at...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何見てるんですか…"
+                                ""
                             ]
                         },
                         {
@@ -6071,14 +6071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コスプレイヤー？>…は…恥ずかしいので…"
+                                "\\n<Cosplayer?>...Um... It's embarrassing, so please don't\nlook..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見ないでください…"
+                                ""
                             ]
                         },
                         {
@@ -6095,14 +6095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>…いや見るだろう、"
+                                "\\n<Detective>...Well, if you dress like that, of course people\nwill look."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな格好してたら"
+                                ""
                             ]
                         },
                         {
@@ -6119,21 +6119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コスプレイヤー？>…ふえぇ…\\|"
+                                "\\n<Cosplayer?>...Fuee... I thought that if I wore this, I\nwouldn't have to make eye contact with anyone...\nBut everyone is staring so intensely..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これなら誰とも目を合わせなくてもいいと思ったのに…\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "皆すごいジロジロ見てくる……"
+                                ""
                             ]
                         },
                         {
@@ -6150,14 +6150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（…一体どうなってしまったんだ"
+                                "\\n<Detective>(...What on earth has happened to modern Japan...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現代日本は…）"
+                                ""
                             ]
                         },
                         {
@@ -6294,7 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こちらに用はない…）"
+                                "\\n<Detective>(I have no business here...)"
                             ]
                         },
                         {
@@ -6371,7 +6371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こちらに用はない…）"
+                                "\\n<Detective>(I have no business here...)"
                             ]
                         },
                         {
@@ -6448,7 +6448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こちらに用はない…）"
+                                "\\n<Detective>(I have no business here...)"
                             ]
                         },
                         {
@@ -6525,7 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（こちらに用はない…）"
+                                "\\n<Detective>(I have no business here...)"
                             ]
                         },
                         {
@@ -6602,14 +6602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（朔晦駅は都内では郊外に当たる。"
+                                "\\n<Detective>(Sakuhai Station is considered to be in the\noutskirts of Tokyo. Despite that, it was quite\ndeveloped a decade ago.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その割には一昔前はかなり発展していたな。）"
+                                ""
                             ]
                         },
                         {
@@ -6691,14 +6691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（思ってたよりも凄まじい事になってるな…"
+                                "\\n<Detective>(It's becoming more intense than I expected... The\natmosphere feels strange too.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "心なしか空気もおかしい感じがする。）"
+                                ""
                             ]
                         },
                         {
@@ -6715,14 +6715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Detective>（とにかくまずは駅から出て"
+                                "\\n<Detective>(Anyway, let's first leave the station and see\nwhat the town looks like.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街の様子を見てみよう。）"
+                                ""
                             ]
                         },
                         {
