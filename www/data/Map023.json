@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>あああ"
+                                "ルナ\\SE[default]\\n<???>あああ"
                             ]
                         },
                         {
@@ -1446,7 +1446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SA[121]\\SE[default]\\n<\\N[18]>あああ"
+                                "ルナ\\SA[121]\\SE[default]\\n<???>あああ"
                             ]
                         },
                         {

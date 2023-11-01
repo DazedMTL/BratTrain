@@ -1424,7 +1424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>ねぇ、おじさんが最後に快楽を感じたのは、"
+                                "ルナ\\SE[default]\\n<???>ねぇ、おじさんが最後に快楽を感じたのは、"
                             ]
                         },
                         {
@@ -1455,7 +1455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[03]>…！？"
+                                "\\N<Detective>…！？"
                             ]
                         },
                         {
@@ -1534,7 +1534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[03]>なっ！何を…！"
+                                "\\N<Detective>なっ！何を…！"
                             ]
                         },
                         {
@@ -1605,7 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブA\\SE[default]\\n<\\N[19]>ヤダあのおじさん、"
+                                "モブA\\SE[default]\\n<Girl A>ヤダあのおじさん、"
                             ]
                         },
                         {
@@ -1643,7 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モブB\\SE[default]\\n<\\N[20]>そりゃ”ルナ様”相手じゃ"
+                                "モブB\\SE[default]\\n<Girl B>そりゃ”ルナ様”相手じゃ"
                             ]
                         },
                         {
@@ -1729,7 +1729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[03]>…この車両は一体なんだ…？"
+                                "\\N<Detective>…この車両は一体なんだ…？"
                             ]
                         },
                         {
@@ -1753,7 +1753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>そんな事はどうでもいいじゃない♡"
+                                "ルナ\\SE[default]\\n<???>そんな事はどうでもいいじゃない♡"
                             ]
                         },
                         {
@@ -1770,7 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>今、何がしたいか。"
+                                "ルナ\\SE[default]\\n<???>今、何がしたいか。"
                             ]
                         },
                         {
@@ -1794,7 +1794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>明日も明後日もその先も、"
+                                "ルナ\\SE[default]\\n<???>明日も明後日もその先も、"
                             ]
                         },
                         {
@@ -1825,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>そう、\\C[10]私達\\C[0]のように♡"
+                                "ルナ\\SE[default]\\n<???>そう、\\C[10]私達\\C[0]のように♡"
                             ]
                         },
                         {

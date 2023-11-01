@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[surprise]\\n<\\N[18]>あの人…"
+                                "ルナ\\SE[surprise]\\n<???>あの人…"
                             ]
                         },
                         {
@@ -1429,7 +1429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナ\\SE[default]\\n<\\N[18]>ふ～ん、そっか♥\\!"
+                                "ルナ\\SE[default]\\n<???>ふ～ん、そっか♥\\!"
                             ]
                         },
                         {
